@@ -1,0 +1,5 @@
+You are a flying saucer trying to destroy cities below. You can move any direction and to fire, just hold the button and push that way. The cities will fire missiles at you to stop you. In later levels, the missiles turn into balloon bombs that you mustn't run into and later levels, the balloon bombs turn into horizontally travelling missiles if you are level with the balloon.
+
+There are four game variations. Games one and two are one or two player, respectively, at a beginner level. Games three and four are one or two player, respectively, at advanced level.
+
+You advance to the next level when all the cities of that level are destroyed. The game ends if you reach 999,999 points or lose all of your ships.

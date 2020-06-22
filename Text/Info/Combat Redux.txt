@@ -1,0 +1,1 @@
+Combat Redux is a hack of Combat that changes all the play fields and clouds, offering twenty-one new tank fields and seven new airplane clouds. Otherwise, the game remains the same. Shoot the opponent more times than they shoot the player to score the most points before time runs out.

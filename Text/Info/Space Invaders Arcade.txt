@@ -1,0 +1,3 @@
+Space Invaders Arcade is an alteration of the official Atari release of Space Invaders to make the colors and characters more like the arcade version. There are still only six  rows of aliens as opposed to nine in the arcade.
+
+The game play remains the same. The aliens move left and right and down, dropping bombs at you. You fire up at the aliens to destroy them. You have three shields to help protect you. If the aliens get all the way to the bottom, you lose. Occasionally, a mother ship flies across the top of the screen. If you hit it, you get bonus points.

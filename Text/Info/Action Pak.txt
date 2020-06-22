@@ -1,0 +1,7 @@
+This is a value price re-release of then following games:
+
+1. Othello
+2. Dodge 'Em
+3. Breakout
+
+Each game is in a generic white box packaged in a blue outer box, rather like the Back to School Pak and Racing Pak.

@@ -1,0 +1,3 @@
+Galaxian Arcade is an alteration of the official Atari 2600 release of Galaxian. The graphics have been altered to make it look more like the arcade version and the orange border was removed.
+
+The game play is the same. Aliens are formed in rows above you. Fire on them now or wait until they dive bomb you to kill them for more points. Clear the screen to advance to the next level.

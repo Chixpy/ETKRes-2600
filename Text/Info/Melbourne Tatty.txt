@@ -1,0 +1,5 @@
+You are a treasure hunter exploring a maze. But wait! The walls have shifted. You might be trapped until they shift again. This would not be a problem except there is a wolf roaming the maze, trying to eat you!
+
+There are twenty mazes (levels) to this game. In each maze, you must collect ten treasures. Every few seconds, the walls shift, possibly trapping you until the walls shift again. The wolf, however, is not affected by the shifting walls. You do have a weapon, other than your wits. In each maze, you receive three decoys that you can place where ever you like. The wolf will always attack the decoys before resuming his hunt of you.
+
+Can you collect the treasure or will the wolf huff and puff and snuff out your candle?

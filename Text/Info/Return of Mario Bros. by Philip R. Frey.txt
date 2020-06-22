@@ -1,0 +1,3 @@
+Return of Mario Bros. is an alteration of the official Atari 2600 release of Mario Bros. The graphics have been altered to look more like the arcade version.
+
+The game play is the same. bump the level under a critter to put the critter on its back then jump up to kick the critter off the screen. Grab the coin that appears for bonus points. Avoid the fireball. If needed, you can hit the POW! button to knock all the critters on their backs but only three times. Every so many levels is a bonus level where you grab all the coins for points.

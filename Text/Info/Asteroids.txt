@@ -1,0 +1,9 @@
+Asteroids DC+ is an alteration of the official Atari 2600 release of Asteroids. The following changes were made:
+
+1. You can use a joystick (left port) or driving controller (right port)
+2. Pseudo "vector graphics" similar to the arcade version
+3. Reserve ships are displayed at the top of the screen
+4. The old reserve ships number now shows the current player number
+5. The game was made a little bit more challenging.
+
+Otherwise, the game is the same. Shoot the asteroids to split them into smaller shapes until they are gone. If the UFO appears, shoot it for points.

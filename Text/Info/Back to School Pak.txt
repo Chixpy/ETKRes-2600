@@ -1,0 +1,3 @@
+This was a package that contained Brain Games, Atari's Basic Programming and a pair of keypad controllers, sold at a value price.
+
+Each game and the controllers were inside individual, white, generic boxes that were inside an orange outer box, rather like the Action Pak and Racing Pak.

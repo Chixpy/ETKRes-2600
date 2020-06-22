@@ -1,0 +1,1 @@
+Adventure Plus is a hack of Adventure, with the aim to make the game more interesting to experienced players. It adds more mazes and puzzles.

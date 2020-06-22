@@ -1,0 +1,3 @@
+VGEvo Gorf is a graphic hack of the Atari 2600 release of Gorf. Some of the enemy sprites have been altered to look like the graphics from the http://www.vgevo.com web site, others are Evil Otto-looking smileys. The game play is otherwise unchanged from the original Gorf.
+
+As this is a commemorative edition celebrating Todd Rogers' world record high score on Gorf, the mother ship has the initials T. R. on it. The cartridge label is also signed by Todd Rogers.

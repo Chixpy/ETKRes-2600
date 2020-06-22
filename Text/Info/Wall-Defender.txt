@@ -1,0 +1,9 @@
+You are on the outer wall of a space fortress and must defend it from aliens.
+
+Aliens will come from any of the four sides of the screen and you must shoot them before they ram your wall. If ten aliens or one super alien hit your wall, the outermost wall and the bridges connecting it to the next wall in will collapse. You can only shoot in the direction on the wall side you are on.
+
+The game ends when:
+1. You are on a wall section or connecting bridge when it collapses, causing you to float away.
+2. Your score reaches 999,999 points.
+
+The aliens pictured at the bottom of the screen indicate what level you are on. If you go an entire level without one alien hitting your wall, you regain a wall layer to a max of four.

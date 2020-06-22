@@ -1,0 +1,6 @@
+This is a two-in-one cartridge with two Imagic games:
+
+1. Star Voyager (Space Voyage in-game)
+2. Fire Fighter (Fire Alert in-game)
+
+Both games are on one cart and the game is selected via a menu.

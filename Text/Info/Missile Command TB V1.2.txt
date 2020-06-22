@@ -1,0 +1,3 @@
+Missile Command TB is an alteration of the official Atari 2600 release of Missile Command. One version uses the CX-80 model Trak-Ball or Atari ST mouse, one version uses the CX-22 model Trak-Ball, one version uses the Amiga mouse.
+
+The game play is otherwise the same. Defend your cities from incoming nuclear missiles by using your missiles. Do not waste missile shots as you are limited. If you have any cities left at the end of the level, you can continue.
