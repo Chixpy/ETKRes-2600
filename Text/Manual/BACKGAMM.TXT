@@ -1,0 +1,501 @@
+<Picture>
+
+<Picture>Backgammon<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+BACKGAMMON
+(C) 1979 ATARI, Inc.
+
+
+GAME PROGRAM INSTRUCTIONS
+
+
+Use one set of Standard Paddle Controllers with this Game 
+Program(tm).  Plug the controller cable firmly into the jack 
+labeled LEFT CONTROLLER at the rear of your Video Computer 
+System(tm).  Hold the controller with the red button to your 
+upper left toward the television screen.  [see Section 3 of 
+your owners manual for further details.]
+
+Note: Turn the console off when inserting or removing a Game 
+Program.  This will protect the electronic components and 
+prolong the life of your Atari Video Computer System.
+
+
+BACKGAMMON
+----------
+
+Backgammon, in some version, has been played in various parts 
+of the world for over 5,000 years.  It is possibly the oldest 
+war game still being played.  It is suggested in early writings 
+that the game was originally designed to train soldiers for 
+combat, as backgammon has all the intricacies of any war game:  
+strategy, position, and timing.  It is both a game of skill and 
+luck, which probably accounts for its longevity.
+
+The most ancient possible ancestor to be found so far dates 
+back to the ancient civilization of Sumer.  The Egyptian 
+Pharaohs played a similar game.  Game boards were found during 
+the excavations of Kin Tut's tomb that akin to backgammon.  The 
+ancient Greeks and Romans played different forms of the game 
+were mentioned in many of their writings.  A form of backgammon 
+was played in the Middle East long the Crusades.  In fact, it 
+is believed that the Crusaders brought the game back to Britain 
+with them, where it flourished in the eighth and ninth 
+centuries.
+
+The earliest written mention of the name "backgammon" was made 
+in 1645, in a description of a game that is very much like 
+backgammon as it is played today.  The rules of today's  game 
+were set down by Edmond Hoyle in 1743.
+
+The object of all the variations of the game, from its 
+beginnings to now, is to move you game pieces around the board 
+and bear them off before your opponent does.
+
+
+USING THE CONTROLLER
+--------------------
+
+When it is your turn to move your game pieces, a yellow  cursor 
+will appear.  Turn the knob on the controller until the cursor 
+is on the point from which you wish to move your piece.  Press 
+the red controller button' this will "pick up " the piece and 
+you can move it around the board by turning the controller 
+knob.  To deposit the piece, press the red controller button 
+again.  The computer will not allow you to place a piece on a 
+point that does not correspond to the number shown on the dice.
+
+If, after you dice have been rolled, you find that there are no 
+moves open to you, press the red controller button.  The dice 
+will again for your opponent.
+
+
+HOW TO PLAY
+-----------
+
+Cycle through the BACKGAMMON Game Program variations by 
+depressing the game select switch on your Video Computer System 
+console.  (See the back page for descriptions of each 
+variation.)  For "normal play," the and right difficulty 
+switches must be in the "a" position.  To begin play, depress 
+the game reset switch.
+
+NOTE: Other functions of the difficulty switches are explained 
+further on in the text.
+
+
+[Picture of a backgammon board]
+
+The Board
+---------
+
+The backgammon "board" is divided into two halves or tables.  
+The divider is called the bar.  The inner  table is the portion 
+at the bottom of the playfield;  the outer table is the portion 
+at the top of the playfield.
+
+Each table is also divided into halves.  The red player's home 
+or inner table is on the lower right side of the playfield; the 
+white player's home or inner table is on the lower left side of 
+the playfield.  The red player's outer table is on the upper 
+right side of the playfield; the white player's out table is on 
+the upper left side of the playing field.
+
+Each player's inner and outer table has six "points".  The 
+point is the area on which you rest your you pieces as you move 
+around the board.  Each point is numbered for reference 
+starting in each player's inner table.  The white side is 
+number 1 to 12 starting at the bottom right side of the board.
+
+
+The Moves
+---------
+
+The moves are governed by "casting the dice."  When beginning, 
+the players each cast one die (done automatically by the 
+computer).  The player with the highest number begins first, 
+using the number count on both dice.  On the playfield, the die 
+on the left represents the white player, the die on the right 
+represents the red player for the beginning roll.  The color of 
+the dice corresponds to which player won the roll and will 
+begin the game.  After the initial move, each player rolls and 
+moves alternately.
+
+When the right difficulty switch is in the "a" position, the 
+computer will roll the dice for you.  When the switch is in the 
+"b" position, you can use your own dice and the "dial in" the 
+numbers to the computer.  Turn the controller knob and the 
+number on the left die will change.  When you the number you 
+want to enter, push the red controller button.  Then dial in 
+the second number on the right die and push the red controller 
+button.  The computer will accept the roll and your moves may 
+be made accordingly.
+
+In one-player games, the computer will play red.
+
+The white player must move his or her pieces counterclockwise 
+around the board, casting off or bearing off (removing the 
+pieces from the board) from the with inner table.  The red 
+player must move his or her pieces clockwise around the board, 
+bearing off from the red player's inner table.
+
+The pieces are moved across the points according to the numbers 
+on the dice.  Each die must be considered individually, but 
+they can be applied to one piece or two pieces.  (For example, 
+a roll of 5-3 would allow a player to move one piece five 
+points and another piece three points, of the player can move 
+one piece five points and then three points.)
+
+When there is only one piece occupying a point is called a 
+"blot."  A point with no pieces or a blot is said to be "open."  
+A point with two or more pieces is said to be made or "closed."  
+Opposing player's pieces may never occupy the same point at the 
+same time.
+
+If a point is closed, an opposing piece cannot move to that 
+point.  However, a player may move past a closed point if there 
+is sufficient count on the dice.  (If a player has rolled a 5-3 
+and the five-count point is closed, moving five points and then 
+three points is not allowed.  However, moving three points and 
+then five points is permissible.)
+
+Players must use the count on both dice whenever possible.  If 
+only one die can be used, it must be the die with the higher 
+count.
+
+If you close six consecutive points anywhere on the board, you 
+have established a "prime."  Your opponent cannot move past the 
+prime until you break it by moving pieces and creating an open 
+point.  The explanation contained in "The Bar" will show you 
+why it is a good strategy to build a prime on your inner table.
+
+
+The Bar
+-------
+
+If a player lands on a blot belonging to the opponent, the 
+opponent's blot is "hit," meaning the piece that occupied that 
+point is removed to the "bar."  Whenever a piece has been hit 
+and placed on the bar, it must reenter the board on the 
+opponents inner table,  (The white player enters on the lower 
+right inner table; the red player enters on the lower left 
+inner table.)
+
+A piece must enter the board only on an open point whose number 
+has been cast on the one die.  If there is an opposing blot on 
+an entry point, the piece entering hits it and it is removed to 
+the bar.  The sum of the dice cannot be used to enter a piece.
+
+Until all pieces on the bar have been entered, a player cannot 
+move any other pieces on the board.  If a roll does not permit 
+entry, the turn passes.  Pieces may not enter on closed points.  
+If a roll does not permit entry, and there are not other pieces 
+on the bar, the remainder of the roll may be used the move 
+other pieces on the board.
+
+A player is said to be shutout if all six entry points are 
+occupied, which is why it is a good strategy to  build a prime 
+on your inner table.  Then, if you hit one of your opponent's 
+blots, the piece cannot be entered from the bar until the prime 
+is broken.  This allows time to move pieces onto your inner 
+table and begin bearing them off while opponents remains stuck 
+on the bar.
+
+
+Doublets
+--------
+
+Doublets occur when you roll double numbers (3-3, for example.)  
+When this occurs a player must move the number shown on one die 
+four times.  You may move one piece all four moves, or any 
+other combination of pieces that your choose.  If you cannot 
+use all combinations, the dice pass to your opponent.
+
+
+Bearing off
+-----------
+
+As soon as a player has all fifteen pieces on the inner table, 
+bearing off begins.  This is the object of the game. Once borne 
+off the board, a piece never returns to play.   The first 
+player to bear off all pieces is the winner.
+
+A piece may be borne off when the number of points remaining is 
+the same the number on the dice.  (For example:  a roll of 5-3 
+will bear off a piece from the five-point and the  three-
+point.)  If the roll is higher than any occupied points, pieces 
+my be borne off from the highest occupied point.  (If a player 
+has 2 pieces each on the three and two-points and of 5-3 is 
+made, both pieces from the three-point may be borne off.)
+
+[Diagram showing the above example]
+
+A player may use all or part of the roll to move pieces within 
+the inner table instead of bearing them off.  (With a roll of 
+1-2, a player may move a piece from the five-point to the 
+three-point, and a piece from the two point to the one-point.)  
+Doublets may also be used in this manner.
+
+[Diagram showing the above example]
+
+If your opponent has pieces on your inner table or the bar and 
+your have begun bearing off, it is to your advantage to leave 
+as few blots as possible.  Remember that if you both counts on 
+the dice, it does not matter in which order they are taken.
+
+[Diagram to illustrate the following example]
+
+In this diagram you have a blot on your five-point and you roll 
+a 5-1.  If you bear off the from the five-point with the higher 
+number, you will still be leaving blots on the three-point and 
+the four-point since you must use both numbers of the roll 
+(which means your second move will move a piece from the four-
+point to the three-point.)  Instead, your best move is to take 
+the pieced from the five-point for the 1-count (putting it on 
+the four-point with you other two pieces,) and then bear off 
+using the higher number.   This way you have not left any blots 
+your inner table.  The point again is that your may play the 
+dice in either order, according to you best moves.
+
+
+Doubling Cube
+-------------
+
+Backgammon has enjoyed various degrees of success throughout 
+its history.  The game was in a decline in the United States 
+during the early 1900's until the introduction of the "doubling 
+cube" in 1920.  Until this innovation, the outcome of a a game 
+could be decided in the first few rolls of the dice.  Play 
+would continue anyway, since with any dice game, there was 
+always the chance of something unusual occurring.  But... most 
+of the time, the games became boring.
+
+Backgammon is one the few gambling games in which one can see 
+what the opponent has at all times.   The doubling cube 
+introduced the strategies of "bluffing" and psychological play 
+that are similar to other gambling games.   The "gam of chance" 
+factor is always present because of the use of dice.  A 
+skillful player can lose to a less skillful player because of 
+the luck of the dice, but with the doubling cube added, the 
+more skillful player will not lose as much.
+
+As a gambling game, backgammon is played for a base "stake" 
+which is agreed upon before beginning play.  The doubling cube 
+(represented by the number  at the upper left of the playfield) 
+starts at 1.  This means the players are competing for the 
+original stake.  Each time the stakes are doubled, this number 
+changes (2, 4, 8, 16, 32, 64) -- 64 times the original stake is 
+the largest amount possible to wager.
+
+After the player winning the first move has completed his or 
+her turn, the computer will ask the opponent "YESdbl " or 
+"NOdbl".  By turning the controller knob to YESdbl and pushing 
+the red controller button, the opponent has offered to double 
+the stakes and the doubling cube will now show 2.
+
+The first player now has the option of accepting or not 
+accepting the double.  
+
+To accept the double, turn the controller knob to YESacc and 
+the push the red controller button.  The dice then roll for you 
+opponent's turn.  To reject the double, turn the controller 
+knob to NOacc and push the red controller button.  The game 
+will end at that point.  To start a new game, depress the "game 
+reset" button.  
+
+When you offer to double the stakes and your opponent accepts 
+the double, he or she then "owns" the doubling cube.  It will 
+be up to your opponent to your opponent to redouble at a time 
+when it is advantageous to do so.
+
+If your opponent offer to redouble the stakes and you accept, 
+then you "own" the doubling cube and you can again offer to 
+redouble when you think it is to your advantage.  The player 
+who "owns" the doubling cube is shown by the color of the 
+number (representing the doubling cube) at the top of the 
+playfield.  (If it is red, it belongs to the red player; if it 
+is white, it belongs to the white player.)
+
+In one-player games, if the computer decides to offer a double, 
+it asks only YESacc or NOacc.  If you own the doubling cube and 
+want to double the stakes against the computer, enter YESdbl 
+when it appears on the screen.  The computer will continue to 
+play if it accepts the double, or quit if it refuses the 
+double.
+
+In both one-player and two-player games, if neither player 
+doubles during the game, the doubling cube will remain green 
+and a 1 will show on the screen.  In two player games, the 
+computer will continue to ask each player in turn if they wish 
+to offer a double.
+
+
+Gammon and Backgammon
+---------------------
+
+[Diagram of the following situation]
+
+If a player has borne off all of his or her pieces and the 
+opponent has not borne off ANY, the game is called a "gammon."  
+The opponent loses twice the stakes (times whatever is showing 
+on the doubling cube.)
+
+[Diagram of the following situation]
+
+If a player has borne off all of his or her pieces and the 
+opponent still has pieces on the bar or in the player's inner 
+table, the game is called a "backgammon."  The opponent loses 
+three times the stakes (time whatever is showing on the 
+doubling cube.)  A backgammon among skilled players is rare.
+
+It is advisable, if it appears that your are going to be 
+gammoned or backgammoned, to refuse you opponent's double and 
+retire from the game.
+
+
+Set Up Mode
+-----------
+
+It has been mentioned that the left and right difficulty 
+switches must both be in the  "a" position for normal game 
+play.  To create a "set up mode" in which you can pick up 
+pieces one by one and place them in various positions around 
+the board, slide the left difficulty switch to the "b" 
+position.
+
+Use the controller that corresponds to the color of the dice on 
+the screen when operating in the set up mode.  This mode allows 
+you to work out  specific problems or strategies.  As in 
+regular play, the computer will not allow opposing colors to 
+occupy the same point when you are moving pieces around the 
+board.
+
+Slide the left difficulty switch back to the "a" position to 
+start or continue normal game play.  When the game is returned 
+to normal play, the pieces which correspond to the color and 
+count showing on the dice must be moved, before the computer 
+rolls the dice again.
+
+
+Illegal Move
+------------
+
+Normally, the computer will not allow you to make an illegal 
+move.  There is a specific situation, however, in which the 
+computer will illegally allow you to move a piece using the 
+count on one die, even though there are no open points that 
+correspond to the count remaining on the other die.
+
+When this situation occurs, the game goes into temporary state 
+of suspension.
+
+[Diagram for the following situation]
+
+Notice how the white pieces are arranged in the diagram.  For 
+the sake of this example, a 3-5 roll occurs for the white 
+player.  If the player's first action is to use the three-count 
+by moving a piece from the white twelve-point to the white 
+nine-point, the computer will accept the move even though it 
+was illegal.
+
+Now, there are no open points on which the player can move, 
+using the remaining five-count.  The computer allowed the first 
+move, and is waiting for a second move which is not possible.
+
+In this situation, the correct move for the white player would 
+have been to advance a piece from the red twelve-point to the 
+white ten-point (using the three-count), and then from the 
+white ten-point to the whit five-point (using the five-count).
+
+If an illegal move such as this one happens during a game, 
+there are two possible solutions.  One is to use the set up 
+mode (left difficulty switch in "b" position), return the white 
+pieces to their previous position, and execute the correct 
+move.  The other is to depress the game reset switch and start 
+a new game.
+
+
+ACEY DEUCEY
+-----------
+
+This variation was developed by members of the US Navy.  It is 
+similar to some of the game versions played in the 
+Mediterranean area, which suggests that it started in that 
+region.  The rules for Acey Deucey may vary from ship to ship 
+and even from player to player.  They are not standardized, as 
+are the rules for backgammon.
+
+In the Atari version, all the pieces start out on the bar and 
+can be entered at any time with the roll of the dice.  A piece 
+need not be entered from the bar before another piece can be 
+moved, even if that piece was hit and sent to the bar.
+
+The other rules of backgammon apply in terms of moving the 
+pieces around the board, open and closed points, hitting a 
+blot, bearing off, and using the doubling cube.
+
+A roll of 1-2 (acey deucey) allows a player to choose whichever 
+doublets are advantageous, after making the 1-2 move.  After 
+moving the doublets, the player is further rewarded with 
+another roll of the dice.
+
+After rolling the ace-deucey, turn the controller knob, and 
+"dial in" the number on the left die, the push the red 
+controller button. 
+
+The die on the right will change to match the number on the 
+left die.  Push the red controller button again and play you 
+doublets.  After the last move on you doublet, the computer 
+will roll the dice again for you and you may make another move.
+
+If, after moving your doublet, you roll another acey-deucey, 
+you can again move the 1-2 and choose another doublet.
+
+The left difficulty switch should be in the "a" position when 
+playing acey-deucey.
+
+
+GAME OPTIONS
+------------
+
+Use one set of Standard Paddle Controllers with this Game 
+Program(tm).  Plug the controller cable firmly into the jack 
+labeled LEFT CONTROLLER at the rear of your Video Computer 
+System(tm).  Hold the controller with the red button to your 
+upper left toward the television screen.  [see Section 3 of you 
+owners manual for further details.]
+
+
+				Backgammon	Acey Deucey
+				---------------------------
+Game No.			1 2 3 4     	5 6 7 8
+-----------------------------------------------------------
+Number of players		1 2 1 2     	1 2 1 2
+Doubling Cube 			X X         	X X
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

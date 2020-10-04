@@ -1,0 +1,146 @@
+ATARI(R) 2600(TM) Game Manual
+
+SUPER BASEBALL(TM)
+
+Batter Up!
+
+   The late-summer sun sits high above the ballpark.  The centerfield flags
+are barely moving.  You can feel the sun's heat reflecting off home plate.
+The crowd behind you murmurs, afraid to break the spell.  It's the bottom of
+the ninth, the score is tied, and the pennant is on the line.
+
+   You have a runner on base and only one out.  The pitcher tries to stare
+you down.  But you know he's getting tired, and his sinker ball is starting to
+creep up into the strike zone.
+
+   Finally he makes the throw.  Your whole body moves into the swing.  With
+the crack of the bat still ringing in your ears, you head for first.  As you
+round the bag at first, you look up in time to see a fan in the centerfield
+bleachers make the catch.  You head for home, and the crowd goes wild!
+
+   You've just won the pennant with a two-run homer.  Now on to the
+championship!
+
+Getting Started
+
+1. With your television turned on, insert your Super Baseball cartridge into
+your Atari 2600 (or 7800) as explained in your Owner's Manual, and then turn
+on your console.  The Super Baseball title screen appears.
+
+2. Plug a joystick into the left controller port for a one-player game; plug
+a second joystick into the right controller port for a two-player game.
+
+3. If you are using an Atari 2600, select either color or black and white with
+the TV-type switch.
+
+4. Press [Select] or push the joystick handle up or down to choose a
+one-player/first up, one-player/second up, or two-player game.
+
+5. Press [Reset] or the left joystick fire button to begin the game.
+
+Playing the Game
+
+   The home team takes the field, and the first batter enters the batter's
+box.
+
+Up at Bat
+
+   To hit the ball, press and hold the joystick fire button while moving the
+joystick.  The direction in which the joystick is moved determines the type
+of swing.
+
+Swing Type         Joystick Direction
+-------------------------------------
+bunt               up
+right field        up/left
+left field         up/right
+fly/right          down/left
+fly/left           down/right
+
+   If the swing results in a hit and no one is on base, the runner
+automatically moves to first base.  If the batter gets a hit and there are one
+or more runners on the bases, press the joystick button and use the joystick
+to move the runner(s) along the baseline.
+
+   If the batter hits a solo home run, the runner automatically runs the
+bases.  If there are one or more runners on the bases when a home run is hit,
+press the fire button on the joystick to run the bases.
+
+   To have a runner steal a base, push the joystick handle towards the base
+the runner is on.  To return the action to the batter, pull the joystick
+towards you.
+
+   Strikes and balls are displayed on the bottom of the screen, and outs are
+are displayed at the top of the screen between the teams' scores.
+
+   After three outs, the team at bat takes to the field.
+
+In the Field
+
+   When your team is in the field, first select your pitch by moving the
+joystick.  The direction of the joystick determines the type of pitch.
+
+Pitch              Joystick Direction
+-------------------------------------
+fastball           up
+intentional ball   down
+riser              left
+sinker             right
+curve/left         up/left
+curve/right        up/right
+
+   Once you have selected the pitch, hold the fire button down and move the
+joystick handle down quickly to release the pitch.
+
+   To throw the ball from one player to another, move the joystick handle to
+select the direction of the throw; then press the joystick fire button to
+release the ball.
+
+Throw Direction    Joystick Direction
+-------------------------------------
+home plate         down
+pitcher            center position
+1st base           right
+2nd base           up
+3rd base           left
+
+Scoring
+
+Playing Tips
+
+   The fielder closest to the ball automatically makes the play.  Begin moving
+the fielder into position, using the joystick handle, as soon as the ball is
+hit.
+
+   If the ball is thrown away, the runners don't advance.  Play is delayed
+until the appropriate fielder picks up the ball and throws it back to the
+pitcher.
+
+   When throwing the ball to an infielder, picture the joystick as sitting in
+the middle of the baseball diamond.  When the handle is in the center
+position, pushing the fire button throws the ball to the pitcher; home plate
+is down from the pitcher; first base is to the right of the pitcher; second is
+up from the pitcher; and third base is to the left of the pitcher.
+
+   Remember to select a pitch before you release the fire button.  If you
+release the fire button without having selected a pitch, it's counted as an
+intentional ball.
+
+   As in a real baseball game, the team with the highest number of runs after
+nine innings wins the game.  However, if the game is tied at the end of the
+ninth, it could be a long day at the old ballpark.
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims any liability for changes, errors,
+or omissions.  Reproduction of this document or of any portion of its contents
+is not allowed without the specific written consent of Atari Corporation.
+
+Atari(R), the Atari logo, Super Baseball(TM), 2600(TM), and 7800(TM) are
+trademarks or registered trademarks of Atari Corporation.
+
+Copyright (C) 1988, Atari Corporation, Sunnyvale, CA 94086.  All rights
+reserved.  9.1988.N.C. ATARI
+
+Printed in Hong Kong C3000016-152 Rev.A
+
+Document typed by gchance@ecst.csuchico.edu.

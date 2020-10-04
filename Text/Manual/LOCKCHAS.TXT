@@ -1,0 +1,127 @@
+(Typed in by Corey Stup (cstup@coplex.com) on 11/9/93)
+
+M Network
+
+Lock 'N' Chase (TM) t
+
+I N S T R U C T I O N S
+(For 1 or 2 players)
+
+The object of the game is to keep your thief one jump ahead of the
+police...and pick up as many gold bars as you can!!!  The police
+are trailing close behind.  You'll need fancy footwork to dodge 'em.
+Don't get cornered.  Slan a door to block their way.  Keep running!
+
+For Your Atari* Video Game System
+
+(C)Mattel, Inc. 1982.  Hawthorne, CA 90250.  Printed in USA.  All
+  Rights Reserved.
+
+t Lock'N'Chase is a trademark of DATA EAST, Inc. used under licence.
+(C)1981,1982 DATA EAST, Inc.     *ATARI is a trademark of ATARI, INC.
+
+-- The Game --
+
+It's a cops and robbers chase at your local bank.  You have five
+thieves.  They enter the vault one at a time.  Four police officers
+are hot on the thief's trail.  Direct the thief down the corridors.
+Keep him away from the law!  The thief is "caught" when he collides
+with a policeman.  The action stops.
+
+Your thief picks up gold bars as he runs.  When all the gold bars are
+gone from the vault, the red door opens and you can escape at the top
+of the screen.  Push the RED BUTTON and you have a whole new set of
+gold bars to pick up.  Points are mounting!
+
+Get extra points for picking up the "treasures".  They randomly appear
+in the center of the screen.  You have to be fast!  They only appear
+for a short time.
+The game ends when all your thieves are "caught".  The final score
+flashes.  Reset the game and start again.
+
+-- The Controllers --
+
+Use your joystick controllers with this game.  Be sure the controller
+cables are securely plugged intro the back of your game console.
+Hold the controller so the red button is to your upper left.
+
+Choose level of difficulty: Before the game beginds, set your
+Difficulty Siwtch to "A" or "B".  "A" gives you a fast game, "B"
+starts a slow game, and gets faster.  Be sure to set both Difficulty
+Switches in a two-player game.
+
+Choose 1 or 2 players: Before the game begins, press down on Game
+Select.  If you do not see any thieves at the bottom of the screen,
+it's a 1-player game.  But if you see two thieves at the bottom,
+you have selected a 2-player game.  The left joystick controls the
+red thieves.  The right controls the green.
+
+Set up the game: You need to restart the game after a thief is
+"caught", or after your thief picks up all the gold bars and runs
+through the red door.  To do this, press the RED BUTTON.   Look
+at the bottom of the screen and see how many thieves you have left!
+
+Move your thief: Move your thief by pushing on the JOYSTICK.  You
+can make him move in four different directions.  You can quickly
+change the direction the thief is running.
+
+Your thief can escape the clutches of the police by running through
+open doors on the left and right sides of the vault.  When he runs
+out one side, he quickly enters on the other side.  Be careful!
+Don't run smack into a policeman on the other side.
+
+Slam Doors:  You can slam a door behind a thief and diver the cops'
+pursuit.  To do this, press the RED BUTTON.  Doors only slam
+horizontally at the black lines in the corridors,  Only two doors
+can be slammed at a time.  After a few seconds, the door opens
+again.  Watch out...the thief cannot run through a door either!
+
+-- Winning Tips --
+o  Keep your thief on the run!  Always look for an escape route, the
+   police are right behind you.
+o  Try to trap police between two doors on the lower left or right
+   vertical corridors.  Get extra points for this feat.
+o  Don't stay around open side doors for long...the police can come
+   through here too!
+o  Be careful in the corners.  It's easy to get trapped there!
+
+-- Scoring --
+Gold Bars               20 points each
+Upper Treasure          500, 1000, 2000 then 4000 points
+Lower Treasure          250, 500, 1000, 2000, etc., doubling each time
+Trap a Cop              2000 points each time (once per screen)
+
+Important: Be sure to turn your game unit off when not in use.
+
+
+-- 90 Day Limited Warranty --
+Mattel Electronics warrants to the original consumer purchaser of any
+cartridges or cassette it manufactures that the product will be free
+of defects in material or workmanship for 90 days from the date of
+purchase.  If defective, return the product along with proof of the
+date-of-purchase to either your local dealer or, postage prepaid, to:
+  Mattel Electronics Service Center (West)
+  5000 West 147th Street
+  Hawthorne, California 90250
+
+  Mattel Electronics Service Center (East)
+  10 Abeel Road
+  Cranbury, New Jersey 08512
+
+for repair or replacement.  This warranty give you specific legal
+rights, and you may also have other rights which vary from state to
+state.  This warranty does not cover damage resulting from accident,
+misuse, or abuse.
+
+
+MATTEL ELECTRONICS(R)
+
+
+
+
+
+
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

@@ -1,0 +1,132 @@
+		Elk Attack - the video game.
+
+		Copyright 1996 Mark R. Hahn
+
+	Elk Attack was written in 1987 as a last gasp attempt to sell a 2600
+cartridge before the VCS market completely disappeared. The name Elk Attack
+is an inside joke, way inside. Elk Attack was never released. What you are
+playing is an almost finished prototype game. It has a few rough edges, but
+is playable. Please don't send me complaints about bugs in the game, there
+are several.
+
+	Elk Attack is shareware. You are free to copy the binary file and give
+copies to friends, just please include this file which explains the rules. You
+are not allowed to charge for copies of Elk Attack. If you wish to charge for
+the distribution of Elk Attack, either in its binary form, or in a cartridge
+please contact me about purchasing production rights to the game.
+
+	The rules below were written assuming you were using a cartridge.
+Descriptions of using the joystick, etc. will not be right if you are running
+Elk Attack on a 2600 emulator.
+
+	I can be reached by email at:
+
+	hahndo@teleport.com  or  hahntronix@aol.com
+
+
+	Rules for ELK ATTACK
+
+	Insert the ELK ATTACK cartridge in your ATARI 2600 Video Computer
+System (VCS). Turn the VCS on.
+
+	Plug a joystick into the left controller jack for a one player game,
+insert another joystick into the right controller jack for a two player game.
+
+	Press the left joystick fire button to view the GAME OPTIONS screen.
+Press the SELECT switch to choose a 1 PLAYER or a 2 PLAYER game. Use the
+joystick to change the round number (1 is easiest, 10 is hardest). Push the
+joystick up to increase the round number, pull it back to decrease the round
+number.
+
+	Press the left joystick fire button to start the game. During the game
+you may press RESET or SELECT to return to the game options screen.
+
+	THE ROLLER
+
+	Your player is called the ROLLER. You start the game with 5 lives.
+You loose lives by running into ELK (but not always). You gain an extra life
+for every 20000 points you score. You score points by eating the blocks on the
+screen. You eat a block by moving your joystick in the direction of a block.
+The ROLLER will shoot a beam at the nearest block in that direction, it will
+then roll into and eat that block. If not block is present in the direction
+selected, the ROLLER will move one unit in that direction (the screen is 11
+units wide by 8 units high, thus the maximum number of blocks on a screen is
+88). The current round is over when you eat all the blocks on the screen.
+
+	ENERGY BLOCKS
+
+	On every screen, there are some special blocks called ENERGY blocks.
+ENERGY blocks make the ROLLER invulnerable to ELK collisions. Normally when
+you collide with an ELK, you die. If you have eaten an ENERGY block, you 
+become energized and can roll over ELK, stunning them (you also score 500
+points for this). While you are energized, your ROLLER will be changing
+colors, and there will be a background sound. Eventually the energy you get
+from an ENERGY block runs out. As your energy runs down, the ROLLER's color
+changing will slow down, and the background sound will lower in pitch.
+
+NOTE:
+	For now you remain energized for about eight seconds. The color
+changes do not slow down as your energy runs down.
+
+	THOSE DEADLY KILLER ELK
+
+	Your opponent in this game are heavily mutated killer ELK (they don't
+even have antlers and feet anymore). As you move from round to round, the ELK
+get faster and smarter. At higher levels they can sense when you are energized
+and move away from you. As they become more intelligent, they hang around
+remaining blocks, making it harder for you to remove all blocks from the
+screen.
+
+NOTE:
+	The ELK do not currently behave completely as described above. They
+are pretty stupid and their speeds need to be changed (it's too easy at the
+beginning).
+
+	SCORING
+
+	You score points in two ways. When you eat a block, you send out a
+beam at it first. The longer the beam, the more points you get (it is takes
+more nerve to shoot a long beam, because you are vulnerable to ELK attack
+while rolling up to the selected block). You get 10 points for a beam up to 2
+units long. You get 20 points for a beam up to 4 units long. You get 40 points
+for a beam up to 8 units long. You get 80 points for all beams over 8 units
+long. You also score points by rolling over ELK (500 points). Rolling over ELK
+is a nervy way to score points, as you must be sure not to run out of energy,
+else you die.
+
+	ROUND OVER SCREEN
+
+	When a player completes a round, the ROUND OVER screen is displayed.
+The player is shown his score and the number of the round he is about to start.
+To start the next round, the player presses his fire button or moves his
+joystick.
+
+	DEAD ROLLER SCREEN
+
+	When a player has a fatal ROLLER-ELK collision, the DEAD ROLLER screen
+is displayed. The player is shown his current round and is told he is next. If
+the game is in two player mode, the other player will be shown his round
+number and told to go next. The player resumes play by pressing the fire
+button.
+
+	GAME OVER SCREEN
+
+	Alas we all come to this screen sooner or later. High scores are
+displayed here. If the player presses his fire button, he is returned to the
+GAME OPTIONS screen. The round displayed will be the number of the highest
+round the player finished. The player may thus continue playing at higher
+levels of difficulty without having to mess with the easy early rounds.
+
+NOTE:
+	There should be some extra reward for starting at a higher round
+number, say 1000 points per round number. The player would collect this
+reward after finishing his first selected round (e.g. if the player selects
+round 10 and finishes it without blowing all his lives, he gets an extra 10000
+points added to his score and some appropriate message is shown on the ROUND
+OVER screen).
+
+	TWO PLAYER MODE
+
+	In two player mode, players alternate each time one of them loses a
+ROLLER life.
+

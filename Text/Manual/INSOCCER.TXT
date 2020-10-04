@@ -1,0 +1,196 @@
+<Picture>
+
+<Picture>International_Soccer<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+M NETWORK TM					5687-0950
+
+INTERNATIONAL SOCCER TM
+
+			    I N S T R U C T I O N S
+                                	(For 2 players)
+
+The object of the game is to score more goals than your opponent in two
+simulated 45-minute periods. A goal is scored by kicking the ball into your 
+opponent's net. Each player has a 4-man team. You control one man on
+your team Computer controls the other 3 and moves them to simulate a 
+full 11-man team. You see 1/3 of the soccer field at any given time during
+game play. Screen moves (scrolls) to follow game play.
+
+For Your Atari* Video Game System
+
+(c) Mattel, Inc. 1982, Hawthorne, CA 90250. PRINTED IN USA. All 
+Rights Reserved.
+
+*ATARI is a trademark of ATARI, INC.
+
+
+THE GAME
+
+There are 2 teams - YELLOW and BLUE. For the first half, Yellow 
+defends the TOP goal, Blue defends the bottom goal. Teams switch ends 
+for the second half.
+
+A KICK-OFF begins each half of the game and starts play after a goal is
+scored. Yellow team kicks off the first half. Blue team kicks off the 
+Second half. Team scored AGAINST klcks off after a goal.
+
+To kick off, move the man in the kick-off circle. Until this happens, player 
+on defense has no control over his team. Once the man in the kick-off 
+circle is moved, both teams may try for possession of the ball. To get 
+possession, move your man so he touches the ball.
+
+WHEN YOU HAVE THE BALL, move it toward your opponent's goal 
+by dribbling or passing. Shoot into the net.
+
+When a goal is scored, the CLOCK STOPS and the ball returns to the
+kick-off circle. Teams take up kick-off positions CLOCK STARTS again 
+at kick-off.
+    
+WHEN PLAYING DEFENSE, try to steal or intercept he ball. Your
+man can outrun the ball carrier. If your opponent gets close to your
+goal, move your controlled man to protect it. Computer controlled men
+might not stop the ball.
+						       
+No offsides, goalies, throw-ins, corner kicks, goal kicks, penalties,
+time-outs or overtime.
+
+
+CONTROLLING YOUR MAN
+
+Use the LEFT joystlck controller for the YELLOW team. Use the RIGHT
+Joystick controller for the BLUE team.
+
+You control ONE man on your team. When you have the ball your 
+controlled man is the ball carrier. When playing defense, your controlled 
+man does not change.
+
+All members of a team are the same color but the controlled man has a
+different shape when not moving, so you can tell hlm apart.
+
+TO MOVE YOUR CONTROLLED MAN, push the joystick in any of 8 
+directions. If your man has the ball, moving him will DRIBBLE THE 
+BALL.
+(Remember that dribbling slows your man down.)
+
+TO PASS OR KICK THE BALL, press the RED BUTTON. The ball  
+travel in the last direction in which the Joystick as pushed.
+
+NOTE THE DIFFICULTY SWITCHES ARE NOT USED IN THIS 
+GAME. Game speed and level of difficulty are the same regardless of 
+Difficulty Switch positlon.
+
+
+PLAYING DETAILS
+
+TO STEAL THE BALL:
+
+*	Overrun or intercept your opponent, so your man touches the ball.
+Move quickly away or opponent's man will steal it back.
+
+*	Intercept a pass.
+
+*	If one of your computer-controlled men gets the ball, he becomes
+your new controlled man.
+
+PASSING:
+
+*	Ball carrier can pass the ball while moving or standing still.
+
+*	When the ball is passed, computer-controlled men on both teams
+will move horizontally to intercept the pass.
+
+*	If the ball carrier gets too close to a boundary and shoots directly at
+it, the ball will bounce off the boundary and pass through the ball carrier 
+on its return. This does not happen when the ball is kicked into the net 
+regardless of the distance from which it is kicked.
+
+SCROLLING:
+
+As the ball moves downfield, the screen will move - or SCROLL - in the 
+opposite direction, so the ball is never off screen. The screen will stop 
+scrolling when either goal comes fully into view.
+
+If a man goes of the top or bottom of the screen during scrolling he will 
+reappear at the other end of the screen, in the same relative place. This 
+feature is useful for:
+
+*	PASSING If a team member is moving off screen, pass the ball to 
+the point where he will reappear.
+
+*	GOAL DEFENSE. Your controlled man may be too far from
+your goal to reach it in time to defend it. Move him in the opposite 
+direction, until he disappears off the end of the screen opposite your goal. 
+He will reappear at the goal.
+
+
+WINNING TIPS
+                                
+*	LEARN TO PASS EFFECTIVELY. Watch how team members 
+move off and on screen, as the screen scrolls. Make the scrolling effect
+work to your advantage with off-screen passing.
+
+*	WATCH YOUR AIM when you pass or shoot. Wild shots and
+passes may be intercepted by your opponent
+
+*	STEAL THE BALL. Remember that the man with the ball is 
+slowed down by dribbling.
+
+*	WHEN PLAYING DEFENSE, if your controlled man falls too far 
+behind the man with the ball, let him drop back all the way off screen. He 
+will reappear in front of the man with the ball.
+
+*	Remember that the BEST DEFENSE IS A GOOD OFFENSE. Get 
+possession of the ball and keep it until you score!
+
+IMPORTANT: BE SURE TO TURN YOUR GAME UNIT OFF WHEN 
+NOT IN USE.
+
+
+90 DAY LIMITED WARRANTY
+
+Mattel Electronics warrants to the original consumer purchaser of any
+cartridge or cassette it manufactures that the product will be free of
+defects in material or workmanship for 90 days fo the date of
+purchase. If defective, return the product along wlth proof of the
+date-of-purchase to either your local dealer or, postage prepaid, to:
+
+Mattel Electronics Service Center (West)
+13040 East Temple Ave
+City Of Industry, California 91746
+
+Mattel Electronics Service Center (East)
+10 Abeel Road
+Cranbury Nev Jersey 08512
+
+for repair or replacement. This warranty gives you specific legal rights,
+and you may also have other rights which vary from state to state. This
+warranty does not cover damage resulting from accident, misuse or
+abuse.
+
+MATTEL ELECTRONICS
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

@@ -1,0 +1,333 @@
+ATARI(R) 2600(TM)
+E.T.* THE EXTRA-TERRESTRIAL
+
+* E.T. and the E.T. character are trademarks of and licensed by Universal City
+Studios, Inc.  (C) 1982 Universal City Studios, Inc. All Rights Reserved.
+
+NOTE: Always turn the console POWER switch OFF when inserting or removing an
+ATARI Game Program(TM) cartridge.  This will protect the electronic components
+and prolong the life of your ATARI 2600(TM) Video Computer System(TM) game.
+
+(C) 1982 ATARI, INC. ALL RIGHTS RESERVED
+
+TABLE OF CONTENTS
+
+1. HELP E.T. GET HOME!
+2. GAME PLAY
+3. USING THE CONTROLLER
+4. CONSOLE CONTROLS
+5. SCORING
+6. HELPFUL HINTS
+
+1. HELP E.T. GET HOME!
+
+What kind of crazy planet is this, anyway?  We came here to conduct a simple
+study of primitive planets, and look what happened!  These...things...came and
+scared away my friends.  Before I knew it, all my friends boarded our lightship
+and flew home.
+
+What do I do now?  The only one I can trust is that nice little alien--
+Ellleeott.  He gives me those tasty energy pills (What did he call them?
+Reeessseess Peeesssesss?) But these other aliens!  Every time I get ready to
+assemble my transgalactic communicatior, they come and take me away.  The one
+with the white coat sticks that temperature measuring device in my mouth (I
+wonder why he was so upset when it melted?), and the other one in the trench
+coat keeps muttering those strange sounds (Naaashaaannaall Seeeccuuuureeetteee?)
+I just want to go home!  I hope Elllleeott and I can assemble all the pieces
+of my communicator before my energy runs out.
+
+Oh, oh.  Here come those crazy aliens again.  Help me, Elllleeott!  Help me get
+home!
+
+2. GAME PLAY
+
+Your mission is to help E.T. find the three pieces of his interplanetary 
+telephone, call his ship, and guide him to the landing pad in time to be
+rescued.  Do this before E.T.'s energy runs out, and you'll win the round and
+score points!  E.T. transverses six sites on Planet Earth.  Four of these are
+full of pitfalls--they are dotted with deep wells (Figure 1) into which E.T.
+can fall (Figure 2).  A fifth site (Figure 3) shows Elliott's house, the
+Institute of Science, and the FBI building.  Here, E.T. is taken by the 
+scientist to be studied.  The sixth site (Figure 4) is a forest setting where
+E.T. first lands and where the ship will land to pick him up.
+
+A round ends when E.T. boards the spaceship.  At the end of each round, all your
+bonus points are displayed.  If you want to play another round, simply press
+the controller button.  E.T.'s telephone pieces and the Candy will be 
+redistributed for him to find again.  You can play as many rounds as you like,
+since your bonus points will accumulate.
+
+A game ends when E.T. runs out of energy or when you decide to quit playing.
+
+On each site E.T. moves through various power zones.  While in a power zone,
+E.T. can execute only one of his extraordinary powers.  For example, if E.T.
+is ready to call his spaceship, he must be in a "call ship" zone.  As E.T.
+stands in a power zone, the symbol for that zone appears at the top center of
+the screen (Figure 4).  At the beginning of each new round, the power zones
+are redistributed on each site.
+
+The power zones are as follows:
+
+Find phone piece zone--
+
+
+ *****              Power executed in this zone will reveal to E.T.
+*******             whether a part of his interplanetary telephone is
+**   **             hidden on the current screen (The part will blink as
+    ***             shown in Figure 1.) E.T. must go to the telephone piece
+   ***              and touch it.  Then, via telekinesis, it will move
+  ***               to the telephone construction site at the top of the
+                    screen (see Figure 4).
+  ***
+
+Send humans back zone--
+
+*******             E.T. can send the FBI agent, Elliott, and the
+ *****              scientist back to their respective buildings in
+ * * *              Washington, D.C.
+ * * * 
+ * * * 
+ *****
+*******
+
+Eat Candy zone--
+
+  ****              E.T. eats one of the Candy pieces he's carrying, and
+ **  **             converts it into energy.  Figure 1 shows what the Candy
+**    **            pieces look like.  Note: When E.T. eats a piece of Candy,
+*  **  *            the Candy count goes down one point and E.T.'s energy
+*  **  *            increases.
+**    **
+ ******
+
+Call Elliott zone--
+
+       *            Elliott will go to E.T.'s rescue when E.T. calls from
+ **   *             this zone.  If E.T. has nine Candy pieces, Elliott will
+**** *              take the Candy, chase away dangerous humans, and leave
+** *                to find a missing phone piece.  Elliott will then bring 
+**** ***            the phone piece to E.T.  If E.T. has less than nine Candy
+**                  pieces, Elliott will take the Candy and go back home.  You
+ *** *              score points for every Candy piece that Elliott takes back
+      *             home (see section 5, SCORING).
+
+Move to a new site zone--
+
+   **               Executing power in any of these four zones will cause
+  ****              E.T. to immediately move to a new site in the direction
+ ******             indicated by the arrow.
+** ** **
+*  **  *
+   **
+   **
+
+Call ship zone--
+
+  *  *              E.T. can use this zone to call his rescue ship after
+  ****              the phone is assembled.  Once E.T. executes his "call ship"
+ * ** *             power, a clock will appear at the top right of the screen
+********            (as shown in Figure 4).  The clock will count down the
+* **** *            time E.T. has to arrive at the landing zone.  In most cases,
+ ******             E.T. cannot call his ship when a human is present. (See
+  *  *              Section 4, CONSOLE CONTROLS for exceptions).
+ *    *
+
+Landing zone--
+
+*******             E.T. must be on the Landing zone to be rescued.  If a
+*  *  *             human is on the screen when the rescue ship appears,
+* *** *             the ship will leave without E.T. and he'll be left
+*** ***             stranded once again.
+* *** *
+*  *  *
+*******
+
+NOTE: Sometimes the ship will still land when Elliott is present. (See Section
+4, CONSOLE CONTROLS for details.)
+
+While trying to get home, E.T. encounters many hindrances.  He might fall into
+a well, the FBI agent can take away his phone pieces and Candy by touching him,
+the scientist can detain him for scientific studies, or E.T. can simply run
+out of energy.
+
+NOTE: If E.T. has any phone pieces when the FBI agent touches him, the FBI
+agent will take one of the pieces and hide it in a well.  If E.T. has no phone
+pieces, the FBI agent will take all the Candy that E.T. is holding.
+
+E.T. uses energy when he seeks phone pieces, executes special powers, or when
+he's escaping from dangerous humans.  Although E.T. can replenish his energy
+with Candy pieces, the supply is limited so they should only be used for
+energy in an emergency.
+
+If E.T.'s energy expires before he is rescued, Elliott will appear on screen
+to save the waning E.T. by merging with him.  This "emergency measure" results
+in a revived E.T. carrying 1500 energy units.  Elliott can merge with E.T.
+three times per game.  Once during a round, however, E.T. can encounter a wilted
+flower hidden in the bottom of a well.  If E.T. is revives the flower, Elliott
+is given the ability to merge with E.T. one extra time.  If E.T. runs out of
+energy after the last "emergency measure," E.T. goes into hibernation to await
+the next rescue attempt.
+
+3. USING THE CONTROLLER
+
+Use your Joystick Controller with this ATARI(R) Game Program(TM) cartridge.
+Be sure the controller cables are firmly plugged into the jacks at the back
+of your ATARI 2600(TM) Video Computer system(TM) game.  Hold the Joystick with
+the red button to your upper left, toward the television screen.  Use the
+LEFT CONTROLLER jack for this one-player game. (See Section 3 of your Owner's
+Manual for further details.)
+
+STARTING THE GAME
+
+Press the RESET switch on your console of press the red button on your Joystick
+Controller to start the game.
+
+E.T. moves up, down, left, and diagonally in the same direction you move your
+Joystick.  To help E.T. levitate out of a well, press the controller button and
+push your Joystick forward.  To help E.T. make a speedy escape from the FBI
+agent and the scientist, move your Joystick in the desired direction and press
+the controller button.  Remember, the faster you move, the more energy you'll
+use!
+
+Press the controller button to execute a power while in a power zone.  E.T.'s
+head will elevate whenever he executes a power.
+
+4. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+Press the GAME SELECT switch to select a game variation.  The variations are:
+
+Game 1--All humans present in game.
+Game 2--Elliott and FBI agent present, no scientist.
+Game 3--Only Elliott present in game.
+
+GAME RESET SWITCH
+
+Press the GAME RESET switch to start the game.  Each time GAME RESET is pressed,
+the game starts over.
+
+DIFFICULTY SWITCHES
+
+The RIGHT DIFFICULTY switch controls the speed of the humans.  In the A 
+position, the humans move faster than in the B position.  The LEFT DIFFICULTY
+switch determines the landing conditions for the rescue ship.  If the switch
+is in position A, Elliott cannot be present on the landing field when the
+rescue ship arrives.  If the switch is in the B position, Elliott can be
+present when E.T. calls the ship and when it lands.
+
+TV TYPE SWITCH
+
+On a color television, the game will appear in color.  On a black and white
+TV, the game will appear in black and white.  The TV TYPE switch is not used
+in this game.
+
+5. SCORING
+
+There are four ways to earn special points in the game: by keeping E.T.'s
+energy count up, by carrying Candy onto the rescue ship, by giving Elliott
+pieces of Candy, and by collecting more than 31 Candy pieces in a round.
+Your score is displayed on the screen at the end of the game, or when E.T.
+boards the rescue ship.
+
+PENALTY
+
+After E.T. collects 31 Candy pieces, he loses 700 energy units for each new
+Candy piece he picks up.  The energy units are subtracted from E.T.'s energy
+count in the *next* round played.
+
+Bonus points are scored as follows:
+
+Candy Pieces carried onto Rescue Ship                490 points each
+Candy Pieces given to Elliott                        770 points each
+Candy Pieces after the 31st piece                    1000 points each
+Remaining energy                                     1 point per unit
+
+6. HELPFUL HINTS
+
+This game manual provdes the basic information you'll need in order to rescue
+E.T.  But remember, E.T. is an adventure game and adventure games are full of
+surprises.  So, keep your eyes and mind open, experiment with various 
+techniques, and expect the unexpected!  The following are just a few hints
+to help you get E.T. rescued before his energy runs out.  As you play the
+game, you'll discover other strategies.
+
+1. Use the wells as escape zones.  Since humans can't go into the wells, E.T.
+can deliberately fall into one if a threatening human approaches.  Remember,
+floating in and out of wells costs energy.
+
+2. Since the game is set up so that only one human at a time can be on the
+screen with E.T., you might occasionally want to let the scientist capture
+E.T.  This way, the FBI agent can't get our hero and take away precious phone
+pieces.
+
+3. Give Elliott as many pieces of Candy as possible.  The more you give him,
+the more bonus points you score at the end of the game.
+
+4. To pause play, allow E.T. to fall into a well.  You can leave him there as
+long as you like without endangering E.T. or subtracting from his energy.  When
+you're ready to play again, levitate E.T. out of the well and resume the game.
+
+5. Sometimes E.T. will fall back into a well after he has levitated up to the
+planet surface.  To prevent this, move E.T. right or left immediately after the
+scene changes from the well interior to the planet surface.  E.T. will move from
+the well onto solid ground, in the same direction you move your Joystick.
+
+ATARI, INC.
+Consumer Division
+P.O. Box 427
+Sunnyvale, CA 94086
+
+TIPS ON GETTING E.T.(TM)* HOME FAST! { supplement }
+
+START WITH GAME 3
+
+Learn to play E.T. by playing Game 3--the easiest game variation--first.  Set
+both DIFFICULTY switches to the B position.  After you've mastered Game 3,
+move on to the more difficult game variations.  Check your game manual for
+more information about game variations.
+
+Press GAME SELECT until a 3 appears at the top of your screen.  Then press
+GAME RESET to start the game.  You're ready to go!
+
+ATARI(R)
+*E.T. and the E.T. character are trademarks of and licenced by Universal City
+Studios, Inc.
+
+(C) 1982 Universal City Studios, Inc. All Rights Reserved.
+(C) 1982 Atari, Inc. C020807 Rev. 1
+
+Help E.T. find three hidden pieces of his interplanetary telphone.  The phone
+pieces are concealed inside deep wells--use E.T.'s special powers to find the
+right wells.  A '?' will appear when E.T. is in the right power zone to find
+a phone piece.  Once E.T. has collected all three pieces, he must make his
+long-distance call and arrive safely at the landing zone, where a rescue ship
+will come to pick him up.
+
+HOW TO CONTROL E.T.(TM)*
+
+E.T. moves in the same direction you move your Joystick.  To move E.T. fast,
+press the red button on your controller while he is moving--but watch out for
+wells!  To make E.T. use one of his special powers, press the controller button
+while E.T. is standing still.  E.T. will execute the power shown in the "power
+zone" indicator at the top center of the screen. (See pages 3-5 in your game
+manual for detailed information about power zones.)
+
+LEVITATING OUT OF WELLS
+
+Even experienced extraterrestrials sometimes have difficulty levitating out of
+wells.  Start to levitate E.T. by first pressing the controller button and then
+pushing your Joystick forward.  E.T.'s neck will stretch as he rises to the top
+of the well (see E.T. levitating in Figure 1).  Just when he reaches the top of
+the well and the scene changes to the planet surface (see Figure 2), STOP!  Do
+not try to keep moving up.  Instead, move your Joystick right, left, or to the
+bottom.  Do not try to move up, or E.T. might fall back into the well.
+
+CALLING THE SHIP
+
+After you've assembled the telephone, you must call E.T.'s spaceship.  Find the
+"call ship" zone (it can be anywhere on the planet surface) and press the
+controller button.  A countdown clock will appear at the upper right corner
+of your screen (see Figure 3).  Now hurry!  E.T. must find his landing zone
+on the forest screen and be waiting there when the countdown ends.  You did it!
+You've won--E.T. has finally reached home!

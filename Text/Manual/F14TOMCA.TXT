@@ -1,0 +1,381 @@
+<Picture>
+
+<Picture>F14_Tomcat<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+NOTES FROM A TOP GUNNER
+by Dan Kitchen
+Designer of TOMCAT
+THE F-14 FIGHTER SIMULATOR(tm)
+ 
+[picture of Kitchen in borrowed furry-collar flight jacket]
+ 
+  I've always been fascinated by the technology of military fighter aircraft
+and admired the courage of the pilots who routinely defy the odds in the
+skies above. I've tried to incorporate the spirit and challenges of actual
+fighter jet combat into this game and I've consulted with many actual
+fighter pilots to ensure the accuracy of TOMCAT THE F-14 FIGHTER SIMULATOR(tm).
+ 
+  I owe many thanks to my brother and co-designer Steven Kitchen, without
+whose help we would not have made it off the flight deck.
+ 
+  Here's thumbs up in your quest for Top Gun!
+ 
+ 
+[line drawings of F-14s in various military-erotic poses]
+ 
+ 
+Flight Manual for TOMCAT: THE F-14 FIGHTER SIMULATOR(tm)
+ 
+TO BEGIN:
+ 
+1) With power OFF, insert your TOMCAT F-14 FIGHTER SIMULATOR(tm)
+cartridge into your Atari 2600(tm) game system according to manufacturer's
+instructions.
+ 
+2) Plug joystick into left controller port.
+ 
+3) Turn power ON.
+ 
+4) Press RESET to begin game. At this point the cockpit controls of the F-14
+TOMCAT will light up and you will see the deck of the aircraft carrier U.S.S.
+Enterprise through your cockpit canopy.
+ 
+  Your TOMCAT F-14 FIGHTER SIMULATOR(tm) features an intelligent RESET
+function to guard against resetting the game by mistake. If you're in the
+middle of a game and you hit RESET, you must hold it down for at least 2
+seconds before a new game will start.
+ 
+ 
+READY FOR FLIGHT:
+ 
+  You're at the controls of your F-14 TOMCAT(not tm) fighter at 1900 hours,
+waiting to receive authorization for take off from the U.S.S. Enterprise.
+During your mission you'll face the enemy's most challenging air combat
+forces. At your disposal are the state-of-the-art computer controls and
+weapons systems of one of the U.S. Navy's most sophisticated fighters: the
+F-14 TOMCAT.
+  Your first take-off will be during daylight hours. But by the time you
+receive orders to return to the U.S.S. Enterprise, you'll notice the approach
+of dusk and you'll have to successfully perform a most dangerous nighttime
+landing on the aircraft carrier. Your next mission will be a night mission.
+You'll have to take off, engage in combat and return to the Enterprise in total
+darkness, relying more on your computer control systems to see you through
+safely.
+  After each successful return to the aircraft carrier, or if you crash or are
+shot down, you'll receive a MISSION RATING score (from 0 to 9) that is based on
+your flying skills, the number of weapons fired, and kills. There are four
+phases of flight operation: LAUNCH, FLYING, COMBAT, and LANDING.
+ 
+ 
+[Picture of console display with things in the indicated relative positions]
+ 
+/      [Missile Ready]       [G-Force]       [Caution/Warning]      \
+       [Cannon Overheat]
+                           [Bogey Alert]
+ 
+                       _____________________
+                      |        Main         |
+                      |      Computer       |
+                      |      Display        |
+                      |_____________________|
+                         _________________
+                        |   Horizontal    |
+                        |Situation Display|
+                        |_________________|
+(Landing Gear Lever)                           (Arresting Hook Lever)
+\                         (Control Stick)                           /
+ 
+ 
+CONTROLS:
+ 
+  TOMCAT THE F-14 FIGHTER SIMULATOR(tm) uses both console and joystick control.
+ 
+Console:
+Reset -              Starts game. Enters select mode from THREAT screen.
+Select -             Cycles through computer display screens.
+Right difficulty -   Raises / lowers arresting hook.
+Left difficulty -    Raises / lowers landing gear.
+ 
+Joystick:
+Forward -            Dives aircraft / or moves highlight when in select mode.
+                     Increases thrust when Joystick button is pressed.
+Back -               Climbs aircraft / or moves highlight when in select mode.
+Right -              Banks aircraft to the right.
+Left -               Banks aircraft to the left.
+ 
+Joystick Button:
+Fires weapons when THREAT screen is up.
+Chooses options when in select mode.
+ 
+ 
+LAUNCH:
+ 
+  You're on the flight deck of the U.S.S. Enterprise, waiting for your F-14
+TOMCAT to be fueled and readied for take-off. After your fuel reaches its total
+capacity of 3080 gallons and the angle of your wings opens to 20 degrees, the
+FLIGHT DECK OFFICER (in the yellow jacket) will come out to signal you to move
+onto the carrier catapult. Press and hold down the joystick button and push the
+joystick forward to increase engine thrust. When you're locked on to the
+catapult, the F.D. OFFICER will wave his hand in a circular motion to indicate
+that it's time to throttle up. Press and hold down the button and push the
+joystick forward until the ENG% indicator on your MAIN COMPUTER DISPLAY shows
+that your engine has reached its full afterburner thrust of 216%. The F.D.
+OFFICER will salute you, indicating that you are "go for launch" after which
+you'll be automatically catapulted from the flight deck. After you clear the
+flight deck, you'll hear the crash warning klaxon horn. Pull back on the
+joystick to raise you nose (Angle Of Attack) and increase your altitude. You
+will hear this warning sound whenever you are flying below an altitude of 500
+feet with the aircraft in a diving position. On launch remember to flip the
+LEFT DIFFICULTY SWITCH on your console to raise your landing gear.
+ 
+ 
+FLIGHT:
+ 
+  Once you're airborne, your MAIN COMPUTER DISPLAY will automatically switch
+from the LAUNCH screen to the STATS 1 screen, which will show your SPEED
+(measured in mach), your ALTitude (measured in feet from sea level: 0' -
+999' when below 1000' or 1K' - 56.0K' when above 1000'), your nose Angle Of
+Attack (from -50 degrees to +55 degrees), and your ENGine % of thrust (from
+0% to 100%, 200% to 216% for afterburners).
+  Pressing the SELECT button on your console will switch your MAIN COMPUTER
+DISPLAY to show various information screens describing the condition of your
+aircraft. For example, STATS 2 shows your WING angle (from +20 degrees to
++68 degrees), your ALTitude, your compass heading (C-HDG, 0 degrees to 358
+degrees), and the amount of FUEL remaining.
+  To increase of decrease your engine thrust, you must press and hold the
+joystick button and move the joystick. Pushing the joystick forward increases
+thrust, pulling it backward decreases engine thrust. When you are controlling
+engine thrust, the STATS 1 screen appears automatically. The only time in which
+you are unable to change thrust is when the THREAT screen is visible on the
+computer display.
+  To maneuver the aircraft, simply move the joystick forward, back, left or
+right. Pulling the joystick back will raise your nose Angle Of Attack, making
+the aircraft climb. Pushing forward on the joystick will reduce the nose Angle
+Of Attack, making it dive. Moving it left or right will bank the aircraft. At
+the altitude of 5000 feet you will hear a signal indicating that operating
+altitude has been reached. The enemy aircraft will not engage before you have
+reached this altitude. When your aircraft crosses the sound barrier (1.0 Mach)
+you will hear a distant sonic boom.
+ 
+ 
+COMBAT:
+ 
+  For air combat, your F-14 TOMCAT is supplied with a sophisticated
+computerized defense system, machine guns, and three types of air-to-air
+missiles.
+ 
+ 
+OFFENSIVE WEAPONS AND MANEUVERS:
+ 
+  When an enemy aircraft, or BOGEY, enters your air          [small picture
+space, the THREAT screen will automatically appear on         of bogey blip
+your MAIN COMPUTER DISPLAY. The DETAILED DATA DISPLAY         on DDD]
+(DDD) screen will also appear on the HORIZONTAL SITUATION
+DISPLAY to show the exact location of the enemy aircraft. The BOGEY will appear
+as a flashing blip on this top view display.
+  The THREAT screen shows the condition both your offensive and defensive
+weapons systems. You can bring the THREAT screen up at any time while you're
+in flight by pressing the SELECT button on your console until the THREAT
+screen appears.
+ 
+On your THREAT screen:
+  RNG shows the distance of the enemy from your F-14, measured in feet.
+  or KILLS will show the number of enemy aircraft shot down.
+  AIM indicates the type of missile you have ready.
+  EC-M shows whether your counter measures are operating.
+  M-61 indicates the on/off condition of your machine gun.
+ 
+  Each time a new BOGEY enters your air space the klaxon horn sounds, the
+THREAT screen appears and the BOGEY ALERT INDICATOR will flash. The HEADS
+UP DISPLAY (HUD) will also appear on your visual screen. Through the threat
+screen you can arm your F-14 with missiles or machine guns and fire them only
+when the THREAT screen is up.
+  To choose a weapon, simply press the RESET button on your console to enter
+the select mode (be careful not to hold the RESET button for more than 2
+seconds, since this will reset the game). On launch your F-14 is ready and
+armed with an AIM 54 missile.
+  You can choose between selecting a missile type, turning on/off your
+Electronic Counter Measures (EC-M), and turning on/off your M-61 machine guns.
+Moving the joystick up or down will highlight AIM-, EC-M, or M-61. Pressing
+the joystick button will select one of these options.
+  Pressing the joystick button while EC-M is highlighted will turn on/off your
+counter measures and bring you back to the flying mode.
+  When the enemy is at close range you should select your M-61 machine gun.
+You start with 675 available rounds. The CANNON OVERHEAT INDICATOR will light
+green, indicating that your guns are operational. When firing your guns,
+the CANNON OVERHEAT INDICATOR will flash red to warn you that your guns are
+in danger of overheating. When it turns bright red, your guns are overheated
+and will automatically be shut down for cooling. When the lamp returns to
+green, you can fire your guns again.
+  Pressing the joystick button while AIM- is highlighted allows you to select
+a missile type. The ARMAMENTS screen will now appear.
+ 
+You have a choice of three types of Air Interception Missiles:
+   AIM 7: Sparrow, infrared missiles (most effect when the BOGEY is visible
+   on your viewing screen).
+   AIM 9: Sidewinders, heat-seeking missiles (most effective when you are on
+   your opponent's tail).
+   AIM 54: long range missiles (the best choice for a novice pilot).
+ 
+  You have 15 missiles available of each type. Move the joystick to highlight
+the missile type you want and press the joystick button to arm your aircraft.
+At this point you'll return to the flying mode. By pressing the joystick
+button, you fire missiles or machine guns. When the BOGEY is within machine gun
+range (approx. 500 feet) the HUD will flash red. You must continually fire the
+guns for about three seconds to destroy the enemy aircraft.
+  Each time you fire a missile you must wait until the MISSILE READY INDICATOR
+lights to fire another missile.
+  If you run out of a missile type, the computer will automatically select the
+most effective missile type from your remaining armaments. You may also select
+another type of missile by bringing up the THREAT screen and pressing the RESET
+button.
+  When using missiles, use the HEADS UP DISPLAY to lock your missile onto your
+target by moving the BOGEY into the center of the HUD. The HUD flashes red when
+your computer has locked on to the target. Firing at this time guarantees a
+hit.
+  If you run out of machine gun ammunition, the computer will automatically not
+allow you to turn on your machine guns and arms any remaining missiles. If you
+use all of your missiles, the computer will not allow you to select a missile
+type.
+ 
+ 
+DEFENSIVE WEAPONS AND MANEUVERS:
+ 
+  When the BOGEY is on your tail and fires a missile at       [small picture
+you, the CAUTION WARNING INDICATOR (see cockpit diagram)       of EC-M display
+will flash. As the enemy missile approaches the C/W            with missile
+INDICATOR will flash faster. If your electronic counter        blip]
+measures (EC-M) are on, the EC-M screen will automatically
+appear on your Horizontal Situation Display. The on-coming missile will appear
+as a flashing blip approaching your aircraft.
+  In order to avoid the missile you will want to take evasive action by
+banking, climbing or diving. When the C/W INDICATOR has stopped flashing you
+have successfully avoided the missile.
+ 
+ 
+LANDING:
+ 
+  When you are running low on fuel or have used up          [small picture
+most of your available armaments, you'll be called           of landing display
+back to the aircraft carrier. The LANDING screen will        with F-14 blip at
+appear on your MAIN COMPUTER DISPLAY showing your SPEED,     top and horizontal
+ALTitude, range (RND, your distance from the carrier),       landing blip at
+and your Angle Of Attack, along with an audible return       bottom]
+signal.
+  Press the select button until STATS 2 screen appears on your main
+computer disply. To land you must bring your compass heading (C-HDG) to
+approximately 30 degrees (30 degrees to 40 degrees) by banking to the right
+or left and lower the altitude of your F-14 to below 2,000 feet. Also, lower
+your engine thrust to 30% in order to reduce aircraft speed for landing.
+  After your F-14 has dropped below 2,000 feet at a compass heading of
+approximately 30 degrees you will enter the landing corridor and, in a few
+seconds, you'll see the carrier appear as a dot in the distance. The
+COMPUTER LANDING DISPLAY (CLD) screen will appear on your HORIZONTAL SITUATION
+DISPLAY.
+  The CLD has two graphs showing your position relative to the aircraft
+carrier. The top graph displays your altitude and range. Maintain the blip
+between the upper and lower limits of your vertical glide path by adjusting
+your altitude. Try to keep the aircraft's altitude between 60 and 80 feet. The
+graph below allows you to center your aircraft horizontally. As you approach
+the carrier you may encounter cross winds. Simply bank the aircraft to the
+right or left to center yourself for a successful landing on the flight deck.
+You must keep the blip in the center of the graph to ensure a safe landing.
+When your aircraft is over the flight deck you will hear a warning sound.
+Push the joystick forward to drop the aircraft onto the deck.
+  When approaching the carrier and your landing gear or arresting hook is
+not in the correct "down" position, a klaxon horn will sound. Flip the LEFT
+DIFFICULTY switch on your console to lower your Landing Gear and flip the
+RIGHT DIFFICULTY switch to lower the Arresting Hook so the aircraft can catch
+the carrier cable.
+  If you have landed successfully, you'll be back on the deck of the aircraft
+carrier. Reduce your thrust to 0%. The RATING SCREEN will appear on your MAIN
+COMPUTER DISPLAY, showing the number of KILLS, missiles FIRED, and providing
+an overall RANK for your mission. Press the joystick button and you'll be on
+the deck ready for another take-off.
+  If you forget to put your landing gear or your arresting hook down, come in
+too low, too high, or too far right or left on the carrier deck, you will
+crash and receive a final rating. Hit RESET to start a new game.
+ 
+ 
+FLYING AT NIGHT:
+ 
+  When flying at night, you must depend more on your instrumentation,
+especially when engaged in combat.
+ 
+ 
+RATINGS:
+0 - CIVILIAN
+1 - SWABO
+2 - RECRUIT
+3 - SEAMAN
+4 - LIEUTENANT J.G.
+5 - LIEUTENANT
+6 - LIEUTENANT COMMANDER
+7 - COMMANDER
+8 - CAPTAIN
+9 - TOP GUN GRADUATE
+ 
+ 
+TIPS FROM THE DESIGNER:
+ 
+  It is a good idea to turn on your Electronic Counter Measures as soon as
+you're launched from the flight deck.
+  To avoid an enemy missile, adopt an eccentric flight path. Dive, climb and
+bank quickly. If you haven't turned on your Electronic Counter Measures before
+an enemy attack, you still have time to do so once a missile has been fired at
+you.
+  During combat, try to keep the BOGEY on your viewing screen at all times and
+stay on his tail. This will keep him from getting behind you.
+  While approaching the aircraft carrier for a landing, you'll see the carrier
+landing lights before you. Keep the center line of lights straight to ensure
+that you're centered on the flight deck.
+  Approach the carrier at a speed well below 1.0 Mach to insure a safe
+landing.
+  To reduce the amount of fuel used during flight, throttle back your engine
+thrust to below 100%.
+  The altitude of the flight deck is approximately 60 feet.
+ 
+ 
+GLOSSARY:
+ 
+ACM - Air Combat Maneuvering
+AIM - Air Interception Missile
+AOA - Angle Of Attack
+Bogey - Undefined (sic) aircraft
+Canopy - Glass bubble over the cockpit
+C/W - Caution/Warning
+ECM - Electronic Counter Measures
+G - Unit of acceleration
+HSD - Horizontal Situation Display
+HUD - Heads Up Display
+CLD - Computer Landing Display
+ 
+ 
+ 
+AK-046-03
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

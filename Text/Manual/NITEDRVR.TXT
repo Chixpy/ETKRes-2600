@@ -1,0 +1,179 @@
+NIGHT DRIVER
+
+ATARI GAME PROGRAM INSTRUCTIONS
+
+ATARI (r) A Warner Communications Company              CX2633
+
+COMPLETE                 8 GAME         GAME SELECT MATRIX
+GAME PLAY                VARIATIONS     Section 6
+INSTRUCTIONS   
+
+NOTE: Always turn the console power switch off when inserting
+or removing an ATARI Game Program cartridge. This will protect
+the electronic components and prolong the life of your ATARI
+Video Computer System game.
+
+Manual, Program, and Audiovisual (c) ATARI, INC.
+
+
+ATARI GAME PROGRAM INSTRUCTIONS
+
+     TABLE OF CONTENTS
+
+1. GAME PLAY                                 1
+
+2. USING THE CONTROLLERS                     1
+
+3. CONSOLE CONTROLS                          2
+
+4. GAME VARIATIONS                           3
+
+5. SCORING                                   3
+
+6. GAME SELECT MATRIX                        4
+
+
+
+
+1. GAME PLAY
+
+You're in the drivers seat and the track is just ahead of you
+on the television screen. Your car is permanently fixed at the
+bottom of the screen, as shown in the diagram. All you have to
+do is accelerate and steer the car through one of the four
+tracks (see USING THE CONTROLLERS). Each time you veer off the
+track and hit one of the pylons or hit an oncoming car, a
+simulated crash scene will appear on the screen.
+
+It is a good idea to quickly read through these instructions
+so that you won't miss any important details. Be sure to read
+what happens when you change the position of the difficulty
+switches (see DIFFICULTY SWITCHES), as well as how each game
+number represents a slightly different game (see GAME
+VARIATIONS).
+
+2. USING THE CONTROLLERS
+
+Use your Paddle Controllers with this ATARI Game Program
+cartridge. Be sure the Paddle Controller cable is firmly
+plugged into the LEFT CONTROLLER jack at the back of your
+ATARI Video Computer System game.
+
+Since NIGHT DRIVER is a one-player game, you must use the
+Paddle Controller connected to the left cable. The controller
+connected to the right cable will not work. See Section 3 of
+your owner's manual for further details.
+
+The knob on your Paddle Controller is your steering wheel, and
+the red button is your accelerator. Be sure to hold the
+controller with the red button on the left. You must press the
+button to accelerate ans start the action.
+
+Turn the controller knob to the right to steer the car to the
+right, and left to steer left. Try to avoid hitting the pylons
+on either side of the road, as well as oncoming cars. Your
+initial tendency will probably be to "oversteer" the car,
+which will cause you to crash. However, don't be discouraged
+if this happens. With time and practice you will get the knack
+of it, and eventually become quite skilled.
+
+NOTE: When first starting out don't use maximum acceleration
+throughout the course of the track. Instead, let off slightly
+or even all the way as you wind through tight turns and
+difficult spots on the track. This should help you avoid
+crashes and low scores.
+
+3. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+Use the game sleect switch to select the game number you wish
+to play. The game number changes at the top, left side of the
+screen as you press the switch down.
+
+GAME RESET SWITCH
+
+When you have selected the game number you wish to play, press
+down the game reset switch to start the game.
+
+DIFFICULTY SWITCHES
+
+The right difficulty switch on the console controls the
+maximum speed which your car will travel. In the a position,
+the car will travel the fastest. In the b position, the
+maximum speed will be slower. (Beginners should start with the
+right difficulty switch in the b position.)
+
+The left difficulty switch may or may not act as a warning
+device, depending on its position. In the a position, oncoming
+cars WILL NOT honk before they appear on the screen. In the b
+position, oncoming cars honk just before they appear.
+
+TV TYPE SWITCH
+
+Set this switch to color if you have a colour television set.
+Set it to b-w to play the game in black and white.
+
+4. GAME VARIATIONS
+
+GANES 1, 2, 3 and 4 are timed. At the beginning of each of
+these games, a "clock" will begin counting down from 90
+(seconds) at the upper right corner of the screen.
+
+GAMES 5, 6, 7, and 8 have no time limit. They may be played
+for an indefinite period of time and there will not be a clock
+counting down on the screen.
+
+GAMES 1 and 5 have the easiest track (NOVICE) and should be
+used by beginning players. Games 2 and 6 have the medium
+difficulty track (PRO). The EXPERT track in Games 3 and 7 is
+more difficult than the NOVICE or PRO tracks.
+
+All of the tracks described so far (Games 1, 2, 3, 5, 6, and
+7) are stored in the program memory of the game. So even
+though the NOVICE, PRO and EXPERT tracks are progressively
+more difficult, each track will always follow a fixed course.
+This makes it possible for players to eventually memorize the
+track as their driving skill increases.
+
+The RANDOM track, however (Games 4 and 8), follows a different
+course each time, making it challenging for the most skilled
+players.
+
+Use the GAME SELECT MATRIX as a quick refernce for game
+variations and game numbers.
+
+5. SCORING
+
+The object in all of the games is to obtain a high score.
+Scoring is done automatically by the computer as you travel
+through the course. As you pass certain spots (invisible to
+you) on the track, the computer automatically tallies one
+point to your score, which is displayed in at the upper left
+corner of the screen.
+
+In games with no time limit (Games 5, 6, 7 and 8), your
+scoring possibilities are infinite.
+
+6. GAME SELECT MATRIX
+
+
+Game                Track                    Time/
+Number              Description              Untimed
+
+1                   Novice (Easy)            90 Seconds
+2                   Pro (Medium)             90 Seconds
+3                   Expert (Difficult)       90 Seconds
+4                   Random                   90 Seconds
+5                   Novice (Easy)            No Time Limit
+6                   Pro (Medium)             No Time Limit
+7                   Expert (Difficult)       No Time Limit
+8                   Random                   No Time Limit
+
+
+
+C016943-33 REV. 1        MANUAL, PROGRAM AND AUDIOVISUAL (C)
+                         1980, ATARI INC.    Printed in U.S.A.
+
+
+-------------------Atari 2600 Instructions Archive-------------------

@@ -1,0 +1,202 @@
+                      CODE BREAKER
+
+1. Using the Controllers
+  Use your Keyboard Controllers with this ATARI Game Program cartridge. 
+Be sure to plug the controller cables fimrly into the CONTROLLER jacks at
+the back of your ATARI Video Computer System.
+  For 1-player games use the Keyboard Controller plugged into the LEFT
+CONTROLLER jack.  See Section 3 of your owner's manual for further details.
+
+2. Console Controls
+  Game Select:  Use this switch to select the game number you wish to
+play.  The game number appears at the upper left corner of the screen. 
+(See the GAME SELECT MATRIX for game numbers.)
+  Game Reset:  Use this switch to start game play or to reset a game at
+any time.  If the game number is on the screen when the game reset switch
+is pressed, the game number will disappear to make room for the player's
+scores.
+  Difficulty Switches:  During Codebreaker games, when the right
+difficulty witch is in the A position, you have 8 guesses.  In the B
+position you have 12 guesses.  During 1-player NIM games, you can improve
+the playing ability of the computer by sliding the right difficulty switch
+to the A position.  The difficulty switches do not affect 2-plyaer NIM games.
+  TV Type Switch:  Set this switch to color if you have a color television
+set.  Set it to b-w if you are playing the game in black and white.
+
+3. Game Play
+  Codebreaker:
+  The computer or another plyaer has created the secret code, and your
+mission is to guess the code.  The code's identity is affect by:
+* The number of digits. Games feature codes with 3 or 4 digits.
+* The number span.  Games feature codes with numbers from 1 to 9, or 1 to 6.
+You have 12 (or 8) guesses to identify the secret code with the Keyboard
+Controller.  Use the controller to enter the number digits of your guess
+onto the screen.  The computer will then analyze each number digit of your
+code guess.
+  One-player CODEBREAKER:  Use the left Keyboard Controller to play
+1-player CODEBREAKER games.  To make a guess, press the number digits on
+the Keyboard.  The press the enter (#) button.  The digits you have
+entered will appear on the left side of the screen.  The computer will
+then analyze your guess with computer symbols.
+  Two-player CODEBREAKER:  A series of 2-player games begins with the
+right controller player.  In CODEBREAKER games where a player must create
+the secret code, press the digits of the secret code on the Keyboard
+Controller.  Those digits appear in the upper left corner of the screen. 
+Press the enter (#) button and the digits disappear.  Now your opponent
+starts to make guesses using the same procedure as in 1-player games.
+  To change a digit in your guess, move the cursor to the digit to be
+changed.  Press the new number you want on the Keyboard Controller.  The
+new number will appear in the position.
+  NOTE: The computer will not accept a digit whose numberical value is
+more than defined by a particular game.  For example, if the number span
+of the scret code is between 1 and 6, the computer will not accept a
+number 7.
+  to play a consecutive game of CODEBREAKER, press any number of the
+Keyboard to clear the screen.  To begin a new series of consecutive games
+and scores, press Game Reset.
+  Nim:
+  NIM is the oldest nathematical game known to man.  In this computer
+version of NIM, there are 1 to 4 stacks of objects.  You must take turns
+with the computer or another player removing any number of objects from
+nay stack.  During a turn you must take at least one object, and can take
+objects out of only 1 stack.
+  NOTE:  During a series of consecutive 2-player NIM games, you and your
+opponent must take turns removing the first object.
+  To start a new NIM game:  Press any key on the Keyboard Controller at
+the conclusion of a game.  The setup form the previous NIM game will
+appear on the screen.
+  NOTE: In 1-player games, use the left Keyboard Controller.
+  To remove objects from a particular NIM stack:  Press the Keyboard
+Controller cursor (*) button to move the cursor on the screen.  The number
+of times your press the button determines the stack where the cursor will
+appear.  For example, press the button 3 times to move the cursor to stack 3.
+After you have moved the cursor to the stack where you intend to remove
+objects, press any number button on the Keyboard Controller, and that
+number of objects will blink and then disappear form the stack.  When you
+are satisfied with all the moves you've made at each stack, press the
+enter (#) button.
+  NOTE:  You may change your move any time before you press then enter (#)
+button.  For example, after taking 3 objects from a stack, you may decide
+to take only 2.  Move the cursor to the stack, then press number 2 on the
+Keyboard Controller.  One object will reappear in the stack.
+  To create a player setup:  Press the cursor (*) button to move the
+cursor to a stack.  The number of times your press the button determines
+the stack where the cursor will appear.  For example, press the curosr
+button 3 times to move the cursor to stack 3.  Once the cursor is directly
+over the particularlocation, select the nubmer of objects in each stack. 
+Press a number button on the Keyboard.  The number button you press
+determines the number of objects in the stack.  For example, press the
+number 3 and 3 objects will appear in the stack.  When you have selected
+objects for each stack, press the enter (#) button and the game begins.
+
+4.  Game Variations
+  Codebreaker:
+  1-player Games:  The computer selects the secreat number code.  You have
+12 (or 8) guesses to identify the code.  Your number of guesses equals
+your point score.  for example, if you guess the secret code on the fourth
+guess, you score 4 points.
+  2-player Games:  There are 2 ways for 2 players to play CODEBREAKER:
+  1.  The computer selects the secret number code.  You and your opponent
+take turns making guesses.  In the first game of a series of consecutive
+games, the right controller player always makes the first guess.  The
+first player to match the secret number code scores 1 point and starts the
+next game.
+  2.  The player creates the secret number code using the Keyboard
+Controller.  The opponent then tries to guess the secret code in the least
+number of guesses.  When the opponent guesses the secret code, his score
+is equal to the number of guesses.  For example, a player scores 4 points
+when he guesses the secret code on the fourth guess.  During the next
+game, the roles are reversed and the player who tried to guess the code
+becomes the player who creates the secret code.
+  NOTE:  Only the player who is guessing the secret code has a chance to
+score points.  When playing a series of consecutive games, begin the first
+game with the left controller player who tries to guess the secret code.
+  Nim:
+  There are 2 kinds of NIM games:
+  1.  Regular NIM:  You win the game when you remove the last object from
+the screen.
+  2.  NIM Misere:  You lose the game when you remove the last object from
+the screen.
+  There are 2 kinds of NIM game setups:
+  1.  Computer Setup:  Three stacks of objects appear on the screen.  One
+stack has 3 objects.  The second stack has 4 objects, and the third
+stack features 5 objects.
+  2.  Player Setup:  Using the Keyboard Controller, aplayer can create a
+NIM setup.  Create up to 4 stacks with up to 9 objects in each stack.
+
+5. Scoring
+  Codebreaker:
+  1-player Games:  A player's score during 1 game is determined by the
+number of guesses needed to identify the secret number code. For example,
+if a player guesses the code on the sixth guess, the score is 6.  You
+object is to score the lowest possibly score.  Your cumulative score
+appears in the upper left corner of the screen at the end of the game. 
+Hint:  In 1-player games, divide your socre by the number of  consecutive
+games for an average score.
+  2-player Games:  When the computer selects the secret code for both
+players to guess, the player scores 1 point when he guesses the code. 
+when one player creates the secret code, the object is to score the least
+number of points.  for example, if a player guesses the secret code on
+the fourth guess, he scores 4 points.
+  Nim:
+  A player scores 1 point when he wins a NIM game.  IN regular NIM games,
+you score 1 point when you remove the last object from the screen.  In NIM
+Misere games you score one point when you force your opponent to remove
+the last object from the screen.  Scores will accumulate as you play
+sonsecutive games of NIM.
+
+6. Glossary
+  Codebreaker:
+  Left Score:  During CODEBREAKER games the upper left number refers to
+the number of guesses players have made during the present game.  At the
+end of the game, the left controller player's score appears in this position.
+  Right Score:  In 1-plyaer CODEBREAKER games, this number appears
+throughout the game to show the number of consecutive games of CODEBREAKER
+you've played.  In 2-player games, this number refers to the right
+controller player's score.
+  Computer Secret Code:  The secret code will appear above the list of
+player guesses at the end of the game.
+  Player Guess:  The number code guess you enter into the computer appears
+on the left side of the screen.
+  Computer Symbols:  After you register your player guess with the
+computer, the computer will respond with symobls that analyze your guess.
+* Black Line:  Signifies that one of the number digits is the correct
+identity and in the correct position.
+* White Line:  Signifies that one of the number digits is the correct
+identity but in the incorrect position.
+  Cursor:  This flashing square appears in the position of the next number
+entry into the computer.
+  Player Indicators:  In 2-player games, the color of the line and its
+position indicate whose Keyboard Controller must register the next guess. 
+A white line appears on the far right of the playfield, meaning the right
+controller player must enter a guess.  A black line appears to the left of
+this position during the left controller player's turn.
+  Nim:
+  Stacks:  The stacks of objects appear on the left side of the screen.
+  Cursor:  The cursor is used to remove objects from each stack.  Use the
+Kayboard Controller to mvoe the cursor directly over the stack where you
+want ot remove objects.
+  Scores:  In 2-player games, the score of the left controller player is
+in the upper left corner; the right controller player score is in the
+upper right corner.  In 1-player games, your score is in the upper
+left-corner; the computer's score is in the upper right corner.
+
+(Section 7 "Sample Game" omitted)
+
+8.  Game Select Matrix
+                 |        CODEBREAKER
+                 |  3-digit code  |  4-digit code
+Game Number      |1  2  3  4  5  6| 7  8  9  10 11 12
+# of Players     |1  2  2  1  2  2| 1  2  2  1  2  2
+Comp.Enters Code |Y  Y  N  Y  Y  N| Y  Y  N  Y  Y  N
+# Field Span     |6  6  6  9  9  9| 6  6  6  9  9  9
+
+                 |           NIM
+Game Number      |13 14 15 16 17 18 19 20
+# of Players     |1  2  1  2  1  2  1  2
+Comp. Sets Up    |Y  Y  Y  Y  N  N  N  N
+Remove Last      |
+  Object to Win  |Y  Y  N  N  Y  Y  N  N
+
+
+

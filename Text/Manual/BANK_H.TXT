@@ -1,0 +1,138 @@
+BANK HEIST
+20th CENTURY FOX
+
+[inside cover-page 1]
+
+TO SET UP:
+Set up your video computer system and left joystick controller as
+instructed in your game system owner's manual.  Move the Color/B-W
+lever to the correct setting.  Turn the power OFF.  Insert the game
+cartridge and then turn the power ON.  Use the Game Select lever and
+difficulty switches to choose a play level.  Press the Game Reset lever
+or the joystick button to begin your life of crime.
+
+THE OBJECTIVE:
+Your goal is to rob as many Banks as possible before running out of
+Getaway Cars.  Disabling Cop Cars with dynamite increases your score
+and causes more banks to appear in the town.  Running into Cop Cars or
+accidentally dynamiting your own car will abruptly halt your little joy
+ride.
+
+THE CONTROLS:
+Tilt the joystick forward, backward, left and right to drive your
+Getaway Car through the city streets.  To rob Banks, simply run over
+them.  Press the button on the joystick to release a stick of dynamite
+from the tailpipe of your car.
+
+Screenshot:  Gas Tank (Upper left), Getaway Cars in Reserve (Upper
+right), Score (Bottom).
+
+CARS:
+The number of spare Getaway Cars is shown in the upper right portion of
+the screen.  You start the game with four spare cars, and lose one
+every time you run out of gas, crash into a Cop Car, or blow yourself
+up.  If you rob nine or more Banks in a town, a bonus Getaway Car will
+be awarded when you go on to the next city.  The game will end if you
+use up all of your spare cars.  
+
+[page 2]
+
+FUEL:
+The gas tank at the top left of the screen shows the amount of fuel
+remaining.  The higher the red level, the more gas you have left.  Fuel
+is consumed by time and by using dynamite.  If you run out of gas, you
+lose a Getaway Car.
+
+The bar on the right side of the gas tank shows the level to which your
+tank can be refilled WHEN YOU LEAVE TOWN.  If the pointer is white, the
+amount of gas in the tank will be refilled to the height of the bar. 
+If the pointer is red, the gas level in the tank will remain the same. 
+Robbing nine or more banks in a town will enable you to refill the
+entire tank.
+
+Screen of Silver Dollar, South Dakota/ Screen of Flat Broke, Arkansas
+
+ROBBING BANKS/USING DYNAMITE:
+Drive through the city streets until you reach a Bank and then run over
+the Bank to rob it.  After each robbery, one Cop Car will appear and
+start to chase you.  There can be up to three Cop Cars in a town at one
+time.  One Bank will appear for each Cop Car disabled.  To stop a Cop,
+first let one of them get close behind you and then drop a stick of
+dynamite out of your tail pipe.  (It may take a few tries to get your
+drop time down just right.)
+
+PASSAGEWAYS/LEAVING TOWN:
+Three of the passageways located at the edges of the screen, are “wrap-
+around” passageways.  For example, if you exit through the lower left
+passageway, your car will reappear in the lower right passageway and
+vice versa.  The UPPER RIGHT passageway leads to the next town.
+
+It is impossible to go back once you have left a city, so get as much
+money and potential gas as you can before leaving.  You may be forced
+to leave town before hitting all of the Banks if you are running out of
+gas.  Your Getaway Car will flash to indicate when your gas tank is low
+so you can get out in time.
+
+[page 3]
+
+SCORING:
+Money received for robbing Banks and disabling Cop Cars is shown for a
+short time on the screen where the Bank or Cop Car was located.  The
+total amount of money you have earned is displayed at the bottom of the
+screen.  Bonus cash is awarded when you leave a town after robbing nine
+or more Banks.
+
+Bank Values:
+First Bank =            $10.00          Sixth Bank =            $60.00
+Second Bank =   $20.00          Seventh Bank =  $70.00
+Third Bank =    $30.00          Eighth Bank =   $80.00
+Fourth Bank =   $40.00          Ninth Bank =    $90.00
+Fifth Bank =            $50.00
+
+Cop Car Values:
+One Cop Car in pursuit =        $10.00          Three Cop Cars in pursuit = $50.00
+Tow Cop Cars in pursuit =       $30.00
+
+Bonus Points for Level 1:
+Bankersfield = $93.00           Flat Broke = $279.00
+Silver Dollar = $186.00         Heistown = $372.00
+
+Add $372.00 per level to these values for the other sevel levels.
+
+Screen here:  Heistown, Illionois, with the following call-outs:
+Upper left “Gas Left in Tank”
+Middle (well, not really middle, but below Upper and above lower) left
+“Warp-around passageway”
+Lower left “Wrap-around passageway”
+Upper right “Potential Gas Bar”
+Directly across from the Middle left “To Next City”
+Directly across from the lower left “Wrap-around passageway”
+
+PLAY LEVELS/DIFFICULTY SWITCHES:
+Each of the eight play levels contains four towns.  After leaving the
+fourth town, you will automatically be advanced to the next level of
+play.  As the levels get higher, the pursuit gets faster.  Theis causes
+your Getaway Car to burn fuel at a faster rate, allowing you less time
+to rob Banks.  Use the Game Select level to start a new game at a
+different play level.
+
+LEFT DIFFICULTY SWITCH A:  The cops are smart and will always find you.
+LEFT DIFFICULTY SWITCH B:  The cops are not as smart and go in a more
+set pattern.
+RIGHT DIFFICULTY SWITCH A:  Banks appear in a random order.
+RIGHT DIFFICULTY SWITCH B:  Banks appear in a set order.
+
+[page 4]
+
+HINTS FROM BILL ASPROMONTE: (hope he didn’t hurt himself with these
+tips! :)
+The wrap-around passageways are the best way to ditch cops.  Also, Cop
+Cars are not allowed to make U-turns.  This means that you can follow
+them about the town without risking a head-on collision.
+
+QUICKEST CROOKS:
+|Name           |Level          |Score|
+
+A game by Bill Asporomonte
+(C) 1983 Fox Video Games, Inc.
+All rights reserved.

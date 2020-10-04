@@ -1,0 +1,317 @@
+MISSILE COMMAND TM
+
+ATARI (R) GAME PROGRAM TM INSTRUCTIONS
+
+                                                  MODEL CX2638
+ATARI (R)
+
+A Warner Communications Company
+
+34 GAME                  SPECIAL                 HELPFUL HINTS
+VARIATIONS               FEATURE                     Section 7
+
+
+                            SPECIAL
+                            FEATURE
+                               
+                           This Game
+                          Program TM
+                           contains
+                          additional
+                         versions for
+                        young children.
+
+NOTE: Always turn the console power switch off when inserting
+or removing a Game Program TM. This will protect the
+electronic components and prolong the life of your ATARI (R)
+Video Computer System TM.                (c) 1981, ATARI, INC.
+
+CONTENTS
+
+1. YOUR COMMANDING ORDERS                                    2
+
+2. GAME PLAY                                                 3
+
+3. USING THE CONTROLLERS                                     4
+
+4. CONSOLE CONTROLS                                          5
+
+5. SCORING                                                   6
+
+6. GAME VARIATIONS                                           7
+
+7. HELPFUL HINTS                                             8
+
+8. GAME MATRIX                                               9
+
+
+
+1. YOUR COMMANDING ORDERS
+
+Aliens from the planet of Krytol have begun an attack on the
+planet Zardon. The Krytolians are warriors out to destroy and
+seize the planet of Zardon. Zardon is the last of the peaceful
+planets. The Zardonians are skillful and hardworking people.
+Their cities are built-up and rich in resources. It is truly a
+planet void of crime and violence.
+
+Zardon has built a powerful defense system. Several
+antiballistic missile bases have been established within the
+cities of Zardon. The Zardonians are ready for this attack,
+and are prepared to fight to save their cities.
+
+As base commander it is your responsibility to protect and
+defend six cities on the planet of Zardon. The Krytolians have
+begun firing interplanetary ballistic missiles. They are
+aiming at your cities and missile bases. Your only defense is
+to fire back with antiballistic missiles. But watch out, the
+Krytolians are sly, they also have cruise missiles. Cruise
+missiles look like satellites, but they are just as deadly as
+the interplanetary ballistic missiles.
+
+Use your antiballistic missiles (ABMs) to stop the enemy
+before your happy and harmonious planet is destroyed.
+
+2. GAME PLAY
+
+The object of the game is to defend your cities and missile
+bases. the enemy fires interplanetary ballistic missiles and
+cruise missiles, both of which are aimed to destroy your
+cities and missile base. There are only two types of cruise
+missiles; smart cruise missiles, which try to evade your anti-
+ballistic missiles (ABMs), and dumb cruise missiles, which
+fall in a straight path.
+
+The enemy attacks in a series of waves that may vary in the
+number of attacking interplanetary ballistic missiles. Each
+consecutive wave moves faster. The faster the wave, the more
+difficult it is to defend the cities. So, the faster the wave,
+the higher the scoring. See Section 5 for details about waves
+and scoring.
+
+With each wave you have 30 ABMs for defense (see Figure 1).
+Your launching missile base, (bottom, centre of playfield)
+contains only 10 ABMs at a time. As each set of 10 ABMs is
+fired, you automatically receive 10 more from you underground
+missile dump (bottom, left corner). Once you have fired all 30
+ABMs, you are defenseless until a new wave begins.
+
+[Figure 1]
+
+You must protect your launching missile base from enemy fire.
+Once it is hit, all of its contents are destroyed. However,
+you still have the remaining missiles in the underground dump.
+The game ends when all of the cities are destroyed.
+
+3. USING THE CONTROLLERS
+
+            MOVE UP
+               ^
+            \  |  /
+              \|/
+MOVE LEFT <---------> MOVE RIGHT
+              /|\
+ MOVE       /  |  \
+DIAGONALLY     v 
+           MOVE DOWN     
+Figure 2
+
+Use your Joystick Controllers with this ATARI (R) Game Program
+TM. Be sure to plug the controller cables firmly into the
+jacks at the back of your Video Computer System TM. Hold the
+controller with the red button to your upper left toward the
+television screen. Use the LEFT CONTROLLER jack for one-player
+games. See Section 3 of your owner's manual for further
+details.
+
+Use the Joystick Controller as a target control for your ABMs.
+Move the Joystick up, down, right, left, or diagonally to move
+the cursor (blinking light) to the target where you wish your
+antiballistic missile to explode. Push the controller button
+to launch you ABM's. (See Figure 2.)
+
+Consider the Joystick as a target control for your missiles.
+Wherever the target control is on the screen when the button
+is pressed will be the exact location that your ABM explodes.
+Once you have launched an ABM, you can move to a new target
+and launch again while the first ABM is in flight. The best
+way to destroy the enemy is to place the target control
+directly in the path of the interplanetary ballistic missiles.
+The ABM must make contact with the tip of the enemy's
+interplanetary ballistic missile.
+
+Some game variations have a fast target control and some have
+a slow target control. The faster the target control moves,
+the harder it is to position below the enemy missiles. (See
+the GAME SELECT MATRIX for games which feature a fast target
+control or slow target control).
+
+4. CONSOLE CONTROLS
+
+To select a MISSILE COMMAND game, press down the game select
+switch. To quickly change the game number, hold down the game
+select and the game reset switches at the same time.
+
+The game number and the number of players appear in the middle
+of the screen. The game number is to the left of the number of
+players. (See Figure 3.) When you have selected the game you
+wish to play, press down the game reset switch to start the
+action. Each time game reset is pressed down the game starts
+over. When game play starts the score appears at the top of
+the screen.
+
+Difficulty Switches
+
+MISSILE COMMAND has two difficulty levels -a and b. The b
+level is for normal game play. Level a is for the skilled
+MISSILE COMMAND player. When the difficulty switch is in the a
+position, your ABMs move at a slower pace, making it more
+difficult to defend your cities and missile base. Each player
+may choose his or her own difficulty level.
+
+In a one-player game use the left difficulty switch. For two-
+player games, the left player uses the left difficulty switch;
+the right player uses the right difficulty switch. When you
+become skilled at MISSILE COMMAND, try GAME 16 with difficulty
+level a for a real challenge.
+
+5. SCORING
+
+You score points when you destroy interplanetary ballistic
+missiles and cruise missiles. You also score points for unused
+antiballistic missiles and saved cities. Because each wave of
+interplanetary ballistic missiles moves faster, the points for
+the higher numbered waves are multiplied. For example, waves 9
+and 10 are worth 5 times their original point value. (See
+Table 1 for SCORING MULTIPLIER.)
+
+                 Points are scored as follows:
+
+Interplanetary Ballistic Missiles                    25 points
+Enemy Cruise Missiles                               125 points
+Unused Antiballistic Missiles                         5 points
+Saved Cities                                        100 points
+
+                            Table 1
+                      SCORING MULTIPLIER
+
+WAVES 1-2                                       Single Scoring
+WAVES 3-4                                       Double Scoring
+WAVES 5-6                                       Triple Scoring
+WAVES 7-8                                   Four Times Scoring
+WAVES 9-10                                  Five Times Scoring
+WAVES 11 and ABOVE                           Six Times Scoring
+
+Wave 13 is the most difficult wave in this Game Program TM
+Cartridge.
+
+Unused ABM's and saved cities are tallied at the end of each
+wave. Between each consecutive wave, the cities fall and rise
+again when the next wave starts (see Figure 4). A bonus city
+is awarded every 10,000 points. If your score reaches 10,000
+points at the end of a wave and all six of your cities are
+destroyed, you still receive a bonus city and another wave of
+interplanetary ballistic missiles will attack.
+
+[Figure 4]
+
+Bonus cities are saved if none of you cities are destroyed. A
+musical tune is played each time a bonus city is used.
+
+6. GAME VARIATIONS
+
+MISSILE COMMAND has 34 game variations. Games 1 through 17 are
+one-player, and games 18 through 34 are two-player games. this
+ATARI Game Program includes game variations for young
+children, games 17 and 34. The game play is slower in the
+children's versions (see CHILDREN'S GAMES).
+
+SLOW/FAST TARGET CONTROL
+
+Some game variations have fast target control and some have
+slow target control. This means that your may move the cursor
+fast or slow around the screen. Because you use the Joystick
+to move the target control, the slower it moves, the more
+control you will have; but the fewer amount of targets you'll
+be able to hit. The faster the target control moves, the more
+difficult it is to control; but the more targets you will be
+able to hit.
+
+SMART ENEMY CRUISE MISSILE/DUMB ENEMY CRUISE MISSILE
+
+After the 6th wave of interplanetary ballistic missiles, the
+enemy may attack with cruise missiles. The dumb cruise
+missiles travel in a straight line and are fairly easy to
+destroy. The smart cruise missiles can detect and evade your
+ABM explosions, making them more difficult to destroy.
+
+STARTING WAVE 
+
+The higher the wave number, the faster the enemy missiles
+attack. Some game variations start at a low wave number and
+progress to a higher  and faster wave number. The games that
+start at a high wave number are fast in the beginning and
+progress even faster with each wave. The faster waves score
+more points.
+
+CHILDREN'S GAMES
+
+Games 17 and 34 play at a slower and easier speed for young
+children. They have dumb enemy cruise missiles, slow target
+control, and the enemy attacks at a slower rate with less
+missiles. As children become skilled at this level, they
+should try the more difficult game variations, starting at
+Game 1.
+
+TWO-PLAYER GAMES
+
+Games 18 through 34 are two-player games. In two-player games
+each player alternates as base commander, one wave at a time.
+The left controller player begins the game. Each player's
+score appears at the top of the screen with each turn. At the
+end of the game both players' scores are alternately displayed
+on the screen.
+
+7. HELPFUL HINTS
+
+1)   You may fire up to three defense missiles simultaneously.
+     After pressing the controller (fire) button, move to the
+     next enemy site and fire again. Do not wait for the
+     explosion before moving.
+
+2)   Once a city is destroyed you no longer can defend it, so
+     concentrate only on your missile base and saved cities.
+     Ignore enemy fire aimed at cities already destroyed.
+
+3)   Smart enemy cruise missiles are easiest to destroy if
+     your target control is directly on them. When it is
+     directly on them, the enemy cannot detect your ABMs.
+
+8. GAME SELECT MATRIX
+ONE-PLAYER GAME NO.     1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17
+
+FAST TARGET CONTROL     -  X  -  X  -  X  -  X  -  X  -  X  -  X  -  X  C
+SLOW TARGET CONTROL     X  -  X  -  X  -  X  -  X  -  X  -  X  -  X  -  H
+DUMB CRUISE MISSILE     X  X  -  -  X  X  -  -  X  X  -  -  X  X  -  -  I
+SMART CRUISE MISSILE    -  -  X  X  -  -  X  X  -  -  X  X  -  -  X  X  L
+FIRST WAVE              1  1  1  1  7  7  7  7 11 11 11 11 15 15 15 15  D
+
+
+
+TWO-PLAYER GAME NO.     1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17
+
+FAST TARGET CONTROL     -  X  -  X  -  X  -  X  -  X  -  X  -  X  -  X  C
+SLOW TARGET CONTROL     X  -  X  -  X  -  X  -  X  -  X  -  X  -  X  -  H
+DUMB CRUISE MISSILE     X  X  -  -  X  X  -  -  X  X  -  -  X  X  -  -  I
+SMART CRUISE MISSILE    -  -  X  X  -  -  X  X  -  -  X  X  -  -  X  X  L
+FIRST WAVE              1  1  1  1  7  7  7  7 11 11 11 11 15 15 15 15  D
+
+
+ATARI
+
+A Warner Communications Company
+
+ATARI, INC., Consumer Division
+               P.O.Box 427, Sunnyvale, CA 94086
+
+C016943-38 REV. 1                            Printed in U.S.A.-------------------Atari 2600 Instructions Archive-------------------

@@ -1,0 +1,273 @@
+<Picture>
+
+<Picture>Dark_Chambers<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+DARK CHAMBERS
+
+c 1983, 1988
+
+
+THE DARKNESS IS UPON YOU
+------------------------
+
+You're on a dangerous search, deep underground.  Wraiths, wizards, and
+moldering skeletons surround you.  Even now, a grim reaper stalks you. 
+
+
+The exits take you -- where?  Only deeper into the maze.  Find weapons
+in the darkness and fend off your elusive enemies.  Claim the treasure
+and fight your way even deeper into the caverns.
+
+Your strength will outlast the weaker ghouls.  But are you a match for
+the strongest?
+
+
+GETTING STARTED
+
+1.  With your Atari 2600 or 7800 set up, insert the Dark Chambers      
+    cartridge into the console.  Plug a joystick into the left         
+    controller port.  For two players, plug a second joystick into the
+    right controller port.
+
+2.  Turn on your television or monitor and press the [Power] key to    
+    turn on your Atari console.  The Dark Chambers screen appears.
+
+3.  Press [Select] to choose a skill level and number of players (one  
+    or two).  Or move the joystick handle up or down for players and   
+    left or right for skill level.  A hero for each player appears at
+    bottom right.  A bear's face at bottom left shows your sill level.
+
+Bear's Face                                                 Skill Level
+
+[Image of smiling bear with small eyes]                         Low
+
+[Image of straight-faced bear with two big eyes]               Medium
+
+[Image of straight-faced bear; big left eye, small right eye]   High
+
+4. Press the [Reset] or the joystick fire button to begin.
+
+
+SEARCHING DARK CHAMBERS
+
+You're lost in Dark Chambers.  Enemies, treasures, and curses are
+scattered through all 26 levels from A to Z.  Your goal is to survive
+all levels and take the greatest amount of treasure.  Only by finding
+the hidden gates can you descend from one level to the next.
+
+Your enemies -- dangerous ghouls -- are everywhere.  At times they'll
+chase you.  Other times they'll chase you.  Other times they'll back
+off, but its a ploy -- they're trying to lead you further from the
+exits.
+
+Move your joystick handle to move through the chambers.  (In the early
+levels of play, beware of false doors that won't open.)  Search each
+chamber for treasures and weapons.  Pick them up by walking over them. 
+(The treasures and weapons you pick up appear at the bottom of the
+screen.)
+
+Stay away from the curses -- traps and poison.  If you touch them,
+they'll take away your strength.  Go through the exits to move on. 
+(In a two-player game, you won't be able to walk any farther than you
+can see unless your partner goes with you.)
+
+Ghouls drain your strength by touching you.  Shoot them by moving your
+jothey'll take away your strength.  Go through the exits to move on. 
+(In a two-player game, you won't be able to walk any farther than you
+can see unless your partner goes with you.)
+
+Ghouls drain your strength by touching you.  Shoot them by moving your
+joystick handle in their direction and pressing the fire button.  Be
+watchful, though, because you can't walk while you're shooting. 
+Ghouls will use that time to move in and touch you.
+
+Potions are also hidden in the chambers.  When you find one, pick it
+up to renew your strength.  A bar at the bottom of the screen shows
+how much strength you have left (up to 31 units).
+
+Strength Bar [image of a bar]
+
+Find the hidden gate to escape from a level and descend to the next. 
+As long as you have strength left, you can go through all 26 levels. 
+If you lose all your strength, you collapse and the game is over.
+
+In a two-player game, if one hero collapses, the keys are given to the
+other hero.  If the surviving hero makes it to the next level, the
+other hero revives on that level.
+
+When a game is over, press the fire button or [Reset] to start a new
+game at the last level played.  Press [Select] at any time to start a
+new game from the title screen.
+
+
+HEROES, TREASURES, AND POWERS
+
+You're the hero, caught in the maze of Dark Chambers
+
+Hero 1 [Image of a person.  He looks like a candle with feet on both   
+       sides.  The head slopes from left to right.  There is a         
+       diagonal white slash that goes from the upper left side of the  
+       body to the center of the body.]
+
+Hero 2 [Image of a person.  He also looks like a candle with feet only
+       on the right side.  The head slopes up a little from the left   
+       to the middle of the body, then it slopes back down to the      
+       right.  There is a slash that goes from the upper middle of the
+       body to the bottom right side of the hero's waist]
+
+Pick up potions to increase your strength.  (When your strength bar is
+full, you don't need the potions.)
+
+[Image of a flask-like-object]
+
+The more keys you pick up, the more doors you can unlock to enter
+secret rooms.  Each key unlocks one door.  You can carry up to 15
+keys.
+
+[Image of a key]
+
+Pick up weapons for defense.  Guns let you fire faster.  Daggers make
+your shots more powerful.  Shields minimize the amount of strength you
+lose when an enemy touches you.  When you're carrying a weapon, a box
+appears next to your strength bar. 
+
+Guns [Image of a gun]
+
+Daggers [Image of a cross]
+
+Shields [Image of a medieval shield with a white cross on it]
+
+Set off bombs to slay all ghouls and curses in the area you're in. 
+Grab the bomb and press the fire button twice quickly.  Or carry it
+(up to 15 bombs), and detonate it when the time is right.
+
+[Image of a bomb. It looks like one of the bombs from Kaboom!]
+
+Gates lead to the next level
+
+[Image of a hollow rectangle that is standing up.  There is a
+horizontal line about a quarter of the way from the bottom.  On top of
+this line, is two rectangles.  A small one sits on top on the large
+one.  The large one sits on the line.  Both of the boxes are inside
+the hollow rectangle.]
+
+Grab the strongboxes, jewels, and silver and gold chalices to earn
+points.
+
+Strongbox [Image of a box.  It has three white squares near the top    
+          wear the key hole is.  There is a small lid That sits on top
+          of the box.]
+
+Jewel [Image of a necklace.  It has a huge stone, and the necklace is
+      open at the top.]
+
+Chalice [Image of a chalice.  A chalice looks like a "Y".]
+
+
+DENIZENS AND CURSES OF THE DARK CHAMBERS
+
+The inhabitants of Dark Chambers drain your strength by touching you. 
+When shot, they mutate to the next weaker form.
+
+Zombies are the weakest form.  They explode when you slay them.
+
+[Image of a rectangle with feet, a hat brim, and a huge nose.  There
+is a white piece missing in the middle of its body.]
+
+Wraiths want to scare you crazy.
+
+[Image of a thing that looks like a Master Lock.  The base is a
+rhombus with an inverted "U" on top of it.]
+
+Skeletons shake their bones, coveting you skin.
+
+[Image of a skeleton]
+
+Wizards hate live heroes.  They attack without mercy.
+
+[Image of a wizard.  He had the familiar wizard hat and robe on]
+
+Grim reapers are the strongest form.  They'll slice you down if you
+let them get close.
+
+[Image of the Grim Reaper.  He is wearing a rob, and has an inverted
+"U" on his head.]
+
+Spawners hatch new ghouls.  They also hide treasures, weapons, curses,
+and gates. Shoot them to discover what they're guarding.
+
+[Image of a head with a two eyes and a straight-face.  It has an "X"
+beneath the head]
+
+Traps and Poisons drain your strength if you tough them.
+
+Traps [Image of a hollow square with an "X" going through the middle  
+      of it]
+
+Poisons [Image of a flask-like-object.  It has a white "X" on it.]
+
+
+
+SCORING
+-------
+
+Slay the ghouls and pick up treasures and potions to score points. 
+Scores appear at the bottom of the screen, next to your strength bar.
+
+
+GHOULS AND CURSES
+
+Spawner: slaying.................................100 points
+Grim reaper:  slaying............................100 points
+              touching......................-5 energy units
+Wizard:  slaying..................................50 points            
+         touching...........................-4 energy units
+Skeleton:  slaying................................30 points
+           touching.........................-3 energy units
+Wraith:  slaying..................................20 points            
+         touching............................-1 energy unit
+Trap:  touching.............................-6 energy units
+Poison:  touching...........................-4 energy units
+
+
+TREASURES AND POTIONS
+
+Gold chalice....................................3000 points
+Amulet..........................................1000 points
+Silver chalice...................................500 points
+Strongbox........................................100 points
+Potion.......................................+3 energy dabs
+
+
+
+And of course, this game was made by ATARI in 1983/1988.  And this game 
+manual was typed in by me!  And I am Eddie Beiles.  I can be reached at 
+beiles@email.unc.edu if you have any questions about this game manual.  Or 
+you can email me and thank me for typing it in.  Anyway, enjoy the game 
+and this wonderfully typed in manual.
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

@@ -1,0 +1,139 @@
+SUPER CHALLENGE FOOTBALL
+
+by M Network
+c 1982
+
+INSTRUCTIONS (for 2 players only)
+---------------------------------
+
+The object of the game is to out-score your opponent.  There's passing,
+rushing, blocking, and touchdowns!  Simulated 15 minute quarters.  You set
+both offense and defense.  Individual control of both the quarterback and
+linebacker.
+
+
+
+THE GAME
+--------
+
+This is two player gridiron action!  One player controls the Home Team, the
+other player controls the Visitors.  There are 5 men on offense: 4 linemen
+and the quarterback.  There's a 5 man defense: 4 linemen and the
+linebacker.  The team with the flashing ball has possession.
+
+The field is regulation 100 yards.  Each quarter begins on the 20 yard
+line.  As a team moves downfield, the field moves too!  The score, time
+left in the quarter and first down markers are displayed during play. 
+During the huddle you will see downs and the quarter of play.
+
+There's passing, rushing, tackling, interceptions and incompletes.  No
+kicks!  No out of bounds.  Touchdowns count 7 points (point after touchdown
+is automatic), 2 points for a safety.
+
+Check out all the stats during the huddle.  [Image of the screen.  The
+quarter time is at the upper center of the screen.  The score is the two
+numbers around the quarter time.  The defensive men don't have the ball. 
+The down and the quarter are the numbers at the bottom center of the
+playing field.  The first down yardage is the blue marker in front of the
+ball.  The offensive men is the team with the ball.]
+
+
+
+THE CONTROLLERS
+---------------
+
+Use your joystick controllers with this game.  Be sure the controller
+cables are securely plugged into the back of your game console.  Hold the
+controller so the red button is to your upper left.
+
+
+OFFENSIVE PLAY CALLING
+----------------------
+
+Before each play, when the teams are lined up on the field, program the 4
+linemen.  Before being programmed, each lineman faces the quarterback. 
+After being programmed, each lineman faces the opposing team.  Now choose
+one of five running patterns, and program all 4 linemen.  Here's how:
+
+  Push red button, without moving joystick: designates the actual pass
+  receiver.  (Only Program one actual receiver!)
+
+  Push up: offensive player will block upward
+
+  Push down: offensive player will block downward
+
+  Push* toward quarterback: offensive player will block straight ahead
+
+  Push* toward other team: offensive player will go out for a pass as decoy
+  receiver
+
+  * push left or right, depending on field position.
+
+
+DEFENSIVE PLAY CALLING
+
+Before each play, when the teams are lined up on the field, program the 4
+defensive linemen.  Before being programmed, each lineman faces the
+linebacker.  After being programmed, he faces the opposing team.  Now
+choose one of four defensive moves, and program all 4 defensive linemen. 
+Here's how:
+
+  Push up: defensive player will rush up then go for QB
+
+  Push down: defensive player will rush down then go for QB
+
+  Push* toward other team:  defensive player will rush offensive player
+  straight on then rush the QB
+
+  Push* toward linebacker: defensive player covers offensive counterpart
+  going out for a pass
+
+  * push left or right, depending on field position
+
+
+TO HIKE:
+
+After all the offensive and defensive men have been programmed, offense
+presses the RED BUTTON to hike the ball.  Once the ball is hiked, linemen
+carry our their programmed patterns.
+
+
+TO RUN:
+
+Once the ball is hiked, control the quarterback and linebacker with your
+respective joysticks.
+
+
+TO PASS:
+
+Once the ball is hiked, press the RED BUTTON and the quarterback passes the
+ball towards the receiver.  Once the pass is in motion, the Joystick
+controls the receiver.  Move him to complete the pass.
+
+
+
+WINNING TIPS
+------------
+
+* A quick way to catch the ball carrier is to run off one end of the 
+  field.  You quickly reappear at the other end.  This is useful when the 
+  linebacker is way behind the quarterback.  Go off the screen and appear 
+  ahead of the quarterback at the other end.
+
+* Use directional blocking (up/down) to open up a hole in the offensive
+  line, then run through it!
+
+* Program several linemen to go out for a pass.  (Remember, only one actual
+  receiver.)  This fakes out defense!
+
+IMPORTANT:  Be sure to turn your game unit off when not in use.
+
+
+
+And of course, this game was made by Mattel Electronics in 1982.  This game
+manual was typed in by me!  Who am I?  I am Eddie Beiles.  I can be reached
+at beiles@lambada.oit.unc.edu if you have any questions about this game
+manual.  Or you can email me and thank me for typing it in.  Anyway, enjoy
+the game and this wonderfully typed in manual.
+
+

@@ -1,0 +1,296 @@
+                             ATARI(R) 2600(TM)
+
+                       SWORDQUEST(TM) EarthWorld(TM)
+
+NOTE: Always turn the console POWER switch OFF when inserting or removing an
+ATARI(R) Game Program(TM) cartridge. This will protect the electronic
+components and prolong the life of your ATARI 2600 Video Computer System(TM)
+game.
+
+(C) 1982 ATARI, INC. ALL RIGHTS RESERVED
+
+                  ATARI(R) GAME PROGRAM(TM) INSTRUCTIONS
+
+                           TABLE OF CONTENTS
+
+1. EARTHWORLD(TM)                                      1
+--------------------------------------------------------
+
+2. GAME PLAY                                           2
+--------------------------------------------------------
+
+3. USING THE CONTROLLER                                6
+--------------------------------------------------------
+
+4. CONSOLE CONTROLS                                    8
+--------------------------------------------------------
+
+5. HELPFUL HINTS                                       8
+--------------------------------------------------------
+
+                          1. EARTHWORLD(TM)
+
+WARNING: All you who enter EarthWorld will encounter danger, trials, tests, and
+obstacles. All will have an equal chance to decipher the hidden message.
+
+Welcome to EarthWorld. This is the first in a series of four world that you
+must pass through on your quest for the Sword of Ultimate Sorcery.
+
+As you explore EarthWorld, you will traverse 12 rooms, each named after a sign
+of the zodiac. You will encounter danger such as the horns of a charging Taurus
+bull, and you will be called upon to demonstrate your skill and ingenuity.
+
+A variety of magical objects will assist you in the challenging journey ahead.
+These are strewn about the various zodiac chambers. Carrying certain objects
+along with you helps with game play. For example, the lamp allows you to see
+the charging horns in the dark bull pit of Taurus. By leaving the right
+combination of objects in the right zodiac chamber, you'll discover
+illuminating clues. These clues may:
+
+1. Refer back to the enclosed comic book and hint at the solution to the
+EarthWorld puzzle.
+
+2. Refer to the next world in the SWORDQUEST series, FireWorld(TM).
+
+3. Help you solve the final puzzle of all four SWORDQUEST cartridges combined.
+
+Be off with you! EarthWorld awaits your careful exploration.
+
+                              2. GAME PLAY
+
+As an explorer and clue seeker in the subterranean landscape represented in
+this game cartridge, your objective is to find the hidden clues and solve the
+puzzle.
+
+In EarthWorld are 12 special rooms, each bearing a sign of the zodiac on its
+wall. FIGURE 1 shows a zodiac chamber and FIGURE 2 shows the symbols for all
+of the zodiac rooms. Travers the 12 rooms and select magic objects. You can
+take 6 objects at a time. Then, as you leave the right obejcts in the
+appropriate rooms, you'll receive clues that will help you solve the puzzle.
+
+(Figure 1 shows: Object in Room - something on the top of the screen, which
+are items you can pick up or drop. The Door is how you get out of the Zodiac
+Chamber, on the lower left. The Zodiac Sign is the middle item on the bottom
+row. The Cursor is you, and you can move it with the Joystick controller.)
+
+(Figure 2 shows all the Zodiac Room Symbols: Aries is in a dark yellow room,
+Pisces is in light blue, Aquarius is in purple, Capricorn is in light green,
+Sagittarius is in light yellow, Scorpio is in red, Libra is in tan, Virgo is
+in dark pink, Leo is in dark green, Cancer is in orange, Gemini is in dark
+blue, and Taurus is in light pink.)
+
+As you will recall from reading the EarthWorld comic book, Torr and Tarra must
+use the magical objects to get at the hidden sword. These objects will help
+you as well. Think about what each article could be useful for. You may even
+want to experiment with carrying different combinations from room to room
+before you embark on serious game play. FIGURE 3 shows what each object looks
+like.
+
+(Figure 3 shows the objects: the Key looks like a key, the Rope looks like a
+coil of rope bunched up with a strand hanging at the top, the Amulet has two
+small crosses on each end, one on top and one on bottom, with a rectangle
+split down the middle in between the two crosses, the Lamp looks like a candle,
+the Cloak of Invisibility looks like a circle, the Shoes of Stealth look like
+a pair of shoes, the Dagger is the shortest "sword" out of all the objects,
+the Leather Armor looks like a shield of some sort, the Water looks like a
+pitcher of water, the Food looks like a bottle next to a few pieces of
+something, the Tailsman of Passage looks like a person with a hand being held
+up, the Ring looks like a very small circle, the Necklace looks like a circle
+with a cross on the bottom of it, the Warrior's Sword(*) is the largest of the
+swords, the Short Sword is the sword in the middle of all three swords, and
+the Grappling Hook looks like a hook.)
+
+            * An object you seek in EarthWorld, but not the Sword of Ultimate
+              Sorcery.
+
+By leaving the right object(s) in the right room(s), you will receive a clue
+display (see FIGURE 4). In the center of the clue display is your clue. Pay
+close attention to each clue as it is your key to solving the puzzle.
+
+(Figure 4 shows on the screen: A series of colored lines, and in the middle are
+two numbers. They show 16 and 5 in their example.)
+
+Frequently, a clue refers back to the comic book. For example, the numerals
+16 and 5 in FIGURE 4 could mean: Look on page 16, panel 5 to find a clue that
+will help you solve the puzzle. By trial and error you can learn how to
+interpret EarthWorld's clues. EarthWorld contains 11 clues, some are valid to
+the puzzle, some are not. One clue will help you in the next SWORDQUEST game
+cartridge, FireWorld.
+
+Scattered about EarthWorld are skill and action sequences. In these you must
+cross some barrier to reach a room where you can leave or retrieve objects.
+You must leap from raft to raft to cross the Aquarian rapids (FIGURE 5),
+dodge the spears of Sagittarius and the horns of Taurus (FIGURES 6 AND 7),
+and run throught a roaring waterfall in the jungle of Leo (FIGURE 8).
+
+Your reward for successfully meeting a skill and action test is often an
+object that will work great enchantment for you in the future game play. To
+get out of a skill and action room, press the red button on your controller
+(see Section 3).
+
+(Figure 5 - Rafts in Aquarian Rapids: This shows your characters at the bottom
+of the screen, with many red "rafts" moving left and right across the screen,
+with a door at the top of the screen. Figure 6 - Sagittarius Spears: This is
+almost the same, but this time yellow "spears" moving left and right, with a
+yellow bar at the top of the screen. Figure 7 - Charging Taurus Horns: This has
+short, red "horns" this time, with a red bar at the top. Figure 8 - Leo
+Waterfall: This shows a multi-colored line running vertically down the screen,
+with a break in which you must make your character run.)
+
+FINAL SEQUENCE
+
+When you have performed all the trials and tasks and have done the right things
+with all 15 objects, you will magically be transported back to the SwordQuest
+screen (see FIGURE 9). At the bottom of the screen in place of the copyright
+notice, is your final clue. Read the clue, then push the button on your
+controller. Poof! Now you're in the chamber where the Warrior's Sword awaits
+you. Pick it up, it is yours. You are armed and ready to embark upon the next
+quest, FireWorld.
+
+(Figure 9 - Swordquest First Display: This is what you see when you first turn
+on the game, the title screen.)
+
+                          3. USING THE CONTROLLER
+
+Use your Joystick Controller with this ATARI(R) Game Program(TM) cartridge. Be
+sure to plus the controller cable firmly into the left jack at the back of your
+ATARI Video Computer System(TM) game. Hold the Joystick with the red button to
+your upper left, toward the television screen. (See Section 3 of your Owner's
+Manual for further details.)
+
+TO START GAME
+
+Press the controller button to commence game play. You will be instantly
+transported from the first display (FIGURE 9) into a doorway (FIGURE 10). Press
+the button again and you'll be in a zodiac chamber.
+
+(Figure 10 - Doorway: This is the first thing you see when you start the game.
+There are exits on the left, right, top and bottom of the screen. Your man is
+in the center, and the objects that you carry are at the bottom of the screen.)
+
+CONTROLLER ACTION
+
+Use the Joystick to move your explorer through the maze of rooms. The explorer
+moves up, down, right, left, and diagonally in the same direction you move the
+Joystick.
+
+To pick up treasure, position your cursor over an object and press the red
+button on your controller. The object will appear on the bottom of the screen
+and will move with you through the maze until you deliberately leave it
+somewhere. Once you have 6 items in your inventory, you must drop one to pick
+up an additional item. To leave an object in a room, go to the bottom of the
+screen, position your cursor over the object, and press the red button. The
+object will stay in the room until you retrieve it.
+
+NOTE: You must be in a room that has the sign of the zodiac on its wall in
+order to leave or retrieve a magical object.
+
+To move out of the zodiac rooms, position your cursor on the door (see FIGURE
+1) located next to the zodiac sign and press the red button on your controller.
+You will then be in the doorway of the zodiac room (see FIGURE 10); note that
+it is the same color as the zodiac chamber.
+
+To move out of the doorway and into another zodiac room, walk through any of
+the four exits. You will be sent down a corridor into another doorway. Press
+the red button on your controller and you'll be in a zodiac room or a skill and
+action test which you must pass in order to get to a zodiac room.
+
+NOTE: You will need to carry a magic object to move out of the right and left
+exits of the doorways.
+
+You can leave and re-enter EarthWorld without turning the game off. After about
+20 minutes, the first display will come back (FIGURE 9). When you're ready to
+return to your last position, simply press the red button on your controller.
+
+                            4. CONSOLE CONTROLS
+
+GAME RESET SWITCH
+
+Press the GAME RESET switch during game play to return to the first display
+(FIGURE 9) and start the game over.
+
+GAME SELECT SWITCH
+
+Since EarthWorld consists of one, continuing, adventure-type game, the GAME
+SELECT switch is not used.
+
+DIFFICULTY SWITCHES
+
+DIFFICULTY switches are not used in this game.
+
+TY TYPE SWITCH
+
+Set this switch to COLOR if your television set is color. Set it to B/W to play
+the game on a black and white TV.
+
+                             5. HELPFUL HINTS
+
+1. Play the game with paper and pen. Write down every clue and keep a log of
+every movement and its result for your future reference.
+
+2. Remember that carrying certain objects along helps with game play.
+
+3. If you become frustrated trying to do a skill and action sequence, push the
+red button on your controller and go to another room.
+
+4. Some skill and action sequences may become easier if you wait a while in the
+room itself before trying to do the task.
+
+5. Just because you use an object to obtain one clue doesn't mean that same
+object won't help you in future clues or tasks.
+
+                       SWORDQUEST(TM) EarthWorld(TM)
+
+                 GAME CARTRIDGE LIMITIED NINETY DAY WARRANTY
+
+ATARI, INC. ("Atari") warrants to the original consumer purchaser that your
+ATARI(R) Game Program cartridge is free from any defects in material or
+workmanship for a period of ninety days from the date of purchase. If any
+such defect is discovered within the warranty period, Atari's sole obligation
+will be to replace the cartridge free of charge on receipt of the cartridge
+(charges prepaid, if mailed or shipped) with proof of date of purchase at
+either the retail store where the cartridge was purchased or at one of the
+ATARI Regional Service Centers listed below:
+
+Atari, Inc.                             Atari, Inc.
+1312 Crossman Ave.                      5400 Newport Dr.
+Sunnyvale, CA 94086                     Suite 1
+                                        Rolling Meadows, IL 60008
+
+Atari, Inc.                             Atari, Inc.
+12 B World's Fair Dr.                   2109 East Division St.
+Somerset, NJ 08873                      Arlington, TX 76001
+
+This warranty shall not apply if the cartridge (i) has been misused or shows
+signs of excessive wear, (ii) has been damaged by being used with any products
+not supplied by ATARI, or (iii) has been damamged by being serviced or
+modified by anyone other than an ATARI Regional Service Center.
+
+ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND
+FITNESS, ARE HEARBY LIMITED TO NINETY DAYS FROM THE DATE OF PURCHASE.
+CONSEQUENTAL OR INCIDENTAL DAMAGES RESULTING FROM A BREACH OF ANY APPLICABLE
+EXPRESS OR IMPLIED WARRANTIES ARE HEARBY EXCLUDED.
+
+Some states do not allow limitations on how long an implied warranty lasts or
+do not allow the exclusions or limitations of incidental or consequential
+damages, so the above limitations or exclusions may not apply to you.
+
+This warranty gives you specific legal rights and you may also have other
+rights which vary from state to state.
+
+                                 |||
+                                 |||
+                                / | \
+                               /  |  \
+                              /   |   \
+                               ATARI(R)
+
+ATARI, INC., Consumer Division, P.O. Box 427, Sunnyvale, CA 94086
+A Warner Communications Company
+
+---------------------------------------------------------------------
+_____________________________________________________________________
+C019741-56 REV. 1 CX2656     (C) 1982 ATARI, INC. ALL RIGHTS RESERVED
+                         Printed in U.S.A.
+
+

@@ -1,0 +1,209 @@
+FATHOM
+
+by Imagic
+c 1983
+
+Game program designed by Rob Fulop
+Graphics assisted by Michael Becker and Wilfredo Aguilar
+
+
+Titans have imprisoned Neptina, Neptune's daughter!  They've shattered his
+magical Trident and scattered its pieces far and wide.  Without his trident,
+Neptune is powerless.
+
+Proteus, a member of Neptune's Court, longs to free the lovely mermaid.  
+He sets out to find the missing pieces of the Trident.  He roams land and 
+sea, changing from a dolphin to a seagull and back again in order to 
+deceive the mermaid's captors.  Deadly trials confront Proteus -- 
+octopuses, tangled beds of kelp, screaming flocks of black birds, even 
+erupting volcanoes!  But he fights on valiantly!
+
+
+
+OBJECTIVES
+----------
+
+Locate the three missing pieces of Neptune's Trident and free Neptune's 
+daughter 7 times from her prison at the bottom of the sea.  
+* Switch forms from dolphin to seagull to search the sea and the sky for the
+  three pieces of the Trident.
+  * Learn to make magical stars appear in the sky and the starfish appear 
+    in the sea.  They are your key to finding the Trident pieces!
+  * Once you have the Trident, swing to the bottom of the sea and free the
+    mermaid! Hurry!  Time is ticking down!
+
+
+
+GETTING STARTED
+---------------
+
+* Insert cartridge and turn power on.
+* To begin action:  Flip Game Reset Lever.
+* Time begins ticking down when the dolphin dives underwater.
+
+
+
+DIVING DOLPHIN
+--------------
+
+* You begin every game as a dolphin.
+  * To swim, press and hold the red button.  Release the button to stop 
+    swimming.
+  * Use the joystick to control the direction the dolphin swims.
+* As you swim, avoid octopuses and strings of seaweed.  You lose valuable 
+  points if you touch them.
+* Touch all the SEA HORSES you can.
+  * You earn points for every sea horse you touch.
+  * A starfish may appear if you manage to touch all the sea horses in one
+    section before leaving that section.
+* You can acquire a piece or pieces of the Trident by touching starfish.  The
+  Trident parts will appear at the bottom of the screen.
+* Touch the right number of sea horses and a bird symbol appears at the 
+  bottom of your screen.  With it you can turn into a seagull when you 
+  surface.
+
+[Image of the screen.  The colors I use are the ones in the picture 
+inside the manual.  The dolphin is the character you control and is 
+yellow.  The Octopus look more like jellyfish.  Their tops and red, and 
+their tentacles are white.  The seaweed looks like green plants.  The sea 
+horse has a white head and a purple tail.  The following objects are 
+located below the playing screen.  The fish symbol looks like your 
+dolphin.  The bird symbol looks like a cross between a "v" and a picture 
+of a bulls head (like the Long Horn's of Texas logo).  The trident looks 
+like a fancy fork.  The fish symbol, bird symbol and trident are all
+yellow-orange.  The level number is the white number that is between 1 
+and 9 (on the left), and the time/score is the other white number (on the 
+right).
+
+
+
+WINGIN' IT
+----------
+
+When the dolphin leaps out of the water, you'll become the seagull, 
+provided you have the bird symbol.
+* To fly, press the red button once for each flap of your wings.
+  * The more often you press, the higher and faster you'll fly.
+  * To glide, stop pressing the button.
+  * Use the joystick to direct the seagull.
+* Fly off the screen to the right or left, as well as up into the 
+  clouds.  Each time you free Neptina, you can fly farther and higher than 
+  before!
+* Touch the pink CLOUDS.
+  * You earn points for every pink cloud you touch.
+  * A star may appear if you manage to touch all the clouds in one 
+    section of the sky before leaving that section.
+    * Remember:  stars are your key to finding pieces of the Trident!
+  * You have a limited number of chances to touch pink clouds before they 
+    turn grey.
+    * Grey clouds can also lead to lucky stars, but touching grey clouds 
+      costs you points!
+* Touch the right number of clouds and a fish symbol appears at the 
+  bottom of the screen.  With it you can change back into a dolphin.
+* Avoid running into black birds.  Collisions subtract points from your 
+  score!
+
+[Image of the screen.  The black birds are the black things that fly.  
+The pink clouds are the pink fluffy things.  The star is the yellow five 
+pointed star that has lines coming out of it (showing that it is 
+shinning).  The seagull is the bird that you control.  Its body is white, 
+its wings are grey, and the tip of its wings are black.]
+
+
+
+FLYING THE HORIZON
+------------------
+
+* After changing into a seagull, while the dolphin appears on the screen, 
+  you can only fly to the left or right.
+* Once the dolphin is out of view, you can fly higher.
+* Similarly, when a volcano appears on screen, you can only fly to the 
+  left or right, not up.  Once the volcano is out of view, you can fly 
+  higher.
+  * Eerie volcanoes cover the landscape.  You cannot pass the first 
+    volcano until you succeed in freeing Neptina for the first time.  After 
+    that, you can reach more distant volcanoes each time you free the 
+    mermaid.
+* Each time you free the mermaid, the gods extend the territory you can 
+  cover by adding one section each of sky, land, and sea in every direction.
+* With more territory to cover, each level becomes more difficult!  
+  Finding a lucky star on higher levels will take a lot of shill and 
+  daring!  Good luck!
+
+
+
+SCORING
+-------
+
+* The Level number appears at the bottom left of the screen.  All games 
+  begin at Level 1.
+* If you free Neptina, you automatically advance to the next level (2, 3 
+  etc.).  Your score for the new Level returns to 50.
+* When you free Neptina, the points you earn on the Level are added to 
+  the point bank with the total number of points earned on all previous 
+  Levels.
+* The points you earn are multiplied by the Level number you are on.  
+  Example:  Earn 50 points on Level 2 and 100 points are stored in the 
+  point bank (50 x 2 = 100).
+
+
+FOR A HIGH SCORE
+
+  * Run into all the sea horses and pink clouds you can.  They're worth 
+    points.
+  * Avoid obstacles -- black birds, grey clouds, octopuses, seaweed and
+    volcanoes.  They cost you points!
+* Time freezes when the dolphin and the seagull appear on screen 
+  together.  Otherwise you lose points as the seconds tick away.
+
+
+GAME ENDS WHEN:
+
+* Your points reach zero.  When this happens, the dolphin or seagull 
+  disappears.  To resume play, hit Game Reset.
+* You run out of chances to get starfish.  This happens when sea horses stop
+  appearing before the dolphin succeeds in getting a fish symbol to   
+  appear.  To resume play, hit Game Reset.
+* When the game end, you will see your final score.  The number of levels you
+  achieved is indicated by the number of hears that appear.
+* Free the mermaid seven times and watch for a special surprise!
+
+
+
+SURVIVING LEVEL ONE!
+--------------------
+
+Here's how to fin and fly through Level 1.  After that you're on your own!
+
+As the dolphin swims down, octopuses and two sea horses appear.  Touch 
+both sea horses.  Then touch the starfish that appears.  A piece of the 
+Trident now shows at the bottom of the screen.  Note:  You must reach 
+both sea horses and the starfish without leaving that section of the 
+sea.  If you don't, return to the surface and try again.
+
+Next dive through lines of seaweed.  More sea horses appear.  touch one 
+and a bird symbol shows at the bottom of your screen.  Return to the surface 
+now, or try to reach other sea horses for additional points.
+
+Jump out of the water when you reach the surface.  Fly to the left or 
+right.  Land appears.  Flap your wings hard and fly up.  Touch two pink 
+clouds in that section of the sky and a star appears.  Touch it.  You'll 
+have another piece of the Trident.  Return to the dolphin.  Fly until you 
+reach land on the other side.  Repeat the game of tag with pink clouds.  
+Touch one pink cloud and acquire a fish symbol; touch the other and a 
+star appears.  Touch the star and the third piece of the Trident is 
+yours.  Return to the dolphin, change forms and dive for the bottom.  
+when you arrive, the mermaid's prison will dissolve.
+
+
+And of course, this game was made by IMAGIC in 1983.  This game manual 
+was typed in by me!  Who am I?  I am Eddie Beiles.  I can be reached at
+beiles@lambada.oit.unc.edu if you have any questions about this game 
+manual.  Or you can email me and thank me for typing it in.  Anyway, 
+enjoy the game and this wonderfully typed in manual.
+ 
+
+
+
+
+

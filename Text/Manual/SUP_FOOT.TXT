@@ -1,0 +1,407 @@
+ATARI 2600 TM Game Manual
+
+SUPER FOOTBALL
+
+
+
+TABLE OF CONTENTS
+
+
+INTRODUCTION                                                 1
+     Scramble for the Touchdown                              1
+     Getting Started                                         1
+
+PLAYING THE GAME                                             3
+     Buckle Down and Score                                   3
+     The Scoreboard                                          4
+     Running the Play                                        5
+          Passing                                            5
+          Running                                            5
+     Selecting Plays                                         6
+     Super Football Playbook                                 7
+          Offensive Plays                                    7
+          Defensive Plays                                    9
+
+SCORING                                                     11
+
+
+
+INTRODUCTION
+
+Scramble for the Touchdown
+
+Super Football offers 3-D football action. On screen, you get a
+full view of the field from above and behind the offensive team.
+And you control the action as the players line up, kick, run,
+pass, and score.
+
+You can play Super Football on any one of four game levels. As
+you advance to higher levels, game play lasts longer and the
+action heats up. You'll even select formations and patterns to
+run the game your way. To win, your five-player team has to score
+more points than your opponent's, with touchdowns, extra points,
+and field goals.
+
+During game play, the clock runs continuously. There are no
+time-outs, fumbles, penalties, safeties, or running out of bounds
+in Super Football, so your game continues uninterrupted while you
+rack up points.
+
+With Super Football, it's nonstop gridiron action until the final
+whistle!
+
+Getting Started
+
+1.   With the television turned on, insert your Super Football
+     cartridge into your Atari 2600 (or 7800) as explained in
+     your Owner's Manual, and then turn on your console. The
+     Super Football title screen appears.
+2.   Plug a joystick into the left controller port for a
+     one-player game; plug a second joystick into the right
+     controller port for a two-player game.
+
+3.   Press [Selectl or push the left joystick handle in any
+     direction to see the selection screen. On the scoreboard at
+     the top, the game level is displayed in the top row on the
+     left and the number of players is displayed on the right.
+     Push the joystick handle left or right to choose a game
+     level. Push it forward or back to select a one-player or
+     two-player game. (You can also press [Selectl to make your
+     choices.) 
+
+     You can choose a game level from 1 to 4. The higher level
+     games are more difficult and last for a longer time.
+
+          Level          Time
+          
+     1 (Novice)     3 minutes per quarter
+     2 (Standard)   7 minutes per quarter
+     3 (Advanced)   10 minutes per quarter
+     4 (Expert)     15 minutes per quarter
+
+4.   Press [Resetl or the left joystick fire button to start the
+     game.
+
+5.   If you are using an Atari 2600, you can pause during a game
+     by moving the TV-type switch to BW. Move the switch back to
+     COLOR to resume play.
+
+6.   During a game, you can press [Reset] to restart the game or
+     press [Select] to return to the selection screen.
+
+
+PLAYING THE GAME
+
+Buckle Down and Score
+
+The game begins with both teams running onto the field and taking
+their positions on the scrimmage line. Player 1's team (left
+joystick control) wears red jerseys, and the computer's or player
+2's team (right joystick control) wears green jerseys. Once the
+action starts, the man currently under joystick control on each
+team will have a slightly different-colored jersey. 
+
+The defensive (red) team faces you. The green team kicks off to
+the red team, and the red team's receiver catches the ball.
+
+The red receiver is now under player 1's joystick control. Move
+your joystick in any direction to maneuver him up the field
+toward the end zone, while avoiding the greenteam's players. When
+the receiver is tackled, the two teams take their positions on
+the scrimmage line, with the offensive team at the bottom of the
+screen.
+
+With both teams at the scrimmage line, you have an opportunity
+to choose your plays. (See Selecting Plays.) Then the action
+continues.
+The Scoreboard
+
+The scoreboard at the top of the screen shows both teams' scores
+on the top line. On the second line, the number on the left shows
+which yard line the ball is currently on. The number on the right
+shows how many yards the ball must be moved in order to get a
+first down. The down that's underway is indicated by one to four
+flags in the center of the scoreboard. The quarter indicator in
+the lower left corner shows which quarter the game is in by
+displaying one to four vertical bars. The clock on the bottom
+line keeps track of time remaining in the quarter.
+
+The scoreboard is red when the ball is in the defensive half of
+the field and blue when the ball is in the offensive half. The
+game begins with the green team kicking off to the red team. Play
+stops at the end of the second quarter (halftime), and then the
+red team kicks off to the green team. The game ends when the
+clock reaches 00:00 in the fourth quarter.
+
+At the end of a game, press [Reset] to play again with the same
+number of players at the same level, or press [Select] to make
+a different game selection.
+
+
+Running the Play
+
+With both teams at the scrimmage line and the plays selected, the
+offense can press the joystick fire button to hike the ball. (The
+ball will automatically be hiked after about four seconds if the
+fire button is not pressed.) 
+
+Once the ball is hiked to the quarterback, both teams carry out
+their plays. The defensive rusher will rush the quarterback, the
+offensive receiver will run the selected pattern, the halfback
+(or tight end) will try to block the rusher, the linemen will
+block, and the cornerback and safety will try to cover the
+receiver. When the quarterback has the ball, he is under joystick
+control. The quarterback can either run with the ball or pass to
+the receiver, depending on the play selected.
+
+
+PASSING
+
+Wait until the receiver is "open" before throwing the ball to
+him; then press the fire button to initiate a pass. You can move
+your joystick handle left or right to make the quarterback "lead"
+the receiver and throw the ball in that direction. Release the
+fire button to pass the ball.
+
+Note: The quarterback cannot pass the ball once he crosses the
+scrimmage line.
+
+
+RUNNING
+
+You can decide either to make the quarterback run with the ball
+or pass to a receiver, depending on the play selected. Once the
+ball is thrown, joystick control switches to the receiver. Move
+the joystick handle to get the receiver in a good position to
+make the catch. 
+
+Maneuver your ball carrier up the field. Move your joystick to
+make him avoid defensive players, and use your blockers as
+shields.
+
+When the ball carrier is tackled, the teams go to the scrimmage
+line for another play selection.
+
+The offensive team has four "downs" to advance the ball 10 yards.
+If it is the fourth down, you can punt the ball or try for a
+field goal (if you are within 50 yards of the goalline). If the
+offense misses a field goal, the defense takes the ball. If a
+punt is kicked into the end zone, the defense takes over at the
+20-yard line.
+
+A touchdown is scored when the ball carrier crosses the goal line
+in the end zone. The teams then run onto the field to try for the
+extra point. After the extra point try, the offense kicks off to
+the defense.
+
+Note: The ball carrier cannot be tackled between the 5-yard line
+and the goal line. 
+
+If the defensive team intercepts a pass thrown by the offensive
+quarterback, the defensive team becomes the offense and attempts
+to move the ball up the field toward the goal at the top of the
+screen. No runback is allowed onan interception. 
+
+
+Selecting Plays
+
+When the teams go to the scrimmage line, you select a play by
+moving the joystick. Once you have made yourselection, lock it
+in by pressing the fire button.
+
+Note: At game level 1 (Novice), plays are automatically selected.
+
+At the fourth down, either a punt or a field goal will take
+place. The offense has about 25 seconds to select its play and
+lock it in. If no play is locked in, the previous play will be
+used. After the offense selects its play, the defense has two to
+four seconds (depending on the game level) to select its play.
+Again, if no play is locked in, the previous play will be used.
+
+The plays you select appear on the scoreboard, in place of your
+score. When both teams' plays are locked in, the scores reappear
+and play resumes.
+
+
+Super Football Playbook
+
+OFFENSIVE PLAYS
+
+The offense can select both a formation and a pattern (the route
+the receiver will run). The formation number appears as the left
+digit of your score and the pattern number as the right digit.
+Move the joystick handle left or right to choose a formation
+(from 1 to 9). Move the joystick handle forward or back to choose
+a pattern (from 1 to 4).
+
+Once the play is under way, use the joystick to control the
+quarterback or the receiver, depending on which man has the ball.
+
+On motion plays, the halfback will go into motion before the ball
+has been hiked. When the ball is hiked, the halfback will begin
+the pattern from that point if he is the receiver. On run plays,
+the quarterback still has the optionto pass.
+
+
+Offensive Formations
+
+H = Halfback          W = Wide receiver
+Q = Quarterback       X = Oher players
+T = Tight end   
+
+1    Run right                          X    X    W
+     option pass                   H
+                                        Q
+
+
+2    Wide right                         X    X    W
+                                   H
+                                        Q
+
+
+3    Run left                 W         X    X
+     option pass                   H
+                                        Q
+
+
+5    Halfback pass                 X    X    X
+     motion left                                  H
+                                        Q
+
+
+6    Halfback pass                 X    X    X
+     motion right             H
+                                        Q
+          
+
+7    Tight end pass                T    X    X
+     fake motion right        H
+                                        Q
+
+
+8    Punt formation
+
+
+9    Field goal formation
+
+
+Note: When the offense selects either formation 8 or 9, the
+defense auomatically selecs the same formation.
+
+Offensive Patterns
+
+The receiver (wide receiver tight end or halfback) will start the
+play by running up the field (to the dotted line indicated
+below). At that point the receiver will run to points on the
+field depending on the pattern you selected.
+
+                    Point 2
+                       X
+Point 1   Point 4             Point 5   Point 3
+   X         X                   X         X
+..................
+
+______________________ XX ___________________ Scrimmage Line
+
+
+
+1    Run to point 2, point 3, point 4 then improvise
+
+2    Run to point 2, point 1, point 5 then improvise
+
+3    Run to point 1, point 5, then improvise
+
+4    Run to point 3, point 4, then improvise
+
+
+DEFENSIVE PLAYS
+
+The offense selects a formation, and the formation number appears
+as the left digit of your score. Move the joystick left or right
+to choose a formation (from 1 to 9).
+
+Once the play is under way, use the joystick to control the
+cornerback.
+
+On a blitz, the defense will rush two players. The safety plays
+a deep zone and will track either the wide receiver or the
+quarterback.
+
+
+Defensive Formations
+
+C = Cornerback                X = Other Players
+S = Safety
+
+
+1    Wide coverage                           S
+     left                          C         
+                                        X    X    X
+
+
+2    Wide coverage                           S
+     right                                             C
+                                        X    X    X
+
+
+3    Motion prevent                          S
+     defense                                 C
+                                        X    X    X
+
+
+4    Bliz corner                             S
+     right                                             C
+                                        X    X    X
+
+
+5    Blitz corner                            S
+     left                          C
+                                        X    X    X
+
+
+6    Run right                               S
+     defense                                           C
+                                        X    X    X
+
+
+7    Run left                                S
+     defense                       C    
+                                        X    X    X
+
+
+8    Punt formation
+
+
+9    Field goal formation
+
+Note: When the offense selects either formation 8 or 9 the
+defense auomatically selects the same formaion.
+
+
+SCORING
+
+Touchdown                                             6 points
+Field goal                                            3 points
+Extra point                                            1 point
+
+
+Every effort has been made to ensure the accuracy of the product
+documentation in his manual. However because Atari Corporaion
+isconstantly improving and updating its compuer hardware and
+software it is unable to guarantee the accuracy of printed
+material after The date of publication and disclaims liability
+for changes errors or omissions.
+
+Atari, the Atari logo, Super Football, 2600, and 7800 are
+trademarks or registered trademarks of Atari Corporation.
+
+Reproduction of all or any portions of his manual is not allowed
+without the specific written consent of Atari Corporation. 
+
+ATARI
+
+Copyright (c) 1988 Atari Corporation
+Sunnyvale CA 94086
+All rights reserved.
+
+Printed in Hong Kong          C300016-154  Rev.  A

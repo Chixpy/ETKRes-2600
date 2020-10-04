@@ -1,0 +1,100 @@
+FROGGO GAMES (TM)
+Cruise Missile (TM)
+Instructions
+
+Cruise Missile
+
+   Cruise Missile is a full-color action game for one player.  It is
+designed to be played on the ATARI(R) Video Computer System(TM) VCS 2600 and
+7800.
+   You control your own Starship in this space battle which takes place in the
+galaxy of Interwand.  Your Interwand Starship is equipped to do battle with 
+the enemy guard towers and spaceships of the planet Antiwand.
+   Your mission is to destroy the guard towers that protect the underground
+enemy settlement and enter the secret tunnel that leads to Antiwand.  You
+must constantly be on the alert and attack the guard towers before they
+collide with and destroy your Starship.  When you have destroyed 10 towers,
+you will go to Level 2 where you can enter the underground world of the
+Antiwands.  It is here that you will do battle with Antiwand spaceships
+and underground missile command towers which will try to destroy your 
+Starship.
+   The more Antiwand towers you destroy, the more the attack speed of the
+towers increases and the tunnel itself grows more and more narrow making
+your journey more perilous than ever.
+
+Instructions for Setup
+
+1. Follow the manufacturer's instructions to connect the ATARI Video
+Computer System to your TV.
+
+2. Install only the Left Joystick control.  The Right Joystick is not used.
+
+3. Make certain that the ATARI power switch is OFF, then insert the game
+cartridge.
+
+4. Set the TV TYPE switch to the proper setting.
+
+5. Set the DIFFICULTY switch to A (slow) or B (fast).
+
+6. Set the CHANNEL 2-3 switch to the proper setting for your TV.
+
+7. Set the POWER switch to ON.
+
+Instructions for Play
+
+1. Push RESET to start or restart Cruise Missile action.
+
+2. There are eight (8) moving and shooting directions on the Joystick: up,
+down, left, right, and four (4) diagonal directions.  Press the RED button
+to fire at the enemy towers and spaceships.
+
+3. You begin with eight (8) Starships which you can control one at a time.
+
+4. You must use your Starship to destroy the two kinds of Antiwand guard
+towers that protect the underground settlement.  You receive 20 points for
+each low tower you destroy and 50 points for each high tower you destroy.
+To destroy the high tower you must hit the firing arm of the tower.
+
+(NOTE: Move your Starship slowly and return to the upper left corner of the
+screen after you finish attacking the enemy.)
+
+5. The game shifts to Level 2 after you have destroyed 10 towers.  Now you
+will have three (3) chances to enter the underground tunnel that leads to
+Antiwand.  If you choose to stay above ground, the firing speed of the towers
+will increase.  To enter the tunnel you must move quickly.
+
+6. Once in the tunnel you must attack and destroy enemy space vehicles and
+underground missile command towers before they destroy you.  The underground
+tunnel will grow more narrow as time passes.  This makes it more difficult
+to negotiate a path for your Starship, so be careful!
+
+7. You receive 50 points when you hit a tower.  The number of points you
+receive for each hit increases as the number of towers you hit increases.
+The highest score you can receive is 360 points.
+
+8. You can also try to pass through the tunnel without ever hitting an
+enemy tower or spaceship.  Whenever you do this, you will receive 20 points.
+The firing speed of the towers doubles if you stay in the tunnel after
+hitting 10 towers.
+
+9. When you hit 50 towers, the ground changes color from green to blue.
+At this time, if you hit 10 more towers (either above or underground), you
+will receive one extra Starship.  The firing speed of the towers will triple
+after you've hit 80 towers.
+
+   Want to be the first to know when our next new Froggo video game becomes
+available?  Just send us a card with your name and mailing address, so we
+can put you on our Special Customer Mailing List.  Also, watch for new
+Froggo video games wherever you buy game cartridges.
+
+FROGGO GAMES CORPORATION
+2685 Marine Way, Bldg. 1219
+Mountain View, CA  94043
+
+ATARI(R) is a registered trademark and Video Computer System(TM) is a
+trademark of ATARI, INC.
+
+FG1007 (C)Froggo Games Corp. Printed in U.S.A.
+
+
+

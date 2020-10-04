@@ -1,0 +1,199 @@
+<Picture>
+
+<Picture>Frogs_N_Flies<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+M NETWORK
+
+FROGS AND FLIES TM
+
+I N S T R U C T I O N S
+ (For 1 or 2 players)
+
+The object of the game is to make frogs catch flies. Points are won by
+manipulating a frog so that he jumps off a lily pad and scoops up flying
+insects with a flashing tongue. Jump him too late and you'll miss. Jump
+him too far and he'll land in the pond. you'll have to wait for him to swim
+back before trying again. Day & night action. Catch more flies than an
+opponent. Or beat your own top score!
+
+For Your Atari* Video Game System
+
+(c) Mattel, Inc. 1982. Hawthorne, CA 90250. PRINTED IN U.S.A. All 
+Rights Reserved.
+
+*ATARI is a trademark of ATARI, INC.
+
+
+THE GAME
+
+With TV set turned on, SWITCH ON the console and press RESET.
+Swamp scene will appear. Press the red button on either joystick. As the 
+action starts, different color frogs sit on side-by-side lily pads. Use the 
+joystick to make your frog jump up and catch flies by touching them with 
+his flashing tongue. Two points for each catch! Scores in contrasting 
+colors at the top of your screen. As the game continues, Day will gradually 
+turn into NIGHT. Game time lasts about three minutes. At the finish, frogs 
+leap off the screen and a title "THE END" will crawl across the sky.
+
+
+THE CONTROLLERS
+
+Use the joystick controllers with this game. Be sure the controller cables 
+are securely plugged into the back of your game console. Each player 
+holds the controller so that the RED BUTTON is to the upper left.
+
+
+DIFFICULTY SWITCHES
+
+In the two player game, both players DO NOT have to play at the same 
+difficulty (skill) level. Adults can give little kids a break by selecting the 
+HARDER level.
+
+DIFFICULTY can be changed at any time - before or during a game.
+
+Push SWITCH to position B for the EASY GAME...
+
+*	Moving the joystick will cause the frog to jump in a fixed arc every 
+time from one lily pad to the other. Frog will not fall in the water in the 
+EASY game.
+
+*	In the easy game frog's tongue can be automatic. As soon as frog 
+gets close enough tongue will flash out by itself and catch the fly. 
+(However, you can ALSO make the tongue flash with the RED 
+BUTTON.)
+
+Push SWITCH to position A for HARDER GAME...
+
+*	Joystick will control how frog jumps - high or low, left or right. No 
+fixed arc.
+
+*	Red button must be pushed to make the frog's tongue flash. Just 
+getting close to the fly won't do it. You must Use the red button.
+
+NOTE: If either player is in the EASY game mode (B position), flies will
+stay in a fairly narrow path at the top of your screen. Flies will be easier to 
+locate & catch. In the HARDER mode (A position) flies will cover a 
+much larger screen area.
+
+Whenever either joystick controller is not used for 15 SECONDS, com-
+puter will take over and jump frog automatically. Automatically con-
+trolled frog will jump every couple of seconds. Tongue flash is also
+automatic.
+
+
+JUMPING THE FROGS
+
+FULL CONTROL (Harder "A" game). Joystick moves frog in 8 
+directions.
+
+			TOP
+			Steep angle
+			jump
+
+
+LEFT (top)					RIGHT (top)
+Steep angle					Steep angle
+Jump						Jump
+
+LEFT (middle)					RIGHT (middle)
+Medium angle					Medium angle
+Jump						Jump
+
+
+LEFT (bottom)					RIGHT (bottom)
+Shallow angle					Shallow angle
+jump						jump
+
+
+			BOTTOM
+			Shallow angle
+			jump
+
+
+
+*	TOP or BOTTOM positions make frog jump the SAME way he is 
+facing already.
+
+*	Left or right move of the Joystick jumps frog that way, left or right.
+
+*	How HIGH frog jumps depends on how LONG you hold the 
+Joystick.
+
+*	QUICK release on the Joystick makes frog take a short jump. 
+HOLDING on a second makes frog take a long jump.
+
+REMEMBER: In the HARDER game just getting close to a fly won't 
+catch him! You MUST work the RED BUTTON. Make frog's tongue 
+flash.
+
+TO START A NEW GAME...Depress RESET control. Swamp will go 
+back to daytime, score will return to zero.
+
+
+WINNING TIPS
+
+DONT FALL IN the pond! Your frog will be out of business. You'll have 
+to WAIT until he swims back to the pad before you can try for another 
+score.
+	    
+In the "B" EASY GAME, the automatic tongue is most effective when 
+frog isn't on the way up or down. Time your jumps so that frog gets 
+closest to fly at the highest or lowest point in his jump.
+
+WATCH THE TIME. Game time is three minutes. Watch for the 
+changing sky - from daylight to sunset and darkness. Change to black of 
+night means scoring time is running out!
+
+REMEMBER: an inactive frog won't stay inactive! In the one player 
+game, the computer COULD BEAT you by working the other frog 
+automatically. And whenever any frog is not moved for 15 seconds, 
+computer will take over.
+
+
+90 DAY LIMITED WARRANTY
+
+Mattel Electronics warrants to the original consumer purchaser of any
+cartridge or cassette it manufactures that the product will be free of
+defects in material or workmanship for 90 days fo the date of
+purchase. If defective, return the product along wlth proof of the
+date-of-purchase to either your local dealer or, postage prepaid, to:
+
+Mattel Electronics Service Center (West)
+13040 East Temple Ave
+City Of Industry, California 91746
+
+Mattel Electronics Service Center (East)
+10 Abeel Road
+Cranbury Nev Jersey 08512
+
+for repair or replacement. This warranty gives you specific legal rights,
+and you may also have other rights which vary from state to state. This
+warranty does not cover damage resulting from accident, misuse or
+abuse.
+
+MATTEL ELECTRONICS
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

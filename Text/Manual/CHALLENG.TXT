@@ -1,0 +1,34 @@
+               CHALLENGE INSTRUCTIONS
+
+INITIAL SETUP
+
+1. Insert game into your Atari 2600 (with power off)
+   Then turn power on. You will see the initial screen.
+2. Plug in a joystick controller
+------------------------------------------------------
+1. Set the number of players with the game select switch.
+   The number of players will appear at the top right
+   hand corner of the screen. You may choose from 1 to 2.
+2. Push reset button to start game.
+------------------------------------------------------
+OBJECT OF THE GAME
+
+You as a duck must work your way through the maze from
+the bottom righthand corner of the screen to the top left
+hand corner in order to get the next level.
+
+-------------------------------------------------------
+PLAYING THE GAME
+
+You have 6 lives displayed at the bottom lefthand corner
+of the screen. You time limit is 6 minutes per level.
+Use joystick to move up, down, left or right. Remember
+you cannot walk through the flashing walls. Avoid the
+rodents to survive. Game ends when you run out of lives
+or the time runs out.
+-------------------------------------------------------
+SCORING
+
+First wall.........................200 points
+Each wall after....................100 points
+

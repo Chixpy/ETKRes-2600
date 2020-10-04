@@ -1,0 +1,436 @@
+How to Play
+
+
+PHASER PATROL
+
+
+STARPATH TM
+CORPORATION
+
+(formerly ARCADIA CORPORATION)
+
+
+How to Use the Starpath TM Supercharger
+
+*	Set up your Atari Video Computer System (or any similar game 
+system that takes Video Computer System game cartridges) according to 
+manufacturer instructions. Use joystick controllers.
+
+*	Make sure power switch is OFF, and insert the Starpath 
+Supercharger with label up. Be careful not to force it or to insert it 
+crookedly.
+
+*	Connect the plug on the end of the Supercharger cable to the 
+earphone jack of any cassette recorder/player.* (This jack may also be 
+labeled "monitor," "mon.," "ear," or "output.")
+
+*	For best results, keep the cassette player at least a few inches away 
+from the TV set.
+
+*	Turn the power switch of the game ON. The TV screen should read 
+"REWIND TAPE, PRESS PLAY." If not, turn the power off and check to 
+be sure the system is properly hooked up and the Supercharger is fully 
+inserted.
+
+*	Insert Side A of PHASER PATROL. Side A of the cassette is the 
+quick load side; Side B is the standard load side. Some cassette players 
+may not load reliably on the quick load side. If so, flip the tape over and 
+use Side B.
+
+*	If you use a large cassette deck with a phone type earphone plug
+you may purchase an adaptor at most electronics specialty stores.
+
+*	Set volume and tone controls near high or maximum.
+
+*	Press REWIND and wait until the tape stops moving. Now press 
+PLAY.
+
+*	In a few moments, you will hear the sounds of the game loading
+and see colored panels fill the screen. A moment later "STOP TAPE" will 
+appear, and you'll be ready to play PHASER PATROL:
+
+If you have trouble...
+
+*	If the tape player makes a screeching noise, you have not
+plugged the Supercharger cable into the earphone jack.
+
+*	If the tape doesn't move, check the batteries in the cassette
+player.
+
+*	Rewind the tape completely and try again.
+
+*	Try Side B of the game cassette if Side A won't load properly.
+Set volume and tone controls at high or maximum.
+
+*	Move the cassette player farther from the TV set and try again.
+
+
+Phaser Patrol TM
+
+Your mission: Fly your interstellar interceptor like you never flew before... 
+because only you stand between the Dracon armada and their cruel 
+objective.
+
+The situation: Serious trouble. The Human Federation has been caught 
+napping. While pretending to sign a peace treaty, the devious Dracons 
+have launched a surprise attack. And they've virtually captured the 
+Federation's farm galaxy.
+	Victory seems so close the Dracons can practically 	smell it with 
+their hideous nostrils. One lone defender stands between them and control 
+of the human food supply. You.
+
+About your enemy: You wouldn't want to have lunch with a Dracon.  
+They're not nice to look at, and they're very hostile. They live by raiding 
+peaceful planets, stealing everything they can, and taking no prisoners. To 
+make matters worse, they are absolutely fearless.
+
+The Dracon armada: They're tough. Each Dracon fighter is armed with 
+lethal photon torpedoes. You've got shields, but a direct hit can disable 
+them. And a series of direct hits could reduce you to space dust.
+
+Getting started
+
+Phaser Patrol has lots of unique features, and you should get to know them 
+before attempting to play the game. One special feature is Phaser Patrol
+two screens.
+
+Sector Map Screen
+
+	The Sector Map enables you to warp-hop from one location in the 
+galaxy to another. It also lets you know what to expect when you arrive in 
+certain sectors.
+
+   Call the Sector Map by switching the LEFT DIFFICULTY SWITCH to 
+the "B" position. You'll always begin the game in an empty sector. The
+symbols in other sectors have various meanings.				
+		       
+    #########	     ####
+    #       #       ##  ##
+    #       #      ########
+    #########	    ##	##
+                     ####
+
+    Empty Sector     Friendly Starbase
+
+       ####                     ########
+      ######			##    ##
+       ####			# #  # #
+      ######			#  ##  #
+      #    #			# #  # #
+      ##   ##                   ##    ##
+                                ########
+
+   Dracon-Occupied              Sector Contents
+        Sector                     Unknown
+
+
+Navigating Sector-To-Sector
+
+Your Long Range Scanner tells you the contents of the sectors above, 
+below, and to the sides of your ship. Additionally, once you've visited a 
+sector, it's current contents appear on the Sector Map for the duration of 
+the game.
+
+
+Sector Map Screen
+
+*	The flashing sector symbol indicates your current position.
+
+*	The solid white sector symbol indicates your destination. Choose 
+different destinations by moving the white symbol from sector to sector 
+with your joystick.
+
+*	When you're ready to warp-hop to a new sector, simply press the 
+red button on the joystick. This engages hyperdrive and sends your ship to 
+the sector occupied by the white symbol.
+
+*	If Dracon fighters occupy the sector, you'll see the Dracon symbol 
+appear. If you choose not to fight at this time, you can simply warp-hop to 
+a different sector.
+
+*	Some players may choose to warp-hop around the Sector Map until 
+all sector contents are revealed.
+
+*	Note that each warp-hop uses energy (more about energy depletion 
+later). You can see how much energy any proposed warp-hop will use by 
+consulting the computer display.
+
+
+Visiting a Starbase
+
+The Starbases can bail you out when you get in trouble. Starbases have 
+reserve supplies of fuel and spare parts. When you're low on energy or 
+damaged, simply warp-hop to a Starbase sector and wait. Soon your 
+energy will be replenished and your damage repaired.
+
+
+Time for Action
+
+To get from the Sector Map to Combat Action, flip the LEFT 
+DIFFICULTY SWITCH to the "A" position.
+
+
+The Instrument Panel
+
+At the bottom of the screen, in both Sector Map and Combat Action 
+modes, is a unique computer display. This display gives you the vital 
+information you'll need to outfight the Dracons.
+
+CONDITION ALERT               RADAR SCREEN          CONDITION ALERT
+INDICATOR     SHIELD STATUS      |                  INDICATOR
+      |       |  COMPUTER STATUS |   MISSION CLOCK    |
+######|#######|###|##############|####|###############|########
+#     |    #======|==# S #=  ====|  =l|l #=========#  |       #
+#          #=========# C #=  #   #   ===l#=========#          #
+#          #=|=======# L #=  =====  =l== #=========#          #
+#          #=|===|===# T #= E=8723   100 #=========#          #
+#############|S H|E I L D S ###|D E S T|R O Y E D #############
+             |   |     |       |       |
+             |   |  MESSAGE    ENERGY  |
+    LONG RANGE   |   DISPLAY   RESERVE |
+ SCANNER STATUS  |                     WARP-HOP ENERGY
+                 TORPEDO STATUS             COST
+
+*	Condition Alert Indicator. Keep your eye on this warning light. 
+"Red" means Dracons in your sector. "Yellow" means you're running low 
+on energy. "Green" means an empty sector. "Multicolor Flow" means 
+you're in the midst of a warp-hop.
+
+*	Shield Status. Advises you of the condition of your force shields.
+
+*	Computer Status. Advises you of your radar map, rangefinder, and 
+torpedo tracking condition.
+
+*	Long Range Scanner Status. Advises you of your sector scan 
+capability.
+
+*	Torpedo Status. Lets you know if you can effectively fight back 
+against the Dracons.
+
+*	Radar Screen. Shows the location of Dracon attackers both in and 
+outside your viewer.
+
+*	Mission Clock. Indicates elapsed time, critical to earning a high 
+rank upon mission completion (more on this later).
+
+*	Energy Reserve. Keep your eye on your energy indicator! Run too 
+low and you'll be unable to get to a Starbase for refueling.
+
+*	Warp-Hop Energy Cost. Shows you how much energy you'll use on 
+any proposed sector-to-sector travel.
+
+*	Message Display. Gives you important messages concerning 
+damage control, combat performances, etc.
+
+
+Damage Status Summary
+
+Device 		Green		Yellow		Red
+
+Shields		Fully		Middle		Shields
+                Operational     Section         Destroyed
+                                Down
+
+Computer        Fully           Radar Map       Torpedo
+                Operational     and             Tracking
+                                Rangefinder     Down
+                                Down
+
+Long Range      Fully           Intermittent    Sector Scan
+Scanners        Operational     Sector Scan     Down
+
+Torpedoes       Fully           Won't           Won't Fire
+                Operational     Explode
+
+
+Combat Action
+
+*	Torpedo Sight. Lets you lock your phaser torpedoes on target. Fire 
+as soon as the sight changes color and your torpedo will chase the 
+Dracon... and destroy it. If you fire without lock-on, your chance of a hit 
+is reduced.
+
+*	Rangefinder. Advises you how far away the enemy ships are. The 
+lower the number, the closer the attacker.
+
+
+Using the Controls
+
+*	Joystick. Use the LEFT JOYSTICK only. Pull back, and the ship 
+climbs. Push forward, it dives. Move left or right and the ship will too.
+
+*	Color - B/W Switch. Controls the Shields. COLOR turns Shields 
+on. B/W turns them off.
+
+*	Left Difficulty Switch. Controls the screen mode. "A" gives you 
+Combat Action. "B" gives you the Sector Map.
+
+*	Right Difficulty Switch. Adjusts the challenge level before starting 
+the game. "A" is more difficult. "B" is where you should start.
+
+*	Game Reset Switch. Starts a new game at any time.
+
+*	Game Select Switch. Isn't used in Phaser Patrol.
+
+Becoming a Champ
+
+Phaser Patrol rewards the player who destroys the Dracon armada quickly 
+and efficiently. At the end of each game, you are awarded a Rank and 
+Level. The highest ranking is Hero, Level A. The lowest is Greenhorn, 
+Level D. In order of achievement:
+
+HERO		(highest)
+ACE
+PILOT
+GREENHORN	(lowest)
+
+Scoring is as follows:
+
+*	Destroy a Dracon fighter, go up 3/8 Level.
+
+*	Use 100 units of energy, lose 1/8 Level.
+
+*	Use up a space/hour (one movement of the second-lowest clock 
+indicator), lose 1/8 Level.
+
+*	Destroy all the Dracons, go up 1 Rank.
+
+*	Destroy all the Dracons in Difficulty "B," go up 1 Level.
+
+
+Conserving Energy
+
+Using the minimum amount of energy to complete your mission is the key 
+to becoming a Hero, Level A. But every time you waste motion, you lose 
+energy...
+
+*	Fire a Torpedo. Use 15 units of energy.
+
+*	Warp-Hop Between Sectors. Use up to 900 units of energy.
+
+*	Get Hit by Dracon Fire. Use 100 units of energy with Shields ON, 
+200 units with Shields OFF.
+
+*	Keep Shields On. And use energy at a faster rate.
+
+
+Working up to Hero, Level A
+
+*	One way to earn points is to conserve energy. And a good way to 
+conserve energy is to visit your starbases only when absolutely necessary.   
+But be careful! When your ship is heavily damaged, you stand a much 
+higher chance of being destroyed.
+
+*	Before you warp-hop into an unknown sector, figure out your 
+escape route. If attacked and damaged, you'll be ready to switch into 
+Sector Map mode and retreat into a predetermined safe sector.
+
+*	For top ranking, minimize the length of your "Warp-Hops." Clear 
+out one nearby sector after another. Try to arrive near your Starbase when   
+you anticipate the need to replenish energy.
+
+*	Use your Shields only when you need them. Shields consume 
+energy, so turn them off when no Dracon fighters are near enough to pose 
+a threat.
+
+
+Combat Action Playfield
+
+ *	Make good use of the Rangefinder. Your Phaser Torpedoes are 
+deadly at a longer range than the Dracon weapons. Attack them while they 
+are still far away and you'll take fewer damaging hits.
+
+*	Fire only when you're sure to score a hit. Use your Torpedo Sight to 
+ensure that you'll get the Dracon with one shot.
+
+
+The Supercharger TM
+Game Previews
+
+To get a sneak preview of other great Starpath games, follow these simple 
+instructions:
+
+*	When loading PHASER PATROL, be sure to push the STOP 
+button on your cassette player as soon as the TV screen fills with colored 
+panels and the "STOP TAPE" message appears.
+
+*	Don't rewind the tape. When you're ready for a preview, flick the 
+power switch on the game system OFF, then ON again.
+
+*	The TV screen should read "REWIND TAPE, PRESS PLAY" 
+Don't rewind the tape. Simply press PLAY As soon as the "STOP TAPE"
+message appears, press STOP.
+
+*	You'll see a "self-play" preview of one exciting Starpath' game. You 
+can't actually play it (so don't bother pressing any more switches), but you 
+can appreciate the great graphics and game action.
+
+*	To see the next game preview, simply repeat the above instructions. 
+When no more games appear, you have seen all the previews on your 
+cassette.
+
+
+Changing Games
+
+To load another Starpath game:
+
+*	Flick the power switch OFF, then ON again.
+
+*	Rewind and replace the cassette with another Starpath game 
+cassette.
+
+*	Rewind the tape, then press PLAY.
+
+
+To Remove The Supercharger:
+
+*	Turn the power switch OFF.
+
+*	Gently remove the Supercharger.
+
+
+
+Limited 90 Day Warranty
+
+STARPATH SUPERCHARGER and PHASER PATROL
+
+STARPATH CORP. warrants to the original purchaser of this 
+STARPATH  product that it will be free from defects in materials
+and workmanship for ninety days from the date of purchase.
+If this product is discovered to be defective within the warranty
+period, return to place of purchase for replacement.
+This warranty is limited to electronic and mechanical parts
+within the product. It is not applicable to normal wear and
+tear and is not applicable and shall be void if the defect has
+arisen through, or the product shows signs of, misuse,
+excessive wear, modlflcabons, or tampering.
+
+  THIS WARRANTY IS IN LIEU OF ALL OTHER
+  EXPRESSED WARRANTIES OR REPRESENTA-
+  TIONS. ANY APPLICABLE IMPLIED WARRANTIES,
+  INCLUDING WARRANTIES OF MERCHANTABILITY
+  AND FITNESS, ARE LIMITED TO A PERIOD OF
+  NINETY DAYS FROM THE DATE OF PURCHASE.
+  STARPATH IS NOT LIABLE FOR ANY SPECIAL
+  INCIDENTAL OR CONSEQUENTIAL DAMAGES
+  RESULTING FROM BREACH OF ANY EXPRESSED
+  OR IMPLIED WARRANTIES ON THIS PRODUCT
+
+Some states do not allow limitations on how long an
+implied warranty lasts or the exclusion or limitation of
+incidental or consequential damages, so the limitations or
+exclusions set forth may not apply to you. This warranty
+gives you specific legal rights, and you may also have other
+rights which vary from state to state.
+
+Repair Service
+
+Should your SUPERCHARGER require service after the
+ninety day limited warranty period, a charge of $15 will be
+assessed to restore it to full working condition. Send the
+SUPERCHARGER' unit, shipping prepaid, to:
+STARPATH SERVICE CENTER
+P.O. Box 209
+Santa Clara, CA 95050.
+
+-------------------Atari 2600 Instructions Archive-------------------

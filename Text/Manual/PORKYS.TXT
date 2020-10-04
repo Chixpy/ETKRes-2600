@@ -1,0 +1,259 @@
+typed in by kgifford@netaxs.com 
+
+PORKY'S (tm)
+
+20th Century Fox - Games of the Century (tm)
+
+Game Instructions
+Fox Video Games
+
+-----
+
+[The manual is a neat little fold-out]
+
+PORKY'S
+
+The Objective
+
+Revenge is sweet - and the objective of this game is to "get it."  Your 
+task is to help Pee Wee blow up Porky's bar and obtain as many points as 
+possible.
+
+The Setup
+
+Set up your video computer system and joystick controller as indicated in 
+your manufacturer's owner manual.  Turn the power switch OFF and insert 
+the Porky's cartridge.
+
+To Begin
+
+Turn the power ON.  Use the Difficulty Switch and Color/Black & White 
+Switch to select a level of play.
+
+	Left Difficulty Switch A:	Shower scene most difficult
+	Left Difficulty Switch B:	Shower scene less difficult
+	Right Difficulty Switch A:	Swamp scene most difficult
+	Right Difficulty Switch B:	Swamp scene less difficult
+	Black & White Switch:		Balbricker most aggressive
+	Color Switch:			Balbricker less aggressive
+	A, A, Black & White Setting:	Expert play level
+	B, B, Color Setting:		Normal play level
+
+The Adventure
+
+As the play begins, you find yourself at the county line ready to enter 
+Porky's territory.  But, before the action begins, some introductions are 
+in order.
+
+       ######    
+       #####
+       ######
+       #####
+       ###
+       #####
+     ####### 
+    ## #####   Meet Edward "Pee Wee" Morris.  He has a few problems.
+    ## #####   But personal problems aside, Pee Wee (with a little
+    ## ####    help from you) has a formidable task ahead of him.
+    #######
+       ####
+     ######
+     ######
+     ##  ###
+     ##   ##
+    ##    ##
+   ##     ##
+  ##      ##
+  ##      ##
+  ####    ##
+          ####
+
+
+       ######
+   ##  ######  ##
+   ##############
+       ######
+       ########
+       ##########
+       ########
+       ######    ##  It seems this real nasty guy named Porky, owner of a
+       ########  ##  shady little night club with the same name, has
+       ########  ##  messed with Pee Wee and his friends.  So, you and
+       ############  Pee Wee are out to even the score.
+       ############
+       ############
+       ##########
+       ########
+       ######
+       ########
+       ##########
+       ############
+       ####    ####
+       ####   ####
+      ####    ##
+      ##      ##
+      ##      ####
+      ####
+
+
+          ######
+        ##########
+        ##########
+          ########
+          ######
+  ##      ######     Another person to look out for is Ms. Balbricker.
+    ############     She's out to grab onto anything she can, so don't let
+  ################   her latch on to you.  If she does, it's the pits.
+      ############
+        ############
+        ############
+      ##############
+      ##      ####
+      ####    ####
+        ##    ##
+     #####    ####
+                ##
+              ####
+            ####
+
+
+The County Line
+~~~~~~~~~~~~~~~
+
+Objective:	Run the highway gauntlet and bow up Porky's bar.  Sound
+		easy? Try it...you'll see.
+
+Controls: 	Pee Wee moves to the right or left only as long as you 
+		hold the joystick in that direction.  In the up and down
+		directions, Pee Wee will attempt to move all the way into
+		the next band unless you reverse the direction to stop it.
+
+Scoring: 	Points are accumulated by successfully dodging the 
+		obstacles and distractions in the highway bands.
+	
+		Motor Boat, 1 point; The Police, 100 points; Porky's 
+		Girls, 200 points; Attack Pigs, 400 points; Porky's
+		Bouncers, 800 points; Pig Mobil, 1600 points; Last
+		Band, 3200 points.
+
+Warning: 	The action's hot and heavy.  If Pee Wee gets hit .. it's
+		in the drink.
+
+The Swamp
+~~~~~~~~~
+
+Objective:	Get out of the swamp!  And that's easier said than done.
+		To escape you must pole vault over the swamp, collect
+		and place four bricks to form an escape ladder.
+
+Controls:	Vaulting is accomplished by running toward the vault-
+		ing pole and pressing the joystick button while Pee
+		Wee is within the allowable range.  Watch your thumb
+		pressure if you want to make it to the other side.  To
+		place bricks, move against the ladder and press the
+		button of the joystick.
+
+Scoring:	Brick placed		+100 points
+		Exiting scene		+100 points
+		Each polevault jump 	-25 points
+		Falling into swamp	-100 points
+		Caught by Porky 	-random number of points
+
+Warning:	If you find yourself back in the swamp, you won't have to
+		rebuild the ladder.  But .. you will have to look out
+		for Porky and is he ever mad.
+
+The Shower
+~~~~~~~~~~
+
+Objective:	To keep your mind off of Wendy and on the task at hand -
+		pushing the brightly colored object at the top of the
+		screen into the pit without falling in or being caught
+		by Ms. Balbricker.  Each object pushed into the pit
+		stops and/or slows a band on the highway screen.
+
+Controls:	To maneuver around the gymnasium, move Pee Wee right/left
+		and up/down the ladders with the joystick.  When you need
+		to jump, press the button.
+
+Scoring:	Pushing object into pit		+100 points
+		Loitering in locker room	-10 each 10 seconds
+		Falling into the pit		-200 points
+		Caught by Balbricker		-200 points
+
+Warning:	Once you climb out of the shower scene, you will re-enter
+		the county line scene and one of the bands will be
+		stopped.  Each trip through the shower stops an additional
+		band, slowing the action until you are successful in 
+		reaching Porky's bar.  Don't dawdle too long; it's costing
+		you points.
+
+----
+
+Porky's Bar
+~~~~~~~~~~~
+
+Objective: 	Blow the blasted bar away!  To do so you must follow the
+		correct path to the top of the scaffolding, planting
+		dynamite charges as you go.  If you reach the top, a
+		detonator will appear, and it's bye-bye Porky's.
+
+Controls:	To climb the scaffolding, position Pee Wee next to the
+		post and push the joystick up.  Only one path will work
+		and it must be approached from the bottom.  If you're on
+		the right path, the arrow on the left of the screen will
+		turn green.  If you're wrong, the arrow will turn red
+		and you must return to the bottom level and start again.
+
+Scoring:	Exiting scaffolding	variable score based on difficulty
+					+100 - 3200 points
+		Caught by Porky		-200 points
+
+The End
+~~~~~~~
+
+How sweet it is.  But, before you start bragging to your friends, check 
+your score.  You can blow up the bar and end up with a high or low 
+score.  An expert can have a score as high as 8000.  So try again.  The 
+action never stops at Porky's!
+
+----
+
+Now Available from Fox Video Games:
+
+Bank Heist - Fun you can bank on!
+
+The Earth Dies Screaming - Beat the aliens or bite the dust!
+
+Space Master X-7 - Blast the Hyperian Base out of space!
+
+Flash Gordon - Heroic rescue beyond the stars
+
+Revenge of the Beefsteak Tomatoes - Once the tomatoes take over, will we 
+ever ketchup!
+
+Crypts of Chaos - Centuries of mystery.  Hours of fun!
+
+Fantastic Voyage - A heartstopping adventure!
+
+Alien - In your living room, everyone can hear you scream!
+
+Turmoil - A topsy-turvy rapid reflex test!
+
+Megaforce - Where action speaks louder than words!
+
+[transcriber note: They wrote it all, I swear to god.]
+
+(c) 1983
+Fox Video Games, Inc.
+4701 Patrick Henry Drive
+Building Number 9
+Santa Clara, CA 95050
+
+A game by: Mark V Rhoads, Randy Hyde,
+B. Winston Hendrickson, Jon Simonds.
+For: Dunhill Electronics Media Corp.
+All Rights Reserved
+
+Printed in Taiwan				83-FOX-11013
+

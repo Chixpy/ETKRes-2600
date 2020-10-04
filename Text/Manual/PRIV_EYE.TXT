@@ -1,0 +1,287 @@
+"Sacre bleu! I am the great French private eye Pierre Touche and I need
+your help. I've been summoned to capture the ringleader, Henri Le Fiend,
+and turn him over to the police. But wait -- we first must find evidence
+against him and the stolen property. There are five cases pending, each
+with its own statute of limitation. A case is closed when Le Fiend is
+apprehended and booked. So hurry! Study the files below, grab your
+trenchcoat and meet me at Precinct 2600 -- I'll be waiting for you."
+
+
+Sleuth wanted! Help Private Eye Touche navigate the city streets, parks,
+secret passages, dead-ends and one-ways in search of Henri Le Fiend and
+his gang. Evidence and stolen goods are scattered about -- you'll need
+to find these, too. Let the map and your memory be your guide. And let
+nothing go unnoticed.
+
+
+ACTIVISION (R)
+
+
+THE "LE FIEND" FILE.
+
+
+CASE 1: "Safecracker Suite"
+
+On Thursday, Sept. 7, at approximately 1:30 p.m., bankteller Betty Jeepers
+activated the silent alarm near her foot. The man standing at her window
+had just handed her a note demanding $10,000 in one bag. The note also
+described the loaded gun in his pocket. Jeepers described him as diminutive
+but suave and said he bowed slightly as he left, saying, "Merci beaucoup."
+Quickly, Touche looked to the sky and said, "It's him."
+
+PROSECUTION REQUIREMENTS:   Find the gun and verify it at the gunstore.
+                            Find the money and return it too the bank.
+                            Find Le Fiend and book him at Police Headquarters.
+  STATUTE OF LIMITATIONS:   3 minutes
+                  LOCALE:   Uptown, 32 blocks
+
+
+CASE 2: "Closed on Mondays"
+
+"I thought they were the electricians," answered Nimrod Nerdon. Touche had
+asked the nervous security guard why he let two men enter the museum on an
+off day and then allowed them to shut off the lights. When they came back
+on, the men were gone. So was a priceless Ming vase. Nimrod could only
+remember that the button was missing on one of the perpetrator's cuffs.
+"Oh... and it was a French cuff," he added. Touche clenched his teeth.
+
+PROSECUTION REQUIREMENTS:   Find the button and verify it at the tailor shop.
+                            Find the vase and return it to the museum.
+                            Find Le Fiend and book him at Police Headquarters.
+  STATUTE OF LIMITATIONS:   2 minutes
+                  LOCALE:   Upper midtown, 32 blocks
+
+
+CASE 3: "Dealing in Diamonds"
+
+Mrs. Lotta Moorcash was beside herself. "But he was such a gentleman!" A
+man claiming to be her new hair stylist had given Mrs. Moorcash a new
+hairdo. By the time he'd combed out the last curl, she was oblivious to
+the four carat diamond necklace that was suddenly absent from her neck.
+"You must find him!", she said. "It's the best style I've ever had -- a
+French twist!" Touche's daiquiri glass shattered in his fist.
+
+PROSECUTION REQUIREMENTS:   Find the comb and verify it at the barbershop.
+                            Find the necklace and return it to the gemstore.
+                            Find Le Fiend and book him at Police Headquarters.
+  STATUTE OF LIMITATIONS:   4 minutes
+                  LOCALE:   Midtown, 64 blocks
+
+
+CASE 4: "Rare Stamp Roulette"
+
+It was the first time Mr. Rich N. Boring had his name in the papers. It was
+in recognition of his upcoming donation of a valuable rare stamp to the
+Auxiliary Association of Associated Auxiliaries. Unfortunately, his name
+was followed by his address. By morning the stamp was gone. From the looks
+of the footprints on Boring's newly varnished floor, Touche deduced that
+the thief's sole adhered and came loose. The stamp was described as an 1872
+commemorative. "Commemorating what?" asked Touche. "The French Revolution."
+Touche raised his collar and left immediately.
+
+PROSECUTION REQUIREMENTS:   Find the shoe sole and verify it at the shoe store.
+                            Find the stamp and return it to the stampstore.
+                            Find Le Fiend and book him at Police Headquarters.
+  STATUTE OF LIMITATIONS:   10 minutes
+                  LOCALE:   Downtown, 120 blocks
+
+
+CASE 5: "The Big Sweep"
+
+Touche would take a new approach. Rather than gather the evidence case by
+case and prosecute Le Fiend four times, he decided to take everything on
+at once. The whole city, the entire gang, all the cases and, of course,
+Le Fiend. He rose early that day and took a deep, invigorating breath.
+"Room service," he said into the phone, "please send up breakfast. What
+is today's special?" The voice on the other end replied, "French toast."
+
+PROSECUTION REQUIREMENTS:   All of the stolen goods and evidence in cases
+                            1-4 must be found and returned for verification
+                            at their place of origin. Le Fiend may then be
+                            rounded up and booked at Police Headquarters
+                            once -- and for all.
+  STATUTE OF LIMITATIONS:   20 minutes
+                  LOCALE:   Entire city, 248 blocks
+
+
+                         BUREAU OF INVESTIGATION
+                           923-97 OZONE AVENUE
+                             NEW YORK, N. Y.
+                          CABLE DS: 816.428.822
+
+
+TO START
+Press the game select switch to choose desired case. The case number appears
+above the score and its corresponding stolen item appears in the upper right
+corner. Then press the reset switch. The statute of limitations begins
+counting down as soon as you move the Joystick.
+
+
+TOUCHE'S AUTO
+Upon Touche's arrival, a federal attache will present him with a specially
+equipped 1935 Model A. Its unique feature is the ability to jump as high as
+two stories. Additionally, it can make 90 degree turns and has a cruise
+control.
+
+
+USE OF THE CONTROLLER
+Use the left Joystick. To accelerate left or right... move the Joystick
+left or right. To drive into an alley or park lane... push Joystick up.
+
+
+DIFFICULTY SWITCHES
+The left Difficulty switch is your car's cruise control; A maintains a
+fast speed, B maintains a slow speed. The right Difficulty switch controls
+the car's jumps. By setting it to A, the height of the jump is controlled
+by the length of time the red button is held down. Setting it to B causes
+the car to jump to its maximum height with a single press of the button.
+
+
+"Oh... My apologies for the sketchy map on the other side. In any case,
+it's our single irreplaceable guide to the city. It came from the waning
+memory of a late Le Fiend cohort. Before he passed on, he said something
+about secret passages, dead-ends and one-ways, lots of them. Too many for
+him to remember. He marked a few of them, but you'll have to map out the
+rest.
+
+{Map is a bit too complicated for ASCII}
+
+
+                             POLICE PROCEDURE
+
+Warrant Requirements -- Reasonable cause must be established before Le Fiend
+can be booked with the police. "Reasonable cause" consists of finding the
+evidence, verifying it at its place of origin, recovering the stolen property
+and returning it to its owner. The evidence and stolen item may be found in
+any order, but you may only carry and return one item at a time. Proceed with
+caution: After the first item has been returned, thugs lurch out from behind
+steps and bushes to throw daggers. Jump to avoid them. If you're hit, the
+thugs will repossess anything you are carrying.
+
+Questionable Characters -- Throughout the case, questionable characters will
+peek out of windows. Any one of them may be harboring the item you are
+looking for. Jump up and see! Even if their empty-handed, you'll still get
+merit points each time you nab one of them. Finally, if you recover an item
+while you are carrying another item, the questionable character will make a
+switch and you will continue with the new item.
+
+The City Beat -- Get to know the locations of detours and roadblocks. Detours
+are striped; roadblocks are solid yellow. You will also encounter secret
+passages, one-ways and dead-ends. Secret passages are short-cuts whereby you
+enter an alley on one street, and may emerge on a different block, often in
+a different part of the city! Get to know these short-cuts and map them out.
+Many offer round-trip passage, but some are one-way only or dead-ends.
+
+
+POLICE MERIT SYSTEM
+
+Special agents will begin with 1000 merit points -- just for taking on the
+case!
+
+The following system of merits and demerits applies:
+
+DEMERITS
+
+   Minus 1   Whenever auto is on a pot hole.
+ Minus 100   If Touche or his car is hit by a brick.
+ Minus 200   If hit by a flowerpot.
+ Minus 300   If hit by a rat.
+ Minus 400   If hit by a bird.
+Minus 1000   If hit by a dagger.
+
+MERITS
+
+   Plus 100  For each questionable character nabbed.
+  Plus 5000  For each questionable character nabbed with evidence (gun,
+             button, comb, shoe sole).
+Plus 15,000  For each questionable character nabbed with stolen item (money,
+             vase, necklace, stamp).
+Plus 10,000  Whenever evidence is verified.
+Plus 20,000  Whenever a stolen item is returned.
+Plus 25,000  For nabbing Henri Le Fiend.
+Plus 25,000  For booking Le Fiend at Police Headquarters and, thus, closing
+             the case.
+
+
+_Super Sleuth_ is our time-honored enclave of seasoned private eyes who, by
+serving justice in Case 3, "Dealing in Diamonds" have amply demonstrated
+their talents in detection. If you have met this criteria, send us (Exhibit A)
+a photo of the TV screen showing the completion of Case 3, along with
+(Exhibit B) your name and address and (Exhibit C) the words "Private Eye"
+written on the envelope's front corner. Your name will be added to the
+_Super Sleuth_ registry and you will receive its official emblem.
+
+
+LETTER FROM THE COMMISSIONER
+
+Tips from Bob Whitehead, designer of Private Eye (TM). Bob is not only an
+award-winning, senior designer at Activision, he's also one of its founders!
+He lives in California with his wife Karron and their four children, and is
+an avid fan of sports, particularly baseball.
+
+"Well sleuths... I hope you're not looking for any dead giveaways. You've
+got to figure this one out for yourselves. But here are some clues:
+
+"Try to figure out the best direction to head in when you begin each case.
+Some cases are easier when you start out to the left, and some are easier
+when you start out to the right. Also, certain cases "prefer" you to pick
+up the evidence first, while others are more easily solved when the stolen
+item is found first. So discover and jot down the "initial direction" and
+"order of search" for each case.
+
+"Touche! to those of you who will brave Case 5. I feel obligated to say
+that, although it is the sum of Cases 1-4, some of the secret passages will
+be changed. But don't let that discourage you. Just adjust your map a bit.
+
+"When you get back to the precinct with Le Fiend, please send a report --
+it'll be fun to compare notes. Good luck and God bless."
+
+{signature, "Chief Inspector Whitehead"}
+
+
+                              ACTIVISION (R)
+                       COMPUTER SOFTWARE CARTRIDGE
+                        LIMITED ONE-YEAR WARRANTY
+
+Activision, Inc. warrants to the original consumer purchaser of this
+Activision computer software cartridge that it will be free from defects
+in the material and workmanship for one (1) year from the date of purchase.
+Activision agrees to either repair or replace, at its option, free of charge,
+any cartridge discovered to be defective within the warranty period upon
+receipt of the cartridge, postage paid, with proof of date of purchase, at
+the address below.
+
+This warranty is limited to the electronic circuitry and mechanical parts
+originally provided by Activision and is not applicable to normal wear and
+tear. This warranty shall not be applicable and shall be void if the defect
+in the cartridge has arisen through abuse, unreasonable use, mistreatment,
+or neglect. This warranty is in lieu of all other express warranties and no
+other representation or claims of any nature shall be binding on or obligate
+Activision. Any implied warranties applicable to this cartridge are limited
+to the one (1) year period described above. In no event will Activision be
+liable for any special, incidental or consequential damage resulting from
+possession, use, or malfunction of this cartridge.
+
+Some states do not allow limitations on how long an implied warranty lasts
+and/or the exclusion or limitation of incidental or consequential damages
+so the above limitations and/or exclusion or limitation of liability may
+not apply to you. This warranty gives you specific legal rights, and you
+may also have other rights which vary from state to state.
+
+                          Consumer Replacements
+                             Activision, Inc.
+                            Consumer Relations
+                        2350 Bayshore Frontage Rd.
+                         Mountain View, CA 94043
+
+
+Get on our mailing list, ask questions or just say hello!
+Call us at (415) 940-6044/5
+
+
+                                                          ACTIVISION (R)
+
+              Activision, Inc., Drawer No. 7287, Mountain View, CA 94039
+                    (C) 1984 ACTIVISION, INC. Made in U. S. A. AG-034-03
+
+-------------------Atari 2600 Instructions Archive-------------------

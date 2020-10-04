@@ -1,0 +1,125 @@
+Space Cavern by Apollo
+
+SPACE CAVERN
+You are in command of a Mark XIV intergalactic star-
+cruiser in an uncharted quadrant of outer space. You land
+on a mysterious planet riddled with a suterranean maze
+of tunnels and caverns inhabited by savage Electrosauri
+whose horns generate electro-molecular charges capable
+of disintegrating you and your crew. Your photon ray
+pistol is activated by the joystick and the fire button. The
+iridescent eyes of the electrosauri light the cavern walls
+with eerie flashes as they stalk you, their horns crackling
+and sizzling. If even one blast of electro-molecular energy
+strikes you, your skeleton will glow inside your body as the
+bio-molecular compounds of your body disintegrate.
+WARNING: Beware the savage attack of the shaggy marsupods.
+
+THE SET-UP
+Space Cavern is played with one or two players using the
+Joystick Controller. Be sure the power is off when you
+insert or remove the Space Cavern cartridge from your
+video game system.
+
+THE DIFFICULTY SWITCH
+The difficulty switch controls the speed of the electro-
+molecular charges fired down at you by the Electrosauri.
+Placing the switch in the "B" position will slow down the
+fusillade fired at your spaceman, while the frenzied "A"
+mode will provide the greatest challenge for veteran
+players.
+
+THE JOYSTICK CONTROLLER
+Hold your Joystick Controller so that the red "FIRE" button
+is in the upper left-hand corner. Use this button to fire
+your laser up at the Electrosauri above. Use your joystick
+to move your spaceman to the left and right. Pulling back
+toward yourself causes him to fire his dirupter ray at the
+shaggy marsupods who rush from the right, while pushing 
+forward causes him to pivot and fire to the left. NOTE: You
+do not have to depress the red firing button to fire left or
+right with your disrupter ray.
+
+CREW ROSTER
+You land with a crew of four men, and can replace lost
+men every time you earn 20,000 points. But four men at
+any one time is your maximum force. Two-player games
+are played just like one-player games, with players alter-
+nating every time they lose a man.
+
+SCORING
+Every large Electrosaurus you destroy earns you 115
+points, while smaller ones are worth 165 points. Shaggy
+marsupods who rush at your spaceman from caves at his
+left and right will earn you 200 points if you can get them
+before they get you.
+
+GAME MENU
+
+         # OF        # OF       ELECTROSAURI      MARSUPODS    LEVEL
+GAME    PLAYERS  ELECTROSAURI  BLAST DIRECTORS             
+NUMBER   1   2      2    4     STRAIGHT  RANDOM   YES    NO   1  2  3
+ 1       x          x             x                x          x
+ 2           x      x             x                x          x 
+ 3       x               x        x                x          x
+ 4           x           x        x                x          x
+ 5       x          x                       x      x          x
+ 6           x      x                       x      x          x
+ 7       x               x                  x      x          x 
+ 8           x           x                  x      x          x
+ 9       x          x             x                      x    x
+10           x      x             x                      x    x
+11       x               x        x                      x    x
+12           x           x        x                      x    x
+13       x          x                       x            x    x
+14           x      x                       x            x    x
+15       x               x                  x            x    x
+16           x           x                  x            x    x
+17       x          x             x                x             x 
+18           x      x             x                x             x
+19       x               x        x                x             x
+20           x           x        x                x             x
+21       x          x                       x      x             x
+22           x      x                       x      x             x
+23       x               x                  x      x             x
+24           x           x                  x      x             x
+25       x          x             x                      x       x
+26           x      x             x                      x       x
+27       x               x        x                      x       x
+28           x           x        x                      x       x
+29       x          x                       x            x       x
+30           x      x                       x            x       x
+31       x               x                  x            x       x
+32           x           x                  x            x       x
+33       x          x             x                x                x
+34           x      x             x                x                x 
+35       x               x        x                x                x
+36           x           x        x                x                x
+37       x          x                       x      x                x
+38           x      x                       x      x                x 
+39       x               x                  x      x                x
+40           x           x                  x      x                x
+41       x          x             x                      x          x 
+42           x      x             x                      x          x
+43       x               x        x                      x          x
+44           x           x        x                      x          x
+45       x          x                       x            x          x
+46           x      x                       x            x          x
+47       x               x                  x            x          x
+48           x           x                  x            x          x
+
+There are 48 exciting variations of Space Cavern. Select your favorite
+with the game select switch on your console choosing from any of the 
+variations shown above on the game matrix.
+
+
+
+****END OF SPACE CAVERN DOCS****
+ 
+******************************************************************************
+*email at aadavis@mindgames.com if interested in trading Atari, Odyssey2,    *
+*Colecovision, Intellivision, C=64, Vic-20, or CoCo carts or systems.        *
+*Games: 2600:246, 5200:25, 7800:26, Coleco:38, Intellivision:56, Odyssey2:33 *
+******************************************************************************
+
+

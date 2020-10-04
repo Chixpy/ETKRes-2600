@@ -1,0 +1,166 @@
+<Picture>
+
+<Picture>Congo_Bongo<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+FOR THE ATARI 2600 AND ALL COMPATIBLE SYSTEMS
+
+CONGO BONGO
+OFFICIAL ARCADE VERSION
+
+SEGA
+VIDEO GAME CARTRIDGE
+
+
+You're a hunter on a jungle safari.  The jungle is full of creatures
+determined to give you a run for your life but none of them can match
+the mischief of CONGO BONGO, the jungle gorilla.
+
+On the first screen you'll have to climb Jungle Mountain to get the
+gorilla.  Climb the cliffs and leap across the chasm.  Don't get a
+monkey on your back or you won't get anywhere.  Watch out for the
+coconuts CONGO will throw your way.  They're deadly!
+
+The second screen takes you to the Great Jungle River in your search
+for CONGO BONGO.  You'll have to cross the river by hopping on hippos,
+floating lily pads and man-eating fish.  Once you cross you'll have to
+deal with charging rhinos and they're no fun.  One slip and it's safari
+heaven!
+
+
+USING YOUR CONTROLS
+
+1. Insert the game cartridge with power off.
+2. When you turn power on you will hear the opening theme, and see the
+   copyright notice.
+3. Use GAME SELECT to play with one or two players.  Players take turns.
+   Player 1 uses the left joystick and Player 2 uses the right joystick.
+4. Press GAME RESET or joystick button to start the game.
+5. Use the joystick to move and climb the hunter.  The hunter jumps when you
+   press the fire button.
+6. Skill switches select play options:
+   LEFT - Selects numbers of lives.
+          B/Novice: select five lives.
+          A/Expert: select three lives.
+   RIGHT - Select speed of the hunter.
+           B/Novice: slow speed (easier to control)
+           A/Expert: fast speed
+
+
+HOW TO PLAY
+
+SCREEN 1 - JUNGLE MOUNTAIN
+
+Here you must climb up the mountain without falling off, while avoiding
+the killer coconuts CONGO will throw your way.
+
+In play levels 1-3 there is a safe path area close to the wall but it
+gets smaller as play levels increase.
+
+Also the coconuts will follow you more closely as play levels
+increase.  After you cross the bridge, carefully jump the ledge.  Don't
+stay on the ledge too long or it caves in taking one of your three
+lives with it.
+
+Next you come to Monkey Plateau.  Up here you'll be bothered by two
+pesky chimps.  If they hop on your back they'll slow you down to a
+crawl.  Jump your hunter twice to get the chimps off your back.  As play
+levels increase the monkeys become more annoying.
+
+After you cross the river climb the last two steps to CONGO'S perch,
+and run up to the light green of Congo's turf.  Your success is
+rewarded with a quick trip to the next jungle encounter ... The Great
+Jungle River.
+
+SCREEN 2 - THE GREAT JUNGLE RIVER
+
+Here the hunter must jump across the river on lily pads, hippos to the
+safe island and the ferocious fish.  Avoid the charging Rhinos to get
+to CONGO on the other side.
+
+Player must first jump to the lily pads and/or the hippos to get to the
+safe islands.
+
+The lily pads move in a simple pattern in play levels 1-4, but get
+harder to jump on in higher play levels.  Be sure to land on the lily
+center, as they are floating and sinking and you might fall off the
+edge.
+
+Hippos and fish only allow the hunter to stand on them for a limited
+time before tossing you into the water.  The time limit gets shorter as
+play level increases.  Fish change color just before snapping.
+
+Be careful if you land on the fish's tail ... they can flip you into the
+water and you lose one life.
+
+Once safely on the other side, watch out for raging RHINOS.  Be careful
+to avoid them as you go across.
+
+Keep walking across the far side and get to CONGO BONGO.
+
+SCREEN 3 - THE HUNTER GETS EVEN
+
+Here you will enjoy lighting CONGO with play fire.  But don't worry -
+CONGO can take the heat and will return to harrass you in Screen 1 at
+the next play level.
+
+
+SCORING
+
+You begin each screen of play level #1 with 5000 bonus points.  The
+number of bonus points steadily decreases by 100 points until you reach
+zero and have run out of time.  As you advance play levels the
+beginning number of bonus points is higher:
+
+	PLAY LEVEL 2 ............. 6000 points
+	PLAY LEVEL 3 ............. 7000 points
+	PLAY LEVEL 4 ............. 8000 points
+	PLAY LEVEL 5 or more ..... 9000 points
+        EACH STEP TAKEN ..........   10 points
+        JUMPING ACROSS THE CHASM .  500 points
+        When you earn 10,000 points you receive an additional life.
+        You will play that life immediately after your current life
+        is over.
+
+
+PLAY HINTS
+
+1. At the beginning of the first screen, there are some safe spots on the far
+   left where you can avoid coconuts.
+
+2. To cross the bridge, notice that the coconuts come in waves.
+
+3. On Monkey Plateau, there are a few safe spots near the river's edge.
+
+4. On screen number one you can safely jump over the river any place along its
+   bank.  The further away from the white water edge the safer it is to jump.
+
+5. On screen number two jump very carefully from place to place.
+
+6. HAVE FUN!
+
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

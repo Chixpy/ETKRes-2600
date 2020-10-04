@@ -1,0 +1,39 @@
+               PLANET PATROL INSTRUCTIONS
+
+INITIAL SETUP
+
+1. Insert game into your Atari 2600 (with power off).
+   Then turn power on. You will see the initial screen.
+
+2. Plug in a joystick controller.
+-------------------------------------------------------
+OBJECT OF GAME
+
+Your assignment is to patrol your planet day and night.
+As you fly your space craft you must avoid enemy fire and
+destroy their spaceships. Don't forget to refuel
+occasionally or this could make your mission a short one.
+Beware of sunset because as soon as the night creeps in,
+the dark makes your task become impossible.
+
+FUNCTIONS
+* To start, press SELECT to set level then press RESET
+* Move joystick up and down to move your white spaceship.
+* Fire at orange enemy ships, using firing button.
+* Dock with black ship, this will allow you to land later
+  and refuel.
+* Enemy refuelling depot. There are 3 of these, you must
+  destroy them before you can continue to next stage.
+* Mine fields - these follow immediately after the
+  destruction of the fuel depot. You can't fire at them,
+  the only thing you can do is dodge them.
+
+LEVEL SELECT
+
+1 = 1 Player slow       2 = 2 Players slow
+3 = 1 Player fast       4 = 2 Players fast
+
+HINT
+
+When nighttime falls and it's hard to see the enemy,
+fire at random to get some light to show you the way.

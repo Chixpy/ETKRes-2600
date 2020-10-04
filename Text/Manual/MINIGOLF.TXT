@@ -1,0 +1,106 @@
+MINIATURE GOLF
+
+GAME PROGRAM(TM)
+INSTRUCTIONS
+
+Model CX2626
+
+ATARI(R)
+(W) A Warner Communications Company
+
+ATARI, INC., Consumer Division
+1195 Borregas Ave., Sunnyvale, CA 94086
+
+(C) 1979 ATARI, INC. C011402-2-6
+
+Use your Joystick Controllers with this Game Program(TM).  Be sure the
+controllers are firmly connected to your Video Computer System(TM).  Hold
+the controller with the red button to your upper left toward the television
+screen.  Use the Left Joystick for one-player games.  See Section 3 of your
+owners manual for further details.
+
+Note: To prolong the life and protect the electronic components of your
+Atari(R) Video Computer System, the console unit should be "off" when inserting
+or removing a Game Program.
+
+HOW TO PLAY
+
+Your sense of timing and your perceptiveness in judging distance are about to
+be fine-tuned!  This exciting video game simulates an actual "Miniature Golf"
+course, complete with moving obstacles.
+
+There are nine "holes" in which to hit the ball into the "cup".  Each time
+you hit the ball it is called a "stroke."  Although the number of strokes you
+take to hit the ball into the cup is unlimited, each hole has a designated
+"par."  Par represents the number of strokes you are ideally supposed to take
+to complete the hole.
+
+CONSOLE CONTROLS
+
+To select a game depress the game select switch for a one or a two-player
+game.  A 1 will appear in the upper left corner of the screen for a one-player
+game; a 2 will appear for a two-player game.
+
+To begin the game depress the game reset switch.
+
+USING THE CONTROLLER
+
+Use your Joytick Controller to position the club.  Press the red button on the
+Joystick to release the club and hit the ball.
+
+Note: The club actually covers the ball at the beginning of each hole.  Your
+first step therefore is to move the club into a hitting position away from the
+ball.  The farther away you move the club, the longer the ball rolls or travels
+when hit.
+
+To help you position the club more accurately, it moves at a slower speed when
+travelling at a close distance to the ball.
+
+Positioning Your Club
+
+* Push the Joystick forward to move the club toward the top of the TV screen.
+* Pull the Joystick back or toward you to move the club down or toward the
+  bottom of the screen.
+* Push the Joystick to the left to move the club to the left.
+* Push the Joystick to the right to move the club to the right.
+
+Direction of Travel
+
+After being struck, the ball travels along the same line of trajectory
+already established by the club.
+
+Note: You may position the club ANYWHERE on the playfield (regardless of
+course boundaries), before releasing it to hit the ball.  Remember however,
+that the ball must travel around all boundaries, including moving obstacles.
+
+GAME 1 is for one player only.  At the beginning of each hole, before the first
+stroke, the number for that hole is displayed in the upper left corner of the
+screen.  The par for that hole is shown at the upper right corner of the
+screen.  After the first stroke, the player's running score replaces the hole
+number.  A 0 replaces the par until the beginning of the next hole.
+
+GAME 2 is for two players.  The left player goes first.  After the first stroke
+by each player, the respective scores are displayed at the top of the screen
+until the hole is completed.  These score totals replace the hole number and
+the par, as in GAME 1.
+
+Note: Players must hit the ball into the cup to complete the hole, before the
+game progresses to the next hole or the next player's turn.
+
+SCORING
+
+Each time you hit the ball the computer records one stroke against you.  Your
+running score is displayed at the top of the screen.  Ideally, your goal is to
+match or beat the par for each hole.  The lower your score the better.
+
+The score for the left player is displayed at the top left of the screen; the
+score for the right player is displayed on the top right of the screen.
+
+HANDICAP (Difficulty Switches)
+
+The ball travels a much longer distance when the difficulty switch is in the
+"a" position. (Use the left difficulty switch for one-player games.)
+
+Printed in USA Rev. 1
+
+This document typed by gchance@ecst.csuchico.edu.

@@ -1,0 +1,449 @@
+                           FROGGER
+
+                     A Video Game Cartridge from
+                        PARKER BROTHERS
+
+           Under License From Sega Enterprises, Inc.
+            For Atari & Sears Video game systems
+
+
+           Typed By: John Paul Bindel
+                     04/17/94
+                     bindel@tamu.edu
+
+
+
+Leapin' Frogger! Home may look like it's only a hop,
+skip, and a jump away, but looks can be deceiving, First
+there's a dangerous highway to hop across, full of fast-
+moving cars and trucks. Then there's a swirling river to
+leap, full of frog-eating creatures. How's Frogger going to
+get home safely! By letting you hop him on his way.
+Guide Frogger safely through this perilous journey, and
+you'll jump for joy!
+
+OBJECT
+======
+The object of the game is to hop as many frogs to safety
+as you can-and to score the most points along the way!
+
+SETTING THE CONSOLE CONTROLS
+============================
+1. To select a game number (see Game Selection Box),
+   press down on the GAME SELECT switch. The game
+   number will appear at the top of the screen.
+
+2. Set the DIFFICULTY switch:
+   Position A:
+   You'll lose Frogger if he's carried off-screen on a 
+   floating object.
+   Position B:
+   Frogger can be carried safely off-screen on a floating
+   object. He'll then reappear on the other side of the
+   screen so you can continue play. However, Frogger
+   can't *hop* off-screen.
+
+In a one-player game, use the left DIFFICULTY switch.
+In a two-player game, the 1st player uses the left DIFFI-
+CULTY switch and the 2nd player uses the right DIFFI-
+CULTY switch.
+
+3. Press down the GAME RESET switch---and you're
+   ready to start the action!
+
+THE JOYSTICK CONTROLLERS
+========================
+Make sure you plug the Joystick controllers firmly into
+the jacks at the back of your video system. Use the LEFT
+controller jack for one-player games.
+                                                  ^ Forward
+Use the Joystick to jump Frogger              _   |
+forward, backward, left and right.           | |  v Backward
+In games 1-4, move the Joystick              | |
+*once* in the direction you wish            _| |_
+Frogger to jump. Frogger will make         |o| | |
+one *jump* in that direction. You *must*   | | | |
+do this each time you want Frogger         |     |
+to make one jump. In games 5 and           |_____|
+6, Frogger becomes "Speedy"                |     |
+Frogger! As long as you *hold* the         \_____/
+Joystick in one direction, Speedy
+Frogger will jump again and again                <->
+in that direction.                       Left, Right
+
+PLAYING
+=======
+This illustration shows the journey Frogger has to
+make---from sidewalk to home bay: (O is Frogger)
+
+
+
+
+     #   ###   ###   ###   ###   #
+     #%%%%%         %%%%%      ^ #
+     #          @ @        @ @ |-#--Home Bays
+     # %%%%%%%%%%%               #
+     #      %%%   %%%   %%%      #
+     #       @ @ @          @ @ @#
+     #_________________________<-#--Riverbank
+     #    ****           ****    #
+     #      **             **    #
+     #    **  **              ** #
+     #     **  **           -----#--Sidewalk
+     #        **            | ** #
+     #________________O_____v____#
+     #ooo                    ====#
+       ^                       ^
+       |                       |----Time Bank
+       -----------------------------Remaining Frogs
+
+You'll start the game with 5 frogs. The first frog is shown
+on the sidewalk below the traffic. The remaining frogs are
+shown as white squares on the lower left-hand corner of
+the screen.
+
+TIME BAND
+=========
+You have only 30 seconds to move Frogger from the
+sidewalk and into a home bay, one of the blue, open-
+ended squares at the top of the screen.
+
+Time is monitored by the time band, the black line
+located in the lower right-hand corner of the screen.
+When you have only 5 seconds left to get Frogger into a
+home bay, you'll hear a warning sound and see the line
+turn red.
+
+
+     #   ###   ###   ###   ###   #  If you run out of time
+     #%%%%%         %%%%%        #  before you get Frogger
+     #          @ @        @ @   #  home, you'll lose him.
+     # %%%%%%%%%%%               #  When this happens,
+     #      %%%   %%%   %%%      #  you'll hear a "splooch"
+     #       @ @ @          @ @ @#  sound and see a green
+     #___________________________#  "X" where Frogger was
+     #    ****           ****    #  when his time ran out.
+     #      **             **    #
+     #    **  **              ** #
+     #     **  **  X           **#
+     #        **              ** #
+     #___________________________#
+     #ooo                    ====#
+
+
+
+FROM SIDEWALK TO RIVERBANK
+==========================
+Frogger starts his perilous journey on the sidewalk, fac-
+ing 5 lanes of cars and trucks. When the music stops,
+you're ready to start Frogger hopping!
+
+Try to get Frogger through the lanes of traffic. Traffic trav-
+els in alternating directions and at different speeds, so be
+careful! Frogger will get "splooched" if he touches any
+part of a vehicle or is run over!
+
+FROM RIVERBANK TO RIVER
+=======================
+Because Frogger can't swim in the river (the current is
+too strong), hop him from one row of logs, turtles, or alli-
+gators onto the next in order to cross it.
+
+
+     #   ###   ###   ###   ###   #  1. Logs(%%%): Frogger can
+     #%%%%%         %%%%%        #  hop from side to
+     #          @ @        @ @   #  side on a log; he
+     # %%%%%O%%%%%               #  can also jump for-
+     #      %%%   %%%   %%%      #  ward and backward
+     #       @ @ @          @ @ @#  onto another float-
+     #___________________________#  object. But he'll
+     #    ****           ****    #  land in the river if
+     #      **             **    #  he leaps to the left
+     #    **  **              ** #  or right off a log.
+     #     **  **              **#
+     #        **              ** #
+     #___________________________#
+     #ooo                    ====#
+
+
+2. Turtles(@): The red circles that float on the river are the
+   turtles. Frogger is safe on their backs as well as in the
+   water area between a set of them (2 or 3 turtles in a
+   row). He can jump forward and backward from a turtle
+   onto another floating object. But he'll land in the river if
+   he jumps to the left or right off either of the end turtles.
+
+
+     #   ###   ###   ###   ###   #  3. Diving Turtles:
+     #%%%%%         %%%%%        #  These tricky turtles
+     #          @ O        @ @   #  can float on the
+     # %%%%%%%%%%%               #  water and dive
+     #      %%%   %%%   %%%      #  under the water!
+     #       @ @ @          @ @ @#  When they're red,
+     #___________________________#  it's safe for Frogger
+     #    ****           ****    #  to jump on their
+     #      **             **    #  backs. But once
+     #    **  **              ** #  they turn light blue,
+     #     **  **              **#  watch out! That
+     #        **              ** #
+     #___________________________#
+     #ooo                    ====#
+
+   means they're getting ready to dive, so hop Frogger
+   onto another floating object fast! If you're not quick
+   enough, Frogger will get "splooched."
+
+   But these turtles can't stay underwater forever. When
+   you see a set of light blue turtles suddenly appear on
+   the screen, this means they're coming up for air.
+   they'll soon be changing from light blue to red, so
+   Frogger will be safe on their backs until they dive
+   again.
+
+While crossing the river, here are some other things to
+watch for:
+
+1. Lady-Frog: Occasionally you'll see a white "lady" frog
+   hopping frantically along a log. If you hop Frogger onto
+   the log to rescue her and take her home, you'll score
+   bonus points. Just hop Frogger close enough to here so
+   she'll jump onto his back. You'll hear a high-pitched
+   sound when she does. Now, try to get Frogger---and
+   the lady frog---home to safety.
+
+
+     #   ###   ###   ###   ###   #  2. Alligators(=%%%<): Alligators
+     #%%%%%         =%%%<        #     swim among the logs
+     #          @ @        @ @   #     from time to time.
+     # %%%%%%%%%%%               #     You'll see them
+     #      o%%   %%%   %%%      #     snapping their jaws
+     #       @ O @          @ @ @#     open and closed,
+     #___________________________#     just waiting for a
+     #    ****           ****    #     tender Frogger mor-
+     #      **             **    #     sel to jump their
+     #    **  **              ** #     way! Frogger is safe
+     #     **  **              **#     on an alligator's tail
+     #        **              ** #
+     #___________________________#
+     #ooo                    ====#
+
+   and back. But Frogger is a goner if he jumps into
+   its jaws!
+
+
+
+3. Floating Off-Screen: Frogger get "splooched" in
+   DIFFICULTY Position A if he's carried off-screen on a
+   log, turtle, or alligator. This *doesn't* happen if DIFFI-
+   CULTY Position B.
+
+
+     #   ###   ###   ###   ###   #  4. Snakes(--=): Snakes
+     #%%%%%         %%%%%        #     will appear on the
+     #          @ @        @ @   #     riverbank and logs
+     # %--=%%%%%O%               #     as the game gets
+     #      %%%   %%%   %%%      #     more difficult. You
+     #       @ @ @          @ @ @#     can hop Frogger
+     #______________--=__________#     onto a snake's
+     #    ****           ****    #     back, but he'll get
+     #      **             **    #     "splooched" if he
+     #    **  **              ** #     hops too close to a
+     #     **  **              **#     snake's mouth!
+     #        **              ** #
+     #___________________________#
+     #ooo                    ====#
+
+
+FROM RIVER TO HOME BAY
+======================
+Successfully hop Frogger into a home bay, and he's
+safe and sound! You'll score points each time you bring
+Frogger home, and get bonus points each time you
+bring 5 frogs home!
+
+When leaping Frogger into its home bay, here are some
+things to watch for:
+
+1. Jumping Home: Hop Frogger into a home bay when
+   he's *directly* in front of it. If Frogger hits any part of the
+   green shrubbery on the sides of the home bay, he'll
+   land in the river.
+
+2. Occupied Home Bay: Frogger can't jump into a home
+   bay that's occupied by another frog.
+
+
+     #   ### < ###   ### & ###   #  3. Alligator's Head(<):
+     #%%%%%         %%O%%        #     If an alligator's
+     #          @ @        @ @   #     head is showing in
+     # %%%%%%%%%%%               #     a home bay, it's not
+     #      %%%   %%%   %%%      #     safe for Frogger to
+     #       @ @ @          @ @ @#     jump in. However,
+     #___________________________#     if the head is just
+     #    ****           ****    #     beginning to sur-
+     #      **             **    #     face, Frogger won't
+     #    **  **              ** #     be harmed.
+     #     **  **              **#
+     #        **              ** #
+     #___________________________#
+     #ooo                    ====#
+
+
+4. Fly(&): If you hop Frogger into a home bay while a fly is
+   showing, Frogger gets a free meal---and you score
+   extra points!
+
+GAME DIFFICULTY
+===============
+Each time you bring 5 frogs home, you'll hear a short
+tune. Then the game will continue at a more difficult
+game level with your remaining frogs. The traffic will be
+more difficult to cross. There will be fewer floating objects
+on the river, and the speed of these floating objects will
+vary from fast to slow. Frogger-eating snakes will also
+appear on the riverbank and, in progressively more
+difficult levels, on the logs.
+
+END OF GAME
+===========
+The game ends when no frogs are left.
+
+To Play Again: In a one-player game, press the red but-
+ton on your Joystick to play again at the same game
+number. In a two-player game, both players press the red
+buttons at the same time to play again at the same game
+number. To play at another game number, use the GAME
+SELECT switch.
+
+180-DAY LIMITED WARANTY
+=======================
+
+PARKER BROTHERS warrants, subject to the conditions
+below, that if the components of this product prove defec-
+tive because of improper workmanship or material during
+the period of 180 days from the date of original purchase,
+PARKER BROTHERS will repair the product or replace
+it with a new or repaired unit, without charge, or will
+refund the purchase price.
+
+CONDITIONS:
+1. Proof of Purchase: The retail sales receipt or other
+proof of purchase must be provided.
+
+2. Proper Delivery: The product must be shipped, pre-
+paid, or delivered to PARKER BROTHERS (address:
+190 Bridge Street, Salem, MA 01970, Attention: Quality
+Control Dept.) for servicing, either in the original pack-
+age or in a similar package providing an equal degree
+of protection.
+
+3.Unauthorized Repair, Abuse, etc.: The product must
+not have been previously altered, repaired or serviced
+by anyone other than PARKER BROTHERS; the product
+must not have been subjected to an accident, misuse
+or abuse.
+
+REPAIRS AFTER EXPIRATION OF WARRANTY:
+If the product malfunctions after the 180-day warranty
+period, you may ship the product prepaid and enclosed
+with a check or money order for $8.00 to Parker Brothers.
+Parker Brothers will, at its option, subject to the conditions
+above, repair the product or replace it with a new or
+repaired unit, subject to availability of parts. If replace-
+ment units or required parts are not available, the $8.00
+payment will be refunded.
+
+EXCEP TO THE EXTENT PROHIBITED BY APPLICA-
+BLE LAW, ALL IMPLIED WARRANTIES MADE BY
+PARKER BROTHERS IN CONNECTION WITH THE
+PRODUCT, INCLUDEING THE WARRANTY OF MER-
+CHANTABILITY, ARE LIMITED IN DURATION TO A
+PERIOD OF 180 DAYS FROM THE DATE OF ORIGINAL
+PURCHASE; AND NO WARRANTIES, WHETHER
+EXPRESSED OR IMPLIED, INCLUDING THE WAR-
+RANTY OF MERCHANTABILITY, SHALL APPLY TO
+THIS PRODUCT AFTER SAID PERIOD. SHOULD THIS
+PRODUCT PROVE DEFECTIVE IN WORKMANSHIP
+AND MATERIAL, THE CONSUMER'S SOLE REMEDY
+SHAL BE SUCH REPAIR, REPLACEMENT OR
+REFUND AS IS HEREIN ABOVE EXPRESSLY PRO-
+VIDED; AND UNDER NO CIRCUMSTANCES SHAL
+PARKER BROTHERS BE LIABLE FOR ANY LOSS OR
+DAMAGE, DIRECT OR CONSEQUENTIAL, ARISING
+OUT OF THE USE OF, OR INABILITY TO USE, THIS
+PRODUCT.
+
+SOME STATES DO NOT ALLOW LIMITATIONS ON
+HOW LONG AN IMPLIED WARRANTY LASTS, OR THE
+EXLUSIONS OR LIMITATIONS OF INCIDENTAL OR
+CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMI-
+TATIONS OR EXCLUSION MAY NOT APPLY TO YYOU.
+THIS WARRANTY GIVES YOU SPECIFIC LEGAL
+RIGHTS AND YOU MAY ALSO HAVE OTHER RIGHTS
+WHICH VARY FROM STATE TO STATE.
+
+We will be happy to answer your questions or comments about
+FROGGER. Contact the Consumer Response Department
+nearest you:
+
+In the U.S.A.: Parker Brothers, P.O. Box 1012, Beverly, MA 01915
+In Australia and New Zealand: Parker Games, 104 Bourke Road,
+Alexandria, N.S.W. 2015
+In the United Kingdom: Parker Games, Coalville, Leicester LE62DE.
+
+
+GAME VARIATIONS
+===============
+Frogger has 6 game variations. Games 1, 3, and 5 are
+one-player games; 2, 4, and 6 are two-player games. See
+the Game Selection Box for game number variations.
+
+Two-Player Games: Games 2, 4, and 6 are two-player
+games. The left player goes first; players then alternate
+turns. Your turn ends when you lose a frog; you begin
+your turn again with your remaining frogs. Each player's
+score is displayed throughout his or her turn at the top
+of the screen. The game ends once both players have
+lost all their frogs.
+
+SCORING
+=======
+Your score is displayed at the top of the screen through-
+out the game. Points accumulate as follows:
+
+Successfully jumping Frogger forward......1 point
+Successfully jumping Frogger home.........5 points
+Successfully jumping 5 frogs home.......100 points
+Taking a lady frog home..................20 points
+Eating a fly.............................20 points
+Extra points for time left................2 points
+                              per remaining second
+
+Every time you score 1,000 points and have fewer than
+4 frogs left, you'll get another Frogger! When this
+happens, you'll see another white square on the lower
+left-hand corner of the screen.
+
+GAME SELECTION BOX
+==================
+When you select a game number, one of these symbols
+will appear in the home bays at the top of the screen:
+
+ ___     ___     ___     ___     ___
+|   |___|   |___| O |___|   |___|   | indicates a one-player game
+
+ ___     ___     ___     ___     ___
+|   |___| O |___|   |___| O |___|   | indicates a two-player game
+
+
+GAME NUMBERS                  GAME LEVELS
+============                  ===========
+one-player  two-player
+----------------------  
+1           2                 Easiest
+2           4                 More Difficult
+5           6                 "Speedy" Frogger
+
+
+
+

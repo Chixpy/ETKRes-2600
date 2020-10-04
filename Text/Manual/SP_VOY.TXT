@@ -1,0 +1,73 @@
+               SPACE VOYAGE INSTRUCTIONS
+
+OBJECTIVE
+
+Pilot Star Voyager through treacherous space. As you look out from the Command Bridge, stars rush past.
+Penetrate the seven star portals and save the Capital Starport. Destroy enemy ships with photon torpedoes or
+lasers, or evade them to maintain your precious energy supply.
+Keep track of energy levels on the instrument panel. Use your radar screen to locate opponents and
+approaching star portals. Only passing through a star portal restores your energy reserves. But be warned!
+Crashing into a star portal will destroy you!
+
+GAME PLAY
+
+* Your viewer displays the hostile space you navigate.
+* Sights at the center of the viewer show where your 2 lines of fire meet.
+* Weapon fire originates under wings located on either side of the Command Bridge. Lasers use more energy
+  than photon torpedoes but have a wider, more effective range. Both destroy anything in their paths.
+* Enemy ships and star portals first appear as small distant dots, then advance. Enemy pulsar bombs flash
+  white hot on your viewer. Each hit costs you energy as enemy ships and their fire crash into Star Voyager
+  defense shields.
+Destroy enemy ships, maintain enery levels, eclipse star portals - you'll earn field promotions. (See Scoring)
+* Your Instrument Panel helps. The reading on the left indicates the number of enemy ships you've blasted.
+  Energy still in reserve appears on the right.
+* The radar screen in the middle of the panel shows both the nearest enemy (solid dot) and star portal
+  (flashing blip).
+* Audio signals alert you to approaching foes and star portals. Four beeps indicate an alien presence. A
+  musical overtune sounds when a star portal is near.
+* Your joystick responds like pilot controls. To navigate: pull stick toward you to climb. Push forward to
+  dive. Rotate to the right and veer right; to the left, veer left. Position joystick controller so that the red
+  button is at the upper left hand corner.
+* To fire laser or photon torpedoes: press red button.
+* 1-player versions: use left hand controller.
+* Flip Game Select Lever to choose a Star Voyager game.
+* Game number appears in lower left of screen.
+* Hit Game Reset Lever to begin action. Game begins again whenever Reset Lever is tapped.
+* Fire button on left hand controller will reset game when previous game ends.
+The Left Difficulty Lever controls the pace of enemy attack and star portal appearance.
+* Normal Mode: A
+* Accelerated action: B
+Select weapons with Right Difficulty Lever:
+* Lasers: position A
+* Photon Torpedoes: position B
+
+VARIATIONS
+
+1-player: opposes a computer-controlled foe. Use left hand controller.
+2-Player:
+* Team up as Pilot and Weapons Officer. Select game number 1. The pilot uses the left hand controller. The
+  right joystick controls weapons fire.
+* For a combative challenge, play game number 2. The left joystick operates Star Voyager. The right
+  manoeuvres enemy ships and controls pulsar bomb fire.
+
+SCORING
+
+* Multiply your tally of enemy casualties by 5.
+* Add 10 points for each star portal penetrated. Determine the number of star portals crossed by the colour
+  of the viewer border:
+                                Blue-Grey-Yel-Or-Grn-Viol-Pink-Blue
+                                 0    1    2  3   4    5    6    7
+ (Colour tone varies depending on TV screen)
+
+                                 Your score earns you field promotions:
+
+                                   0 -  15                    AWOL
+                                  16 -  47                    One Chevron
+                                  48 -  79                    Two Chevrons
+                                  80 - 111                    Three Chevrons
+                                 112 - 143                    Four Chevrons
+                                 144 - 175                    Lieutenant
+                                 176 - 207                    Captain
+                                 208 -                        Admiral
+                                 Rankings appear at game's end.
+

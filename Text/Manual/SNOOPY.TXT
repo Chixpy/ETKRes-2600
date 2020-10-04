@@ -1,0 +1,76 @@
+SNOOPY AND THE RED BARON
+
+Note: Always turn the console POWER switch OFF when inserting or
+removing an ATARI Game Program (tm) cartridge.  This will protect the
+electronic components and prolong the life of your ATARI 2600 (tm) Video
+Computer System (tm) game.
+
+GAME PLAY
+The dastardly Red Baron has stolen important food supplies from the
+allies during the war.  Hamburgers, ice cream cones, popcorn and other
+tasty treats have been taken by this evil aviator and sharpshooter.
+Your task is to help Snoopy shoot down the Red Baron and recover the
+stolen supplies.
+
+You begin your mission with four doghouses.  It takes eight direct hits
+to bring down the Red Baron, and for the Red baron to bring down
+Snoopy's doghouse.  If the Red Baron downs a doghouse, all accumulated
+treats will be lost.  Press the controller button to fire Snoopy's
+machine gun.
+
+Note: Snoopy cannot fly above the clouds.
+
+To catch a stolen treat: Keep an eye on the Red Baron when he drops a
+tasty morsel from his tri-plane.  Recover the falling treat by touching
+it with Snoopy's doghouse.  But watch out!  The Red Baron can also drop
+skull and crossbones, and if you catch one, you lose all of the treats
+you've collected.
+
+If you manage to shoot down all the Red Barons in the round and collect
+all the treats, bonus points are added to your score (see SCORING).
+Press the controller button to begin the next round.
+
+Before you press GAME RESET (see CONTROLS), you can play a practice game
+without scoring points, and without being shot down.
+
+
+USING THE CONTROLLER
+Be sure your controllers are firmly plugged into the jacks on your
+console.  For one-player games, plug your controller into the left
+controller jack.  Hold the controller with the red button to your upper
+left, toward the television screen.
+
+Press GAME SELECT to choose the skill level you want: 1-medium,
+2-advanced, or 3-expert.  Game 4 is an easy version for young children
+and beginners.  The number to the right of the game number indicates the
+number of Red Barons in each round.
+
+Press GAME RESET to start and restart the game.
+
+Press the red button to continue playing at the end of each round.
+
+
+SCORING
+Points During Flight
+Red Baron Hit           10
+Each Treat              40
+
+Bonus Points (at the end of round)
+Each Treat Recovered    50
+Red Baron Shot Down     100
+All treats recovered    Bonus Doghouse
+
+A Gold Baron is earned after fifty Red Barons are shot down.  An
+exclamation point indicates each one million points.
+
+
+HELPFUL HINTS
+* When Snoopy catches a treat, the Red Baron will come after him, so
+quickly fly away.
+
+* Fly Snoopy down toward the mountains to lure the Red Baron out of the
+clouds, where Snoopy dares not roam.
+
+* Try to fly behind the Red Baron.  He cannot shoot backwards.
+
+

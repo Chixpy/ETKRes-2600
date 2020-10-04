@@ -1,0 +1,203 @@
+MAZE CRAZE(tm)
+A GAME OF COPS N' ROBBERS
+ATARI(R) GAME PROGRAM(TM) INSTRUCTIONS
+
+ATARI(R)
+A Warner Communications Company
+CX2635
+
+NOTE: Always turn the console power switch off when inserting or removing an
+ATARI(R) Game Program(TM) cartridge.  This will protect the electronic
+components and prolong the life of your ATARI Video Computer System(TM) game.
+
+Manual, Program, and Audiovisual (C) 1978 ATARI, INC.
+
+TABLE OF CONTENTS
+
+1. OBJECT OF THE GAME
+2. GAME PLAY
+3. USING THE CONTROLLERS
+4. CONSOLE CONTROLS
+5. GAME VARIATIONS
+6. GAME SELECT MATRIX
+
+1. OBJECT OF THE GAME
+
+Each player* controls a blue or red cop.  Your cop's beat is a maze of city
+blocks, and you must move the cop from the left side of the maze to the exit
+on the right, as shown in the diagram.
+
+*MAZE CRAZE(TM) may be played by one player, depending on the game number you're
+playing.  See GAME VARIATIONS and the GAME SELECT MATRIX to determine whether 
+anything has to happen to a second player in order for you to exit the maze
+and end the game.
+
+2. GAME PLAY
+
+You're a cop confronting danger and suspense as you and your opponent wind your
+way across the city blocks.  The first player to reach the exit on the right
+side of the maze wins the game.
+
+Throughout the game you may encounter armed robbers, blockades, and other
+obstacles to prohibit you from finishing your beat.
+
+You'll hear the footsteps of cops, as well as the sound effects when someone
+bumps into a deadend, or the special sound effects when someone exits from
+the maze.  You'll also experience the unique sound that occurs when a robber
+captures a cop!
+
+The number at the top center of the playfield represents the game number.
+
+SPEED
+
+How fast can your cop react to danger?  The number at the top left side of
+the playfield represents the speed at which cops and robbers travel:
+
+1 - medium
+2 - fast
+3 - slow
+4 - calculatingly slow
+
+VISIBILITY
+
+During some games, all or some of the city blocks may suffer blackouts.  The
+top right number on the screen represents the amount of the maze you can see
+during a game:
+
+1 - Straight forward action with all of the maze visible throughout the game.
+2 - A small portion of the maze is invisible.
+3 - Danger increases with a large portion of the maze invisible.
+4 - The ultimate in suspense with all of the maze invisible.
+
+When a cop exits any of the invisible mazes, the maze appears on the screen.
+To select a game number, speed and visibility, press the game select switch.
+All of the available game numbers and visibility numbers will appear for
+each speed beginning with speed number one.  Continue to press the switch until
+the combination of speed, game and visibility you desire appears at the top of
+the screen.
+
+3. USING THE CONTROLLERS
+
+Use your Joystick Controllers with this ATARI(R) Game Program(TM) cartridge.
+Be sure the Joystick Controller cables are firmly plugged into the RIGHT and
+LEFT CONTROLLER jacks at the back of your ATARI Video Computer System(TM) game.
+Hold the Joystick with the red button to your upper left, toward the
+television screen.  See Section 3 of your owner's manual for further details.
+
+To move your cop, push the Joystick forward, backward, left or right.
+
+Press the red controller button to:
+
+* Select a new maze for the game you've just completed.
+* Use features offered in some games (See the GAME VARIATIONS section for a 
+  detailed breakdown of these features).
+
+4. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+Use this switch to select the number of the game, visibility and speed you wish
+to play.
+
+GAME RESET SWITCH
+
+Use this switch to start game play, to choose a different maze for the game
+you've selected, or to see an invisible maze before you exit.
+
+DIFFICULTY SWITCHES
+
+In the a position, your cop moves at the same speed as the robbers.  In the b
+position, your cop moves faster than the robbers.  The left player uses the
+left difficulty switch; the right player uses the right difficulty switch.
+
+TV TYPE SWITCH
+
+Set this switch to color if you have a color television set.  Set it to b-w
+to playthe game in black and white.
+
+5. GAME VARIATIONS
+
+Each game offers different variations or features which can assist or hinder
+you in finding your way out of the maze.
+
+CAPTURE - You must become a hero and capture thre robbers before you win the
+game.  To do this, move your cop toward the robber and make contact.  During
+games that feature CAPTURE, coor or coded bars appear for each player at the
+top of the screen.  Each time you capture a robber, the appropriate bar
+disappears. (Blue bar = blue robber)
+
+2, 3 OR 5 ROBBERS - Depending on the game you're playing, two, three or five
+robbers appear on the right side of the screen.  They will be lurking around 
+corners waiting for you.  If they touch you, you automatically are knocked out
+of the game and lose.
+
+WOUNDS - You're paralized after robbers touch you.  Only after a few moments
+will you regain strength, and then you can gradually move at your normal speed.
+
+NOTE: A wounded cop continues to move in the same direction that he was headed 
+when he was wounded.  Only at the next intersection can you change the
+cop's direction.
+
+TERROR - Your cop cannot exit the maze until your opponent is knocked out of
+the maze by the robbers.
+
+BLOCKADE - Confuse your opponent by leaving a blockade resembling a deadend
+in the maze.  He can go through it, of course, but blockades can be useful
+strategy.  Press the red controller button to leave a blockade.  When you
+set up a new blockade, the previous one disappears.
+
+AUTOMATIC PEEK - This is your way out of the darkness!  During invisible mazes
+or blackouts, the computer flashes the complete maze on the screen every few
+seconds.  Try to recognize the way out before your opponent.
+
+PLAYER PEEK - During invisible games, a player can peek at the complete maze
+by pressing the red controller button.  The maze remains on the screen
+momentarily.
+
+SCOUTS - During invisible mazes, your cop has a partmer or scout who moves
+ahead of him.  The scout randomly leads the way, but you are free to ignore
+his suggestions.
+
+NOTE: All of the 16 MAZE CRAZE games have four visibility options.  GAMES 6
+and 7 feature additional variations.  GAME 6 with visibility 1 is a 5 ROBBERS
+Game Variation.  GAME 6 with all other visibilities is a PLAYER PEEK Game
+Variation.  GAME 7 with visibility 1 combines the 5 ROBBERS and TERROR Game
+Variations.  GAME 7 with all other visibilities is a SCOUTS Game Variation.
+All other games allow you to choose your visibility options.  See GAME SELECT
+MATRIX for game variations.
+
+6. GAME SELECT MATRIX
+
+                                         No Game Variations
+                  Visibility 2,3,4                        |
+                    Visibility 1 |                        |
+              Visibility 2,3,4 | |                        |
+                Visibility 1 | | |                        |
+                           | | | |                        |
+------------------------------------------------------------
+Game Number     |1|2|3|4|5| 6 | 7 |8|9|10|11|12|13|14|15|16|
+------------------------------------------------------------
+2 Robbers       | |X| | | | | | | | |X| X|  |  | X|  |  |  |
+------------------------------------------------------------
+Capture         | | | |X| | | | | |X| |  |  | X|  |  |  |  |
+------------------------------------------------------------
+3 Robbers       | | |X| |X| | | | | | |  | X|  |  |  | X|  |
+------------------------------------------------------------
+5 Robbers       | | | | | |X| |X| | | |  |  |  |  |  |  |  |
+------------------------------------------------------------
+Auto Peek       |X| | |X| | | | | | | |  |  | X|  |  | X|  |
+------------------------------------------------------------
+Player Peek     | |X|X| | | |X| | |X| |  |  |  | X| X|  |  |
+------------------------------------------------------------
+Wounds          | | | | |X| | | | | | |  |  |  | X|  |  |  |
+------------------------------------------------------------
+Blockade        | | | | | | | | | |X| |  | X|  |  |  |  |  |
+------------------------------------------------------------
+Terror          | | | | | | | |X| | | | X| X|  |  |  | X|  |
+------------------------------------------------------------
+Scouts          | | | | | | | | |X| | |  |  |  |  |  |  |  |
+------------------------------------------------------------
+
+This document typed and converted to html by gchance@ecst.csuchico.edu.
+
+

@@ -1,0 +1,161 @@
+Final Approach:  Instructions  (for 2600, by Apollo)
+----------------------------------------------------
+
+THE SITUATION
+
+You are an Air Traffic Controller at a busy international airport.
+Literally thousands of lives are in your hands every day as you guide
+giant airliners and small private aircraft taking off and landing.
+You try to stay relaxed under the intense pressure of your job,
+but you must always be ready for emergencies.
+
+THE SET-UP
+
+FINAL APPROACH(tm) is played by one or two players using the joystick
+controllers.  Be sure the power is off when you insert or remove the
+FINAL APPROACH cartridge from your video game system.
+
+THE DIFFICULTY SWITCH
+
+Placing this switch in the 'B' position will provide the easiest play.
+It controls the speed of the aircraft on your radar screen as the
+game begins; slower in the 'B' mode, faster in the 'A' mode.
+
+THE GAME SELECT SWITCH
+
+Each time you depress this switch, you will select a new game variation.
+The numbers of the different variations shown on the game menu in this
+manual will appear on your video screen at top center, with the number
+of players on the right.  (See VARIATIONS.)
+
+THE RESET SWITCH
+
+When this switch is depressed, the game will begin.  The variation and
+player number will change into a scoreboard, which will reflect the points
+you have received landing aircraft.
+
+SCREENS
+
+The first screen you'll use in controlling air traffic is the Approach
+Control Radar Screen (ACR), which will appear when you turn on the power.
+The ACR screen shows you all the air traffic in the vicinity of your airport.
+Use this screen to control your aircraft for landing.  When an aircraft
+is aligned with the runway strobes and is on final approach, you must then
+switch to the Ground Control Approach (GCA) screen.  Use the GCA screen to
+bring your aircraft in for a safe landing, monitoring altitude and heading.
+
+THE JOYSTICK CONTROLLER
+
+Hold your joystick controller so that the red 'FIRE' button is in the upper
+left corner.  On the ACR screen, moving the joystick will move a small
+black square known as the cursor around the screen.  To control the movements
+of an aircraft, position the cursor directly on the airplane and press the
+red 'FIRE button.  You will remain in control of the aircraft until you
+again press the red 'FIRE' button, releasing the cursor from the aircraft.
+On the GCA screen, use the joystick to control the altitude and heading of
+your aircraft on final approach.  Control the altitude of your aircraft by 
+pulling it towards you to reduce altitude, and pressing it forward to
+increase altitude.  Heading is controlled by moving the joystick left or
+right to keep your aircraft centered on the runway.
+
+GENERAL PLAY
+
+Aircraft will enter your radar screen randomly.  There may be up to four
+aircraft on the screen at one time.  When these aircraft appear on the
+screen, they will not be heading in any fixed direction, so you must take
+control to steer them in the desired direction.  Each aircraft will remain
+on the last given heading, so you must constantly monitor this heading and
+change it so that the aircraft are spaced out in a matter in which they
+can achieve a safe and expeditious landing.  The aircraft under your control
+must remain within the boundaries of your radar screen.  If you allow an
+aircraft to go out of the boundaries, it may reappear at any point on the
+screen, and you will lose points.  You must also insure your passengers'
+safety by keeping your aircraft spaced adequately.  Allowing two or more
+aircraft to touch will be considered a near-miss, and you will be penalized
+for a control error (that is, one life).
+
+Your objective in controlling the aircraft on your runway screen is to steer 
+it so that it arrives at the end of the runway strobes heading toward the
+runway.  From this position, the aircraft can make a landing on the runway
+if it is steered properly.  If you do not position the aircraft over the end
+of the strobes, the aircraft cannot land.  Once the aircraft has been
+positioned to start its approach, you must select the GCA screen to steer the
+aircraft down the glide slope (which shows the aircraft's altitude) and 
+the localizer (which shows the aircraft's heading).
+
+TO SWITCH from the ACR screen to the GCA screen, you simply move the cursor
+down to the lower center knob on your console, and press the red 'FIRE'
+button.  A successful landing is accomplished if your aircraft's nose
+is centered on the glide slope and localizer when arriving at the end of
+the runway.  As soon as the aircraft has touched down on the runway,
+switch back to the ACR screen simply by pressing the red 'FIRE' button.
+If the airplane was landed successfully, the aircraft will have
+already disappeared from the ACR screen, and an additional aircraft will
+soon appear at an edge of the screen.  If a successful landing is not made,
+the aircraft you attempted to land will continue to be displayed on the 
+ACR screen.
+
+Aircraft under your control may suddenly start flashing, and emitting a
+warning tone.  This indicates they have an emergency and must be brought
+in for an immediate landing.  Other aircraft must be cleared out of the
+path of the aircraft with an emergency, and it must be given priority
+for landing.  It will continue to flash until it has landed.
+
+[SCREEN SHOT:  GCA SCREEN.  A white diagonal line with a red plane on it
+slopes from the upper left to the screen's center, where it meets a black
+horizontal line.  This is the glide path.  Beneath it, a white horizontal
+line with a red plane on it stretches toward a runway; this is your 
+localizer.]
+
+[SCREEN SHOT:  ACR SCREEN.  Dots at the top of the screen indicate control
+errors.  The middle dot of the three greyish dots at the bottom of the
+screen is your Center Knob.  The cursor is a black square, the strobes 
+are little white lines next to the black runway, and the aircraft at the
+top of the screen is in black.]
+
+SCORING
+
+You receive 25 points for each successful landing.  For every emergency
+landing you receive 50 points if you are able to land the aircraft with an 
+emergency before any other aircraft.  You will lose 5 points every time
+you allow an aircraft to wander off the screen.  As the score increases,
+the speed of the aircraft on the screen increases.  You are allowed four
+control errors, such as allowing a near-miss or not immediately landing
+an aircraft in distress.  You will be allowed an additional control error
+every 500 points you earn.  The number of control errors (lives) remaining
+is indicated by the green lights at the top of the screen.
+
+VARIATIONS
+
+The FINAL APPROACH game variations include one and two-player games.  In the
+one-player game, the game is concluded when you have made four control errors.
+In the two-player game, the game is concluded when you each player has
+committed four control errors.  Turns alternate on each near-miss or 
+unsuccessful landing.  You may also select whether the maximum number of
+aircraft on the screen will be two, three or four.  In games 3 and 4, the
+game play is made even more challenging by the addition of crosswinds 
+affecting your aircraft on landing.  Games 7 and 8 are particularly easy,
+designed for small children.
+
+GAME MENU
+
+GAME NUMBER		1   2   3   4   5   6   7   8
+
+NUMBER OF PLAYERS    1  X       X       X       X
+                     2      X       X       X       X
+
+MAXIMUM NUMBER       4  X   X   X   X
+OF AIRCRAFT          3                  X   X
+                     2                          X   X
+
+CROSSWINDS ON      YES          X   X
+LANDINGS            NO  X   X           X   X   X   X
+
+
+[warranty information]
+
+----
+typed up by Jeff Coleburn, vsp@netaxs.com 
+
+
+

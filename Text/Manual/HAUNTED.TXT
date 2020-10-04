@@ -1,0 +1,286 @@
+1. THE TALE OF THE HAUNTED HOUSE
+
+Many years ago in the small town of Spirit Bay, there lived a mean
+old man named Zachary Graves. Old man Graves was not a very well
+liked person. He rarely left the old mansion and spent most of his
+life brooding about the decaying, four story house. When he died, the
+house was condemned and locked up.
+
+The townspeople claim that old man Graves knew the whereabouts of a
+magic urn that was a family heirloom of the first family of Spirit
+Bay. It seems that the mansion was the family's first home and that
+the magic urn, which broke into several pieces during the earthquake
+of 1890, is still in the old house.
+
+To this day, no one has had the courage to go into the mansion to
+search for the pieces of the urn. It is common knowledge that the
+ghost of old man Graves still haunts the mansion. Some of the
+neighbors claim to have seen lights flickering in the windows. Some
+say that they have heard eerie sounds, doors slamming, and heavy
+footsteps. Some even claim to have seen shadows running through the
+mansion.
+
+The mysterious mansion has 24 rooms connected by long corridors and
+staircases. Some of the rooms have been locked up for over 50 years.
+There is supposed to be a master key hidden somewhere in the mansion.
+Without the key, it might be impossible to travel from room to room.
+There is also an ancient scepter hidden in the mansion. Old man
+Graves always carried this scepter. He believed it scared off evil
+spirits.
+
+Now that you know the story, ATARI is unlocking the entrance to the
+HAUNTED HOUSE and letting you test your bravery. Do you dare enter
+the frightening old mansion? If you do, remember to carry matches;
+the HAUNTED HOUSE is very dark.
+
+When you are ready to challenge your courage, insert this Game Program
+cartridge and turn on your ATARI Video Computer System game to enter
+the main room on the first floor of the HAUNTED HOUSE.
+
+2. GAME OBJECTIVE
+
+The object of the game is to find the three pieces of the magic urn
+and carry them back to the main entrance of the mansion, before
+losing all 9 of your lives. Your score is based on the number of
+matches you use during your search, and the number of lives you use.
+
+The pieces of the urn are randomly scattered throughout the 24 rooms
+in the mansion. There are four floors, and each floor has six rooms.
+The floors are connected by staircases. The rooms are connected by
+corridors and doorways. (See GAME PLAY, Section 3 for information
+about doors and stairways.) Some of the doors are locked, so find the
+master key which is also hidden in the mansion.
+
+Finding the urn wouldn't be so difficult, except that the mansion is
+dark. To enable you to see your way around, we have provided an
+unlimited supply of matches, which you light by pressing the red
+controller button (see USING THE JOYSTICK CONTROLLER Section 4).
+
+Now that you know that you must use matches, we want to warn you
+about the creatures you'll encounter as you stumble through the
+mansion. Be prepared to see a vampire bat, hairy tarantulas and the
+ghost of old man Graves himself. Every time one of these creatures
+touches you, you'll be "scared to death", and consequently lose a
+life.
+
+3. GAME PLAY
+
+So far, we've told you some of the things to expect in HAUNTED HOUSE.
+Here is some information to help you understand the objects and
+characters on the screen, and the progressive levels of difficulty.
+
+OBJECTS
+
+URN
+The urn is broken into three pieces. A match must be lighted to see
+all objects including the urn pieces. To pick up a piece of the urn,
+you (the eyes) must touch the piece. When you touch it, the piece
+appears at the bottom, right side of the screen as shown in Figure 2.
+The urn pieces automatically attach as you find and pick up each
+piece. They bond together to form the whole urn as one object. If you
+pick up another object, the pieces of the urn (or any other object)
+that you are carrying will be replaced by the new object. You will
+learn quickly that you can only hold one object at a time. When you
+have successfully put the three pieces of the urn together, you must
+find your way back to the main entrance of the mansion with the urn.
+(See FLOORPLAN, Figure 9.)
+
+SCEPTER
+The scepter is a magic stick used to make you invisible to all
+creatures in the mansion. To use the scepter you must drop any other
+object, and pick up (touch) the scepter. As long as you hold the
+scepter, you cannot be "scared to death". Like all other objects,
+while you are holding the scepter, it appears at the bottom, right
+side of the screen as shown in Figure 2.
+
+MASTER KEY
+GAMES 3 through 9 include locked doors which separate some of the
+rooms. To open these doors you need to find the master key. It is
+hidden in one of the unlocked rooms. To use the key, you must pick it
+up (touch it). When you hold the key it appears at the bottom of the
+screen. Remember, while holding the key, you cannot hold any other
+object.
+
+DOORWAYS
+As you travel through the mansion, you'll encounter several doorways.
+Some may be locked and some may not (See GAME VARIATIONS). To see the
+doorways in Games 2 through 9, use your matches.
+
+CREATURES
+
+TARANTULAS
+Tarantulas look like giant, hairy spiders. They move slowly around
+the mansion. If a tarantula touches you, you lose a life, unless you
+are carrying the scepter.
+
+VAMPIRE BATS
+Vampire bats fly quickly around the mansion. If touched by a vampire
+bat, you lose a life, unless again you're carrying the scepter.
+
+GHOST
+There is one very fast moving ghost in the mansion. It can move
+through locked doors and walls to chase you anywhere in the house. If
+the ghost touches you, you will get "scared to death" and lose a
+life. Carrying the scepter in Games 1 through 7 will protect you from
+the ghost.
+
+When any creature enters the room, your lighted match is blown out,
+but the creature's body glows in the dark.
+
+
+
+SOUNDS
+
+The game sounds in HAUNTED HOUSE provide important clues to game
+play.
+
+You will hear yourself slamming into walls or locked doors. You will
+hear and see flashes of lightning. When you hear the wind blow, don't
+be surprised if it blows out your match. As you pass through
+doorways, you'll hear the doors open and shut. The mansion is so
+creaky you can hear your own footsteps as you race about the rooms.
+When you climb up or down stairways, you will even hear a spooky
+tune. As you go upstairs, the tune plays low musical notes to high
+notes. As you go downstairs, the tune plays high notes to low notes.
+
+4. USING YOUR CONTROLLER
+
+Use your Joystick Controller with this ATARI Game Program cartridge.
+Be sure the Joystick Controller cable is firmly plugged into the LEFT
+CONTROLLER jack at the back of your ATARI Video Computer System game.
+Hold the Joystick with the red button to your upper left, toward the
+television screen. See section 3 of your owner's manual for further
+details.
+
+Move the Joystick up, down, right or left to move yourself (the eyes)
+around the house. Your eyes will move in the same direction as you
+move the Joystick. Press the red controller button to light a match.
+When you light a match, a circular area around you becomes visible.
+All games have an unlimited supply of matches.
+
+To pick up an object, use the Joystick to guide yourself (the eyes)
+to touch the object, and it is automatically picked up. To drop an
+object, use the Joystick to touch another object. The two objects
+will automatically change places. You can also drop an object by
+pressing the red controller button if a match is lighted.
+
+Use the Joystick Controller to move up or down stairways. Each
+stairway travels in one direction only up or down. Stairways leading
+down start with large steps decreasing in size. Stairways leading up
+start with small steps increasing in size. (see Figure 9 for
+FLOORPLAN and stairways.) To change floors, use the Joystick to move
+yourself to the end of the stairway and then move the Joystick in the
+opposite direction to enter the room.
+
+Each floor is numbered and color coded. The number is located at the
+lower left portion of the screen as shown in Figure 2. The number
+changes as you move from floor to floor. The whole lower portion of
+the screen changes colors with each of the four floors in the house.
+(See Figure 9 for further information.)
+
+[Figure 9 is in the file haunted-house.gif.]
+
+5. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+Use the GAME SELECT switch to select the game number you wish to
+play. Hold the switch down until the correct game number appears in
+the lower left portion of the screen, as shown in Figure 10. See GAME
+VARIATIONS to select the game you wish to play.
+
+GAME RESET SWITCH
+When you have selected the game number, press down the GAME RESET
+switch to start the game. After pressing GAME RESET, the game number
+changes to the number of the floor you are on in the house. All games
+start on floor 1 at the main entrance. When the game is over, the
+floor number changes back to the game number.
+
+LEFT DIFFICULTY SWITCH
+If the LEFT DIFFICULTY switch is in the B position, periodic flashes
+of lightning will help you to see your way around the mansion as the
+creatures chase you. If the LEFT DIFFICULTY switch is in the A
+position, you'll have to feel your way around, listening to sounds
+and bumping into walls.
+
+RIGHT DIFFICULTY SWITCH
+HAUNTED HOUSE is for one player only. The RIGHT DIFFICULTY switch is
+not used.
+
+TV TYPE SWITCH
+Set this switch to COLOR if you have a color television set. Set it to
+B-W if you are playing the game in black and white.
+
+6. SCORING
+
+Your score is based on the number of matches you use and the number
+of lives you have left at the end of the game. The game ends when you
+return to the main entrance of the mansion carrying the urn, or when
+all 9 lives are lost.
+
+Matches used are counted at the lower, left corner of the screen. The.
+first number to appear here is 00. The number then increases by one
+each time you light a match (see USING THE JOYSTICK CONTROLLER). The
+lower the number, the better your score.
+
+Each game starts with 9 lives, indicated at the bottom, right corner
+of the screen. Every time you are "scared to death" (touched by a
+creature), you lose one life. The higher the number of lives left at
+the end of the game, the better. As your playing skill improves,
+you'll be able to find the urn faster, and use fewer matches and
+fewer lives.
+
+7. GAME VARIATIONS
+
+GAME 1
+Game 1 is the beginning level. It includes lighted walls to help you
+see the rooms. There are no doors, so no key is required, but you do
+need to light matches to see objects. Three creatures; one bat, one
+tarantula, and one ghost try to scare you to death.
+
+GAME 2
+In Game 2, the mansion is all dark, and there are unlocked doors.
+Three creatures, as in Game 1, attempt to scare you to death.
+
+GAME 3
+Game 3 is like Game 2 except that some doors are locked, but you'll
+find the master key in the first room you enter.
+
+GAME 4
+Game 4 is the same as Game 3 except that the master key is in a
+different location each time the game is played.
+
+GAME 5
+In Game 5, everything is the same as Game 4, but there are two
+additional tarantulas chasing you.
+
+GAME 6
+In Game 6, all five creatures can chase you from room to room. Only
+the ghost can pass through a locked door.
+
+GAME 7
+In Game 7, if you are touched by the bat, any object you are holding
+will be dropped and moved to another room in the mansion.
+
+GAME 8
+Game 8 is the same as Game 7, but all of the creatures move faster,
+and to make things even tougher, the ghost is not affected by the
+scepter.
+
+GAME 9
+This is the ultimate HAUNTED HOUSE challenge. Game 9 has the same
+game play as Game 8, but this time the floorplan is different and
+you'll find yourself in a completely different maze of rooms. For an
+added element of surprise, all 5 creatures can chase you from room to
+room, even through locked doors.
+
+8. HELPFUL HINTS
+
+Try to find the scepter first. Hold it while you search for the urn
+pieces. It might help to write down the location of each of the urn
+pieces and then go directly to their locations and pick them up.
+
+It is possible to move through rooms with locked doors without the use
+of the key. To do this you must become familiar with the floorplan
+and use different stairways as a way to get around locked doors.
+Remember, there are several stairways on each floor.
+-------------------Atari 2600 Instructions Archive-------------------

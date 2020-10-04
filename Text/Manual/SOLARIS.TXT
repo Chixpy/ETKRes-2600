@@ -1,0 +1,364 @@
+{Fuji} Atari 2600(TM) Game Manual
+
+                SOLARIS
+
+Blast Those Cobra Ships, Mechnoids, and Raiders Before They Blast You!
+
+The Zylons are back -- those spaceway sneaks, villains of Venus,
+Saturnian scoundrels! They're swarming through the galaxy in huge
+forces, attempting another takeover. They've got to go! And we need
+YOU to go get 'em.
+
+But it's a hush-hush missions. If the Zylons guess you're onto them,
+you're a goner. So the official report says you're out to find the
+lost planet Solaris and rescue the Atarian Federation Pioneers
+stranded there. But if the Zylons reach Solaris before you do,
+they'll destroy it.
+
+You've got to hyperwarp from quadrent to quadrent, facing vicious
+attackers such as Kogalon Star Pirates, Planet Destroyers, and
+Cobra Fleet. But don't worry -- your fighter, the StarCruiser, is
+specially outfitted with a Galactic Scanner and plenty of photon
+torpedoes. Just don't let the Zylons destroy a Federation Planet,
+or your quadrant mutates into a terrifying Red Zone.
+
+Ready? Then hop into the StarCruiser, rev the engine, and go! And
+remember -- if anything flies your way, blast it!
+
+
+                Getting Started
+
+1. With your TV turned on, insert the SolarisTM cartridge into your
+   Atari(R) 2600TM (or 7800TM) as explained in your Owner's Manual,
+   and turn on your console. The Solaris title screen appears, with
+   your fighter, the StarCruiser, at the bottom center.
+
+2. Plug a joystick into the left joystick jack. (For professional
+   play, plug a second joystick into the right joystick jack to use
+   for viewing your Galactic Scanner at will.)
+
+3. Press _(Reset)_ or the joystick fire button. Your StarCruiser's
+   Instrument Panel appears with your Targeting Computer in the
+   center of the Panel. The left side of the Panel shows how many
+   fighters you have left; the right side shows your fuel level.
+
+4. Press the joystick fire button to launch your StarCruiser into
+   hyperspace and begin the game.
+
+
+                SCANNER         Cobra Fleet           Blockader
+                                  (3 DN)               (2 DN)
+          __________ __________ ___    ___ __________ __________ __________
+         |   .   .  |          |          |          |   .   .  |          |
+         |    .    .|          |          |          |    .    .|          |
+         | .    .   |          |          |          | .    .   |          |
+         |__________|__________|__________|__________|__________|__________|
+         |   .   .  | Wormhole |          |          | \  =  /  |   .   .  |
+         |    .    .|\  /--\   |          |          | |>   <|  |    .    .|
+         | .    .   | \/  . \  |          |          | /  =  \  | .    .   |
+         |__________|__________|__________|__________|__________|__________|
+Kogalon  |   .   .  |          |   ---    |Star      |          |          |
+Star \   |    .    .|          |   \      | \/Cruiser|          |          |
+Pirate\  | .    .   |          | ___\_    | /\       |          |          |
+       \ |__________|__________|__________|__________|__________|__________|
+         |          |          |   .   .  |   .   .  |  ( @@    |          | E
+Zylon      |_---_|  |          |    .    .|    .    .|   @@@    |            x
+Planet     | --- |  |          | .    .   | .    .   |   @@ )   |            i
+(5 R)    |__________|__________|__________|__________|__________|__________| t
+         |          |          |          |  * * *   |   .   .  |          |
+Fed      |          |          |          | * *** *  |    .    .|          |
+Planet   |          |          |          |  * * *   | .    .   |          |
+(4 R)    |__________|__________|__________|__________|__________|__________|
+         |   .   .  |          |          | -        |          |   .   .  |
+Corridor |    .    .|   COR    |          | =======  |          |    .    .|
+(2 R)    | .    .   |   ---    |          |//     /  |          | .    .   |
+         |__________|__________|__________|__________|__________|__________|
+         |   .   .  |          | /*****\  |          |          |          |
+Star     |    .    .|          |    #     |          |          |          |
+Cluster  | .    .   |          | \*****/  |          |          |          |
+         |__________|__________|__________|__________|__________|__________|
+         |          |          |          |   .   .  |   .   .  |          |
+         |          |          |          |    .    .|    .    .|          |
+         |          |          |          | .    .   | .    .   |          |
+         |__________|__________|___    ___|__________|__________|__________|
+
+                                     JUMP: 40              <------- Jump Value
+
+                                FlagShip   Attack Group
+                                 (2 UP)       (2 UP)
+
+                The Galactic Scanner
+
+A few moments after you launch your StarCruiser, the Galactic Scanner
+appears, detailing one of the 16 quadrants in the galaxy. The quadrant's
+48 sectors can be occupied by Zylons, Zylon Planets, Corridors, Wormholes,
+Star Clusters, or Federation Planets. The quadrant has four Exits, one on
+each side, leading to other quadrants. A flashing X shows your sector
+position.
+
+Move the joystick handle left, right, forward or back to move the
+StarCruiser to an occupied sector in the quadrant. Sectors with Star
+Clusters are blockades, you cannot enter them. Zylons often occupy
+sectors blocking an exit or threatening a Federation Planet.
+
+Watch the Jump Value at the bottom of the Scanner. When it reaches 0,
+Zylons may change their sector positions. A Federation Planet starts
+flashing when Zylons enter its sector. You must defend the planet
+immediately or it will be destroyed.
+
+
+                The Mission
+
+Your mission is to destroy Zylons as you battle your way through
+galactic mazes trying to reach Solaris. You start the game with three
+fighters. You score points by blasting the enemy with your photon
+torpedoes. When you lose a ship replaces it until all your StarCruiser
+are gone. When a reserve ship appears, press your fire button to
+restart game action.
+
+Push the joystick handle to the right or left to fly your StarCruiser
+in that direction. Push the handle forward to dive (or speed up when
+flying over a planet), pull backward to climb (or slow down over a
+planet). Press the joystick fire button to fire your photon torpedoes
+during battle.
+
+
+ ____________________________________________________________________________
+|                                                                            |
+|        Left-Right Distance              Up/Down Distance                   |
+|                                                                            |
+|              _____________________________________                         |
+|             |      |           |-          |  __  |                        |
+|             |  |>  |  |_---_|  |-          |  \/  |                        |
+|             |    1 |  | --- |  |-          | 7    |                        |
+|       |> |> |______|___________|___________|______|                        |
+|       |  |                                         FUEL |\ |\ |\ |\ |\ |\  |
+|                                                                            |
+|   Remaining Fighters                                   Fuel Level          |
+|                                                                            |
+|____________________________________________________________________________|
+
+                              TARGETING COMPUTER
+
+
+                Playing the Game
+
+To attack a Zylon force or defend a Federation Planet, move to its
+sector and press the fire button. You immediately hyperwarp to that
+sector. Watch your Targeting Computer during hyperwarp. It shows your
+StarCruiser hyperwarping in and out of focus, while the number on the
+right of the Computer displays your hyperwarp focus value (0 is a
+perfect warp, 3 is terrible). Move the joystick handle left or right
+to keep your fighter in focus.
+
+Once you land in an enemy sector, start blasting. Watch your Targeting
+Computer to find unseen Zylon ships. The number on the left of the
+Computer tells their left/right distance from you; the number on the
+right tells their up/down distance. Zero means they're straight ahead.
+When your Targeting Computer is damaged it will flash bright white.
+Use the left/right, up/down numbers to track the enemy until you can
+dock at a Federation Planet for repairs.
+
+When you've destroyed all Zylons in a sector, the Galactic Scanner
+reappears. (If you're using a second joystick, press its fire button
+to redisplay your Scanner at will, even during battle.) To hyperwarp
+to another quadrant, move the StarCruiser to a sector with an Exit and
+press the fire button. Choose an enemy sector from that quadrant and
+get going!
+
+An alarm will ring when Zylons are attacking a Federation Planet in
+your quadrant, or you'll spot the attack on your Galactic Scanner
+(the planet will flash). You've got 40 seconds to save the planet.
+If you fail, the whole quadrant regresses into a Red Zone, and joystick
+control is reversed. Watch it!
+
+When your fuel gets critically low, another alarm buzzes. Hyperwarp
+to a Federation Planet as soon as you can for refueling. Dock in a
+Docking Bay, by flying into it, to refuel and repair any damage to
+your StarCruiser. If you run out of fuel, your StarCruiser explodes.
+
+Battle gets increasingly fast and furious as the game goes on. You must
+continue to search for Solaris while destroying all enemy ships. You'll
+know Solaris when you find it -- it's the only blinking planet in the
+galaxy.
+
+The game ends when all your ships are destroyed or you can reach
+Solaris. Press _(Reset)_, then the fire button, to play again.
+
+
+                Scoring
+
+Making it through a Corridor ...................... 8,000 points
+Rescuing all Cadets on a Zylon Planet.............. 8,000 points
+FlagShip ............................................ 500 points
+Raider .............................................. 400 points
+Kogalon Star Pirate ................................. 320 points
+Targeter ............................................ 320 points
+Glider .............................................. 320 points
+Mechnoid ............................................ 300 points
+Blockader ........................................... 260 points
+Cobra Ship ........................................... 80 points
+Guardian ............................................. 60 points
+Distractor ........................................... 20 points
+
+When you rescue all Space Cadets on a Zylon Planet, you earn an extra
+StarCruiser and blow up the planet. You blow up another Zylon Planet
+when you make it safely through a Corridor.
+
+
+                Strategy
+
+Map your progress! It will help you find Solaris more quickly.
+
+Try to keep your StarCruiser in focus during hyperwarp. The better job
+you do at focusing, the less fuel you waste. When you arrive in the
+enemy sector you'll also be closer to the Zylon fleet.
+
+Destroy the enemy closest to Federation Planets first.
+
+Save fuel in an enemy sector by blasting at neutral planets only to
+avoid colliding with them.
+
+Don't shoot your Docking Bays or you'll turn the quadrant into a Red Zone.
+
+
+                                Good Guys
+
+  \  |  /       _Solaris_ is the only blinking Federation Planet in the
+   <\|/>        galaxy. Watch your Scanner to find it.
+- --<+>-- -
+   </|\>
+  /  |  \
+
+     |          _Federation Planets_ can't defend themselves from Zylons.
+   <\|/>        When the enemy destroys one, the whole quadrant turns into
+ ---<+>---      a Red Zone. To rescue your planet you have to blast all
+   </|\>        Zylons off it. If you don't, a whole new fleet attacks.
+     |
+
+       /        _Space Cadets_ are stranded on Zylon Planets. Fly over them
+  \_O_/         to pick them up. Rescuing all Cadets on a planet earns you
+    =           8,000 points, an extra fighter, and blows up the planet.
+   / \          (Ignore Space Cadets on Federation Planets -- they're just
+  /   \         waving at you.)
+
+  __________
+ |          |   _Docking Bays_ are where you refuel and repair damage to
+ |__________|   the StarCruiser. Find them on Federation Planets.
+ |___====___|
+
+       __
+\     /  \      Hyperwarp through a _Wormhole_ to jump over a wall of Star
+  \__/ .  \     Clusters in the Galactic Scanner.
+
+
+                                Bad Guys
+
+ /\             Hyperwarp to _Zylon Planets_. Rescuing all Space Cadets
+/  \####        stranded there blows up the planet and earns you a bonus
+\  ######       fighter and points.
+ \########\
+   ######  \
+    ####\  /
+         \/
+
+
+    COR         _Corridors_ are tricky. _Guardians_ protect the entrance
+    ---         and won't shoot unless you shoot first. Once inside a
+     __         Corridor, you must fly over the _Key_ (and blast some
+  __(__)__      Guardians) to gain safe passage through the Ion Doors.
+  \/    \/      If you make it through, another Zylon planet blows and
+  __            you earn 8,000 points!
+ |__|------%
+           %
+    _
+   |#|
+|\     /|       _Blockaders_ are space minefields. Dodge 'em or
+|#>   <#|       shoot 'em.
+|/  _  \|
+   |#|
+
+
+  ==            _Attack Groups_ contain Mechnoids, FlagShips, and a
+ //=======/     smattering of Kogalon Star Pirates.
+//      //
+
+ _         _
+|   _____   |   _Kogalon Star Pirates_ attack Federation and Zylon
+|__|_____|__|   ships alike. They hang back, then take pot shots.
+|  |_____|  |   They'll also make sweeping runs to ram your ship.
+|_         _|   Look out!
+
+  ________
+ /        \      Vicious _Cobra Ships_ are sent out to persuade you
+|__\____/__|     to vacate a sector.
+  /|____|\
+
+  ________
+ /__    __\     Big, clumsy _FlagShips_ send out Distractors as
+ ___|  |___     defenders. They also shoot Federation Ships. A
+ \________/     FlagShip's direct hit will destroy your StarCruiser.
+
+     /\         _Distractors_ are fast but carry little firepower.
+   ///\\\       You lose fuel when hit by one.
+  <//////>
+   \\\///
+     \/
+
+  /\______/\    _Mechnoids_ are easy targets at first, then get
+ <    __    >   nastier. These mechanical ash cans like to move
+  \  |__|  /    up close or just off to one side, then pow!
+  |  ___  |
+ /  /   \  \
+ \_\     /_/
+
+
+          /\    _Gliders_ have a slippery, sliding-gliding motion.
+         /  \
+        /  /^\
+       /  /
+     /   <
+   /______\
+ //        \
+
+
+
+
+  |\  =  /|     _Raiders_ attack Federation Planets.
+  |##\ /##|
+   \######
+  /#######\
+  \#######/
+   \#| |#/
+    \| |/
+
+
+|\          /|  _Targeters_ come right at you.
+|__\______/__|
+ _____##_____
+|  /      \  |
+|/          \|
+
+Reproduction of this document or any portion of its contents is not
+allowed without the specific written permission of Atari Corp.
+
+Every effort has been made to ensure the accuracy of the product
+documention in this manual. However, because we are constantly
+improving and updating our computer software and hardware, Atari Corp.
+is unable to guarantee the accuracy of printed material after the date
+of publication and disclaims liability for changes, errors, and
+ommissions.
+
+ATARI, 2600, and 7800 are trademarks or registered trademarks of Atari
+Corp. Solaris is a trademark of Douglaus Neubauer.
+
+Copyright (c) 1986, Douglaus Neubauer. All Rights Reserved.
+
+Copyright (c) 1988, Atari Corp. Sunnyvale, CA 94086
+All Rights Reserved.
+
+Printed in Hong Kong
+CO9741-136/A Rev. A
+WA-TA  1988.7
+
+-------------------Atari 2600 Instructions Archive-------------------

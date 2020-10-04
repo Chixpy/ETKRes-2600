@@ -1,0 +1,120 @@
+{COVER}
+
+INFILTRATE tm
+video game
+
+[picture of man holding a gun with futuristic scene in backround with 
+people running from lazer fire]
+
+APOLLO
+GAME INSTRUCTIONS
+12 GAME VARIATIONS
+FOR ONE OR TWO PLAYERS
+
+{PAGE 1}
+
+THE SITUATION
+
+You are a secret agent on a mission of crucial importance.  Your mission 
+is to infiltrate a top secret fortress.  You must capture enemy documents 
+and get out alive.  Your challenge: the diabolical maze of corridors and 
+elevators designed to confuse you and keep you from the documents.  Your 
+danger: enemy assassins programmed to shoot on sight.  Your weapon: a 
+high-power laser gun as powerful as that of the enemy.  Your advantage: 
+you're sharp enough to duck when they shoot.  It's a hectic chase.  Hop 
+an elevator.  Survive enemy fire.  Fire back. Duck.  Infiltrate...if you 
+dare!
+
+THE SET-UP
+
+INFILTRATE (TM) is played with one or two players using the Joystick 
+Controller.  Be sure the power is off when you insert or remove the 
+INFILTRATE (TM) cartridge from your video game system.
+
+THE DIFFICULTY SWITCH
+
+Placing the difficulty switch in the "B" position will provide the 
+easiest play.  When playing in the "B" mode, the range of the shots fired 
+by assassins trying to destroy you are limited to about half the game 
+area.  In the more difficult "A" mode, your enemies lasers will travel 
+across the entire game area
+
+{PAGE 2}
+
+THE JOYSTICK CONTROLLER
+
+Hold your Joystick controller so that the red "fire" button is in the 
+upper left hand corner.  Moving the joystick to the left or right will 
+cause your agent's figure to run in that direction.  When you press the 
+red "fire" button, your agent will fire in the direction of his last 
+movement.  Your agent ducks when you move the joystick down (that is, 
+back toward yourself), allowing assassins' lazer rays to pass harmlessly 
+over his head.  Ducking is a defensive position from which your agent is 
+unable to shoot.  
+Upon approaching an elevator, your agent will automatically stop at the 
+proper loading point, and will step on the elebator when it reaches his 
+floor.  The agent will walk across the elevator if you continue to press 
+the joystick in the direction you want him to move.  Once on an elevator, 
+your agent will remain there until you cause him to exit either lefto or 
+right by pressing your joystick in that direction as the elevator reaches 
+any floor.
+Body contact with any of the assassins will destroy your agent as 
+effectively as their laser fire, so remember...do not allow them to touch 
+him.
+
+{PAGE 3}
+
+SCORING
+
+Your agent must reach both top and bottom floors in order to get the 
+secret documents he seeks, and he recieves 3,000 points each time he 
+traverses all levels from either bottom to top, or top to bottom.  On the 
+way, shooting assassins will not only keep him alive, but also earn you 
+250 points for each assassin destroyed, plus 75 bonus points if the 
+assassin is riding an elevator when destroyed.  You have three agents to 
+accomplish your mission.  The hats displayed above your score show haw 
+many agents you have in reserve.  With each 10,000 points you earn, you 
+will gain one additional agent, up to a maximum of six.
+
+{PAGE 4}
+
+GAME VARIATIONS
+
+When you are playing in the two-player mode, each time you lose an agent, 
+it will be your opponents turn...until he loses an agent.  At the end of 
+the game, the score of the first player will flash first, alternating 
+with the score of the second player.  There are 12 variations of 
+INFILTRATE as shown in the game matrix below.  Also, each player may 
+individually select either novice (limited assassin shot range) or expert 
+(unlimited assassin shot range) by setting the difficulty switch in the 
+proper position.  As play progresses, the robots will become smarter, 
+quicker and more tenacious...so beware!  For those who really want a 
+challenge, the Invisible Assassins feature may be selected in which the 
+enemy figures are visible only while the are riding elevators!
+
+GAME MENU
+
+__________________________________________________________________________
+|GAME NUMBER             |1-1|1-2|1-3|1-4|1-5|1-6|2-1|2-2|2-3|2-4|2-5|2-6|
+--------------------------------------------------------------------------
+|ONE PLAYER              | X | X | X | X | X | X |   |   |   |   |   |   |
+--------------------------------------------------------------------------
+|TWO PLAYERS             |   |   |   |   |   |   | X | X | X | X | X | X |
+--------------------------------------------------------------------------
+|Assassin speed| LEVEL 1 | X |   |   | X |   |   | X |   |   | X |   |   |
+|	       |----------------------------------------------------------
+|and           | LEVEL 2 |   | X |   |   | X |   |   | X |   |   | X |   |
+|	       |----------------------------------------------------------
+|intelligence  | LEVEL 3 |   |   | X |   |   | X |   |   | X |   |   | X |
+|--------------|----------------------------------------------------------
+|INVISIBLE ASSASSINS     |   |   |   | X | X | X |   |   |   | X | X | X |
+--------------------------------------------------------------------------
+
+{PAGE 5}
+Warranty Info [omited]
+
+------------------------------------------------------------------------------
+This manual typed by Cyborg.  E-mail:	unna0001@gold.tc.umn.edu
+==============================================================================
+
+

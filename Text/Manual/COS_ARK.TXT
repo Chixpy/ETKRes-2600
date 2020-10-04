@@ -1,0 +1,177 @@
+COSMIC ARK
+
+(c) 1982 IMAGIC All Rights Reserved
+
+GAME PROGRAM INSTRUCTIONS
+
+The sun of Alpha Ro is fading fast! Soon it will flicker out.
+The Cosmic Ark races to save creatures from doomed planets in
+that solar system. Meteor showers bombard the Ark, threatening
+its Atlantean crew - and planetary defense systems make this
+mission of mercy doubly treacherous! Time and energy slip away
+- work fast or these defenceless little beasties will
+disappear for all time.
+
+*****
+
+The Cosmic Ark has travelled thousands of light years in order
+to preserve the many exotic species peculiar to the Alpha Ro
+solar system. When that sun novas, life on planets there will
+wither and die.
+
+Nothing about this mission is easy. Heavy meteor activity
+throughout the system makes travel hazardous. And each planet
+has an automatic defense system that cannot be knocked out.
+Can the Ark succeed in saving the many helpless creatures of
+Alpha Ro? Can the Cosmic Ark survive? How many planets can you
+reach?
+
+GAME OBJECTIVE
+
+Pilot the Cosmic Ark through dangerous territory. Destroy
+meteors that come too close. You score each time you eliminate
+a meteor. If you survive the meteor shower, launch a
+shuttleship to the surface of each planet. Try to capture 2
+skittish beasties in your tractor beam in order to gain fuel
+and points. Be quick about it! Return to the Ark before it
+undergoes another meteor barrage. But be careful - automatic
+planetary defense systems attempt to disable the shuttleship,
+releasing your precious cargo before you can safely transport
+them to the Ark. Reach as many planets as your fuel reserves
+allow. Game ends when you've exhausted your store of fuel.
+
+CONSOLE CONTROLS
+
+*    Insert cartridge in console, label up. Turn power switch
+     to on. 
+*    Flip Game Select Lever to choose one of the six Cosmic
+     Ark games.
+*    Game number appears at the bottom centre of the screen.
+*    Hit Game Reset Lever to begin action. Game begins again
+     whenever Reset Lever is tapped.
+*    Red button on left joystick will reset game when current
+     game ends.
+
+GAME PLAY
+
+Cosmic Ark moves through 2 distinct sections:
+*    Meteor shower
+*    Shuttleship rescue
+     Meteor Shower:
+     *    The Cosmic Ark battles its way through a meteor
+          shower.
+     *    You control Cosmic Ark weapon fire with your
+          joystick.
+     *    To fire: lean joystick in the direction you wish to
+          fire. Note: red button does not fire weapon.
+          *    To fire up: push joystick away from you.
+          *    To fire down: pull joystick toward you.
+          *    To fire left: move joystick left.
+          *    To fire right: move joystick right.
+          *    Joystick must be returned to centre upright
+               position between each shot.
+
+     Shuttleship Rescue:
+     *    If you survived the meteor shower, the Cosmic Ark
+          proceeds to the nearest planet.
+     *    Once the Ark is in position, use your joystick to
+          launch the shuttleship to the planet surface.
+     *    To launch shuttleship from Cosmic Ark: pull joystick
+          toward you.
+
+          The shuttleship manoeuvres easily.
+          *    To approach the planet surface: pull joystick
+               toward you.
+          *    To move back toward Ark: push joystick away
+               from you.
+          *    To move left: move joystick left.       
+          *    To move right: move joystick right.          
+          *    To move at an angle, tip joystick in the
+               direction desired.
+          Line up the shuttleship over the little creatures.
+          To capture them, use tractor beam.
+          *    To operate tractor beam: press red button.
+          *    When you capture a creature, keep it in the
+               tractor beam until it arrives onboard the
+               shuttleship, or it will slip from the beam and
+               return to the planet surface.
+          *    A blip sounds when the creature is safely
+               aboard.
+          Try to catch both beasties and return to the Ark
+          before a warning blast alerts you to renewed meteor
+          activity.
+          *    If both beasties are caught, the Ark moves to
+               the next planet. The pace picks up.
+          *    If the warning sounds before you've captured
+               both beasties, get back to the Ark and defend
+               it against bombardment.
+               *    If the Ark survives the assault, it will
+                    return to the same planet surface in order
+                    to complete rescue operations.
+          Note: You cannot fire at meteors while the
+          shuttleship is away from the Ark. To do so would
+          endanger any creature already captured and on the
+          shuttleship.
+          Beware! Automatic planetary defense systems will
+          fire at the shuttleship.
+          *    Located on either side of the planet surface,
+               they move up and down and fire at intervals.
+          *    If hit, you lose valuable energy, and the
+               shuttleship releases one creature you have
+               captured on that planet.
+          *    The shuttleship will have returned to the Ark.
+               You must manoeuvre it back toward the planet
+               surface.
+
+FUEL
+
+*    The game ends when Cosmic Ark runs out of fuel.
+*    The red bar in the box at the lower centre of screen
+     represents fuel supply. It only appears during meteor
+     shower.
+*    You begin with the equivalent of 40 fuel units.
+     *    Cosmic Ark destroys a meteor: gain 1 fuel unit.
+     *    Capture a beastie: gain 10 fuel units.
+     *    Capture both beasties and return to the Cosmic Ark
+          before the warning sounds: regain all fuel units.
+     *    Meteor hits Cosmic Ark: lose 10 fuel units.
+     *    Cosmic Ark fires at meteors: burn 1 fuel unit.
+
+     Note: When struck my a meteor, Cosmic Ark disappears
+     momentarily. It will reappear as long as you still have
+     energy.
+
+SCORING
+
+Your score appears to the right in the box at the bottom
+centre of screen.
+*    Destroy a meteor: 10 points.
+*    Destroy a special wavering meteor: 30 points.
+*    Reach planet, capture both beasties and return to Cosmic
+     Ark: 1000 points.
+*    Cosmic Ark will return to a planet's surface as long as a
+     beastie remains.
+
+GAME VARIATIONS
+
+1-Player Games
+Game 1: Regular Cosmic Ark Mission
+Game 2: Meteor Shower
+Game 4: Advanced Cosmic Ark Mission
+Game 5: Advanced Meteor Shower
+
+2-Player Games
+Game 3: Regular Ark Mission
+Game 6: Advanced Ark Mission
+In 2-player games, one player battles meteor showers while the
+other controls the shuttleship.
+*    The Right Difficulty Lever controls joystick options:
+     *    Position A:    Right joystick battles meteor shower
+                         Left joystick controls shuttleship
+     *    Position B:    Left joystick: shuttleship
+                         Right joystick: meteor shower
+*    The Left Difficulty Lever controls the width of the Ark:
+     *    In position A, the Cosmic Ark is wider, and so, more
+          difficult to defend.
+     *    In position B, the Cosmic Ark is narrower and more
+          easily defended.-------------------Atari 2600 Instructions Archive-------------------

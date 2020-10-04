@@ -1,0 +1,204 @@
+-------------------
+SOLAR FOX(TM)
+
+For the Atari(R) 2600(TM).
+For one or two players.
+
+GAME PLAY INSTRUCTIONS
+
+(c) MCMLXXXIII CBS Toys, A Division of CBS Inc.
+*SOLAR FOX is a trademark of Bally Midway Mfg. Co.
+(c)1982,1983 Bally Midway Mfg. Co. All Rights Reserved.
+Atari(R) is a trademark of Atari, Inc.
+
+CBS Electronics
+
+SETTING UP YOUR VIDEO CONSOLE
+
+1. Hook up your video game system, following manufacturer's instructions.
+2. With the power OFF, plug in the video game cartridge.
+3. Turn power ON.  If no image appears, check the connection of your game
+system to the TV, then repeat steps 1-3.
+4. Plug the Joystick Controllers *firmly* into the jacks of your video system.
+Use the LEFT CONTROLLER jack for one-player games.
+5. Set the DIFFICULTY switches to A for fast cruise speed or to B for slow
+cruise speed (see SPEED CONTROL).
+6. Use the GAME SELECT switch to select either the one-player, two-player or
+Parent-Play* versions.  The game you select will be indicated on the screen.
+Game 1 - One-Player
+Game 2 - Two-Player
+Game 3 - One-Player (Parent-Play)
+Game 4 - Two-Player (Parent-Play)
+*See "Parent-Play Versions" in back of booklet.
+7. To start the game, press GAME RESET.  The beginning of the game is
+announced by the playing of the Solar Fox War Cry, after which you may begin
+to navigate your Starship through the first matrix.
+
+MISSION: SURVIVAL
+
+Earth has just about had it, Solar Fox.  Centuries of waste have brought us
+to the brink of global war for control of what precious energy resources we
+have left.  There's only one chance for peace - you!  In a far corner of the
+galaxy hover vast, intricate formations of solar energy cells guarded by
+ominous, fireball-shooting Sentinels.  Your mission is to navigate through
+those matrixes [sic] and capture those cells!  The faster your speed, the
+greater your reward.  Your Starships utilize advanced gyro-directional
+technology, but the only weapon you have is your skill as a pilot.  And the
+supreme test of that skill will take place in the infamous Challenge Racks,
+where you'll attempt to unravel the ultimate mystery of your mission.  Good
+luck, Solar Fox!
+
+OBJECT OF THE GAME
+
+The object of SOLAR FOX is to successfully maneuver your Starship through a
+series of colorful, pulsating solar cell matrixes.  Points are scored for
+each solar cell you capture and for how fast you clear each matrix.  Players
+may also earn the right to complete Challenge Racks for bonus points and
+clues to the mystery of SOLAR FOX.
+
+SOLAR FOX STARSHIPS
+
+You begin each game with a squadron of three Starships.  Only one Starship at
+a time may move about a matrix.  The solid squares in the lower right hand
+corner of your screen indicate how many of your Starships are left.
+   Use your Joystick Controller to maneuver your Starship through each matrix.
+Hold the Joystick with the red button to your upper left toward the screen.
+The red button acts as your Starship's speed control.  Starships have no
+firepower.  You must *capture* the solar cells not shoot at them.  You will
+be awarded one extra Starship for every ten matrixes cleared.
+
+SPEED CONTROL
+
+Your Starships travel at a preset cruise speed throughout each game.  Set the
+DIFFICULTY switches to A for a fast cruise speed.  Set the switches to B for
+a slow cruise speed.
+   At fast cruise speed, hold down the red button of your Joystick Controller
+to slow your Starship down.  At slow cruise speed, hold down the red button to
+speed your Starship up.  To return your Starship to its cruise speed, lift up
+on the red button.
+
+SOLAR MATRIXES (RACKS)
+
+There are twenty different solar cell matrixes, not counting Challenge Racks.
+Each matrix varies in its shape, composition, complexity and, in some cases,
+color.  The more you play SOLAR FOX, the more familiar you'll become with the
+unique challenges each matrix presents to you.  Racks 1 to 6 are composed of
+single solar cells.  Racks 7 to 20 are made up of double solar cells; each
+cell must be passed over twice to be cleared from the screen.  (Points are
+scored for both passes).
+   When the last matrix is cleared the cycle of matrix patterns is repeated.
+
+SENTINELS & FIREBALLS
+
+Each of the twenty matrixes is guarded by two Sentinels.  Each Sentinel
+continually oscillates along the perimeter, shooting a pattern of deadly
+fireballs across the play field.  Fireball patterns are based, in part, on
+your own Starship flight path.  Fireballs will not destroy Sentinels; just
+your Starship.  As you advance into more complex matrixes, the frequency of
+fireballs increases and their patterns become more erratic.
+
+        033600          Score
+         M              Sentinel
+    O O O *   O O O     Fireball
+    O   O     O   O
+    O O O     O O O
+      * O O O O
+        O     O
+        O O A O *       Starship
+    O O O     O O O
+    O   O   * O   O
+    O O O     O O O
+                   W    Skip-A-Rack Timer
+SKIP-A-RACK        OO   Number of Ships Remaining
+
+SKIP-A-RACK(TM) TIMER
+
+Each of the twenty matrixes is equipped with a Skip-A-Rack timer.  If you
+begin a matrix and manage to clear it before the letters of SKIP-A-RACK
+disappear, you'll automatically skip the next matrix and earn all the points
+available from it.  The length of time alotted for the Skip-A-Rack timer
+varies with the complexity of each matrix.
+   If your Starship is destroyed by a fireball before the Skip-A-Rack timer
+has elapsed, the timer is forfeited for that matrix.
+   There is no penalty for failing to beat the Skip-A-Rack timer.
+
+CHALLENGE RACKS
+
+After every fifth matrix of SOLAR FOX, a Challenge Rack appears.  There are
+six different Challenge Racks throughout the game, making the total number of
+matrixes 26.  These special matrixes require expert maneuvers and precise
+timing.  You must clear the Challenge Rack of all its solar cells before the
+letters of CHALLENGE! disappear.  Points are scored for each solar cell
+captured, but *only if the entire matrix has been cleared*.  When you
+complete the Challenge Rack, a code letter will briefly appear on the screen.
+This letter is part of a mystery word that has been programmed into your
+cartridge.  To get all six letters, you must successfully complete all six
+Challenge Racks.  This is no small feat as it requires a perfect mastery of
+the intricacies of SOLAR FOX.  The mystery word is your key to exciting new
+surprises from CBS Electronics.
+   When you complete one Challenge Rack, you'll be able to take on the next
+one if you make it through the next five regular matrixes.  If, however, you
+fail to complete a Challenge Rack, you'll have another shot at the *same one*
+if you make it through the next five regular matrixes.
+   Sentinels go into limbo and do not spit out fireballs for the duration of
+a Challenge Rack.
+   The Skip-A-Rack timer will not skip over a Challenge Rack.  For example:
+if you complete the fourth matrix before the Skip-A-Rack timer elapses,
+you'll be able to play the first Challenge Rack before you skip to the sixth
+matrix.
+   There is no penalty for failing to complete a Challenge Rack besides
+receiving no points and having to face the same one again.
+
+END OF GAME
+
+The game ends when all of your Starships have been destroyed by the deadly
+fireballs.
+
+TWO-PLAYER VERSION
+
+Two players may compete in SOLAR FOX, alternating turns.  Both Joystick
+Controllers are used in this version.  Player One uses the Left Controller
+and has yellow ships.  Player Two uses the Right Controller and has blue
+ships.  At the end of the game the winning score is left displayed on the
+screen.  Select Game 2 for this version.
+
+PARENT-PLAY VERSIONS
+
+Games 3 and 4 are, respectively, easier one- and two-player versions of SOLAR
+FOX that let parents have almost as much fun as their kids.  The differences
+from the regular versions are as follows:
+- Only the first six solar cell matrixes may be played.  After the last cell
+of the sixth matrix is secured, the first matrix will appear and the cycle
+will start over again.
+- Decreased speed and frequency of fireballs.
+- No Skip-A-Rack timer.
+- No Challenge racks.
+
+SCORING
+
+Your score is displayed at the top of the screen throughout the game.  In
+two-player versions, the second player's score appears at the bottom of the
+screen.
+
+Solar Cell Point Values:
+------------------------
+Racks 1 to 5           100 points
+Racks 6 to 10          200 points
+Racks 11 to 15         300 points
+Racks 16 to 20         400 points
+Successfully           Number of cells in
+completed              rack x cell point value
+Challenge Racks        of preceding matrix
+
+STRATEGY HINTS
+
+1. Learn to use and rely upon your speed control button.  It may be the only
+thing that stands between you and many a deadly collision.
+2. Avoid hovering around the matrix perimeters for too long.  The sentinels
+will quickly sense your presence.
+3. To save time, try to pick up as many cells as possible in a single
+direction before turning a corner to avoid a fireball.
+
+CBS Toys, a Division of CBS Inc., Neward, NJ 07105     2L 2206 0000
+
+-------------------Atari 2600 Instructions Archive-------------------

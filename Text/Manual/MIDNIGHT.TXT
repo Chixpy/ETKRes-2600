@@ -1,0 +1,62 @@
+Midnight Magic      Atari 2600 Game Manual
+ 
+GO FULL TILT!!
+ 
+Getting Started
+ 
+1.  Insert the Midnight Magic cartridge into your ATARI 2600 as explained
+in your Owner's Manual, and turn on your console.
+ 
+2.  Plug a joystick into the left joystick jack for one player, and
+another into the right joystick jack for two players.
+ 
+3.  Press [Select] to choose a one- or two- player game.
+ 
+4.  Press [Reset] or either joystick button to start the game.
+ 
+Playing the Game
+ 
+    Pull the joystick handle towards you and press the joystick button to
+launch balls.  Move the handle left to activate the left flippers; right
+to activate the right flippers; back to activate both flippers at the same
+time.
+ 
+Strategy
+ 
+    First shoot for the target with the arrow to light the bumpers and
+activate the kickers and center post.  Hit all five drop targets to
+increase the score multiplier.  When the score multiplier is on, go for
+the top rollovers to get an extra ball.
+ 
+Difficulty Levels
+ 
+SETTING A - The center post and kickers must be activated by hitting the
+target with the arrow.
+ 
+SETTING B - The center post and kickers are always on.
+ 
+Scoring
+ 
+    Score points by hitting the targets and bumpers.  When the score
+multiplier is on, all scores are multiplied by the number shown.
+    The five drop-targets at the top of the screen are worth 100 points
+each.  Hitting a target when the arrow is pointed at it is worth 3000
+points.  It also lights the bumpers, brings up the center post, and turns
+on the kickers.  Hitting all five targets is worth 5000 points and
+increases the score multiplier.
+     Bumpers are worth 100 points each.  When lit, they are worth 1000 points.
+     Rollovers on the top right and left are worth 500 points.  When the
+score multiplier is on, hitting a rollover earns you an extra ball.
+     The two targets above the top flippers are worth 100 points each.
+     The spinner is worth 10 points each spin.  Each spin moves the
+drop-target arrow and bottom rollover lights.
+     Bottom lanes are worth 500 points when lit.  When the kickers are
+activated in the outside lanes, they kick the ball back into play, earning
+you 10 points.
+     Each bounce on the walls above the bottom flippers earns you 25 points.
+     Each time the ball rolls over the white area beside the bottom
+flippers you earn 10 points.
+
+
+
+

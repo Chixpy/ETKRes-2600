@@ -1,0 +1,390 @@
+            ATARI(R) 2600(TM) REALSPORTS BASEBALL
+            ------------------------------
+
+======================================================================
+
+
+NOTE: Always turn the console POWER switch OFF when inserting or removing an
+ATARI Game Program(TM) cartridge.  This will protect the electronic components
+and prolong the life of your ATARI Video Computer System(TM) Model2600(TM)
+game.
+
+(C) 1982 ATARI, INC. ALL RIGHTS RESERVED
+
+
+======================================================================
+
+
+TABLE OF CONTENTS
+1. INTRODUCTION
+2. GAME PLAY
+3. USING THE CONTROLLERS
+4. CONSOLE CONTROLS
+5. SCORING
+6. GAME VARIATIONS
+7. HELPFUL HINTS
+
+
+======================================================================
+
+
+1. INTRODUCTION
+
+Join the Atari Aces in the World Series of video baseball--RealSports
+BASEBALL!  It's a hot day in the ballpark--you can see the hot dog and soda
+pop vendors making their way up and down the bleachers.  The crowd roars after
+each pitch, and filling the stadium is the sound of "STEERIKE!  YOU'RE OUT!" 
+Down on the field it's a different story--just you and the pitcher facing each
+other in an enormous diamond of brown and green.
+
+The roar of the spectators fades into the distance as the pitcher winds up. 
+His arm arches back, his leg goes up, and...THUNK!  The ball flashes by and
+hits the catcher's glove at 90 miles an hour.  "STEERIKE!"  Another windup,
+another 90 mile an hour fastball, and "STEERIKE TWO!"  Gripping the bat
+tightly, you stare down at the pitcher, see him wind up, and watch as the ball
+seems to float in slow motion down the field toward you.  Everything falls
+into place as you swing with perfect timing, feel the contact, and see the
+ball sail over the right fielders outstretched glove and over the wall.  HOME
+RUN!
+
+
+======================================================================
+
+
+2. GAME PLAY
+
+You play RealSports BASEBALL just like real baseball.  The game lasts for nine
+innings (or more in the case of a tie score), with each team coming to bat
+once during each inning.  The first team up to bat (pink action figures) is
+the visiting team, and the last team to bat (yellow action figures) is the
+home team.  A team remains at bat until three of its players either strike
+out, fly out, or are tagged out.  A base runner may also be "forced out" when
+an outfielder with the ball tags the base in front of the runner while another
+base runner is occupying the base behind him.  (Force outs are needed to make
+those double and triple plays!)
+
+Pitchers can throw either a BALL or a STRIKE.  Three strikes count as an OUT;
+four balls count as a WALK.  A walked batter automatically advances to first
+base.  If a batter swings at a pitch that is programmed to be a ball, it
+counts as a strike.
+
+A batter can also hit a FOUL BALL outside the baselines.  A FOUL BALL is
+counted as s strike unless the batter has already made two strikes, in which
+case it does not affect the count.
+
+
+======================================================================
+
+
+3. USING THE CONTROLLERS
+
+Use your Atari Joystick Controllers with this ATARI(R) Game Program(TM)
+cartridge.  Be sure the controller cables are firmly plugged into the
+CONTROLLER jacks at the back of your Video Computer System(TM) game.  For one-
+player games, use the Joystick plugged into the LEFT CONTROLLER jack.  Hold
+the Joystick with the red button to your upper left, toward the television
+screen.  (See Section 3 of your Owner's Manual for further details.)
+
+STARTING THE GAME
+
+To start the first inning, press one of the red controller buttons.  The home
+team will run to the outfield, the catcher will throw the pitcher a new ball,
+and a batter from the visiting team will step up to bat.  PLAY BALL!!
+
+CONTROLLING THE BATTER
+
+Make the batter swing by holding down your controller button and flicking the
+Joystick at the same time.  The direction you move the Joystick determines the
+direction and trajectory of the ball.
+
+Move the Joystick straight up to bunt the ball; to the right to hit a ground
+ball in left field; to the left to hit a ground ball in right field; and
+straight back to hit fly balls and home runs.  Fly balls and home runs can
+also be hit by moving the Joystick diagonally to the lower left and lower
+right; the lower right position hits the ball to left field, and the lower
+left position hits to right field.
+
+                                 Bunt
+                   Right Field     |     Left Field
+                             \           /
+
+
+                           -       O       -
+
+
+                              /          \
+                 Fly Ball Right     |     Fly Ball Left
+                           Fly Ball and Home Run
+
+When an outfielder catches a fly ball, the batter is automatically out.  If
+the outfielder misses the ball, however, the ball will sail over the stadium
+wall and will be counted as a home run.  When a home run is hit, the ball will
+reappear only after the batter has rounded the diamond and touched home base.
+
+The direction of a hit ball can be affected by the timing of your swing.  Like
+regular baseball, swinging early will "pull" the ball to left field.  Swinging
+late--that is, swinging when the ball is nearly past you--will tend to slice
+the ball towards right field.
+
+By careful timing, you should soon be able to hit the ball to any part of the
+field.
+
+CONTROLLING THE RUNNER
+
+Once a batter has successfully hit the ball, he becomes a runner.  A runner's
+direction is determined by holding the controller button down and pushing the
+Joystick to either the right of the left [Right: runner advance, Left: runner
+retreat].  After a batter has hit the ball, let the Joystick return to the
+neutral (center) position, then push it to the right to make him advance to
+first base.  To continue running, keep holding the controller button down and
+push the Joystick to the right.  To make a runner retreat--if, for example, he
+must go back a base to avoid being tagged out--simply hold down the controller
+button and push the Joystick to the left.
+
+STEALING A BASE
+
+Stealing a base is a two-step maneuver: First you transfer control from the
+batter to a base runner, then you make him run.  To transfer control, move the
+Joystick without holding down the controller button in the direction of the
+base that the runner is on.  Move the Joystick right to indicate first base;
+up to indicate second base; left to indicate third base; and down to indicate
+home plate.  The controlled player will turn slightly brighter in color.
+
+Make the base stealer run by holding the controller button down and pushing
+the Joystick to the right.  If the pitcher on the opposing team has the ball
+and is not moving, the base runner will steal the base quickly.  If any
+outfielder with the ball is moving--running or throwing the ball, for example,
+--the runner will move much more slowly towards the base.  Therefore it is
+best to steal a base when the pitcher is motionless and "isn't looking."
+
+After the runner has stolen a base, transfer control back to the batter by
+pushing the Joystick straight down.
+
+PITCHING THE BALL
+
+Pitching the ball is also done in two steps: First you program the type of
+pitch, then you throw the ball.  As an ace pitcher, you can select a FASTBALL,
+a RISER, or a SINKER.  you can also psych out your opponent by throwing an
+INTENTIONAL BALL.  Push straight up to pitch a fastball; directly right to
+pitch a sinker; directly left pitch a riser; and straight down to pitch an
+intentional ball.  An intentional ball will always be counted as a ball unless
+the batter swings, in which case it counts as a strike.
+
+Occasionally a batter can hit an intentional ball (just as a real batter can
+sometimes hit a ball outside the strike zone), but this happens less than 20%
+of the time.  All other pitches delver me strikes than balls.  The percentage
+of strikes to balls is randomly controlled by the computer--some days your
+fastball will deliver more strikes than your sinker, other days the reverse
+will be true.  Experiment to discover your best pitch!
+
+After programming the pitch, throw the ball by holding down the controller
+button and lightly flicking the Joystick down.
+
+THROWING THE BALL AROUND THE OUTFIELD
+
+The player with the ball can throw to the pitcher or any of the four basemen. 
+To throw to first base, hold down the controller button and push the Joystick
+to the right.  To throw to second base push straight up.  To throw to third
+base push to the left.  Throw to the catcher at home plate by pushing the
+Joystick straight down.  Leave the Joystick in the neutral (center) position
+to throw the ball to the pitcher.
+
+Remember to release the controller button after the ball is thrown, or you may
+accidentally throw the ball again after it is caught.
+
+If an intended receiver of the ball misses the catch, the ball will roll and
+come to a stop on the field.  Pick up the ball by running the controlled
+player over it.  You'll hear the "plop" of the ball hitting the glove when it
+is picked up.
+
+you can identify a controlled player by color; controlled players are solid
+yellow or pink.  Non-controlled players are two-toned white and blue.  If
+you're in doubt, move the Joystick to see which team member is under your
+control.
+
+RUNNING IN THE OUTFIELD
+
+Use your Joystick to move a controlled player in the outfield.  The player
+moves up, down, right, left, and diagonally in the same direction you move the
+Joystick.
+
+
+======================================================================
+
+
+4. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+To select the RealSports BASEBALL game variation you want to play, press the
+GAME SELECT switch.  The game variation number will appear on the screen
+bottom.  Continue pressing the switch until the game variation you want to
+play is displayed.  (See Section 6, GAME VARIATIONS for further information.)
+
+GAME RESET SWITCH
+
+Once you've decided on a game variation, press either the GAME RESET switch or
+the red controller button to start game play.
+
+TV TYPE SWITCH
+
+Set this switch to COLOR if you're playing on a color television set.  Set it
+to B/W to play the game in black and white.
+
+DIFFICULTY SWITCHES
+
+The LEFT and RIGHT DIFFICULTY switches have no function in this game.
+
+
+======================================================================
+
+
+5. SCORING
+
+Each time a batter touches all the bases in a counterclockwise direction and
+returns to home plate, the team scores one point.  Scores are kept on the top
+of the screen; the home team on the left and visiting team on the right.  The
+number of outs in the inning also appears on the top of the screen, between
+the two scores.
+
+Balls and strikes are recorded behind home plate on the bottom of the screen. 
+the umpire's calls flash after each pitch on the bottom of the screen.
+
+The umpire also calls out the inning number every time a team has three outs
+and runs to the outfield.  Look at the bottom of the screen to see the inning
+number flash onto the screen before the first pitch.
+
+
+======================================================================
+
+
+6. GAME VARIATIONS
+
+There are four game variations in RealSports BASEBALL: Two 2-player games and
+two 1-player games.  In the 1-player version the computer automatically
+controls one team.  The computer always knows what pitch you're about to
+throw, so you'll have to brush up on your best baseball strategy to beat the
+computer!
+
+The variations are as follows:
+GAME 1   2-player game     Left player starts in the outfield.
+                           Right player starts at batch.
+                           Batter can hit every pitch.
+GAME 2   2-player game     Left player starts at bat.
+                           Right player starts in the outfield.
+                           Batter cannot hit balls.
+GAME 3	  1-player game     Player starts in the outfield.
+                           Batter cannot hit balls.
+GAME 4   1-player game     Player starts at bat.
+                           Batter cannot hit balls.
+
+
+======================================================================
+
+
+7. HELPFUL HINTS
+
+1.  Hold the controller in your hands so that your opponent can't see what
+direction you're moving your Joystick.  If you're pitching, this will prevent
+your opponent from knowing what type of pitch you're going to throw.  If
+you're at bat, this will prevent your opponent from noticing if you're about
+to steal a base.
+
+2.  When stealing a base, try to steal when the pitcher has the ball and is
+motionless (two-toned).  This will allow you to steal the base faster.  But
+watch out!  If the pitcher sees you and throws the ball, you'll slow down in
+mid-run!
+
+3.  Trust your Joystick when throwing a ball to a base, even though the
+direction may not seem right.  Pushing the Joystick UP, for example, will
+always throw the ball to second base, even if the outfielder is at the top of
+your screen.
+
+MORE HELPFUL HINTS
+
+1.  If you can't make the batter swing, he probably is not a controlled
+player.  Push the Joystick down without holding the controller button; then
+try swinging the bat using both the Joystick and the controller button.
+
+2.  If no batter appears at home plate after an out, throw the ball to the
+catcher and then back to the pitcher. A batter will run out to home plate.
+
+3.  Occasionally a missed ball will roll near an object on the field and will
+be hard to see.  Simply run the controlled player over the area the ball was
+last seen to pick the ball up.
+
+4.  To make sure the pitcher has the ball, press the red controller button
+once.
+
+5.  If the pitcher has the ball and is being controlled, you must run him back
+to the pitchers mound to resume pitching.  When he is positioned on the mound,
+he'll turn back to blue and white and will be ready to pitch once again.
+
+6.  If an outfielder throws a hit ball back to the pitcher before the batter
+starts running, the batter is counted out.
+
+
+======================================================================
+
+
+ATARI(R) 2600(TM) PROOF OF PURCHASE
+RealSports(TM) BASEBALL
+
+
+RealSports(TM) BASEBALL
+
+
+GAME CARTRIDGE LIMITED NINETY DAY WARRANTY
+ATARI, INC. ("Atari") warrants to the original consumer purchaser that your
+ATARI(R) Game Program cartridge is free from any defects in material or
+workmanship for a period of ninety days from the date of purchase.  If any
+such defect is discovered within the warranty period, Atari's sole obligation
+will be to replace the cartridge free of charge on receipt of the cartridge
+(charges prepaid, if mailed or shipped) with proof of date of purchase at
+either the retail store where the cartridge was purchased or at one of the
+ATARI Regional Service Centers listed below:
+
+Atari, Inc.                            Atari, Inc.
+1312 Crossman Ave.                     5400 Newport Dr., Suite 1
+Sunnyvale, CA  94086                   Rolling Meadows, IL  60008
+
+Atari, Inc.                            Atari, Inc.
+12 B World's Fair Dr.                  2109 East Division St.
+Somerset, NJ  08873                    Arlington, TX  76001
+
+This warranty shall not apply if the cartridge (i) has been misused or shows
+signs of excessive wear, (ii) has been damaged by being used with any products
+not supplied by ATARI, or (iii) has been damaged by being serviced or modified
+by anyone other than an ATARI Regional Service Center.
+
+ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND
+FITNESS, ARE HEREBY LIMITED TO NINETY DAYS FROM THE DATE OF PURCHASE.
+CONSEQUENTIAL OR INCIDENTAL DAMAGES RESULTING FROM A BREACH OF ANY APPLICABLE
+EXPRESS OR IMPLIED WARRANTIES ARE HEREBY EXCLUDED.
+
+Some states do not allow limitations on how long an implied warranty lasts or
+do not allow the exclusions or limitations of incidental or consequential
+damages, so the above limitations or exclusions may not apply to you.
+
+This warranty gives you specific legal rights and you may also have other
+rights which vary from state to state.
+
+
+ATARI(R)
+
+ATARI, INC., Consumer Division, P.O. Box 427, Sunnyvale, CA  94086
+A Warner Communications Company
+
+
+C019741-40 REV. 1 CX2640    (C) 1982 ATARI, INC. ALL RIGHTS RESERVED
+Printed in U.S.A.
+
+
+
+
+======================================================================
+
+
+Manual typed in laboriously by Dr. Inferno, Jason Dante Bardis
+(jasonbar@engineering.ucsb.edu) on 7/3/96
+

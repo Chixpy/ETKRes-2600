@@ -1,0 +1,145 @@
+                       WABBIT (TM) Video Game
+
+                      APOLLO GAME INSTRUCTIONS
+                          8 Game Variations
+                       For One Or Two Players
+
+
+THE SITUATION
+
+You are a farmer, named Billie Sue, trying to protect your crops.  
+One patch in particular is giving you trouble.  It's surrounded by 
+ten holes from which wabbits [sic] dart into your field.  Scare off 
+the pesky creatures by throwing wotten [sic] eggs at them (they're in 
+abundance this year and worth much less than good country carrots).  
+The score on the left depicts the number of carrots the wabbits have 
+snatched and deposited in their wabbit holes.  The current carrot 
+count increases every time a wabbit gets back into his hole with one 
+of your carrots.  Your score increases everytime you wallop a wabbit 
+with a wotten egg.  It's an egg-citing experience.
+
+THE SET-UP
+
+WABBIT (TM) is played by one or two players using the Joystick 
+Controller.  Be sure the power is off when you insert or remove the 
+WABBIT (TM) cartridge from your video game system.
+
+THE DIFFICULTY SWITCH
+
+The difficulty switch controls how fast Billie Sue moves.  In the 
+easier "B" mode, she dashes about nearly as fast as the bunnies 
+[sic].  Nut in the more challenging "A" mode, Billie Sue is getting 
+tired, and you'll need greater skill in throwing wotten eggs to make 
+up for her slowed pace.
+
+THE GAME SELECT SWITCH
+
+Each time you depress this switch, you will select a new game 
+variation.  The numbers of different variations described in the game 
+menu in this manual will appear on the game screen, with the number 
+of players who may participate in that game variation shown at the 
+right.  In the two player game, players alternate every time the 
+wabbit gets 25 carrots.  Games seven and eight are children's games, 
+designed for easy play for the very young.
+
+THE RESET SWITCH
+
+When this switch is depressed, the game will begin.  The variation 
+select number on the left of the screen and the number on the right 
+will both change to "0" [zero], and will become scoreboards.  The 
+right hand figure will now be Billie Sue's score, and the left hand 
+figure [will be] the wabbits' current carrot count.  When the game is 
+over, you may press the fire button or reset switch to re-start the 
+game.
+
+THE JOYSTICK CONTROLLER (with a picture of a standard Atari joystick)
+
+Hold your Joystick Controller so that the "FIRE" button is in the 
+upper left corner.  Moving the joystick to the left or right will 
+cause Billie Sue to run in that direction.  Pressing the red "FIRE" 
+button will cause her to throw a wotten egg at a wabbit.
+
+GENERAL PLAY
+
+Wabbits will exit from their burrows in a wandom [sic] manner, trying 
+to steal your carrots and race back to their holes.  They will forget 
+about carrots and run back home when hit by a wotten egg thrown by 
+Billie Sue.
+
+(picture of the actual game on TV;  Billie Sue is at the bottom of 
+the screen facing the field, which is in the middle, and the burrows, 
+on each side of the field.)
+
+SCORING
+
+When wabbits carrying carrots successfully return to their burrows 
+without being hit by wotten eggs, the current carrot indicator on the 
+left of the screen will increase by one point.  Every time Billie Sue 
+is able to hit a wabbit with a wotten egg before the wabbit reaches a 
+carrot, you will receive five points.  When the wabbit is hit by a 
+wotten egg on the way back from its burrow with a carrot, you will 
+receive ten points on your score on the right of the screen.  And you 
+get a bonus: every 100 points you get will cause the wabbits to lose 
+25 carrots from their current carrot count.  The game will end when 
+the wabbits' score reaches 100 points.
+
+(C) COPYWIGHT [sic], 1982, GAMES BY APOLLO, INC.
+
+VARIATIONS
+
+For one or two players, the number of Wabbits you have to chase off 
+will vary as follows:
+
+------------------------------------------
+ GAME 1 -- 2 WABBITS FOR 1 PLAYER
+------------------------------------------
+ GAME 2 -- 2 WABBITS FOR 2 PLAYERS
+------------------------------------------
+ GAME 3 -- 1 WABBIT FOR 1 PLAYER
+------------------------------------------
+ GAME 4 -- 1 WABBIT FOR 2 PLAYERS
+------------------------------------------
+ GAME 5 -- 3 WABBITS FOR 1 PLAYER
+------------------------------------------
+ GAME 6 -- 3 WABBITS FOR 2 PLAYERS
+------------------------------------------
+ GAME 7 -- 1 WABBIT FOR 1 PLAYER (CHILD)
+------------------------------------------
+ GAME 8 -- 1 WABBIT FOR 2 PLAYERS (CHILD)
+------------------------------------------
+
+GAME MENU
+
+ -----------------------------------------------
+| Game Number   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+ -----------------------------------------------
+| Number      1 | X |   | X |   | X |   | X |   |
+| Of Players  2 |   | X |   | X |   | X |   | X |
+ -----------------------------------------------
+| Number      1 |   |   | X | X |   |   | X | X |
+| Of          2 | X | X |   |   |   |   |   |   |
+| Wabbits     3 |   |   |   |   | X | X |   |   |
+ -----------------------------------------------
+
+
+Limited 90-Day Warranty Information
+
+Write Apollo (TM) today, and ask us to put your name on our mailing 
+list.  Then, as each new Apollo video game becomes available, you'll 
+be among the first to know!
+
+Apollo
+1300 E. Arapaho Road
+Richardson, Texas 75081
+
+(C) 1982 Apollo, Inc.
+
+This 2600 video game manual has been reproduced electronically due to 
+the extreme rareness of finding the game, much less than finding it 
+with the manual.  The intent behind reproducing this document is 
+having it available for non-profit use.  This document has been 
+stored so others who find WABBIT cartridges can be able to play and 
+enjoy the game as well.
+
+--- 2600 Manual Archive, NGS ---
+

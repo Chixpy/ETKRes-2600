@@ -1,0 +1,191 @@
+Activision(tm)
+KABOOM!(tm)
+Instructions
+
+Prepare yourself for a supreme test of reflexes, coordination, and
+agility.  You're about to face the world's most unpredictable and
+relentless "Mad Bomber."  He hates losing as much as you love winning.
+So, to keep him frowning, take a minute to read over these instructions.
+Then, grab your buckets and bomb away!
+
+ACTIVISION(tm)
+
+---
+
+KABOOM!(tm) BASICS
+------------------
+1. Hook up your video game system.  Follow manufacturer's instructions.
+
+2. With power OFF, plug in game cartridge.
+
+3. Turn power ON.  If no picture appears, check connection of your game.
+
+4. Plug one set of Paddle Controllers into left player controller
+   connector.  Select game with game select switch.
+
+5. Select game with game select switch.
+
+   Game 1: You vs. the "Mad Bomber."
+   Game 2: You and a friend, taking turns vs. the "Mad Bomber."
+
+6. Set difficulty switches at b(down) to begin.
+
+7. Use of Paddle Controller.  Hold Paddle Controller with button at upper
+   left.  By turning your Paddle Controller clockwise, you move your 
+   buckets of water to the right.  Turning the Controller counterclockwise
+   moves buckets to the left.
+
+8. To begin or start a new game.  Press game reset.  Then, press the red
+   button on the Controller to start bombs dropping.
+
+9. Difficulty switches.  With the difficulty switches in the b(down)
+   position, buckets are full size.  With switches in the a(top)
+   position, buckets are half size(only advanced players should attempt
+   this setting).  The left difficulty switch is used by the first
+   player, the right switch by the second player(Game 2 only).
+
+10. Scoring.  Each time you catch a bomb in one of your buckets of water,
+    you score points.  The point value of each bomb depends on how fast
+    that bomb is falling and which group that bomb is in.  There are 8
+    separate groups of bombs, as shown by the following chart.
+
+                          KABOOM! POINT SYSTEM
+
+# of Bomb  # of Bombs  Point Value  Point Value   Cumulative Score
+Group      in Group    of Each Bmb  of Group      
+------------------------------------------------------------------
+   1          10            1          10               10
+   2          20            2          40               50
+   3          30            3          90              140
+   4          40            4         160              300
+   5          50            5         250              550
+   6          75            6         450             1000
+   7         100            7         700             1700
+   8         150            8        1200             2900
+
+Bomb Group 8 is the highest level.  Once you reach this level, all
+bombs that follow will fall at the same rate of speed and are worth
+the same points as bombs in Group 8(unless you miss a bomb--see the
+next page).
+
+11. When you miss a bomb, all bombs explode and you lose a bucket.  
+    Lose all three buckets and the game is over.  To start over after
+    a miss, press the red button on your Controller(see "Special
+    Features").
+
+    The object of the game is to catch as many bombs as you can and
+    get as close as possible to the 999,999 maximum points.
+
+12. Two Player Games.  Game 2 is for two players, who take turns
+    against the "Mad Bomber."  The score for the first player will
+    be in yellow, and, for the second player, in red.  Players alternate
+    turns until both have lost all buckets.  The player with the highest
+    score at the game's end is the winner.
+
+Note to owners of Sears Tele-Game Video Arcade system: Difficulty
+switches are called skill left(or right) and a(up) is expert and b(down)
+is novice.
+
+SPECIAL FEATURES OF KABOOM!(tm) BY ACTIVISION(tm)
+THE "MAD BOMBER" GETS ONE BY YOU
+
+Sooner or later, it's going to happen.  You'll miss a bomb.  When you do,
+all bombs on the screen explode, you lose a bucket, and the "Mad Bomber"
+expresses his happiness.
+
+Then, depending on which bomb group you're in when you miss, the level of
+difficulty of the next bombs dropped is affected as follows.  There is NO
+change in difficulty when you miss at Bomb Group 1; your next bombs will
+still be in Group 1.  If you're in Bomb Group 2 or above when you miss, 
+you will re-start play at a level one group LOWER than where you were
+playing when you missed.  But, you'll only need to catch one-half the
+number of bombs normally in that level before making it back to the level
+at which you missed.
+
+Here's an example: You miss a bomb in Group 4, so you re-start play in
+Group 3.  But you only need to catch 15 bombs(half the normal amount
+for Group 3) to regain the Group 4 level.  Refer to the Point System
+chart.
+
+REPLACING LOST BUCKETS
+
+For every 1000 points you score, you will be given a new bucket(if one
+or two are missing).  However, you may never have more than three
+buckets, and no additional buckets are awareded if you reach another
+1000 points with no buckets missing.
+
+GETTING THE FEEL OF KABOOM!(tm) BY ACTIVISION(tm)
+
+There's a method to this madness!  And, the more you play, the more
+you'll see it.  Bombs fall a certain way.  But DON'T try to aim and
+line-up your buckets under each bomb.  Instead, try to get the feeling
+for the bomb patterns that develop.  After a while, you'll be able to
+anticipate where bombs will fall.  That's when you can get the jump
+on the "Mad Bomber."
+
+JOIN THE ACTIVISION "BUCKET BRIGADE"
+
+If you succeed in scoring 3000 or more points at Kaboom!, send us a
+picture of the television screen, along with your name and address,
+and we will enroll you in the Activision "Bucket Brigade" and send
+you a special membership emblem.  If you ever reach the maximum
+999,999 points, please send us a photo!  Such a remarkable achievement
+must be recognized.
+
+HOW TO BECOME A MASTER AT KABOOM!(tm) BY ACTIVISION(tm)
+Tips from Larry Kaplan, designer of Kaboom!
+
+Larry Kaplan is also the designer of Bridge by ACTIVISION.  A senior
+member of the Activision Design Team, Larry is a well-known expert in
+the field of video game design.
+
+"To do well at Kaboom!, you'll need all the reflexes, endurance, and
+concentration you can muster.  Don't be frustrated if things don't go
+well at first.  It takes a fair amount of practice, especially to
+catch the bombs at higher speeds.
+
+
+"You'll notice that you'll be improving in stages.  The first plateau
+is the 1000 point mark.  Mastery at Bomb Groups 5 and 6 is necessary
+to do well here.  Conquering Bomb Group 7 will place you at the 2000
+point level.  As you develop the stamina and concentration needed to
+progress, you'll conquer Bomb Group 8.  From then on, it's a matter of
+fine-tuning your skills and extending your endurance to improve your
+score.
+
+"If you hit the 10,000 point level, that really impresses the "Mad
+Bomber," and he'll show his appreciation.  Watch for it.
+
+"Here's one special trick we have discovered to help build up your
+score while maintaining some control of the game.  If you have all 3
+buckets and you're just about to cross a 1000 point level(1000, 2000,
+3000, etc.), miss one of the bombs on purpose!  You will lose your
+bottom bucket, but you will start over at the next lower difficulty
+level.  And that'll give you a few bombs to catch at a slower speed.
+Then, after you've gone over the 1000 point level, you will get your
+bucket back anyway, so you haven't lost a thing.  Since you will be
+plahing for a while at a slower speed, it gives you a breather, but
+keeps you in the game.
+
+"If you really become good at Kaboom!, try it with the difficulty
+switches set at a(up).  Since the buckets are only half the regular
+size, you'll really have to be quick.
+
+"Please take time out from your bomb chasing to drop me a line.  It
+would be great to hear from you."
+
+Larry Kaplan
+
+Look for more Activision video games wherever you buy video game 
+cartridges.  Drop us a note and we'll galdly add your name to our
+mailing list and keep you posted on new Activision game cartridges as
+they become available.
+
+Activision, Inc..
+3255-2 Scott Blvd.,
+Santa Clara, CA 95051
+
+(C)1981 Activision
+   
+
+-------------------Atari 2600 Instructions Archive-------------------

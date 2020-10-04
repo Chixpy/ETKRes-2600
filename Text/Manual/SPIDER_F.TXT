@@ -1,0 +1,168 @@
+ACTIVISION
+SPIDER FIGHTER
+BUG BRIEFING
+
+
+---------------------------SPIDER FIGHTER BASICS-------------------------------
+The object of the game is to protect your fruit orchard from insect fruit 
+theives, scoring points by exterminating the attackers.
+
+1.  Hook up your video game system.  Follow manufacturer's instructions.
+
+2.  With power OFF, plug in game cartridge.
+
+3.  Turn power ON.  If no picture appears, check connection of your game system
+    to TV, then repeat steps 1-3.
+
+4.  Plug in left Joystick Controller.  It's the only one you'll need.
+
+5.  Set both difficulty switches to a to begin.
+
+6.  Game select switch has no effect.
+
+7.  Use of Joystick Controller.  Hold Joystick Controller with the red button
+    in the upper left position.  Fire poison pellet volleys by repeatedly
+    depressing red button.  Move Joystick left or right to move mobile blaster
+    left or right across the screen.
+
+8.  To begin or start a new game.  Press game reset.  Action begins when the
+    first Master Nest descends.
+
+9.  Difficulty switches.
+
+          Left Difficulty            Right Difficulty
+          A. Regular Game            A. Straight Pellets
+          B. Expert Game             B. Guided Pellets
+
+    Left difficulty switch affects speed, fire-power and point values of 
+    insects.  Right difficulty switch selects guided pellet option: in b
+    position, pellet's can be "steered" after they've been fired.
+
+[Note to owners of Sears Tele-Games Video Arcade: Difficulty is called skill, 
+and a is expert, b is novice]
+
+10. Fruit Orchard.  Your fruit orchard is growing oranges, grapes, 
+    strawberries and bananas.  You must protect each variety of fruit from
+    waves of insects.  Four waves attack oranges, grapes and strawberries.
+    Then, unlimited waves of insects attack your bananas.  Each wave starts
+    out with three fruit and four Master Nests.
+
+         _____                          ___          ______
+        / o   \              __--_     /   \        /      \  
+        \   o /          __-- __--     \    >      /        \ 
+         \ o /       __-- __--          \   \      \        / 
+          \_/      -------               \___\      \______/  
+                                                             
+     Strawberry         Banana          Grapes       Orange 
+       
+11. Reinforcements,  You begin each game with four bug blasters in reserve.  If
+    you manage to save all three fruit from an insect wave, you're awarded an
+    aditional blaster.  You can only have up to four reserve blasters on the
+    screen at one time.
+
+12. Scoring.  Each time you exterminate an attacking insect, you score points.
+    The point values for each insect are listed below:
+
+                         SPIDER FIGHTER POINT SYSTEM
+                    Insect                    Point Values
+                                              (Regular Game Only)
+                    Master Nest                   100
+                    Stinger                        50
+                    Spy Pod                        50
+                    Green Widow                    30
+
+    In the expert game, point values for insects are multiplied when you are
+    protecting certain fruit:  insects are worth twice as much when protecting
+    grapes, four times as much for strawberries, and eight times as the regular
+    game point values when bananas are present.
+
+       Bonus points:  If you manage to save all three fruit in a wave, and you
+       also have four bug blasters in reserve, then you will receive 500 bonus
+       points.
+
+
+                     [screen shot]
+
+
+-------------------------------BUG GLOSSARY------------------------------------
+
+ _____    The Master Nests.  This is the ringleader and major fruit thief.  It
+-------   is protected from poison by a white band, until it releases a Spy
+=======   Pod.  Its sole aim is to keep you busy with bugs, so that it can slip
+__-_-_-   away with your fruit.
+ -----
+
+  /\      Spy Pods.  These sneaky critters scout around and instruct the Master
+[]==[]    Nest to release more insects.  As long as any Spy Pods remain on the
+  \/      screen, the Master Nest continues to release its creepy offspring.
+          Destroy the Spy Pods and you slow infestation!
+
+
+ \ /      Green Widows.  Green Widows fly interference, protecting the Master
+ ===      Nest with cover-fire.  They also act as living shields, sacrificing
+ / \      themselves by intercepting your poison pellets.  Even though Green
+          Widows are slower and dumber, by careful!  They still deal a deadly
+          bite.
+
+ \ /      Stingers.  The most dangerous and aggressive of the pack.  Stingers
+  =       track your blaster with the single-minded goal of destroying you.
+-----     Warning!  When you kill the Master Nest, Pods and Widows instantly
+/---\     transform into Stingers!  Then, the mortality rate is very high.
+ ===
+/   \
+
+
+
+-------------------------HOW TO JOIN THE ACTIVISION----------------------------
+                              "SPIDER FIGHTERS"
+
+If you score 40,000 points or more on the regular game level, you qualify for 
+Activision's elite corp of Spider Fighters.  Send us a picture of your TV
+screen showing your score, along with your name and address, and we'll send you
+an official Spider Fighters emblem.
+
+
+
+
+
+                       BECOMING A MASTER BUG BLASTER
+              Tips from Larry Miller, designer of Spider Fighter
+
+     Larry is the newest addition to the Activision design team.  He's an
+     experienced designer, having completed a number of games for home
+     computers.
+
+"As you can see, keeping a fruit orchard isn't exactly easy.  Those bugs can
+really become a nuisance.  You can never get rid of them entirely, but you can
+control them.
+
+"There are various strategies you can experiment with, but one of the most
+effective that I have found is to first gun down the lone Spy Pod.  If you can
+exterminate that Pod, you halt the flow of reinforcements.  Afterwards, you can
+pick off the rest of the attackers, leaving the Master Nest for last.
+
+"Occasionally, the Master Nest will release a continuous stream of Spy Pods, 
+and each one you hit seems to be replaced.  If this happens, you must 
+immediately destroy the Master Nest and take your chances against a squadron
+full of angry Stingers.  Normally, though, it is best to destroy the slower
+Spy Pods and Green Widows that hover near the bottom of the screen before 
+killing the Master Nest.  A low-flying Stinger is your worst enemy.
+
+"So maintain a stiff upper lip, and send me a line in between Spider fights. 
+I'd sure like to know how this year's fruit harvest will fare."
+
+[Larry Miller]
+
+
+
+Look for Activsion video games wherever you buy video game cartridges.  Drop us
+a note, and we'll gladly add your name to our mailing list and keep you posted
+on new Activsion game cartridges as they become available.
+
+ACTIVSION
+Activision, Inc., Drawer No. 7287
+Mountain View, CA  94042
+
+(c) 1982 Activision AX-021-03
+
+-------------------Atari 2600 Instructions Archive-------------------

@@ -1,0 +1,233 @@
+COSMIC CREEPS
+
+{COVER}
+
+[Picture of a guy in a space suit towing two kids on a rope while lazers 
+blast all around hitting green guys with eyes on tentacles on their heads]
+
+GAME INSTRUCTIONS
+COSMIC CREEPS
+Plays on the Atari 2600 Video Computer System and Sears Tele-Game Video 
+Arcade
+
+Telesys
+FUN IN GAMES
+
+
+{Page 1}
+
+[Screen shot showing game]
+
+BLAST OFF
+Civilizaion is doomed...unless you can save the Cosmic Kids.  You must 
+get your Orbinaut from the planet up to the space station.  Then rescue 
+the kids before the planet's orbit decays completely.
+
+But watch out!  Villainous Space Skeeters and Cosmic Creeps are 
+constantly on the attack.
+
+To succeed, you'll need every ounce of skill and stamina you possess.  
+And succeed you must.  The fate of all Kid kind is in your hands.
+
+OBJECT OF THE GAME
+Save the Cosmic Kids from certain destruction and score as many points as 
+possible before the planet falls out of orbit.  When it disappears from 
+the screen your time is up.
+
+{Page 2}
+
+GETTING READY TO PLAY
+Use the Joystick Controller.  Always be sure the power is off before 
+inserting or removing the Cosmic Creeps cartridge from your video game 
+system.  Use the controller plugged into the LEFT CONTROLLER jack.  Hold 
+the controller so the red button is to your upper left.
+
+DIFFICULTY SWITCH
+Has no effect on this game.
+
+TO BEGIN PLAY
+Press game reset.  Push red button on Joystick Controller for subsequent 
+games.
+
+HOW THE GAME PROGRESSES
+Cosmic Creeps is played in two parts.
+
+The Voyage
+
+First get an Orbinaut from the planet to the flashing white portals of 
+the space station at the top of the screen.  If he collides with red 
+plasma or a Space Skeeter on his way, he barrels off into space.  You 
+then must release another Orbinaout which drops the planet one notch and 
+hastens its demise.
+
+Push the Joystick forward to realease your first Orbinaout.  He heads 
+straight out from the planet, so time his release carefully.  Use the 
+Joystick to move him up, down, right and left; avoiding plasma and 
+Skeeters.  (Notice that the planet is falling lower and lower as play 
+progresses.  It will fall a total of 12 notches before it disappears 
+completely.)
+
+When your Orbinaut enters the space station and disappears from the 
+screen, you gain control of the space station and the second part of the 
+game begins.
+
+
+{Page 3.. last page}
+
+The Rescue
+
+>From the lower left corner of the screen, the first of your Cosmic Kids 
+begins his escape to the space station.  Close on his heels are Creeps 
+who will send your Kid back if they catch him.  Your job: bop the Creeps 
+back to the planet, allowing your Kids to reach the upper right corner of 
+the screen and escape.  But be careful not to bop your Kids.  (In bold) 
+DON'T LET A CREEP THROUGH EITHER OR THE GAME'S OVER!
+
+To release a bopper, push the red button on the Joystick.  Moving the 
+Joystick left to right will move the Space Station.  After one Kid 
+reaches safety (or gets bopped, heaven forbid!) you may release another 
+Kid by pushing forward on the Joystick.  Every time you release a Kid the 
+planet falls another notch.
+
+You can never have more than one Kid and two Creeps on the screen at the 
+same time.
+
+If the planet sinks off the screen before you reach 5,000 points  the 
+screen flashes and the game is over.  If you score over 5,000, you 
+progress to a new planet, a new Orbinaut and a faster-paced voyage and 
+rescue.
+
+SCORING
+You earn 1,500 points for each Kid who escapes safely.  You earn 100 
+points for every Creep you bop.
+
+A SAFE VOYAGE
+Good luck.  You, your Orbinaut and the Cosmic Kids are all going to need it!
+
+
+
+Telesys
+FUN IN GAMES
+43334 Bryant Street, Fremont, CA 94539
+
+CP-72-02
+
+
+
+From crfpsc@tevm2.nsc.com Fri May 19 10:28:09 1995
+Received: from gatekeeper.nsc.com (gatekeeper.nsc.com [139.187.71.2]) by steroid.ecst.csuchico.edu (8.6.11/8.6.10) with SMTP id KAA26974 for <gchance@ecst.csuchico.edu>; Fri, 19 May 1995 10:28:06 -0700
+Received: from nsc.nsc.com by gatekeeper.nsc.com (5.65/fma-120691) with SMTP;
+	id AA26688 for gchance@ecst.csuchico.edu; Fri, 19 May 95 10:28:04 -0700
+Received: from lightning-gw.nsc.com by nsc.nsc.com (5.65/1.34) with SMTP
+	id AA08987 for gchance@ecst.csuchico.edu; Fri, 19 May 95 10:28:02 -0700
+Received: from rockie by rockie.nsc.com (4.1/SMI-4.1)
+	id AA12512; Fri, 19 May 95 10:29:28 PDT
+Received: from bponiatowski by rockie (4.1/SMI-4.1)
+	id AA03450; Fri, 19 May 95 10:29:27 PDT
+Message-Id: <9505191729.AA03450@rockie>
+Date: Fri, 19 May 95 09:29:14 -0700
+From: Bob Poniatowski <crfpsc@tevm2.nsc.com>
+Organization: National Semiconductor
+X-Mailer: Mozilla 1.1N (Windows; I; 16bit)
+Mime-Version: 1.0
+To: gchance@ecst.csuchico.edu
+Subject: http://www2.ecst.csuchico.edu/~gchance/contributors.html
+Content-Type: multipart/mixed;
+	boundary="-------------------------------3006855712854"
+Status: RO
+
+This is a multi-part message in MIME format.
+
+---------------------------------3006855712854
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+
+Hi,
+
+Here's another manual...Cosmic Creeps
+
+Cheers!
+Bob Pony
+
+---------------------------------3006855712854
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain
+
+GAME INSTRUCTIONS
+
+COSMIC CREEPS
+
+Plays on the Atari 2600 Video Computer System and Sears Tele-Game Video Arcade
+
+Telesys
+Fun In Games
+
+BLAST OFF
+
+  Civilization is doomed...unless you can save the Cosmic Kids.  You must get your Orbinaut from the planet up to the space station.=
+  Then rescue the Kids before the planet's orbit decays completely.
+
+  But watch out!  Villainous Space Skeeters and Cosmic Creeps are constantly on the attack.
+
+  To succeed, you'll need every ounce of skill and stamina you possess.  And succeed you must.  The fate of all Kid kind is in your =
+hands.
+
+OBJECT OF THE GAME
+
+  Save the Cosmic Kids from certain destruction and score as many points as possible before the planet falls out of orbit.  When it =
+disappears from the screen your time is up.
+
+GETTING READY TO PLAY
+
+  Use the Joystick Controller.  Always be sure the power is off before inserting or removing the Cosmic Creeps cartridge from your v=
+ideo game system.  Use the controller plugged into the LEFT CONTROLLER jack.  Hold the controller so the red button is to your upper=
+ left.
+
+DIFFICULTY SWITCH
+
+  Has no effect on this game.
+
+TO BEGIN PLAY
+
+  Press game reset.  Push red button on Joystick Controller for subsequent games.
+
+HOW THE GAME PROGRESSES
+
+ Cosmic Creeps is played in two parts.
+
+  The Voyage.  First get an Orbinaut from the planet to the flashing white portals of the space station at the top of the screen.  I=
+f he collides with red plasma or a Space Skeeter on his way, he barrels off into space.  You then must release another Orbinaut whic=
+h drops the planet one notch and hastens its demise.
+
+  Push the Joystick forward to release your first Orbinaut.  He heads straight out from the planet, so time his release carefully.  =
+Use the Joystick to move him up, down, right and left; avoiding plasma and Skeeters.  (Notice that the planet is falling lower and l=
+ower as play progresses.  It will fall a total of 12 notches before it disappears completely.)
+
+  When your Orbinaut enters the space station and disappears from the screen, you gain control of the space station and the second p=
+art of the game begins.
+
+  The Rescue.  From the lower left corner of the screen, the first of your Cosmic Kids begins his escape to the space station.  Clos=
+e on his heels are Creeps who will send your Kid back if they catch him.  Your job: bop the Creeps back to the planet, allowing your=
+ Kids to reach the upper right corner of the screen and escape.  But be careful not to bop your Kids.  Don't let a creep through eit=
+her or the game's over!
+
+  To release a bopper, push the red button on the Joystick.  Moving the Joystick left to right will move the Space Station.  After o=
+ne Kid reaches safety (or gets bopped, heaven forbid!) you may release another Kid by pushing forward on the Joystick.  Every time y=
+ou release a Kid the planet falls another notch.
+
+  You can never have more than one Kid and two Creeps on the screen at the same time.
+
+  If the planet sinks off the screen before you reach 5,000 points the screen flashes and the game is over.  If you score over 5,000=
+, you progress to a new planet, a new Orbinaut and a faster-paced voyage and rescue.
+
+SCORING
+
+  You earn 1,500 points for each Kid who escapes safely.  You earn 100 points for every Creep you bop.
+
+A SAFE VOYAGE
+
+  Good luck.  You, your Orbinaut and the Cosmic Kids are all going to need it!
+
+---------------------------------3006855712854--
+
+

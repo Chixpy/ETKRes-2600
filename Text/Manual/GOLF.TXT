@@ -1,0 +1,157 @@
+GOLF
+
+Use your Joystick Controllers with this ATARI Game Program. Be sure
+the Controllers are firmly plugged into the LEFT and RIGHT CONTROLLER
+jacks at the rear of your ATARI Video Computer System. Hold the
+Controller with the red button to your upper left toward the
+television screen.
+
+Use a Joystick plugged into the LEFT CONTROLLER jack for one player
+games. See Section 3 of your Video Computer System Owner's Manual for
+further details.
+
+Note: Always turn the console power switch OFF when inserting or
+removing an ATARI Game Program. This will protect the electronic
+components and prolong the life of your ATARI Video Computer System.
+
+INTRODUCTION
+
+This Golf Game Program is patterned after the traditional game of
+golf. There are nine "holes" in which you must succeed in hitting the
+ball into a "cup." Each time you hit the ball in an effort to reach
+the cup it is called a "stroke." Although the number of strokes you
+take to hit the ball into the cup is unlimited, each hole has a
+designated "par." Par represents the number of strokes you are
+ideally supposed to take to complete the hole.
+
+Total par for this course is 36. The par for each hole is displayed
+at the top of the screen, next to the hole number. (See VIDEO
+REPRESENTATION KEY diagram #2, 3) When playing a one-player game, try
+to match or beat par. In twoplayer games, the player with the least
+amount of strokes is the winner.
+
+TO BEGIN PLAY
+
+Console Controls
+
+Depress the game select switch for a one or a two-player game. A 1
+will appear in the upper left corner of the screen for a one-player
+game; a 2 will appear for a two-player game.
+
+To begin a game depress the game reset switch. This will also reset a
+game to hole number one when depressed during a game.
+
+USING THE CONTROLLER
+
+Use the Joystick to walk the golfer around the course, as well as to
+swing the club and hit the ball. (The left or single player uses the
+Joystick plugged into the LEFT CONTROLLER jack. The second or right
+player in a two-player game uses the Joystick plugged into the RIGHT
+CONTROLLER jack.)
+
+Moving the Joystick in the directions shown in the diagram moves the
+golfer in the same directions on the screen. The golfer's club always
+points toward the ball. The golfer will walk in all vertical,
+horizontal, and diagonal directions in accordance with the Joystick's
+position.
+
+To start the golfer's backswing, press the controller button. The
+longer you hold the button the longer the backswing, and the farther
+the ball will travel when hit. When you release the controller button
+the golfer starts the forward swing. If any part of the club (or the
+golfer) hits the ball while the forward swing is in progress, the
+ball will be set in motion.
+
+Positioning the Golfer
+
+As noted before, the golfer's club always points toward the ball. To
+change the angles of the club (in relation to the ball), position the
+tip of the club over the ball and "walk" the golfer around the ball
+using the Joystick. When you find the position you want, leave the
+tip of the club over the ball and press the controller button to
+start a backswing.
+
+Once hit, the ball will travel in a perpendicular direction away from
+the club.
+
+The direction the ball travels is set the moment the backswing
+begins. You may not change the direction once the swing has started
+in motion. Move or walk the golfer away from the ball and take a
+practice swing to confirm the direction of the swing when in doubt
+about a shot. There is no penalty stroke when you take a practice
+swing.
+
+PLAYING THE GAME
+
+When the ball hits a tree without sufficient momentum it will bounce
+directly backward. When the ball lands in a water hazard, it will be
+returned to the fairway closest to the point of entry, and a one
+stroke penalty will be added to your score.
+
+Balls that land in sandtraps are temporarily stuck. The ball loses
+momentum when hit while in a sandtrap. It also becomes invisible when
+caught in a sandtrap. You can locate the ball by noting which
+direction the club is pointing. Notice in the diagram that although
+the ball is not visible the club is pointing in a specific direction.
+Move the golfer and club through the sandtrap and note which
+direction the club is pointing, as well as when the golfer slows
+down. With these two clues, it should be relatively easy to find the
+ball.
+
+Given enough power or momentum and a certain distance, the ball can
+fly over (or pass through) trees, water hazards, and sandtraps. When
+the ball stops on the green, a green close-up view will be shown on
+the screen instead of the "fairway" view. With an accurate shot
+however, you can enter the cup directly from the fairway view without
+going into the close-up view.
+
+Whenever the ball enters the rough it will stop, or lose power and
+become invisible depending on the position of the difficulty switch.
+(See DIFFICULTY SWITCHES.) When hitting the ball from the rough it
+starts with one-half the normal momentum. It takes twice as much
+power as on the fairway or green.
+
+DIFFICULTY SWITCHES
+
+The left difficulty switch is used by the left player in a two-player
+game, or the only player ion a one-player game. The right difficulty
+switch is for the right player in a two-player game.
+
+The a position for each difficulty switch corresponds to an advanced
+skill level. The b position represents a beginning skill level. When
+the switch is in the b position, the cup for each hole will be large
+and the ball will stop at the edge of the "rough." The rough is the
+blue area on the screen which surrounds each fairway or green.
+
+In the a position, each hole will be smaller in size. Also, the ball
+will travel off the course and into the "rough" if hit too hard. The
+ball loses power while traveling through the rough. When hit from the
+rough, the ball starts with one-half the normal amount of power. The
+ball is invisible when in the rough. (When searching for the ball in
+the rough, remember that the club will always point toward the ball.)
+
+NOTE: The golfer moves at a reduced speed when traveling at a close
+distance to the ball in order to help you position the golfer and club
+more accurately.
+
+TWO-PLAYER GAMES
+
+The left player starts and plays the entire hole. Then the right
+player shoots the same hole, followed by the left player (or first
+player) shooting the second hole, etc.
+
+SCORING
+
+Scoring is done automatically by the computer. Each time your golfer
+hits the ball, one stroke is recorded by the computer. Your objective
+is to have a low score, or to match or beat the "par" for each hole,
+and ultimately the par for the entire course.
+
+The left player's score is displayed at the upper left corner of the
+screen; the right player's score is shown at the upper right side of
+the screen. In a single-player game, your score is displayed at the
+upper left.
+
+Hole No.  1  2  3  4  5  6  7  8  9  TOTAL
+Par       3  5  4  4  4  5  4  3  4  36
+-------------------Atari 2600 Instructions Archive-------------------

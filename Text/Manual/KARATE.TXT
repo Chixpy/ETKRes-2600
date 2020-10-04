@@ -1,0 +1,100 @@
+FROGGO GAMES(TM)
+Karate (TM)
+Instructions
+
+Karate
+
+   Karate is a full-color action game, for one or two players, to be
+played on the ATARI(R) Video Computer System.(TM)
+   Speed, skill and guts are not enough!  You must also be constantly alert
+and clever enough in your strategy to outfight your opponent.  But that may
+be the last time it's an equal match.  After the first furious 2-minute round,
+one of you advances to red belt level while the loser stays a white belt.
+And it could get even more difficult after that, because someone advances after
+each match.  If it's not you who advances, you could be in for the beating of
+your life!
+   As a beginning white belt, you have a 'body arsenal' including straight
+punches and up punches, straight kicks and up kicks.  But so does your
+opponent!  While you're on the attack, you must also dodge or block your 
+opponent's kicks and punches.
+   Everything happens at close quarters, and the action gets faster and more
+furious as you battle your way to the highest honor - The Black Belt.  And
+even then, your opponenet will challenge you to defend your status!
+
+Instructions for Setup
+
+1. Follow the manufacturer's instructions to connect the ATARI(R) Video
+Computer System(TM) to your TV.
+
+2. Install only the Left Joystick control for a single player.  Install
+both Joysticks if two players are engaging in Karate action.
+
+3. Make certain that the ATARI(R) power switch is OFF, then insert the game
+cartridge.
+
+4. Set the TV TYPE switch to the proper setting.
+
+5. Set the DIFFICULTY switch to A (slow) or B (fast).
+
+6. Set the CHANNEL 2-3 switch to the proper setting for your TV.
+
+7. Move the POWER switch to ON.
+
+Instructions For Play
+
+1. Push SELECT to select 1 player or 2 players, and get ready!
+
+2. The match starts automatically after a few seconds.  You can restart the
+game at any time by pushing RESET.  This returns both fighters to white belt
+status and restarts the 2-minute clock.
+
+3. The Joystick moves each fighter up/down and right/left across the screen.
+The fighters can rotate positions, so each one can fight from either the
+right or left side of the screen.
+
+4. Punches & Kicks: Pushing the red button while holding the Joystick in
+various positions delivers punches and kicks as follows:
+Joystick:
+NEUTRAL  +  BUTTON  =  UP PUNCH
+UP       +  BUTTON  =  UP PUNCH
+DOWN     +  BUTTON  =  STRAIGHT PUNCH
+RIGHT    +  BUTTON  =  STRAIGHT KICK
+LEFT     +  BUTTON  =  UP KICK
+
+5. Scoring: Each fighter scores points for delivering punches and kicks to
+the opponent's body:
+UP PUNCH                = 10 POINTS
+STRAIGHT PUNCH          = 10 POINTS
+STRAIGHT KICK           = 15 POINTS
+UP KICK TO SIDE OF HEAD = 20 POINTS
+UP KICK TO FACE         = 25 POINTS
+KNOCKDOWN               = 60 POINTS
+
+6. Knockdowns occur only when you deliver a perfect up kick to your opponent's
+head.  To deliver a knockdown blow, you must be in exactly the right position
+to strike your opponent with maximum force.
+
+7. Advanced Belts: The fighter with the most points at the end of each 2-minute
+match earns the next higher belt.  A fighter also earns the next higher belt
+when he/she scores 900 points.
+
+8. Training Technique: If you want to practice your punching and kicking
+techniques before facing a serious fighter, use SELECT to set Karate for 2
+players but operate only your own Joystick.  This gives you an opponent
+who does not kick or punch.
+
+   Want to be the first to know when our next new Froggo video game becomes
+available?  Just send us a card with your name and mailing address, so we
+can put you on our Special Customer Mailing List.  Also, watch for new
+Froggo video games wherever you buy game cartridges.
+
+FROGGO GAMES CORPORATION
+2685 Marine Way, Bldg. 1219
+Mountain View, CA  94043
+
+ATARI(R) and Video Computer System(TM) are trademarks of ATARI, INC.
+
+FG1001 (C)Froggo Games Corp. Printed in U.S.A.
+
+
+

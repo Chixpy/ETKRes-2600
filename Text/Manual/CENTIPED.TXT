@@ -1,0 +1,153 @@
+                            CENTIPEDE
+
+1. The Enchanted Forest
+  Once upon a time in a misty, enchanted forest, there lived a colony of
+good elves.  These elves had a major problem, though.  There prized
+mushroom garden was infested with pests--a giant Centipede, a
+posoin-spreading scorpion, a mischief-making spider, and a pesky flea. 
+The good elves tried everything they could to rid their garden of these
+bugs.  But nothing worked.
+  One day, an elf named Oliver was hacking away at a poisoned mushroom in
+the garden.  Suddenly, he saw an unusual stick gleaming in the dirt.  Just
+as Oliver picked up the stick, a spider jumped out from behind a mushroom
+and rushed at him.  When Oliver waved his hands wildly to try to scare the
+spider away, sparks flew from his stick and the spider disappeared!
+  "How did that happen?" Oliver wondered out load.  "Could this be a magic
+wand?"
+  Soon Oliver had another chance to try the wand.  When the scorpion
+scurried across a row of mushroom, poisoning every mushroom it touched,
+Oliver pointed the wand at the scorpion and shouted, "Be gone!"
+  Instantly, the scorpion disappeared and the poisoned mushrooms were
+transformed back into normal mushrooms.
+  "This is great!  This is the tool we need to clean up our mushroom
+garden!" Oliver shouted ecstatically.
+  With his new found magic wand, Oliver hid behind a mushroom.
+  "OK, you great big Centipede," he said.  "Come out whever you are.  I'm
+ready for you now!"
+
+2. Game Play
+  You start the game with three magic wands.  Every time you score 10,000
+points, you win a bonus wand.  You can have a total of 7 magic wands at
+one time.  Any wands won after that are not held in reserve.  When you
+lose your last magic wand, the game ends.
+  If the Centipede, spider, or flea bites you, your wand is snatched away
+and you become temporarily paralyzed.  The game will stop momentarily and
+all the mushrooms are counted for bonus points.  Your points are added to
+your running score, and the rejuvenated Centipede attacks again from the
+top.  You must replay the previous wave until the Centipede is totally
+destroyed.
+  Objective: Use your magic wands to score as many points as possible (see
+Section 5 for information on scoring).  Use strategy and quick thinking to
+avoid the paralyzing insect bites.  The Enchanted Forest is a challenging,
+but danderous region.  By learning about the dangers that lurk behind
+every mushroom, you can become a skilled and heroic wand wielder.
+  Inhabitants of the Enchanted Forest:
+  Centipede:  Consisting of nine body segments, the Centipede attacks from
+the top of the screen and winds down toward you.  Each time you hit a
+segment, it becomes a powerless mushroom and the body segment behind that
+mushroom becomes the head of a new Centipede.  When you shoot every
+segment of a Centipede, the Centipede disappears breifly, then reappears
+at the top in a new and fiercer attack formation.
+  The Centipede attacks in 8 distinct waves.  In Wave 1, the Centipede is
+composed of a head attached to 8 body parts.  In Wave 2, it has a head
+attacked to 7 body parts, plus a detached head.  The Wave 3 Centipede is
+composed of 6 body segments with 1 head attached and 2 detached heads. 
+The Centipede continues to transform a body segment into a head until Wave
+8, at which time it has 9 independently moving heads.
+  You must eliminate the Wave 1 centipede only once.  Then, until you
+score passes 40,000 points, you must destroy each subsequent Centipede
+wave twice--first as the Centipede moves slowly towards you, then as it
+moves fast.  After you score over 40,000 points, each Centipede will only
+need to be destroyed once.
+  Mushrooms:  Dotting the forest floor are mushrooms.  The Centipede
+slides along horizontally in one direction.  When it touches a mushroom or
+the edge of the screen, it drops down to the next row of mushrooms and
+reverses direction.  It takes 3 consecutive hits to eliminate an entire
+mushroom.
+  Spider:  In its attempt to distract you from shooting the Centipede, the
+spider jumps all over the battlefield, eliminating some of the mushrooms
+it touches.  You score 300, 600, or 900 points when you zap the spider. 
+The closer the spider is to your wand, the greater the score.  When you hit
+it, the spider's score lights up on the screen.
+  Flea:  The flea start bugging you after you shoot away most of the
+mushrooms near you.  It drops straight down, creating mushrooms as it
+falls.  You must hit the flea twice to make it disappear.  Warning:  After
+the first shot, the flea drops twice as fast!
+  Scorpion:  Sometime after you clear 3 Centipede screens, the scorpion
+screens, the scorpion will scurry across the battlefield, poisoning every
+mushroom it touches.  But, if you zap the scorpion before it runs across
+an entire row of mushrooms, the spell of poison is broken and the
+mushrooms remain normal.
+  Poisoned Mushrooms:  Poisoned mushrooms are created by the scorpion. 
+These are a deadly white color.  When the Centipede bumps into a poisoned
+mushroom, it goes wild and plunges straight through the field of mushrooms
+toward you.  As with normal mushrooms, you must hit a poisoned mushroom 3
+times in succession to destroy it.  Each time you lose a wand, poisoned
+mushrooms transform back into normal mushrooms.
+
+3. Using the Controller
+  Use your Joystick Controller with this ATARI Game Program cartridge. 
+For this 1-player game, plug the controller cable firmly into the LEFT
+CONTROLLER jack at the back of your 2600 Video Computer System console. 
+Hold the controller with the red button to your upper left, toward the
+television screen.  (See your Owner's Manual for further details.)
+  Controller Action:  Move your Joystick in the same direction you want to
+move your magic wand.  You can move about one-quarter of the way up the
+screen as well as to the left and right edges of the screen.
+  To shoot sparks, press the red fire button.  You can fire sparks as long
+as you press the fire button, your supply is unlimited.
+
+4. Console Controls
+  Game Select Switch:  Use the GAME SELECT switch to choose the game you
+want to play.  If you press and hold this switch down, you will
+automatically cycle through the 2 CENTIPEDE game variations, EASY PLAY and
+STANDARD PLAY.  A teddy bear figure appears at the bottom right side of
+the screen to denote EASY PLAY.  For STANDARD PLAY, there is no teddy bear.
+  Game Reset:  Press GAME RESET to start the attack.  Each time GAME RESET
+is pressed, the game starts over.
+  TV Type Switch:  Set this to COLOR is you're playing on a color
+telivision set.  Set it to B-W to play the game in black and white.
+  Difficulty Switches:  DIFFICULTY switches are not used in this game.
+
+5.  Scoring
+  In the standard CENTIPEDE game, you can score a total of 999,999 points
+before the score rolls back to zero.  In the easy game variation, you can
+score a total of 99,999 points.
+
+Centipede Body Segment                              10 points
+Centipede Head                                     100
+Spider (distant range)                             300
+Spider (medium range)                              600
+Spider (close range--look out!)                    900
+Flea                                               200
+Scorpion                                          1000
+Mushroom (totally eliminated)                        1
+Mushroom (wounded or intact at end of turn)          5 for every 2
+Poisoned Mushroom (totally eliminated)               1
+Poisoned Mushroom (wounded or intact at end of turn) 5 for every 2
+Bonus Wand                                Every 10,000
+
+6. Game Variations
+  CENTIPEDE offers 2 game variations: EASY PLAY for beginners and
+children, and STANDARD PLAY for skilled players.
+  In EASY games, you do not lose a magic wand when the flea or spider
+touches you, and the Centipede always starts the attack in a single
+formation, never with detached heads.
+
+7. Helpful Hints
+* Shoot away mushrooms in a straight line up the screen to create a
+  "corridor."  When the Centipede reaches this "gap," it will fall straight
+  down the battlefield and can be easilty picked off.
+* Since the flea doesn't appear until you have eliminated most of the
+  mushrooms near you, you can set up a shield to prevent this lightening-
+  fast pest from striking.  Simply leave at least 5 mushrooms on the lower
+  third of the screen.  After you score 120,000 points, you'll need to leave
+  10 mushrooms.
+* Shoot Centipede heads to create new heads out of the body segments left
+  behind.  Since heads are worth 10 times the point value of body
+  segments, you'll score lots of points.
+* Each creature makes a distinct sound.  By becoming familiar with these
+  sounds, you will know without looking, what is attacking and where it
+  is on the screen.
+
+-------------------Atari 2600 Instructions Archive-------------------

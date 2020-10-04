@@ -1,0 +1,226 @@
+This is a three panel (6 page) fold out manual
+
+{COVER}
+FANTASTIC VOYAGE
+20th Century Fox
+Games of the Century
+(Picture of human eye with three people in "space" suits falling thru the 
+air)
+Game Instructions
+Fox Video Games
+
+{Page 1}
+FANTASTIC VOYAGE tm
+
+TO SET UP:
+Set up your video game system and left joystick controller as instructed 
+in your manufacturer owner's manual.  Turn the power OFF and insert the 
+Fantastic Voyage game cartridge.
+
+[screen shot showing game.  See end of manual for my rendition of the 
+characters in ASCII format.]
+
+TO BEGIN
+Turn the power ON.  Use the Game Select lever to select a play option.  
+(The difficulty switches are not used in Fantastic Voyage.)  Press the 
+Game Reset lever or the joystick button to leave the Demo Mode and 
+compose yourself.  You are about to become very tiny.
+
+THE OBJECTIVE:
+You and your submarine are to be injected into the bloodstream of a 
+critically ill patient.  Your mission is to blast your way through 
+several phases of artery obstacles and destroy a life threatening Blood Clot.
+
+THE CONTROLS
+Once inside the patient's bloodstream, your sub will be carried along in 
+a steady forward motion.  Tilt the joystick forward to increase your 
+speed or backward to slow down or back up slightly.  Your sub is equipped 
+with medical technology's finest laser ray.  Press the joystick button to 
+activate it.  Hold the button down for continuous fire. You may pause the 
+game at any time during the play by flipping the Color/B-W switch.
+
+PLAY OPTIONS
+There are six play options which can be selected at any time by pressing 
+the Game Select lever.
+
+{Page 2}
+
+OPTION 1 = Normal Game
+OPTION 2 = Extended Normal Game
+OPTION 3 = Difficult Version For Advanced Players
+OPTION 4 = Extended Difficult Version
+OPTION 5 = Easy Game for Beginners
+OPTION 6 = Extended Easy Game
+
+In the extended option, the first five phases of your voyage are longer.  
+In the dificult options, you will face more obstacles on your journey to 
+the Blood Clot.  In the easy options, collisions cause less damage to the 
+patient and there is no time penalty.  Each time you destroy a Blood 
+Clot, you are given the chance to save another patient in that same play 
+option.  
+
+SCREEN DISPLAY/SCORING
+While in the Demo Mode, the play option is shown at the top of the 
+screen.  The score is displayed there while the game is in play.  A Time 
+Clock is located in the bottom left corner of the screen.  A Heart 
+Monitor is located in the bottom center and a Patients Saved tally is in 
+the bottom right corner.
+
+The Heart Monitor is a graphic display of the patients condition.  
+Patients begin each game with a strong, steady heartbeat.  EACH TIME YOUR 
+SUB CRASHES INTO ANY OBJECT, THE PATIENT LOSES STRENGTH. (The 
+Phases/Obstacles section describes additional qualitites of each 
+object.)  Every time the slower hand of the TIme Clock completes a cycle, 
+the patient also loses strength.  A flat heart rate means that you have 
+lost the patient and the game is over.
+[screen shot showing game.  See end of manual for my rendition of the 
+characters in ASCII format]
+
+Points are awarded for shooting obstacles and bonus points are gained for 
+completeing each phase.  The stornger the patient's heartbeat upon 
+completion, the higher the bonus.  Be sure to record your high scores on 
+the back of this booklet.
+
+{Page 3}
+PHASES/OBSTACLES:
+No matter which play option you choose, you will have to travel through 
+several phases to reach your goal, the dreaded Blood Clot.  When 
+operating on your first patient you must battle your way through phases 
+1,2,5 and 6.  Phase 3 is added on to your second journey to the Blood 
+Clot in that same play option.  From your third voyage on, you must 
+navigate all six phases.
+[screen shot]
+
+ENZYMES: You should attempt to shoot any Enzyme you see in order to 
+release its healing properties.  Blasting Enzymes is the only way you can 
+restore lost strength to the patient.  Allowing one to pass you by has no 
+adverse effects.  Enzymes are present in phases 1 through 5.
+
+ANTIBODIES: These are released when your sub touches the artery wall.  
+Destroy as many as possible for those allowed to pass by will steal 
+strength from your patient.  Antibodies are present in phases 1 through 5.
+
+PHASE 1: DEFENSE CELLS from the patient's primary immune system are 
+released from the artery walls as you approach.  You may blast these with 
+your laser for points, although the patient is not harmed if they pass by.
+
+PHASE 2: The plentiful supply of BLOOD CELLS in phase 2 is beneficial to 
+the patients health.  Try not to shoot or touch them as their destruction 
+will have a negative effect on his condition.
+
+PHASE 3: BACTERIA are an unhealthy addition to the patient's 
+bloodstream.  Any allowed to remain there will decrease your patient's 
+chance for survival.  You must shoot the deadly Bacteria three times to 
+totally eliminate them.  A partially damaged Bacteria allowed to remain 
+in the system will cause less damage to the patient than a whole Bacteria.
+
+PHASE 4: Defense Cells, Blood Cells, and Bacteria are all present in this 
+very challenging phase.
+
+PHASE 5: As you near your goal, you will find that the artery begins to 
+narrow.  You must try to navigate throught Phase 5 without touching the 
+artery wall.
+
+{page 4}
+
+PHASE 6: Small CLOTLETS as well as your final target, the BLOOD CLOT, 
+await you in phase 6.  You must steer carefully through the 
+indestructable Clotlets to reach the Blood Clot.  Be careful! Running 
+into the Clot is fatal to both you and the patient.  FIFTEEN laser blasts 
+are required to destroy it.  All fifteen shots must be fired before the 
+Heart Monitor goes flat.  Then, if your up to it, you can continue with 
+the next patient.
+
+HINTS FROM THE DESIGNER...
+Avoid the walls.  Not only are the Antibodies dangerous, they also cut 
+down the chance that an Enzyme will appear.
+
+Get close to the Bacteria and the Blood Clot.  This allows your laser to 
+shoot faster.  Try to hit each Bacterium at least once, but don't waste 
+too much time on them.  Time is your biggest enemy.
+
+Be ready for each new phase, since each requires a different strategy.
+
+Watch the Heart Monitor.  If it begins to go flat, you'll want to speed 
+ahead instead of shooting for more points.
+
+HOT SHOTS
+[this is an area to record high scores]
+
+{page 5}
+
+NOW AVAILABLE FROM FOX VIDEO GAMES:
+
+DEADLY DUCK - A Fiesty Fight Between Cranky Crabs and A Fearless Duck!
+
+FAST EDDIE - Fast action fun that'll keep the whole fanily hopping!
+
+WORM WAR I - Save the world from hoards of huge and hideous worms!
+
+BEANY BOPPER - Stop the meany beanies before they stop your bopper!
+
+ALIEN - In your living room, everyone can hear you screem!
+	A 20th Century Fox Film Corporation Production
+
+MEGAFORCE - Where action speads louder than words!
+	A Raymond Chow Production
+
+TURMOIL - A topsy-turvy rapid reflex test!
+
+COMING ATTRACTIONS:
+
+MASH - More fun than a three day pass!
+	A 20th Century Fox Film Corporation Production
+
+9 TO 5 - Take this game and play it!
+	A 20th Century Fox Film Corporation Production
+
+PORKY'S - Faster than a greased pig!
+	A Mel Simon Production
+
+THE ENTITY - What you can't see CAN hurt you!
+	An American Cinema Production
+
+THE FALL GUY - Head over heels in good times!
+	A 20th Century Fox Film Corporation Production
+
+
+Programmed by David Lubar
+
+Program and Audio c1982 Sirius Software, Inc.
+Packaging c1982 Fox Video Games, Inc.
+
+Sirius is a Trademark of Sirius Software, Inc.
+
+Fox Video Games, Inc., Saratoga, California 95071
+printed in Tiawan
+
+**********
+My ASCII renditions of the characters in this game
+
+Submarine        Antibody        Enzyme          
+    |                            ___________
+  |||||             +            \____/  |  |
+ |  |  |
+
+
+Defense Cells     Bacteria        Clotlets
+\___|__|_           \()/            
+/___|__|_ >         /  \             8
+/                   \__/  
+
+
+Clotlets         Blood Clot
+    ###          ##############
+  ###             ###########
+###             #################
+                   ###############
+                            #####
+                         ####
+                       ##
+
+==============================================================================
+This manual typed by Cyborg      E-mail : unna0001@gold.tc.umn.edu
+==============================================================================
+
+

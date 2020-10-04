@@ -1,0 +1,142 @@
+U.S. Games
+VC2005
+
+PIECE O' CAKE
+
+U.S. Games Corporation
+A Subsidiary of The Quaker Oats Company
+1515 Wyatt Drive
+Santa Clara, California 95054
+
+-----------------------------------------------------------------------
+
+Piece O' Cake
+
+  Piece O' Cake is a single player, full color game designed to be played 
+on the Atari Video Computer System or the Sears Video Arcade.
+  Piece Of Cake?--no way!!  So you thought your first day on the job was 
+going to be easy?  Well, you not only have to learn the fine art of 
+baking cakes, but you also have to master it in a big hurry.  This is a 
+production operation, and business is booming!  It's actually a very 
+simple job--at first.  You simply take a freshly baked cake from the oven 
+and drop it on a platter which is moving on a conveyor belt.  Top that 
+with a cherry, and you will be rewarded for your artistic endeavors.  You 
+must stack them correctly however, or--splat!!  As your skill progresses, 
+so does the conveyor speed, so keep cool, and try not to earn the dubious 
+title of "butterfingers."  Being a top notch bakery chef requires 
+adeptness and a calm temperament, so if you can't stand the heat, get out 
+of the kitchen!
+
+(screen shot labeling the Oven, Baker, Cherries, Cake, Conveyor Belt, and 
+Cake Platter)
+
+
+SET-UP INSTRUCTIONS:
+
+1.  Connect the Atari Video Computer System or Sears Video Arcade 
+    following the manufacturer's instructions.
+
+2.  Install the left paddle controller.
+
+3.  Insert the cartridge--making certain that the power is OFF.
+
+4.  Move the POWER switch to ON.
+
+5.  Select the game of your choice.
+
+6.  Press the red fire button on the paddle controller to start the game.
+
+7.  Push RESET switch at any time to start a new game.  
+
+8.  After the game is over, a new game may be started by pressing the red 
+    fire button on the paddle controller.
+
+9.  Difficulty switches:
+      Position A = Additional speed increases as player skill increases.
+      Position B = Normal speed increases as player succeeds in 
+                   completing cakes.
+
+
+CONTROLS:  
+
+- Use the paddle controller, rotating paddle left or right to move the baker.
+
+- Move the baker to the extreme left to automatically pick up a cake from 
+  the oven.
+
+- Push the red "fire" button to drop a cake.
+
+- Move the baker to the extreme right to recycle a cake, and return to 
+  the oven for another piece to drop.
+
+- Move the baker to the cherry platter (right side of screen), and 
+  depress the fire button to pick up a cherry.  Depress the fire button 
+  again to release the cherry.
+
+
+GAME VARIATIONS:
+
+The seven game variations can be chosen with the game select switch.  The 
+higher the game number, the faster the game play, and the higher the 
+bonuses.  In each game variation, the speed of play increases as the 
+player demonstrates his ability to get completed platters across the 
+conveyor belt chute.
+
+
+SCORING:
+
+Dropping a cake layer on the moving platter, or on top of another cake 
+layer, scores 10 points.  
+
+  Each successfully completed cake that crosses the chute scores 100 
+points, or more, depending on the game level played.  A successfully 
+completed cake consists of stacking any number of layers in order of size 
+starting from the bottom (largest) to the top (smaller).  The cake must 
+then be completed with a cherry on top.  Even a cherry alone on a platter 
+is considered complete.  However, a correctly stacked cake with no cherry 
+will be rejected.  A perfect cake, which consists of three correctly 
+stacked layers with a cherry on top, earns the player bonus points 
+depending on the game level played.
+  The following is an example of how bonuses are awarded:
+
+Game 1
+_____________________________________________________________________
+    Cakes Completed          Correct Cake          Perfect Cake 
+_____________________________________________________________________    
+       First 2                    100                   200
+       Next 3                     500                  1000
+       Next 3                    2000                  4000
+       Next 3                    3000                  6000   
+       Next 3                    4000                  8000  
+
+The higher the game number, the more bonus points awarded at each step of 
+the game.
+
+NOTE: The three horizontal lines appearing just below the score, at the 
+beginning of the game, indicate your baking merits.  These allow you to 
+make some mistakes during play.  If you incorrectly stack a cake, or 
+don't complete it, you will lose a merit.  When you lose all three 
+merits, the game is over.
+
+
+PLAYING HINTS:
+
+- Early in the game try to stack perfect cakes (three successive layers 
+  topped with a cherry).  You have more time since the conveyor is moving 
+  slowly, and a perfect cake gives you maximum points.
+
+- As the game progresses and speed increases, you have to be less 
+  concerned about perfect cakes and more concerned about completing a 
+  platter.  At all costs, place a cherry on each--even if you have no 
+  cake layers.  Otherwise, splat! crash!
+
+- If you get too anxious in the heat of the game and "mess up," you lose 
+  your chef's license, and it's back to cleaning floors.
+
+
+Look for more U.S. Games video games wherever you buy game cartridges.  
+Drop us a note and we'll be glad to add your name to our mailing list and 
+keep you posted on new game cartridges when they become available.
+
+-----------------------------------------------------------------------
+

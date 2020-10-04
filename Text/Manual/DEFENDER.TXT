@@ -1,0 +1,672 @@
+1. ENGLISH SECTION                              20 VIDEO GAMES
+
+DEFENDER*
+
+*Trademark of Williams Electronics, Inc.
+
+ATARI (R)
+
+A Warner Communications Company                         CX2609
+
+                        SPECIAL FEATURE
+
+This Game Program TM contains additional versions for your
+children.
+
+ATTENTION: ATARI (R) DEFENDER 
+Game Program TM Cartridge Owners:
+
+ATARI DEFENDER is very similar to the Williams coin-operated
+DEFENDER game. However, you will find some differences in the
+game play as well as in the graphic images and game controls.
+For example, in the coin-operated DEFENDER game, two or more
+Alien Landers can kidnap Humanoids simultaneously, whereas in
+the ATARI version, Landers can abduct only one Humanoid at a
+time. In the coin-operated game, you can accidentally kill a
+Humanoid with your own missile fire while attempting a rescue,
+and even lose a life in Hyperspace. Such tragedies cannot
+happen in ATARI DEFENDER. ATARI Humanoids are invulnerable to
+missile fire, and Universal Space Ship Defender will always
+emerge from Hyperspace intact.
+
+Scoring is the same in the ATARI and coin-operated DEFENDER
+games, with one exception: ATARI gives you 500 points instead
+of 150 points for blasting a cluster of Alien Swarmers with
+your laser missiles. 
+
+The game differences are mostly minor and technical. We feel
+sure that they will not detract from the fun you will have
+with this exciting and popular ATARI game.
+
+    *DEFENDER is a Trademark of Williams Electronics. Inc.
+
+                        SPECIAL FEATURE
+ This Game Program TM contains additional versions for young 
+children.
+
+NOTE: Always turn the console POWER switch OFF when inserting
+or removing an ATARI (R) Game Program TM cartridge. This will
+protect the electronic components and prolong the life of your
+ATARI Video Computer System TM game.
+
+
+
+RESCUE THE HUMANOIDS
+
+Earth's "friendship" signals, beamed into deep space and
+beyond the Milky Way, have attracted extraterrestrial beings,
+all right, but not the ones we expected. Now wave after wave
+of warlike Aliens from some unidentified solar system "home
+in" and attack. In the cockpit of Universal Space Ship
+Defender, you wait tensely, watching your scanner for
+approaching aliens. There they are! First comes a lone Bomber,
+laying space mines. You pick that off with your laser 
+missiles with no trouble. But an innocent-looking Pod ship
+explodes when you hit it, releasing clusters of missile-
+splitting Swarmers. Whew! That was close! Now what? Your
+Scanner shows a convoy of saucer-shaped Baiters coming fast
+and escorting a squadron of Landers. Space Intelligence has
+informed you that the Landers' diabolical mission is to kidnap
+Earth's Humanoids and transform them into hideous flying
+Mutants programmed to destroy the cities and take over the
+Earth.
+
+In the city below, Humanoids run helter-skelter through the
+streets like frightened ants. Some cower in doorways, hoping,
+no doubt, that the Landers will overlook them. No chance!
+Look! See that terrified Humanoid wriggling helplessly in the
+force of the Lander beam? No time to lose! Thrust out and
+blast that Lander with your laser missiles. There! That got
+him. Now dive down and catch the Humanoid. Hurry! Hurry! He's
+falling fast!
+
+GAME PLAY
+
+[Figure 1 - DEFENDER Game Elements]
+
+As Commander of Universal Space Ship Defender, you have been
+assigned by Earth Security to rid Planet Earth of the Aliens
+and rescue Humanoids from the Landers. You score points for
+each Alien space ship you destroy with your laser bombs and
+smart bombs and for each Humanoid you save. (see SCORING.) In
+one-player games, your object is to top your highest score. In
+two-player games, the player with the highest score wins the
+game. A game ends when the Aliens finally destroy Defender and
+conquer Earth.
+
+LIVES AND SMART BOMBS
+
+You begin a game with three Defender lives and three smart
+bombs. The number of lives remaining in a game is displayed at
+the bottom left of the television screen, and the number of
+smart bombs remaining is shown at the bottom right (see Figure
+1). For a discussion of how to use smart bombs, see YOUR
+DEFENSE in this section.
+
+Each time Defender collides with an Alien missile or mine, it
+disintegrates with a "whoosh" and vanishes. If it's Defender's
+last life, the game is over. If a life remains, Defender
+rematerialises in its starting position on the left side of
+the television screen and the game continues.
+
+Every 10,000 points, Defender acquires a bonus life and smart
+bomb. You can earn any number of bonus lives and bombs, but
+the computer only displays three at a time. The computer gives
+you an audible signal when you earn another life and smart
+bomb.
+ALIEN ATTACK WAVES
+
+The first wave of Aliens attack when you press the red button
+on your Joystick Controller (or the GAME RESET switch on your
+game console) to start the action. Be ready with your Joystick
+Controller to blast Aliens as soon as you hear the air raid
+alarm. See USING THE CONTROLLERS for Joystick maneuvers.
+
+Here is a briefing on Alien characteristics:
+
+                                                 ##
+                                            ###  ##  ###
+                                            ### #### ###
+    [[[[[                                      ######
+  [[[[[   ###                                 ########
+[[[[[[[ ########                        ####################
+    [[[ ###########                     ####################
+    [[[ ###############                       ########
+[[[[[[[ ####################                   ######
+  [[[[[    ##########                       ### #### ###
+    [[[[[                                   ###  ##  ###
+                                                 ##
+
+        Defender                              Pod
+
+
+                                              #
+                                             ###        #
+  ####################                      #####      ###
+######            ######                     ###      #####
+######            ######                      #        ###
+  ####################                                  #
+                                              #
+        Baiter                               ###
+                                            #####        #
+                                             ###        ###
+                                              #        #####
+  ####################                                  ###
+  ####################                                   #
+  #######      #######
+  #######      #######                        Swarmers
+  #######      #######
+  ####################
+  ####################
+
+        Bomber                           ####           ####
+                                             ###########
+                                             ###########
+          #####                              ###########
+         #######                                #####
+        #########                            ###########
+         #######                             ##       ##
+          #####                              ###########
+       ###     ###                      #####           ######
+    #################
+##########################
+
+        Lander                                Mutant
+[Figure 2 - Alien Attack Wave]
+
+Bombers lay mines to trap you. Baiters are fast pursuit ships
+that home in and shoot at you. Pods explode when hit and
+release Swarmers, fast little ships that travel in clusters of
+four and fire missiles. Landers also fire missiles as they
+search the city for Humanoids to kidnap and mutate. Mutants
+move in fast for the kill, shooting as they come.
+
+When Defender has destroyed all the Aliens in the first wave,
+another wave of Aliens - faster and tougher than the first
+ones - moves in. The longer Defender survives, the harder the
+waves of Aliens become.
+
+END OF A WAVE
+
+A wave does not end until Defender has destroyed all the
+Aliens in it. When that happens, the number of the wave
+completed flashes in the centre of the television screen, as
+shown in Figure 3.
+
+[Figure 3 - End of a Wave]
+
+YOUR DEFENSE
+
+Defender uses conventional laser missiles and smart bombs to
+blast enemy Aliens and can employ its secret weapon;
+Hyperspace Time Warp, to stage a "strategic retreat."
+
+Laser Missiles
+
+Laser missiles are Defender's first line of defense.
+Fortunately, they are unlimited. To deploy missiles, point
+Defender at the target and press the red controller button.
+(See USING THE CONTROLLERS for details.)
+
+Smart Bombs
+
+Smart bombs are an effective means of mass destruction. One
+detonation takes care of every Alien on the television screen
+in front of you, and you earn points for each Alien destroyed.
+To detonate a smart bomb, move Defender down behind the city
+and press the red controller button.
+
+Use smart bombs sparingly and strategically. It's a good idea
+to keep one in reserve in case you get fenced in by Aliens or
+need a push across a 10,000 point boundary to win another life
+and smart bomb. Under HELPFUL HINTS you will find other
+suggestions for deploying smart bombs.
+
+Hyperspace Time Warp
+
+This Ultra Secret device enable Defender to disappear, warp
+through time and space, and instantly reappear in another
+space quadrant. It's an effective maneuver when Defender needs
+to stage a "strategic withdrawal," or get away fast. A word of
+caution, however. Your new position is selected by the
+computer at random,and there is no guarantee that it will be
+better than the old one.
+
+To enter Hyperspace, push the Joystick Controller fully
+forward (away from you) and hold it in that position until
+Defender has moved to the top of the television screen and
+disappeared behind the Scanner. Then press the red controller
+button on your Joystick. As Defender warps through time and
+space, Aliens disappear. When Defender reappears, the Aliens
+also reappear.
+
+USING THE SCANNER
+
+Get into the habit of using the Scanner to fight Aliens and
+rescue Humanoids. The Scanner gives you the following vital
+information:
+
+*    How many Aliens are approaching, what kind of Aliens they
+     are, and what their positions are.
+
+*    Which Humanoid is being abducted by a Lander.
+
+*    How many Humanoids remain to be defended and where they
+     are.
+
+[Figure 4 - Using the Scanner]
+
+The Scanner is similar to a radar screen. Every "blip" on it
+reflects an object in the game. In Figure 4, the rectangular
+blip is Defender. The four small stationary blips at the
+bottom of the Scanner are Humanoids. A fifth Humanoid is being
+kidnapped by a Lander and carried toward the top of the
+television screen. The remaining blips are Aliens.
+
+Aliens can "wrap" around the television screen horizontally
+and vertically. For example, an Alien traveling across the
+screen right to left can leave the screen at the left side and
+reenter at the right; one traveling from bottom to top can
+leave the screen at the top and reenter at the bottom.
+
+The blips are colored to help you distinguish between blue
+Baiters and Bombers, orange Landers and Pods, or red Mutants.
+The positions of the blips on the Scanner give you the
+approximate altitude, range, and position of the Aliens. Fore-
+armed with this information, you can maneuver Defender into
+position to blast Aliens with missiles or smart bombs as soon
+as they appear.
+
+RESCUING HUMANOIDS
+
+While destroying Aliens is very important, your chief
+obligation is to rescue the Humanoids from the Landers. At the
+end of a wave, you score 100 bonus points for every Humanoid
+survivor.
+
+The five Humanoids are cowering near the buildings at the
+bottom of the television screen (see Figure 4). You can't see
+all five at one time, but if you push the Joystick Controller
+to the right or left and take a slow flight over the city, you
+will see them all.
+
+Defender is the Humanoids' only defense against the Landers.
+Use the Scanner to locate them and patrol their positions.
+When a Humanoid is kidnapped and you hear his plaintive cry
+for help (like the chatter of an excited chipmunk), go to his
+rescue immediately. Nine times out of ten, however, he won't
+be on the television screen in front of you and you will have
+to locate him. If you fly over the city searching for him, you
+may arrive too late to save him. Use the Scanner.
+
+The Scanner is the fastest way to spot a kidnapping. Look for
+the Humanoid that is being lifted up toward the top of the
+Scanner (see Figure 4). Keep monitoring the Humanoid's
+position on the scanner as you fly to his rescue, and adjust
+Defender's position accordingly. With practice, you will
+arrive in time to blast the Lander and save the Humanoid even
+during the fastest waves.
+
+HOW TO SAVE A HUMANOID
+
+Figure 5 illustrates two ways to save a humanoid:
+
+*    Destroy the Lander and let the Humanoid free-fall safely
+     to earth.
+
+*    Destroy the Lander, catch the Humanoid, and carry him
+     back to earth.
+
+[Figure 5 - Two Ways to Save a Humanoid]
+
+The free-fall rescue is only effective if the Humanoid is
+close enough to the earth to land safely. You'll have to do a
+little experimenting to find out how close that is. If the
+Humanoid lands safely, the computer plays a short happy tune
+and adds 250 bonus points to your score (in addition to the
+150 points you earn for destroying the Lander). If the
+Humanoid does not land safely, the computer emits a little
+"crash" or "crunch" sound and that's all. Needless to say, no
+bonus points are added to your score when a Humanoid crash-
+lands.
+
+NOTE: Don't worry about the Humanoid getting hit, either by an
+Alien missile or your own missile, during an attempted rescue
+or free-fall. Atari Humanoids are not vulnerable to missiles
+and bombs, only to heights.
+
+Catching a Humanoid in midair and bringing him back alive is
+much more difficult than the free-fall rescue and earns more
+bonus points. To catch a Humanoid, maneuver Defender into
+contact with him, as shown in figure 5. If you succeed in
+catching the Humanoid and bringing him back to Earth, you earn
+1000 bonus points. If you manage to catch him but do not
+return him safely to Earth, you earn 500 points.
+
+There are times when you may want to catch a Humanoid and hold
+on to him instead of returning him to Earth. As long as you
+hold a Humanoid, Alien Landers cannot abduct any other
+Humanoids during the wave. At the end of the wave, the
+Humanoid counts as a survivor and earns you 100 bonus points.
+However, you are not allowed to carry him into the next wave;
+the computer automatically returns him to the city. See
+HELPFUL HINTS for some applications of this Humanoid
+capability.
+
+NOTE: A Humanoid cannot get hit while Defender is carrying him
+around, since he in invulnerable to missiles.
+
+Self-Sacrifice
+
+There is a third way to save a Humanoid. Defender can
+sacrifice a life for him by colliding with the Lander
+abductor. While this is very noble, it is not very practical
+unless Defender has lives to spare. Defender's self-sacrifice
+does not earn you any bonus points; only 150 points for
+destroying the Lander.
+
+MUTANT TAKEOVER
+
+If the Defender does not succeed in rescuing a Humanoid, the
+Lander that abducted him carries him up into space, transforms
+him into a Mutant, and programs him to return and attack
+Earth.
+
+When all five Humanoids have been destroyed, whether by
+mutating or falling, the city blows up and disappears, and
+Mutant populations take over the Earth. The game continues
+with the Mutants until they destroy Defender or revert to
+Humanoids in Wave 5 or a multiple of Wave 5.
+
+NOTE: Game action is the same after a Mutant takeover. To
+detonate a smart bomb, move Defender down behind the blasted
+plain where the city once stood and press the red controller
+button.
+
+THE FIFTH WAVE
+
+The Mutant takeover is only good for four waves. Every fifth
+wave, the Mutants revert to Humanoids and any cities destroyed
+are rebuilt. Unfortunately, the rebirth of the Earth attracts
+more Aliens and the struggle for survival begins again. That's
+life.
+
+
+USING THE CONTROLLERS
+
+Use your Joystick Controllers with this ATARI (R) Game Program
+TM cartridge. Be sure the controller cables are firmly plugged
+into the CONTROLLER jacks at the back of your ATARI Video
+Computer System TM game. For one-player games, use the
+Joystick Controller plugged into the LEFT CONTROLLER jack.
+Hold the Joystick with the red button to your upper left,
+toward the television screen. See your owner's manual for
+further details.
+
+DEFENDER MOVES
+Defender moves in the direction you move the Joystick
+Controller (see Figure 6). To move toward the right, push the
+Joystick Controller right; to reverse direction and move left,
+push the Joystick left; and to move Defender diagonally, push
+the Joystick diagonally. Push the Joystick forward to move
+Defender up toward the top of the television screen; pull back
+on the Joystick to move Defender down.
+
+
+            MOVE UP
+               ^
+            \  |  /
+              \|/
+MOVE LEFT <---------> MOVE RIGHT
+              /|\
+ MOVE       /  |  \
+DIAGONALLY     v 
+           MOVE DOWN     
+
+
+Figure 6 - Joystick Moves
+
+FIRE BUTTON
+
+The red controller button on your Joystick Controller is the
+fire button. Press it to fire laser missiles, detonate smart
+bombs, and enter Hyperspace. See GAME PLAY for information on
+smart bombs and Hyperspace Time Warp.
+
+TWO-PLAYER GAME CONTROL
+
+In two-player games, players take turns controlling Defender,
+starting with the player using the left Joystick Controller.
+At the end of a wave, control of Defender passes to the player
+using the right Joystick. When one player loses his last
+Defender life, the play continues with the remaining player.
+When both players are out of Defender lives, the game ends.
+Press the red controller button to play the same game again.
+
+
+CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+Find the number of the game you want to play in the GAME
+SELECT MATRIX. Press the GAME SELECT switch until the number
+appears in the game window at the bottom of the television
+screen (see Figure 7). The number on the left is the game
+number; the number on the right indicates the number of
+players.
+
+NOTE: Press and continue to hold down the GAME SELECT switch
+to cycle through the game numbers.
+
+[Figure 7 - Game Selection]
+
+GAME RESET SWITCH
+
+When you have selected your game, start the action by pressing
+the GAME RESET switch or the red button on your Joystick
+Controller. Note that the score counter appears in the game
+window at the bottom of the television screen (see Figure 8).
+
+To interrupt a game and start over with zero score, use the
+GAME RESET switch. The Joystick Controller button cannot be
+used to interrupt a game.
+
+DIFFICULTY SWITCHES
+
+If you are using the left Joystick Controller, your DIFFICULTY
+switch is on the left side of the Video Computer System
+console. If you have the right Joystick, your DIFFICULTY
+switch is on the right side of the console.
+
+Switch Positions
+
+The position of your DIFFICULTY switch determines Defender's
+vertical speed:
+
+Set to B: Defender rises and descends rapidly.
+
+Set to A: Defender rises and descends slowly, making it harder
+          to chase Aliens and rescue Humanoids.
+
+Handicap
+
+To give yourself a handicap when playing against a less
+skilled player, set your DIFFICULTY switch to A and your
+opponent's switch to B.
+
+
+
+SCORING
+
+Your score appears in the game window at the bottom of the
+television screen when you press the GAME RESET switch or the
+red button on your Joystick Controller to begin a game (see
+Figure 8).
+
+[Figure 8 - Score Counter]
+
+In two-player games, you and your opponent take turns scoring.
+When it's your opponent's turn to score, the computer resets
+the score counter for him. But it keeps track of your score
+and status so that you can resume the game where you left off
+when it's your turn again. Don't worry, you can trust the
+computer.
+
+When the game ends, the computer flashes your score and your
+opponent's score, alternately. Highest score wins.
+
+POINTS
+
+Aliens Destroyed                                        Points
+
+Pod                                                       1000
+Swarmer                                                    500
+Bomber                                                     250
+Baiter                                                     200
+Lander                                                     150
+Mutant                                                     150
+
+Humanoid Rescue Mission                   150 for Lander Plus:
+
+Falls from Lander and lives                                250
+Caught but not brought back                                500
+Caught and brought back                                   1000
+Bonus: Each Humanoid alive at end of wave                  100
+
+
+BONUS LIVES AND SMART BOMBS
+
+Every 10,000 points, you can earn an additional Defender life
+and smart bomb. There is no limit to the number of lives and
+bombs you can earn, but only three lives and three bombs can
+appear on the television screen at one time. If you have more
+than three lives or bombs, the computer holds the extra ones
+in reserve for you until it can display them on the television
+screen.
+
+
+GAME VARIATIONS
+
+Take your choice of 20 different DEFENDER games. Games 1
+through 10 are for one player; Games 11 through 20 are for two
+players; and Games 10 and 20 are for young children. See the
+GAME SELECT MATRIX for a summary of all DEFENDER games.
+
+GAME SPEEDS
+
+Game speeds vary from slow children's games (10 and 20) to
+very fast all-Mutant games (Games 3, 6, 9, and 13, 16, 19).
+Games with mixed Aliens are either fast or moderately fats,
+depending upon the speed with which Landers kidnap Humanoids
+and Baiters attack Defender. See the GAME SELECT MATRIX for
+details.
+
+MUTANT TRAINING MISSION
+
+One-player Games 3, 6, 9 and two-player Games 13, 16, 19 are
+special Mutant Training Missions (MTM's). They help players
+develop the skills required to survive the Mutant takeover
+that occurs when all five Humanoids have been mutated (see
+Figure 9).
+
+[Figure 9 - Mutant Training Mission]
+
+SKIP WAVES
+
+Single-player Games 4, 5, 6 and two-player Games 14, 15, 16
+skip the first two attack waves and begin at Wave 3. These
+games are for experienced players looking for greater
+challenge.
+
+Games 7, 8, 9 for one player and Games 17, 18, 19 for two
+players begin at Wave 5 and are recommended for very
+experienced to expert players.
+
+HELPFUL HINTS
+
+LISTEN TO THE SOUNDS
+
+DEFENDER sounds are important to you and a life-and-death
+matter to the Humanoids. A high-pitched "chatter" like an
+excited chipmunk is a Humanoids's cry for help. When you hear
+it, immediately go to the rescue. If you let a Humanoid free-
+fall to earth and hear "crash" or "crunch" instead of a short
+happy tune, you know that you Humanoid crash-landed and you
+did not score 250 bonus points. You don't even have to look at
+the score counter.
+
+USE THE SCANNER
+
+Practice using the Scanner to find out where Aliens are coming
+from, which Humanoid is being kidnapped, and which Humanoids
+remain to be defended. the Scanner is an important strategic
+element in any game. When you learn to rely on it, it will
+help you improve your score. See USING THE SCANNER and
+RESCUING HUMANOIDS in GAME PLAY for help in reading the
+Scanner.
+
+SPEED IS IMPORTANT
+
+Keep Defender moving forward at the highest speed you can
+manage without losing control. Remember that a moving target
+is harder to hit.
+
+SUDDEN REVERSALS
+
+Reversing direction suddenly is a good ploy. It confuses
+Aliens and stops them in their tracks. In the instant it takes
+an Alien to recover, you can get Defender into a strategic
+position, reverse again, and blast the Alien with your laser
+missiles.
+
+SMART BOMBS 
+
+If you don't want to let loose a lot of Swarmers at the start
+of a wave, use smart bombs instead of laser missiles to
+destroy Pods. But use the bombs sparingly. You may need one to
+save a Humanoid in the nick of time, or to blast enough aliens
+to cross a 10,000 point boundary and win another life and
+smart bomb.
+
+CATCH AND CARRY
+
+If you are in a fast wave, catch and carry a Humanoid.
+Remember that a Lander can't pick up another Humanoid while
+Defender is holding one. A good strategy in the later waves is
+to wait until you've destroyed all but one Alien before you
+set the Humanoid down.
+
+GAME SELECT MATRIX
+
+One Player Game          1  2  3  4  5  6  7  8  9  10* 
+Number
+
+Humanoid Pickup Speed    2  3  -  2  3  -  2  3  -  1
+Mutant Training Mission  -  -  X  -  -  X  -  -  X  -
+Mutant & Baiter Speed    2  3  4  2  3  4  2  3  4  1
+Starting Wave            1  1  1  3  3  3  5  5  5  1
+
+Two Player Game          11 12 13 14 15 16 17 18 19 20* 
+Number
+
+Humanoid Pickup Speed    2  3  -  2  3  -  2  3  -  1
+Mutant Training Mission  -  -  X  -  -  X  -  -  X  -
+Mutant & Baiter Speed    2  3  4  2  3  4  2  3  4  1
+Starting Wave            1  1  1  3  3  3  5  5  5  1
+
+
+NOTE: 1 = Slow;     2 = Moderately Fast;     
+      3 = Fast;     4 = Very Fast
+*Children's Version
+
+
+ATARI
+
+A Warner Communications Company
+
+ATARI, INC., Consumer Division, P.O.Box 427, Sunnyvale,
+CA 94086, U.S.A.
+
+(c) 1982 Atari, Inc. ALL RIGHTS RESERVED
+
+C016973-09 REV. 1                            Printed in U.S.A.-------------------Atari 2600 Instructions Archive-------------------

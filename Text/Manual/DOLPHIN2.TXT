@@ -1,0 +1,70 @@
+<Picture>
+
+<Picture>Dolphin.v2<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+               DOLPHIN INSTRUCTIONS
+
+INITIAL SETUP
+
+1. Insert game into your Atari 2600 (with Power Off)
+   Then turn power on. You will see the initial screen.
+
+2. Plug in a joystick controller
+------------------------------------------------------
+
+1. To select a game level press down on the game select
+   switch. The game number will appear at the buttom left
+   hand corner of the screen. You may choose skill level
+   from 1 to 8. ONE PLAYER ONLY.
+
+2. Push reset button to start game.
+------------------------------------------------------
+OBJECT OF THE GAME
+
+To outwit the squid by swimming around through schools of
+seahorses and eventually killing the squid. With the help
+of the seagull.
+--------------------------------------------------------
+PLAYING THE GAME
+
+1. Chase the sound waves to score points, also lead the
+   squid to the sound waves to score extra points.
+   Jumping over seahorses also scores extra points.
+
+2. Make contact with the seagull, the dolphin will flash
+   for 20 seconds, during this time you can kill the
+   squid.
+--------------------------------------------------------
+SCORING
+
+Catching sound wave.......................100 points
+Jumping over seahorses.....................50 points
+Contact with seagull......................400 points
+Killing squid............................4000 points
+Contact with seagull (points vary according to skill
+level)
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

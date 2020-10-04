@@ -1,0 +1,489 @@
+CASINO
+
+by Atari
+c 1979
+
+
+Use your Standard Paddle Controllers with this ATARI(R) Game
+Program(tm).  Be sure the Controller cable is firmly plugged into the
+jack at the rear of your ATARI Video Computer System(tm).
+
+For one and two player games, plug the Paddle Controllers into the LEFT
+CONTROLLER jack.
+
+For three and four players, you will need an additional set of Paddle
+Controllers.  See Section 3 of your Owner's Manual for further details.
+
+Note: Always turn the console power switch OFF when inserting or
+removing an ATARI Game Program.  This will protect the electronic
+components and prolong the life of your ATARI Video Computer System.
+
+Note: To play any Casino game, be sure to depress the game Reset switch
+after you turn the power to ON.
+
+
+
+HOW TO PLAY BLACK JACK
+----------------------
+
+This Game Program has two games of Black Jack:
+* Game 1 -- One or two players with card splitting
+* Game 2 -- Up to four players with no card splitting
+All players compete against the Computer Dealer.  Each card is worth
+points.  The object is to score 21 points or as close to 21 points as
+possible without "busting" (exceeding 21 points).
+
+Note the following point system for cards:
+* Number Cards = Face Value (i.e. 5 = 5 points)
+* Ace (A) = 1 or 11 points
+* Jack (J), Queen (Q), and King (K) = 10 points
+
+
+Hard and Soft Hands
+
+A card hand is called soft when the Ace is used as 11 points.  A card
+hand is hard when the Ace is used as 1 point.  For example, a soft 17
+is an Ace (11 points) and a 6.  A hard 17 could be 10,6 and an Ace (1
+point).
+
+
+Hit or Stay
+
+The Computer deals two cards face-up to each player.  The Computer also
+deals two cards to itself -- one face-up and another face-down.  If you
+are satisfied with the points of your first cards, STAY on that hand. 
+If you want more points, request a HIT, and the dealer will give you
+another card.  Continue to take hits until:
+1 -- You are satisfied with your hand (STAY)
+     OR
+2 -- You exceed 21 points and BUST (lose the game).
+
+-----------------------------------------------------------------------
+Note: Accepted Black Jack strategy is to STAY on 18, 19 or 20 points.
+-----------------------------------------------------------------------
+
+
+Winning
+
+When you win a hand, you win the amount of chips you bet.  You win
+whenever:
+
+* Your card hand equals 21 points or less and is more points than the   
+  dealer's hand.
+* The dealer busts by exceeding 21 points.
+* You score Black Jack (Ace and a face card or a 10-card).
+
+When you score Black Jack, you win 1 1/2 times your bet.
+
+-----------------------------------------------------------------------
+Note: A tie game (called PUSH) occurs when the dealer's card points
+equal your card points.  In a push you do not win or lose your bet.
+-----------------------------------------------------------------------
+
+
+CONSOLE CONTROLS FOR BLACK JACK GAMES
+
+Game Reset
+
+Slide this switch to reset each player's score to 1000 (the number of
+betting chips each player initially receives).
+
+
+Game Select
+
+Use this switch to select the game you want to play.  Press the switch
+and the number of the particular game appears in the upper left corner. 
+Game 1 -- Black Jack, 1 or 2 players; Game 2 -- Black Jack, 1 to 4
+players.
+
+
+Left Difficulty Switch
+
+When the switch is in the "b" position, the Computer will shuffle the
+cards after each hand.  With the switch in "a" position, the Computer
+will shuffle the cards after 34 cards are dealt.
+
+
+Right Difficulty Switch
+
+This switch determines the rules of the games.  When in the "b"
+position, Casino I Rules are used:
+
+* Dealer stays on 18 or greater.
+* Dealer stays on hard 17 (all Aces count 1 point)
+* You automatically win the hand when you take the maximum number of    
+  hits without busting. (Game 1: 3 or 8 hits; Game 2: 3 hits)
+
+In "a" position, Casino II Rules are observed:
+
+* Dealer stays on 17 or greater
+
+
+CONTROLLER ACTION TO PLAY BLACK JACK
+
+To Begin Play
+
+Press your red controller button once to get into the game.  Press the
+controller button again to place your bet.
+
+
+Betting
+
+Each player receives a "Bank" of 1000 chips.  When it's time to bet, a
+question mark will appear to the right of your betting digits.  Turn
+the controller knob to select the amount of your bet, which can range
+from 20 to 200 chips.  Enter your bet into the computer by pressing the
+red controller button.
+
+If there is more than one player, the last player to make his be erases
+any cards from the previous game on the screen.  The Computer then
+deals the hand.
+
+Each time you win or lose a hand, your bet is automatically added or
+subtracted to your total number of chips on the playfield.
+
+
+Leaving the Game
+
+If one or more players wish to leave the game (but) wants to save his
+Bank) depress the console game select switch four (4) times.  Each
+player remaining in the game must then press his controller button and
+the game will continue.
+
+The players who have left the game can return by pressing their
+controller button before the deal.  The computer will "deal them in"
+and display their previous Bank total.
+
+
+Hit, Stay or Double Down
+
+After players make their bets, the computer deals two cards to each
+player.
+
+* If you are satisfied with the points of your first two cards, turn    
+  the controller knob until the word STAY appears.  Press the red       
+  controller button to indicate your decision.
+
+* If you want another card, turn the controller knob until the word HIT 
+  appears.  Press the red controller button and the computer will deal  
+  another card to you.  Continue to HIT until you are satisfied with    
+  the point value of your hand.  The maximum number of hits allowed for 
+  Game 2 is 3.  In Game 1 the number of hits allowed is 3 or 8.
+
+* You may double your bet after the first two cards are dealt.  Turn    
+  the controller knob to DBLE.  Then press the red controller button.   
+  One more card appears, and no more hits are allowed.
+
+-----------------------------------------------------------------------
+Note: Doubling is not allowed when the original bet is more than half
+the number of remaining chips.
+-----------------------------------------------------------------------
+
+
+Splitting
+
+Only Game 1 allows splitting.  When your first two cards have identical
+value (i.e. two 5's, or a Jack and King) you can split your cards into
+two hands.  Turn the controller knob until the letters SPLIT appear. 
+Press the red controller button and the computer deals a card to each
+of the SPLIT cards.  Now you play the two sets of cards as separate
+hands.  Your original bet is also duplicated for the second card hand.
+
+-----------------------------------------------------------------------
+Note: Splitting is allowed only if the bet is less than half of your
+remaining chips.
+-----------------------------------------------------------------------
+
+
+Insurance
+
+Both Games 1 and 2 allow insurance.  The need for insurance occurs when
+the computer dealer's hand shows one face-down card and an Ace...a
+possible Black Jack combination.
+
+An "i" will appear on your set-up.  If you wish to protect your bet
+from a possible dealer Black Jack, turn the controller knob to INSR and
+press the red controller button.  If you wish no insurance, turn the
+controller knob until the word PASS appears and press the red
+controller button.
+
+The price of insurance is half your bet.  Each player must decide on
+insurance.  If the dealer has Black Jack, the dealer's face down card
+is shown.  All players lose their original bets.  Players with
+insurance win twice the amount of their insurance bets which is equal
+to their original bets.
+
+If the dealer does not have a Black Jack, the players with insurance
+lose their insurance bets.  The game play continues as each player
+decides to hit, stay or double down.
+
+
+
+STUD POKER -- GAME 3
+--------------------
+
+Game 3 is Stud Poker for one to four players.  Players compete against
+the Computer Dealer.  The Computer deals five cards to each player and
+five cards to itself.  Before the first card is dealt and after the
+second, third, fourth and fifth cards are dealt, players must place
+bets or fold (drop out of the game).  The object is to beat the
+dealer's five-card hand.  The following chart shows the ranking of
+possible card hands starting with the highest valued hand:
+
+[Since the keyboard doesn't provide keys that look like hearts,
+diamonds, spades, and clubs, the following keys will be used to
+represent them: * is a club, ^ is a spade, v is a heart, and + is a
+diamond] 
+      ___     ___     ___     ___     ___
+     |  *|   |  *|   |  *|   |  *|   |  *|
+     | A |   | K |   | Q |   | J |   | 10|
+     |___|   |___|   |___|   |___|   |___|
+
+     Royal Flush - All cards are the same suit and are sequential with
+     the Ace being the highest card.
+
+      ___     ___     ___     ___     ___
+     |  v|   |  v|   |  v|   |  v|   |  v|
+     | 5 |   | 6 |   | 7 |   | 8 |   | 9 |
+     |___|   |___|   |___|   |___|   |___|
+
+     Straight Flush - All five cards are the same suit and are
+     sequential.
+
+      ___     ___     ___     ___     ___
+     |  v|   |  ^|   |  *|   |  +|   |  ^|
+     | 3 |   | 3 |   | 3 |   | 3 |   | 4 |
+     |___|   |___|   |___|   |___|   |___|
+
+     Four of a Kind - Four out of the five cards are the same value.
+
+      ___     ___     ___     ___     ___
+     |  *|   |  ^|   |  v|   |  *|   |  +|
+     | A |   | A |   | A |   | 2 |   | 2 |
+     |___|   |___|   |___|   |___|   |___|
+     
+     Full House - Three cards are the same value and the remaining two
+     cards are the same value.
+
+      ___     ___     ___     ___     ___
+     |  *|   |  *|   |  *|   |  *|   |  *|
+     | A |   | 10|   | 5 |   | 7 |   | 9 |
+     |___|   |___|   |___|   |___|   |___|
+
+     Flush - all five cards are the same suit.
+
+      ___     ___     ___     ___     ___
+     |  ^|   |  v|   |  ^|   |  *|   |  v|
+     | 5 |   | 6 |   | 7 |   | 8 |   | 9 |
+     |___|   |___|   |___|   |___|   |___|`
+
+     Straight - All five cards are sequential.
+
+      ___     ___     ___     ___     ___
+     |  +|   |  *|   |  ^|   |  *|   |  v|
+     | 10|   | 10|   | 10|   | Q |   | K |
+     |___|   |___|   |___|   |___|   |___|
+
+     Three of a Kind - Three of the five cards are the same value.
+
+      ___     ___     ___     ___     ___
+     |  +|   |  *|   |  ^|   |  +|   |  *|
+     | Q |   | Q |   | J |   | J |   | 2 |
+     |___|   |___|   |___|   |___|   |___|
+
+     Two Pairs
+
+      ___     ___     ___     ___     ___
+     |  ^|   |  v|   |  +|   |  v|   |  *|
+     | 7 |   | A |   | 7 |   | 6 |   | 5 |
+     |___|   |___|   |___|   |___|   |___|
+
+     One Pair
+
+      ___     ___     ___     ___     ___
+     |  v|   |  +|   |  ^|   |  +|   |  *|
+     | A |   | 5 |   | 6 |   | 7 |   | 2 |
+     |___|   |___|   |___|   |___|   |___|
+
+     High Card - Example: If a hand has an Ace, 5, 6, 7 and 2, the
+     high card is an Ace.  This beats a hand that has no higher card
+     combinations.  A hand with and Ace and an 8 (or higher) would be
+     this hand.
+
+
+If your hand ranks higher than the Computer Dealer's, you win an amount
+equal to what you bet.  If the Computer's hand beats yours, you lose
+your bet.
+
+If your hand and the dealer's hand rank the same, the hand with the
+highest value card wins.  If all five cards match in numerical value,
+it's a tie game and no scoring change occurs.
+
+
+CONSOLE CONTROLS FOR STUD POKER
+
+Game Reset
+
+Slide this switch to reset your score to 1000 (the number of betting
+chips each player initially receives).
+
+
+Game Select
+
+Press the game select switch until the number 3 appears in the upper
+left corner.  Now you're ready to play Stud Poker.
+
+
+Left Difficulty Switch
+
+When this switch is in "a" position, the dealer's first card will be
+dealt face down.
+
+
+Right Difficulty Switch
+
+The player's first card will be dealt face down when the switch is in
+"a" position.
+
+-----------------------------------------------------------------------
+Note: When both difficulty switches are in "b" position both the
+player's and the the dealer's cards are dealt face-up.
+-----------------------------------------------------------------------
+
+
+CONTROLLER ACTION FOR STUD POKER
+
+To Begin Play
+
+Press your red controller button once to get into the game.  Press the
+controller button again to place your bet.
+
+Each player receives a "Bank" of 1000 chips on the set-ups.  Before the
+first card is dealt, an "i" will appear next to your chip score.  You
+must make your initial bet (ante).  Turn the controller knob to select
+the amount.  Bets must be between 10 and 100 chips.  Enter your bet
+into the computer by pressing the red controller button.  The Computer
+deals two cards to each player and two cards to itself.  Bets are made
+again using the same betting procedure.  Players continue to make bets
+after the third, fourth, and fifth cards are dealt.  A player can fold
+(drop out of the hand), at any time after the ante.  If your hand ranks
+higher than the dealer's, all the chips you bet are automatically added
+to your score on the screen.
+
+To play again, place your ante bet.
+ ________       ________       ________       ________
+|     #  |     |    ##  |     |  ##  ##|     |    ##  |
+|   ## ##|     |  ##  ##|     |    ##  |     |  ##  ##|
+|     #  |     |        |     |        |     |    ##  |
+|        |     |        |     |        |     |        |
+|        |     |        |     |        |     |        |
+|________|     |________|     |________|     |________|
+   CLUB           SPADE          HEART         DIAMOND
+
+
+Leaving the Game
+
+If one or more players wish to leave the game (but wants to save his
+Bank) depress the console game select switch four (4) times.  Each
+player remaining in the game must then press his controller button and
+the game will continue.
+
+The players who have left the game can return by pressing their
+controller button before the deal.  The computer will "deal them in"
+and display their previous Bank total.
+
+
+BREAKING THE BANK OR GOING BROKE
+In any of the Casino games, you've broken the Bank if your score
+reaches 10,000.  Press the red controller button to enter the game
+again with another 1000 chips.
+
+
+
+POKER SOLITAIRE
+---------------
+
+Game 4 is a one-player game, Poker Solitaire.  The matrix on the screen
+has five rows and five columns, creating 25 card positions.  Cards
+appear one at a time at the top of the screen.  You must select a
+matrix position for each card.  After you fill each matrix position,
+you will have 12 poker hands worth points.  (5 horizontal poker hands,
+5 vertical poker hands and 2 diagonal poker hands).
+
+A flashing cursor appears on the screen at all times.  You can move the
+cursor by turning your controller knob.  To place a card in a
+particular matrix position, move the cursor to the matrix position and
+press the red controller button.  The card will appear in the position
+you selected with the cursor, and the next card in the deck will appear
+at the top of the screen.
+
+
+SCORING FOR POKER SOLITAIRE
+
+For a description of poker hands, see the chart under STUD POKER.  The
+list on the following page reviews the points of each hand in Poker
+Solitaire.
+
+Royal Flush (Ace High Card).................................500 Points
+Straight Flush..............................................300 Points
+Four of a Kind..............................................160 Points
+Straight....................................................120 Points
+Full House..................................................100 Points
+Three of a Kind..............................................60 Points
+Flush........................................................50 Points
+Two Pair.....................................................30 Points
+Pair.........................................................10 Points
+All other Combinations........................................0 Points
+
+Your objective is to build the best 12 poker hands from the 5 columns,
+5 rows and 2 diagonal configurations.  The maximum number of points you
+can score is 3340.
+
+ 4 -- Royal Flushes............... 2000 points
+ 5 -- Four of a Kind..............  800 points
+ 2 -- Straights...................  240 points
+ 1 -- Straight Flush..............  300 points
+                                  ------
+12 -- Hands....................... 3340 points
+
+
+CONSOLE CONTROLS FOR POKER SOLITAIRE
+
+Game Select
+
+Press the game select switch until the number 4 appears in the upper
+left corner.  Now you're ready to play Poker Solitaire.
+
+
+Game Reset
+
+Use this switch each time you want to start the game.
+
+
+CONTROLLER ACTION TO PLAY POKER SOLITAIRE
+
+You've already pressed the reset console button to start game action. 
+Now the screen is cleared, the card deck shuffled and the deal begins.
+
+You have 25 matrix positions to fill with cards.  Select the position
+of the cards which appear one at a time at the top of the screen.
+
+Turn the controller knob clockwise or counterclockwise to move the
+cursor.  After a card appears at the top of the screen, move the cursor
+to the position you which to place the card.  Now press the red
+controller button.  The card appears in the matrix position.  Continue
+the selection procedure until all 25 cards are placed.
+
+After the last card is positioned, the score will show the points with
+the matrix' 12 five-card poker hands
+
+
+
+And of course, this game was made by Atari in 1979.  This game manual
+was typed in by me!  Who am I?  I am Eddie Beiles.  I can be reached at
+beiles@lambada.oit.unc.edu if you have any questions about this game
+manual.  Or you can email me and thank me for typing it in.  Anyway,
+enjoy the game and this wonderfully typed in manual.     4/3/95
+
+
+

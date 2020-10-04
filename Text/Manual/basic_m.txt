@@ -1,0 +1,154 @@
+Basic Math
+
+Use your Joystick Controller with this game program. Be sure to=20
+plug the Controller cable firmly into the left jack on the rear=20
+of your Video Computer System. See your Owner's Manual for details.
+
+NOTE: To prolong the life of your Atari Video Computer System and=20
+protect the electronic components, the Console unit should be OFF=20
+when inserting or removing a game program.
+
+Controller Action
+Use the Joystick to make numbers appear on the Blackboard Screen.=20
+Push the Joystick forward to cycle through numbers from 0-9.=20
+Push it towards you to make the numbers appear in decreasing order from =
+9-0.=20
+Use the Joystick Controller to also move the Answer Line.=20
+Move the Joystick to the right and left to move the Answer Line to=20
+the right or left.
+The red Controller button records your numbers with the Computer =
+Teacher.=20
+Press the button after you have selected answers to the math problem=20
+and after you choose problem numbers.
+
+DIFFICULTY
+
+RIGHT DIFFICULTY SWITCH=20
+Use this switch to determine if each round (math problem) will be timed. =
+
+In "A" position the player has a time limit to produce an answer.=20
+In "B" position, there is no time limit.
+
+LEFT DIFFICULTY SWITCH=20
+Use the switch to determine the time limit for each round (math =
+problem).
+Games 1-4: With the Difficulty Switch in the "A" position,=20
+you have 12 seconds to record the answer.=20
+In "B" position, you have 24 seconds.
+Games 5-8: In "A" position, two digit problems appear with
+a 24 second time limit. One digit problems with a 12 second=20
+time limit appear when the switch is in "B" position.=20
+(Remember to slide the Right Difficulty Switch to "A" position=20
+first for a timed game.)
+
+SCORING
+Each game presents 10 math problems. You score one point for each=20
+correct answer. At the end of each game two numbers flash on the=20
+screen: the number of total problems, 10, is in the right hand side,=20
+and your score is on the left side.
+
+TABLE PROBLEMS
+Each game features a particular type of math problem. After you select=20
+the game you want to play, a problem will appear on the Blackboard =
+Screen.
+
+An example addition problem is:
+
+The top number, 7, will be underlined. Push the Joystick=20
+forward until you find the number you want to work with.=20
+For example, need some practice on additions using number 8?=20
+Just follow these two steps:
+
+1. Press the Joystick forward once until number 8 appears as=20
+   the underlined top number.
+2. Then record your number 8 with the Computer Teacher by pressing=20
+   the red Controller button.
+
+NOTE: You will find that sometimes there will be less than=20
+10 problems with the top number you have selected. When this occurs,=20
+the game automatically selects problems from the next number group.
+
+HOW TO RECORD AN ANSWER
+Use your Joystick to show your answer on the screen. Push
+it forward to cycle through the consecutive numbers 0-9. Push=20
+it towards you to cycle through the numbers in decreasing order, 9-0.=20
+For example, if no number is showing, you can put number 2 on the=20
+Blackboard Screen by:=20
+- Pushing the Joystick three times - one time for each of the=20
+   numbers O, 1 and 2=20
+OR=20
+- Pressing the Joystick forward as the game cycles to number 3.=20
+  Then release the Joystick.
+
+After you've selected the kind of problem and number you want to=20
+work with, notice the Answer Line below the math ~ problem on the=20
+Blackboard Screen.
+
+The line equals space for one digit of your answer. You will find that=20
+you can move the Answer Line to the right and left with your Joystick=20
+Controller. Just move the Joystick to the right or left.
+If your answer is more than one digit, you will  have to move
+the Answer Line. For example, in the above problem, the answer is 15.=20
+To record your answer:
+- Select the number 5 with your Joystick. It will appear above the=20
+  present Answer Line. The last digit of your answer must always appear=20
+  on this line.=20
+- Move the Answer Line one digit to the left.=20
+- Select the Number 1 with the Joystick. The Number 1 will appear=20
+  above the Answer Line.
+- Now press the red Controller button to record your answer, 15.
+
+Some division problems will have a Remainder. To show the Remainder,=20
+move the Answer Line two digits to the right of the Quotient.=20
+Select the Remainder number with the Joystick. Now record your=20
+entire answer by pressing the red Controller button.
+
+RIGHT OR WRONG?
+Musical tunes announce whether your answer is right or wrong.
+
+- Correct answers receive a "BEEP" then a melodic tune.=20
+  The Computer Teacher automatically presents the next problem.
+- Wrong answers receive a "BEEP" and a melodic tune. But the wrong=20
+  answer disappears as the right answer flashes on the Blackboard=20
+  Screen. The Computer Teacher automatically presents the next problem.
+
+The game is completed after 10 problems. At the conclusion of the last=20
+problem, the total number of problems, 10, and the number correct =
+answers=20
+flashes on the Blackboard Screen.
+
+GAME 1- Addition=20
+Select the top number you want to work with, then start adding.
+
+GAME 2 - Subtraction=20
+Select the top number you want to work with, then start subtracting.
+
+GAME 3 - Multiplication=20
+Select the top number you want to work with, then start multiplying.
+
+GAME 4 - Division=20
+Select the top number you want to work with, then start dividing.
+
+RANDOM PROBLEMS
+Follow the same rules and procedures to tackle Random Problems as=20
+you did to solve Table Problems. Random Problems feature addition,=20
+subtraction, multiplication and division. The only difference between=20
+these games and Games 1 through 4 is the absence of a top number=20
+selection. You have no control over the numbers in these problems.
+For example, after you select a subtraction game, the game presents=20
+subtraction problems at random. You begin your answer immediately.
+
+GAME 5 - Addition=20
+The game automatically presents addition problems at random.
+
+GAME 6 - Subtraction=20
+Get ready for surprise subtraction problems.
+
+GAME 7 - Multiplication=20
+Practice your times tables with this game of multiplication.
+
+GAME 8 - Division=20
+Division problems are selected at random for you to solve.
+
+This document typed by Steve Reed, SteveR@ior.com.
+

@@ -1,0 +1,133 @@
+Tigervision    7-006
+
+Instructions
+
+for your Atari 2600 Video Computer System
+and Sears Video Arcade
+
+SPRINGER
+
+
+
+Introduction:
+
+Springer is the rabbit. Your job is to help Springer 
+jump from cloud to cloud collecting bonuses by
+kicking the dragons, eggs, and other objects
+and trying to find the fastest path t the sun (top).
+
+1. Connect your video game. Be sure to follow the
+manufacturer's instructions.
+
+2. With the power in the off position, insert the Springer
+cartridge.
+
+3. Plug in one joystick into the left position. This is a 
+one player game.
+
+4. Turn power "on". Turn the television "on"
+
+5. The game will automatically display the 3 frames (screens).
+Game play always begins with screen "one." In order to be able to
+play screen two or three you must first "clear" the preceding screen.
+Springer is designed after a real coin arcade game with progressive
+game play.
+
+6. Start the game play by pressing the game reset switch. 
+Game play always begins with screen one.
+
+7. Joystick Control Action
+After the Springer start of game music, you can use the joystick
+and jump key to move the rabbit:
+
+Left or right	:	walk left or right respectively
+Up			:	kick
+Down			:	jump down
+Fire (red button)	:	jump upward
+Fire and left	:	jump forward to left
+Fire and right	:	jump forward to right
+Fire and down	:	jump forward and downward, direction
+				depends on direction rabbit facing.
+
+(Screen shot)
+
+8. Game Play
+
+For the first screen, try to reach the sun while collecting
+all the bonus objects.
+
+For the second screen and those that follow, in addition
+to collecting all the bonus objects, you must also collect
+all the eggs and dragons in order to progress to the next
+screen.
+
+Be careful and try to avoid falling from the clouds.
+
+Try to reach the sun before the bonus timer reaches zero and 
+you are awarded all time / points left on the bonus clock.
+
+9. Scoring
+
+In addition to the time bonus awarded at the completion of
+a frame, Springer gets points for:
+
+Dragon:	80 points
+Large egg:	60 points
+Egg:		30 points
+Each jump
+onto the
+moving
+cloud:	5 points
+
+Bonus Scoring:
+
+Frame 1:	Toothbrush		50 points
+		Carrot		30 points
+
+Frame 2:	Pot			90 points
+		Glass			45 points
+
+Frame 3:	Cup			80 points
+		Toothbrush		15 points
+
+10. Progressive Play
+
+After completing the first screen, Springer will be
+challenged with a second and third unique screen.
+Generally the time for the eggs changing to dragons
+is shorter and the moving cloud is faster as you progress
+to the first screen with increased difficulty. This sequence
+continues.
+
+Note:
+
+Frame 1, Round 2		2 clouds disappear
+Frame 2, Round 2		1 cloud comes and goes away
+Frame 3, Round 2		Length of moving cloud is shorter
+
+11. 3 Chances for each game. One extra chance is awarded
+if you complete the third frame, but the maximum number
+of chances will not exceed 4.
+
+12 End Game
+
+When you lose all chances the game ends. The screen will remain
+for 30 seconds and then go to the demonstration mode. Restart
+game play by pressing the reset switch.
+
+13. Hints:
+
+The best strategy for the first 3 frames is to find the shortest
+route to the sun while taking all the bonus objects.
+
+On the third frame, pay attention to the cloud just below the
+sun; it will disappear and reappear on the other side.
+
+After the third frame you must try to kill all eggs before they
+change to large eggs or dragons.
+
+Tigervision
+909 Orchard Mundelein, IL 60060
+copyright 1982 Tiger Electronic Toys, Inc.
+
+Springer is a trademark of Orca Corp.

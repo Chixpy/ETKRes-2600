@@ -1,0 +1,463 @@
+VIDEO CHECKERS
+
+by Atari
+c 1980
+
+
+Use your Joystick Controllers with this Atari (R) Game Program (TM). 
+Be sure the controllers are firmly plugged into the LEFT and RIGHT
+CONTROLLER jacks at the rear of your ATARI Video Computer System (TM). 
+Hold the Joystick with the red button to your upper left toward the
+television screen.
+
+For one-player games, use the controller plugged into the LEFT
+CONTROLLER jack.  See Section 3 of your Video Computer System Owner's
+Manual for further details.
+
+NOTE:  Always turn the console power off when inserting or removing a
+Game Program.  This will protect the electronic components and prolong
+the life of your ATARI Video Computer System.
+
+THE BASIC RULES OF CHECKERS:  A condensed version of the "Basic Rules"
+of the game is listed at the back of this instruction booklet.
+
+
+
+HOW TO PLAY
+-----------
+
+The computer plays by the standard rules of checkers.  The most
+important rules are:
+1. A player must jump when able.
+2. A piece which jumps into the king row and is promoted to a king
+   cannot continue jumping on the same turn.
+3. The game ends when one player cannot move.  This could occur because
+   the player is blocked, or because the player has no pieces left.
+
+The checkers are usually referred to as "black" and "white", regardless
+of their actual colors.  In ATARI VIDEO CHECKERS, the pieces are red
+(or dark grey/black) and white.  In the amateur games (level 1 through
+4) the board has black and red squares.  In the pro games (level 5
+through 9) the official colors of green and buff are used.  (See
+diagrams on the next page.)
+
+NOTE:  These colors may vary on different television sets.
+
+[Image of the red and black board with red and white checkers.]
+
+[Image of the orange and lime-green board with red and white checkers.]
+
+
+
+TO BEGIN PLAY
+-------------
+
+CONSOLE CONTROLS
+GAME SELECT SWITCH
+
+Use the game select switch to change the game and the game number
+(displayed at the upper left corner of the screen as shown in the
+diagram).  If the game number is white, then the human player (or the
+left player) controls the white pieces on the board.  If the game
+number is blue (or black on black-and-white television sets) then the
+human is red (grey).  The different game variations are explained in
+the GAME VARIATIONS section of this instruction booklet.
+
+[Image of the board.  The game number is in the upper left corner.  The
+no. of players is in the upper right corner.  The cursor is the "X" on
+the screen.]
+
+In Games 1-9, the computer plays regular checkers.  The computer's
+skill level increases as the game number increases.  Game 10 is for two
+players.  The number of players for each game is displayed at the upper
+right corner of the screen.  (See the diagram on the previous page.)
+
+Games 11-19 are losing or "giveaway" checkers.  As in Games 1-9, the
+skill level increases as the game number increases.  The object of
+giveaway checkers is to be the first player to be unable to move by
+losing all of your pieces or by being blocked.
+
+The game select switch may be used in the middle of a game and the
+computer will continue to play using the new game difficulty level or
+variation.  When the computer is computing its next move, the game
+select switch has no effect.
+
+
+GAME RESET SWITCH
+
+Use this switch to set up the checkers on the board for a new game, or
+to reset a game at any time.  If the computer starts the game (see left
+and right difficulty switches), it will pick its first move at random. 
+To clear all pieces off the board, depress the game reset switch with
+the left difficulty switch in the "a" position (set up mode).  Use the
+game reset switch at any time, even while the computer is computing its
+next move.
+
+
+LEFT DIFFICULTY SWITCH
+
+Use the "b" position for normal game play.  Use the "a" position to set
+up the board.  In the set up mode, use the left Joystick to place
+pieces on the board wherever you want.  Move the cursor to the square
+in which you wish to place a piece.  It does not matter if the square
+is empty or occupied.  Press the button on the Joystick and the pieces
+of each color will flash in that square.  When the piece you want is
+flashing in the square, release the button.  To continue game play
+return the left difficulty switch to the "b" position.
+
+The left difficulty switch is not "checked" while the computer is
+working on the next move.  This means that moving the switch when the
+computer is computing a move has no immediate effect on the move.
+
+
+RIGHT DIFFICULTY SWITCH
+
+In the "b" position, the left player in a two-player game, or a single
+player in a one-player game is "black" and starts the game.  In the "a"
+position, the right player in a two-player game or the computer player
+in a one-player game is "black" and starts.
+
+Switching the right difficulty switch when it is your turn to play will
+cause you to trade sides with the computer.  The computer will take
+over your pieces and make the next move.
+
+
+COLOR/B-W SWITCH
+
+In addition to its usual function of changing the television display
+from color to black-and-white, this switch determines the board
+numbering scheme to be used.  The purpose of this latter function is to
+allow the ATARI VIDEO CHECKERS game to play against the computer games
+which use standard checkers numbering to enter and display moves.  This
+function also makes it possible to play out examples from checker
+books.
+
+The squares are numbered from 1 to 32 (only the dark squares are
+numbered), as shown in the diagram.  The square numbers are shown at
+the top, middle of the screen between the game number and the number of
+players (see diagram).  The first number is the starting square.  The
+second number is the destination square for the move.  The two numbers
+are separated by a dash.
+
+[Image of the playing screen.  The square nos. are centered at the top
+of the screen.  The black squares are labeled from right to left,
+bottom to top with the numbers 1-32.]
+
+When the color/b-w switch is in the color position, the "black" pieces
+start on squares 1-12.  When the switch is in the b-w position, the
+white pieces always start on squares 1-12.  This makes it possible to
+play computers or machines that always put their opponents on squares
+1-12, regardless of color.
+
+When playing against another computer game of checkers, you would start
+by having one computer make a move.  The person handling the other
+computer would then manually enter the first move and then have his own
+computer make its corresponding move.
+
+
+
+USING THE CONTROLLER
+--------------------
+
+The Joystick is used to move the cursor and/or the checkers around the
+board.  The cursor is a red or white "X" (dark grey or white on a
+black-and-white television).  The color of the cursor indicates whose
+turn it is.  The cursor can only be moved diagonally on the black
+squares.
+
+To move one of your checkers, push the red controller button when the
+cursor is in the same square as the piece you wish to move.  This
+"picks up" the piece.  Then move the checker to the square you wish to
+occupy.  To complete the move, push the controller button again.  This
+"drops" the piece.  Before you have dropped the piece, the computer
+will allow you to return it to the square it came from and move a
+different piece.  After you have made you move, the computer will make
+its move.  You can use the set up mode to take back moves or rearrange
+the board while it is your move.
+
+To make a jump, pick up the piece to be moved, as described.  Then move
+the piece over the piece being jumped to the next empty square and push
+the controller button.  For a multiple jump, continue jumping by moving
+to the appropriate square and pushing the button again.
+
+The computer will not allow you to pick up a piece which cannot make a
+legal move or to move a piece to the wrong square.  Instead it will
+make a buzzing or "razzing" sound.  If you must jump, the letters "JP"
+for JUMP will flash at the top of the screen, as shown in the diagram.
+
+[Image of the board.  The jump signal is identified with the
+corresponding jump being illustrated on the board.]
+
+When the left difficulty switch is in the "a" position (set up mode_,
+the left controller button is used to select the piece to be placed in
+each square.  First move the cursor to the desired square.  Then hold
+the controller button down or press it several times until the desired
+piece appears.
+
+Note that the computer will automatically convert a piece to a king
+when it is placed in the appropriate king row.
+
+
+
+GAME VARIATIONS
+(Information About the Computer)
+--------------------------------
+
+As noted before, Games 1-9 are regular checkers; Game 10 is for two
+players; and Games 11-19 are giveaway checkers in which the object is
+to be the first player to lose all your pieces, or to be blocked and
+unable to move.
+
+
+COMPUTER MOVE
+
+The length of time the computer takes to move depends on the difficulty
+level and the number of possible moves.  The times given in the GAME
+MATRIX are approximate.  The actual time for a move varies, depending
+on the current situation.
+
+While the next move is being computed, the board will disappear from
+the television screen and different colors will flash on the screen
+(different shades of grey on black-and-white televisions).  This is
+done to speed up the computer since it takes time for the computer to
+do the display.  Also, the design of the ATARI Video Computer System
+makes it difficult to do extensive computations and display the board
+at the same time.  When the computer completes its move, the board
+reappears.  The computer's move is indicated by a blinking "X" of the
+computer's color and a blinking computer piece.  The jumped pieces, if
+any, will also blink.  Your cursor will appear in your color.  As soon
+as you move your Joystick or press your controller button, the
+computer's piece will stop blinking and the jumped pieces will
+disappear.
+
+
+COMPUTER METHOD
+
+When computing its next move, the computer does what is called a "tree
+search" using "alpha-beta" pruning.  What this means is that the
+computer picks a move, then picks a countermove by its opponent. 
+Depending on the difficulty level, the computer continues making moves
+and countermoves.  At some point, it evaluates the board to see how
+many pieces each side has, and what sort of position the pieces are in. 
+The computer does this for various combinations of moves and picks the
+move which will be most advantageous of itself, assuming that its
+opponent will do the same.  Alpha-beta pruning is a technique which is
+used to reduce the number of moves which must be examined.
+
+The game number determines how many "plies" deep the computer goes in
+the tree (see GAME MATRIX).  One "ply" is a move by one-player. 
+Technically, a "move" is considered to be two-ply (one move by each
+player).  For example, in Game 1 the computer only looks one ply deep. 
+However, if there is a jump, the computer keeps searching until there
+are no further jumps, regardless of the game number.
+
+The computer becomes progressively more intelligent as the difficulty
+level is increased.  At level 1 (Game 1), the computer does no
+positional checking.  It simply counts the number of pieces on the
+board, giving extra weight to kings.  At level 4 and above, all of the
+positional checking is brought into play, including king row
+protection, and center and double corner control.
+
+
+
+STRATEGY
+--------
+
+Here are some important points to remember when playing:
+
+1. Try to control the center of the board.
+
+2. Protect your king by keeping pieces in squares 1 & 3 or 30 & 32, as
+   shown in the diagram.
+
+[Image of the board.  There are red pieces in squares 1 and 3.  There
+are white pieces in squares 30 and 32.]
+
+3. Try to obtain the first king and then make good use of it.
+
+4. Set up series of jumps that leave you one or two men ahead (called
+   2-for-1 shots, 3-for-2 shots, etc.).
+
+5. When you are ahead, trade down, since two kings can win against one. 
+   When you are behind, avoid even trades.
+
+
+
+BASIC RULES OF CHECKERS
+-----------------------
+
+1. The checkerboard is composed of 64 squares, alternately light and
+   dark, arranged in a square array of 8 rows and 8 columns.
+
+2. The official checkerboard of the American Checker Federation (ACF),
+   consists of green and buff colors for the dark and light squares.
+
+3. The checkerboard is set up to play so that a green (or black) corner
+   square is to the left of each player.  These squares are called the
+   "single corners".  The green square to the far right and the green
+   square diagonally upward to the right of it (for each player) are
+   called the "double corners."  (See diagram.)
+
+[Image of the board.  The double corners are at the top left corner and
+bottom right corner.  The single corners are at the top right corner
+and bottom left corner.]
+
+4. At the beginning of the game, each player has 12 pieces.  The pieces
+   are set up on squares 1 through 12, and squares 21 through 32.
+
+5. Players take turns making a move with their pieces.
+
+6. Pieces are moved on the green (black) squares only.  An ordinary
+   move would be from one green square to another vacant green square. 
+   This must be carried out in a forward direction only, and to a
+   diagonally adjacent square.  Such a move may only be made one square at
+   a time, diagonally forward, left or right.
+
+7. A capturing move or a jump is the transfer of a piece from one green
+   square over another green square (diagonally forward), occupied by a
+   piece (or king) of the opposite color.  The destination square in the
+   capturing move must be vacant.  The captured or jumped piece is removed
+   from the board.
+
+8. When a player is presented with the opportunity to jump, he must
+   jump.  If he refuses to jump he forfeits the game.  When there are two
+   or more ways to jump, a player may select any jump; he is not required
+   to take the jump capturing the most pieces.
+
+9. A multiple capture or jump must be made when the opportunity is
+   available.  (See diagram.)  Any jump which creates a multiple jump
+   opportunity must be completed; there is no option to stop during any
+   part of the jumps.
+
+10. Upon reaching the farthest forward row of the board by either an
+    ordinary move or a capture, a piece becomes a "king."
+
+11. The ordinary move of the king includes the power to move backward. 
+    A king may move diagonally forward or backward, left or right, one
+    vacant square at a time.
+
+12. The capturing move of a king includes the power of backward
+    captures.  The other rules regarding how kings carry out captures or
+    jumps are identical to those of the piece, except that a king is not
+    required to pause at the king row, but may jump in and out on the same
+    turn.
+
+13. The game is won by the player who can make the last move.  That is,
+    no move is available to his opponent either because the opponent has
+    no more pieces or kings, or because all of the opponent's pieces or 
+    kings are blocked and unable to move.
+
+14. A game is drawn when both players agree to terminate play with a
+    drawn ("tie") result.
+
+    When one player proposes a drawn game, and the other does not
+    agree, the first player may request a "40-move" count.  The count
+    starts with the attacking player's first move after the request and
+    the counts only the moves of the attacking side.  the attacking side
+    must demonstrate a strengthened position (in these 40 moves) to the
+    satisfaction of an impartial third person, or concede the draw.
+
+    The 40-move count is restarted any time when:
+
+    1. The player claiming the draw concedes that there has been some
+       strengthening of the attacker's position.
+
+    2. Any uncrowned piece of either side makes any advance towards the
+       king row, or --
+
+    3. Any capture is made.
+
+    After the 40-move count is completed showing a strengthened
+    position, the attacker must still complete the win.  Other 40-move
+    counts may still be requested later by the player claiming the draw.
+
+15. When the same position (identical as to move, pieces, kings, and
+    colors) occurs two or more times, a "see-saw draw may be beginning.
+    It is customary for the side desiring the draw to point out these 
+    repeated positions and suggest a draw.  The other side is then 
+    expected to start a new attack or concede the draw.
+
+NOTE: These rules were taken from the ARTICLES of the official rules of
+CHECKERS, written by the American Checker Federation.
+
+American Checker Federation
+3475 Belmont Avenue
+Baton Rouge, LA 70808
+
+
+
+GAME MATRIX
+-----------
+ ____________________________________________________________
+|          |             |                   |               |
+|   Game   |  Number of  |  Number of Piles  |  Approximate  |
+|  Number  |   Players   |    of Computer    |    Time for   | 
+|          |             |     Lookahead     |      Move     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|     1    |      1      |         1         |   1 1/2 sec   |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|     2    |      1      |         2         |     2 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|     3    |      1      |         3         |     3 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|     4    |      1      |         4         |     5 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|     5    |      1      |         5         |    10 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|     6    |      1      |         6         |    30 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|     7    |      1      |         7         |     1 min     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|     8    |      1      |         8         |     4 min     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|     9    |      1      |         9         |    15 min     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    10    |      2      |        ---        |    ------     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    11    |      1      |         1         |   1 1/2 sec   |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    12    |      1      |         2         |     2 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    13    |      1      |         3         |     3 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    14    |      1      |         4         |     4 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    15    |      1      |         5         |     6 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    16    |      1      |         6         |    14 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    17    |      1      |         7         |    30 sec     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    18    |      1      |         8         |     2 min     |
+|__________|_____________|___________________|_______________|
+|          |             |                   |               |
+|    19    |      1      |         9         |     8 min     |
+|__________|_____________|___________________|_______________|
+
+
+
+And of course, this game was made by Atari in 1980.  This gmae manual
+was typed in  by me!  Who am I?  I am Eddie Beiles.  I can be reached
+at beiles@lambada.oit.unc.edu if you have any questions about this game
+manual.  Or you can email me and thank me for typing it in.  Anyway,
+enjoy the game and this wonderfully typed in manual.        4/1/95
+
+

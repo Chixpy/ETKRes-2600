@@ -1,0 +1,190 @@
+ATARI(R) 2600(TM) Game Manual
+Crossbow(TM) by Exidy(TM)
+
+   Over scorching deserts, through dark, icy caverns, around a fiery volcano,
+and under the leafy cover of a steamy jungle, you and five brave friends set
+out to retrieve the treasures stolen by the Evil Master.  Your goal is his
+castle, far, far away.
+
+   Your friends are unarmed, but you carry your trusty crossbow.  By shooting
+swift arrows you can save your companions from the dangerous attacks of
+the Master's Evil Creatures - scorpions, ants, vultures, man-eating plants,
+bats, monkeys, and other horrible beings.
+
+   When you reach the castle, the Evil Master's expert archers await you,
+ready to test their aim with deadly swords and arrows.  Inside the castle a
+fierce dragon also waits, guarding the treasure with his fiery breath.
+
+   Few adventurers have dared to make this trek.  No one yet has come back
+alive.
+
+Which Way to the Castle?
+
+Getting Started
+
+1. Plug the Crossbow cartridge into your Atari 2600 or 7800 console.  For
+one player, connect a joystick to the left controller port.  For two players,
+connect a second joystick to the right controller port.
+
+2. Use the left difficulty switch on your console to change the speed of
+your crossbow.  Move the switch to the "A" or left position for faster shots.
+Move it to the "B" or right position for slower shots.
+
+3. Turn on your television, then press the [Power] key to turn on your
+console.  The Paths screen appears, where you start your trek.
+
+4. Press [Select] or move the joystick handle to choose a difficulty level.
+For one player, choose an odd number (1, 3, 5, or 7).  For two players,
+choose an even number (2, 4, 6, or 8).  Levels 1 and 2 are easiest; levels
+7 and 8 are most difficult.  The number appears at the bottom of the screen.
+
+   For game variety, choose a level in which your friends are protected from
+your crossbow shots.  For a greater challenge, choose a level that has an
+invisible crossbow sight (you can only see it after you press the fire button
+to shoot).  Or choose both.
+
+Levels    Crossbow Sight   Friends Protected
+1-2         Visible              Yes
+3-4         Visible              No
+5-6         Invisible            Yes
+7-8         Invisible            No
+
+5. Press the joystick fire button or [Reset] to start play.
+
+6. During play, press [Reset] to start a new game.  During or after play,
+press [Select] to choose a different game level.
+
+Playing the Game
+Setting Out
+
+   Your adventure begins on the Paths screen.  This screen shows your first
+friend and the six Danger Zones you must pass through to reach the treasure.
+Once you've chosen a game level and pressed [Reset] or the fire button, the
+crossbow sight (a small square) appears in the center of the Paths screen.
+ 
+   You must figure out which paths to take to reach the castle and the
+treasure.  Move the crossbow sight (with the joystick handle) to either the
+red or green path at the bottom of the screen.  Then press the fire button to
+intstantly arrive at a Danger Zone.
+
+Protecting Your Friends
+
+   Once you get to a Danger Zone, the Master's Evil Creatures immediately
+begin attacking your friend.  If they touch him, he'll dissolve.  You must
+stop these enemies by shooting them with your crossbow.  With the joystick
+handle, move the crossbow sight onto a target to aim, then press the fire
+button to shoot.
+
+   If you escort your friend safely through the Danger Zone, you return to
+the Paths screen and choose a path once again, this time either red, green,
+or blue.  Then press the fire button to transport yourself to a Danger Zone.
+
+   If you lose a friend, another one replaces the unfortunate companion.  If
+you lose all your friends, your trek is prematurely over.  When you make it
+safely through a Danger Zone, your surviving friends appear on screen.  Then
+you return to the Paths screen for another choice.
+
+   If you fulfill your quest and rescue the treasure, you'll return to the
+beginning of the trek with your surviving companions and start again.
+
+Through the Danger Zones
+
+You start your trek with two Friends.  You gain a new friend the first time
+you make it safely through the Desert, Caverns, Volcano, and Jungle Zones
+(up to a maximum of four friends at one time).
+
+In the Desert your friends are attacked by deadly scorpions, vultures, snakes,
+and ants.  You gain another friend the first time you survive this zone.
+
+While wandering through the Caverns, watch out for swooping bats and falling
+stalactites.  Shoot down the hanging stalactite to fill in the crevice in the
+path so you can get across.  Another friend joins you the first time you make
+it safely through the Caverns.
+
+The Volcano spews burning rocks and fiery lava, so watch out.  Shoot the
+resting rock to make a bridge over the lava river.  Passing by the volcano
+safely for the first time gains you another friend.
+
+In the steaming depths of the Jungle, wicked monkeys hurl coconuts with
+deadly aim and man-eating plants are a constant danger.  The first time you
+survive the Jungle Zone you earn a new friend.
+
+If you're not careful, you'll meet your match at the Drawbridge as the
+Evil Master's loyal archers and vultures try to stop you.  To enter, shoot
+through the two ropes holding up the drawbridge.
+
+At the Castle Hall, a dragon breathes fire, daggers drop from the ceiling,
+and arrows fly from the walls.  A trap door is your last barrier to the
+treasure - shoot the statue's flashing staff to open it.
+
+Shoot the Evil Master's Eye that appears once on every screen and earn bonus
+points.
+
+Scoring
+
+   Shoot the Master's Evil Creatures and score points.  Scores appear at the
+bottom of the screen.  Player 1's score is on the right and Player 2's score
+is on the left.
+
+Across the Desert
+
+Snake..................... 200 points
+Vulture................... 100 points
+Scorpion................... 50 points
+Ant........................ 50 points
+
+Through the Caverns
+
+Bat....................... 100 points
+Falling stalactite......... 50 points
+Hanging stalactitie........ 50 points
+
+At the Volcano
+
+Burning lava.............. 100 points
+Falling rock............... 50 points
+Resting rock............... 50 points
+
+In the Jungle
+
+Monkey.................... 100 points
+Coconut................... 100 points
+Voracious plant............ 50 points
+
+Outside the Drawbridge
+
+Vulture................... 200 points
+Archer.................... 100 points
+Arrow...................... 50 points
+
+Inside the Castle Hall
+
+Statue's staff............ 200 points
+Dagger.................... 100 points
+Arrow..................... 100 points
+Dragon's fire............. 100 points
+Torch...................... 50 points
+
+In Every Danger Zone
+
+Evil Master's Eye........ 1000 points
+
+
+When you get all your friends through the trap door in the Castle Hall, you
+earn 10,000 bonus points and gain another friend (unless you already have
+four friends).  Then you return to the Paths screen to start again.
+
+Atari Corporation is unable to guarantee the accuracy of printed material after
+the date of publication and disclaims any liability for changes, errors, or
+omissions.  Reproduction of this document or any portion of its contents is
+not allowed without the specific written permission of Atari Corporation.
+
+Atari(R), the Atari logo, 2600(TM), and 7800(TM) are trademarks or registered
+trademarks of Atari Corporation.  Crossbow(TM) is a trademark of Exidy, Inc.
+
+Copyright (C)1988, Atari Corporation.  All rights reserved
+
+Printed in Hong Kong  C300016-139 Rev. A     V.C. 1988.9 ATARI(R)
+
+
+

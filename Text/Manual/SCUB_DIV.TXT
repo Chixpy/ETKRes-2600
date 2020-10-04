@@ -1,0 +1,128 @@
+               SCUBA DIVER
+
+The Scuba Diver game has two levels:
+
+1.  Hunting Fish
+2.  Searching for treasure.
+
+Set the speed level according to your ability:
+
+1.  Fish         - Normal Speed
+    Sea Monster  - Normal Speed
+2.  Fish         - High Speed
+    Sea Monster  - Normal Speed
+3.  Fish         - Normal Speed
+    Sea Monster  - High Speed
+4.  Fish         - High Speed
+    Sea Monster  - High Speed
+
+      After you turn on the power you will
+immediately hear the background music. Please
+select the speed level by using the selection
+switch, if you do not choose a speed selection, it
+will automatically be in the 1st speed, then push
+the reset switch to start the game. The scuba
+diver who sits in the boat is controlled by moving
+the joy stick. When the fish are not beneath the
+diver, it is safe for him to jump into the water. (Use
+the red button of the joystick.) If you choose the
+wrong time for diving, the diver will be caught by
+the fish. (You have a total of 4 divers.) The number
+of remaining divers appears in the bottom left
+hand corner. The score appears in the middle at
+the bottom.
+
+      The diver must reach a certain depth before
+you can control him and safely move in any
+direction. (In the beginning the safest place is
+near the surface.) When you are ready, have the
+diver descend and shoot the fish one by one using
+the firing button of the joy stick. While the diver is
+under the water, the score will disappear. In its
+place the 60 second oxygen supply for each diver
+will be shown.
+
+      As the diver is under the water, the time will
+reduce second by second. The diver must return
+to the boat before the oxygen supply is used up.
+This is done by entering the center bottom of the
+boat. When he jumps in again, he has an
+additional 60 seconds. However, if he gets caught
+by a fish before he can return safely to the boat,
+you will not score any points. When he safely
+returns, your score will be shown instead of the
+oxygen supply.
+
+Scoring:
+      Each fish harpooned is worth 500 points.
+
+      You can harpoon as many fish as you like,
+but watch the oxygen supply. Also, if you miss a
+fish, then the diver can not be moved until the
+harpoon returns to the diver.
+
+Level Two:
+      To get to level two you must first harpoon all
+the fish showing in the first level, and then
+immediately enter the sunken ship (lower center
+screen) downward to the bottom before another
+fish appears. When you enter the sunken ship, a
+new game will appear on the screen. You are now
+inside the ship searching for treasure. (Caution:
+You still must watch your oxygen supply from
+level one still being displayed.)
+
+      The walls of the sunken ship are very stickly. [sic]
+If the diver hits the wall, you have to move the joy
+stick very hard to release him, or push the firing
+button to release. If he hits the wall too hard, he
+cannot escape no matter how hard you move the
+joy stick.
+
+      Inside the sunken ship you must beware of
+the three sea monsters. The diver cannot destroy
+the sea monsters, he can only swim to avoid
+them. The sea monsters protect the treasure
+chests and can go through the walls of the ship,
+while the diver cannot. You will notice some
+narrow openings that the diver can go through to
+escape the sea monsters. For the diver to enter
+these passages, you must push the firing button
+of the joy stick and move the joy stick at the same
+time. All you need to do to retrieve the treasure
+chests is have the diver touch the treasure chest.
+
+Scorings: [sic]
+1.  If you get one treasure chest you score 500
+    points.
+2.  If you get two treasure chests during the same
+    dive you get 1,500 points.
+3.  If you get three treasure chests during the
+    same dive you get 11,500 points.
+
+      Remember, you must watch your oxygen
+supply. After retrieving a treasure chest or if your
+oxygen supply is too low, you will need to return
+to level one. This is done by having the diver go to
+the surface of the water. Beware, there will be
+three fish waiting for you.
+
+     Whenever the game is finished, you have the
+background music again.
+
+ - - - - - - - - - - - - - - - - - - - - - - - - -
+
+These are the instructions to Panda Scuba Diver,
+originally Sancho Skin diver (the Panda version
+shows (c) 1983 Sancho on the screen), and also
+released as Froggo Sea Hunt.
+
+The label on the Panda version is red, 3/4" by
+3", stuck on the end of a Telesys-style cartridge,
+with a panda on the left in white, and white
+lettering that reads:
+
+             S C U B A  D I V E R
+                   No. 104
+             (c) 1983 PANDA INC.
+

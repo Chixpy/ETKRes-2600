@@ -1,0 +1,175 @@
+Use the Joystick Controllers with this Game Cartridge. Be sure to
+plug the two Controller cables firmly into the Video Arcade.
+
+NOTE: The Console unit should be OFF when inserting or removing a
+Game Cartridge.
+
+HOW TO PLAY GUNSLINGER
+
+One or two players can become expert gunslingers during these games:
+
+In one-player games (Target Shooting), you control the movement of
+a gunslinger with the left Joystick Controller. Practice target
+shooting with the moving target that appears on the screen.
+
+In two-player games (Gunslinger Games), each player controls the
+movement of a gunslinger with a Joystick Controller. You score points
+when your gunslinger shoots your opponent's gunslinger.
+
+NOTE: In all one and two-player games, bullets will ricochet off the
+upper and lower playfield boundaries.
+
+Use the Joystick Controller to: 
+
+Move the gunslinger on the screen
+
+Aim and shoot bullets from the gunslinger's gun
+
+Push the Joystick forward to move the gunslinger up the screen. Pull
+the Joystick towards you to move the gunslinger down the screen.
+
+To move the gunslinger to the left, move the Joystick to the left;
+move the Joystick to the right to move the gunslinger to the right.
+
+When you want to aim the gunslinger's gun, press the red Controller
+button. Hold the button down while you control the movement of the
+gunslinger's arm with your Joystick Controller.
+
+Push the Joystick forward to move UP the gunslinger's arm holding
+the gun
+
+Pull the Joystick towards you to move DOWN the gunslinger's arm
+that is holding the gun
+
+After you have aimed the gunslinger's arm that holds the gun, release
+the button to fire bullets.
+
+NOTE: The player using the left Joystick Controller controls the
+gunslinger on the left side of the screen; the right controller
+player controls the right gunslinger.
+
+SCORING
+
+In one-player games, you score one point each time a bullet from
+your gunslinger's gun hits the moving target. You have 99 seconds to
+score a maximum of ten points. The timing clock appears in the upper
+right corner of the playfield; the gunslinger's score is in the upper
+left corner.
+
+In two-player games you score one point each time a bullet from
+your gunslinger's gun hits the opposing gunslinger. When a gunslinger
+is hit, it will sit down and the point appears at the top of the
+screen. The score of the gunslinger from the left side of the
+playfield appears in the upper left corner; the right playfield
+gunslinger's score appears in the upper right corner. The first
+player to score ten points wins the game.
+
+SKILL OPTIONS
+
+Expert position: Your bullets will disappear in flight if your
+gunfighter is shot before your bullets hit target.
+
+Novice position: Your bullets will continue in flight even if your
+gunfighter is hit before your bullet hits a target.
+
+GUNSLINGER'S CODE
+
+There are 16 gunslinger and target shooting games in the Game
+Cartridge. Each one presents different variations. For a description
+of each variation, refer to the following code:
+
+BLOWAWAY: Your bullets are more powerful during gunfights with
+Blowaway. You can shoot away pieces of the protective center -- a
+Stage Coach, Wall or Cactus -- until it completely disappears.
+
+CACTUS: Some gunfights and target shooting games occur with a Cactus
+in the center of the playfield. Bullets cannot penetrate the Cactus.
+Use the Cactus as protection from your opponent's shots.
+
+STAGE COACH: A Stage Coach stands between the two gunslingers during
+some games. Bullets cannot penetrate the Stage Coach, making it ideal
+for protection against opposing bullets. In some games, a series of
+Stage Coaches will MOVE up the screen between you and your opponent.
+
+WALL: In some games, a wall is located between the two gunslingers.
+These games also feature Blowaway. Use your shots to make a hole in
+the wall and aim at your opponent.
+
+GETAWAY: During a gunfight with Getaway, each gunslinger can move
+immediately after shooting the gun. Without Getaway, gunslingers must
+wait until their bullet disappears off the screen or hits a target.
+
+SIX SHOOTER: In these gunfights with Six Shooters, each player's gun
+only has six bullets in it. Receive another round of ammunition when
+BOTH players have used all six bullets.
+
+TARGET SHOOT: The Target Shoot is a feature of one-player games. The
+Target bounces up and down on the screen while you attempt to make a
+direct hit.
+
+GUNSLINGER TWO-PLAYER GAMES
+
+GAME 1
+This gunfight between two players features a Cactus.
+
+GAME 2
+Two players use the Cactus and Getaway to plan their gunfight
+strategy.
+
+GAME 3
+A Cactus and Blowaway characterize this two-player gunfight.
+
+GAME 4
+The two gunslingers use Six Shooters during this gunfight which
+features a center Cactus and Blowaway.
+
+GAME 5
+A center Stage Coach stands between the two gunslingers during this
+game.
+
+GAME 6
+Players must take special aim as a series of Stage Coaches MOVE
+between the two gunslingers.
+
+GAME 7
+This gunfight features a Stage Coach and Blowaway.
+
+GAME 8
+A series of Stage Coaches MOVE between the two gunslingers as they
+use Blowaway in their playing strategy.
+
+GAME 9
+Two gunfighters play with Six Shooters, Blowaway and a series of
+MOVING Stage Coaches between them.
+
+GAME 10
+The two gunslingers use Six Shooter during this gunfight which
+features Blowaway and a center Wall.
+
+GAME 11
+Players use Getaway, Blowaway and a center Wall in their gunfighting
+strategy.
+
+GAME 12
+The center wall MOVES between the two gunslingers as they play with
+Getaway and Blowaway.
+
+TARGET SHOOTING
+ONE-PLAYER GAMES
+
+GAME 13
+You control one gunslinger on the screen which scores points by
+hitting the Target Shoot. A center Cactus is between you and the
+Target Shoot.
+
+GAME 14
+This target shooting game features a Target Shoot, a center Cactus
+and Blowaway.
+
+GAME 15
+This game features the Target Shoot and a center Stage Coach.
+
+GAME 16
+A series of Stage Coaches MOVE between the gunslinger and the Target
+Shoot. This game also features Blowaway.
+-------------------Atari 2600 Instructions Archive-------------------

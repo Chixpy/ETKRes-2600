@@ -1,0 +1,186 @@
+GORF MANUAL
+
+{COVER}
+
+GORF(TM)
+Video Game Cartridge for the 
+Atari(R) Video Computer System(TM)
+and Sears Video Arcade(TM)
+
+[Photo of spaceships and game screen in backround]
+
+GAME PLAY
+INSTRUCTIONS
+(C) MCMLXXXII Gabriel Industries, a division of CBS Inc.
+GORF (C) 1981 Bally Midway Mfg. Co. All Rights Reserved.
+
+CBS Video Games(TM)
+
+
+{PAGE 1}
+
+SETTING UP YOUR VIDEO CONSOLE
+
+1. Hook up your video game system, following manufacturer's instructions.
+
+2. With the power OFF, plug in the video game cartridge.
+
+3. Turn power ON.  If no image appears, check the connections of your 
+game system to the TV, then repeat steps 1-3.
+
+4. Plug a Joystick Controller firmly into the LEFT Controller jack of 
+your video system.
+
+5. To start the game, press GAME RESET.  When the game is over, it may be 
+restarted the same way or by pressing the red firing button on the 
+Joystick Controller.
+
+Note: Never remove your video game cartridge from the console unless the 
+power is turned OFF.
+
+[Drawing of Joystick]
+
+
+{PAGE 2}
+
+MESSAGE FROM INTERSTELLAR SPACE FORCE COMMAND
+Space Cadet:
+By the time you read this communique, we of the Interstellar Space Force 
+Command will have been destroyed.  The evil Gorfian Empire has launched 
+an all-out attack.  You are Earth's last hope!  Your assignment is to 
+repel the invasion and launch a counterattack.  You will engage various 
+hostile spacecraft as you journey toward a dramatic confrontation with 
+the enemy Flag Ship!  You will be rewarded for your success with 
+promotions in rank and praise from a grateful planet.  But you must act 
+quickly, Space Cadet!  Brief yourself on the Gorfian Robot Armada and 
+then attack before it's...TOO LATE!!
+............................MESSAGE ENDED...................................
+
+OBJECT OF THE GAME
+The object of GORF is to accumulate points by destroying the various 
+types of enemy spacecraft you will encounter as you attempt to complete a 
+variety of space missions.
+
+
+[PICTURE OF FIGHTER]
+INTERSTELLER SPACE FIGHTERS
+You begin each game with a fleet of five Fighters.  Only one Fighter may 
+fire upon the enemy at a time.  The number at the bottom of your screen 
+below the score indicates how many of your Fighters are left.
+
+[PICTURE OF JOYSTICK]
+Use your Joystick Controller to maneuver your Fighter back and forth 
+along the screen.  Hold the Joystick with the red firing button to your 
+upper left toward the screen.  To fire the laser, press down on the red 
+firing button.  You have an unlimited supply of ammunition.
+
+Note: Firing a shot causes a previously discharged bullet to disintegrate 
+if it hasn't yet made contact.
+
+You will be awarded one extra Fighter for every 10,000 points scored.
+
+
+{PAGE 3}
+
+MISSION 1 - ASTRO BATTLES
+Before taking off into space, you must first defend the Earth from the 
+horde of advancing Gorfs and Droids.  These invaders descend in column 
+formation and drop dangerous anti-matter bombs.  When the entire attack 
+matrix is destroyed you will proceed on to your next mission.  If any of 
+the invaders should reach the Earth's surface before you've destroyed 
+them, this mission will be terminated and your Fighter will be sacrificed.
+[PICTURE OF ASTRO BATTLES GAME SCREEN]
+
+MISSION 2 - LASER ATTACK
+This orbital zone is the Gorfian Empire's first line of defense against 
+your counterattack.  You must destroy the anti-particle Laser Ship while 
+avoiding its deadly beam.  The Laser Ship is protected by three Kamikaze 
+Invaders and a Flying Gorf.  The Kamikaze Invaders will each continously 
+try to ram into you as you attempt to blast them all.  If the Laser Ship 
+is blown up before all the Kamikazes and the Gorf are destroyed, a new 
+Laser Ship will take its place within four seconds.
+	Points are scored for all enemies shot and destroyed.  No points 
+are scored for Kamikaze Invaders blown up in a suicide-crash.  When all 
+attack ships are destroyed, you will move on to your next battle.
+[PICTURE OF LASER ATTACK GAME SCREEN]
+
+
+{PAGE 4}
+
+MISSION 3 - SPACE WARP
+You are getting closer to the enemy Flag Ship!  Sensing your presence, it 
+generates an eerie space web which releases Gorfian Attackers firing 
+subquark torpedoes.  Attackers are released one at a time and fly in a 
+spiral pattern.  Each one is a different color and will continue to 
+attack until destroyed by a blast of your laser.  A destroyed Attacker 
+sends out an audible destress signal as it blows up.  When you succeed in 
+destroying all five Attackers, you'll be ready for your next and most 
+challenging mission.
+[PICTURE OF SPACE WARP GAME SCREEN]
+
+MISSION 4 - FLAG SHIP
+To destroy the Gorfian Ship and earn the right to work toward your next 
+promotion, you must score a direct hit in the Flag Ship's internal power 
+reactor vent.  In order to get a clear shot at this difficult target, you 
+must also avoid the heat-seeking tracking missiles being launched in your 
+direction.  Following a successful hit, a violent neutronium explosion 
+will appear in dazzling color as the Flag Ship disintegrates.  You are 
+now a Space Captain and will repeat the sequence of missions fighting 
+against progressively faster and nastier robots of the Gorfian Empire!
+[PICTURE OF FLAG SHIP GAME SCREEN]
+
+
+{PAGE 5}
+
+END OF THE GAME
+The game ends when all of your Interstellar Space Fighters have been 
+destroyed by the robot warriors of the Gorfian Empire.
+
+Note: THere are nine levels of mission sequences, each one more difficult 
+than the last.  We wish you luck in getting to the toughest level; you'll 
+need it.
+
+SCORING
+Point Values
+=====================================================================
+| Mission 1		Gorf and Droids			50 points   |
+=====================================================================
+| Mission 2		Laser Ship				    |
+|			Kamikaze Invaders			    |
+|			Flying Gorf			100 points  |
+=====================================================================
+| Mission 3		Gorfian Attackers		100 points  |
+=====================================================================
+| Mission 4		Flag Ship			1000 points |
+=====================================================================
+There is no point value for bombs and missles destroyed by your laser fire.
+
+
+FIELD PROMOTION SCHEDULE
+
+Missions Completed		Rank
+================================================
+| 1-3				Space Cadet    |
+================================================
+| 4-7				Space Captain  |
+================================================
+| 8-11				Space Colonel  |
+================================================
+| 12-15				Space General  |
+================================================
+| 16-19				Space Warrior  |
+================================================
+| 20 and up			Space Avenger  |
+================================================
+
+
+{PAGE 6}
+Page 6 contains warranty information.
+
+
+{BACK PAGE}
+
+Gabriel Industries, a division of CBS Inc., Hagerstown, MD 21740
+M8777
+
+

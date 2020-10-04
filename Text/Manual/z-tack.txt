@@ -1,0 +1,60 @@
+CA283 Z-TACK(TM)
+
+BOMB INTRODUCe A
+COMPLETE SERIES OF
+UP-DATED VIDEO GAME
+CARTRIDGES
+
+---
+DISPLAY
+---
+[bad drawing of the screen]
+
+---
+GAME SELECTION
+---
+There are 4 games:
+Game 1: one player (beginner)
+Game 2: two players (beginner)
+Game 3: one player (advanced)
+Game 4: two players (advanced)
+
+---
+INSTRUCTION
+---
+(1) Player controls the jet in the sky level to destroy enemy's bases =
+below at
+    ground level.
+(2) The jet can move up, down, left or right by maneuvering the joystick =
+to
+    the respective positions.
+(3) The jet will fire to any of the above four directions if both the =
+push
+    button is depressed and the joystick is maneuvered to the
+    corresponding direction.
+    [haha! the push button is depressed, poor little push button.... =
+ohhhh!]
+(4) If a missile ejected from the jet is not activated, no further =
+missile can
+    be emitted.
+(5) The bases at ground level fire missile randomly into the sky for
+    defensive purpose.
+(6) Some missiles from the base may take the form of a floating ball =
+which
+    will become a heat-seeking missile and attack the jet.
+(7) If the jet is shot by the missiles or if it collides with the =
+floating ball, it
+    will explode and player loose one of his three chances.
+(8) If the bases are shot by the jet, they will explode and vanish from =
+the
+    screen.
+(9) Difficulty is enchanced when level is advanced with increasing =
+number
+    of bases, alls and the speed of missiles.
+(10)There are 6 distinct level in one complete cycle and game pattern =
+will
+    recycle upon completion of all 6 level.
+(11) The maximum score is 999999.
+
+
+

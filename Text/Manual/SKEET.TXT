@@ -1,0 +1,125 @@
+Manual typed by Ivan Shepperd, 73430.2705@compuserve.com
+
+*** SKEET SHOOT ***
+
+For 1 or 2 Players
+
+DIRECTIONS INSIDE FOR 17 EXCIEING GAME VARIATIONS!
+
+GAME INSTRUCTIONS
+
+
+SKEET SHOOT
+
+Pull!  The trap springs, and the clay pegeon -- alive with flight -- soars away
+from you at an unexpected angle.  With a fluid motion, you raise your gun to
+your shoulder as you pivot toward you target.  You lead your pegeon, finger on
+the trigger...your mind racing...challenged by the speeding target before you.
+Will your reactions be too slow?  Too fast?  Or right on course?  Suddenly you
+squeeze the trigger!
+
+
+THE SET-UP
+
+Skeet Shoot(tm) is played with one or two players using the Joustick
+Controllers.  Be sure the power is off whenever you insert or remove Skeet Shoot
+from you video game system.
+
+
+THE DIFFICULITY SWITCH
+
+Set the Difficulity Switch on the A (up) position to start.  With the switch in
+this position, the clay pigeons travel slower than in the B (down) position.
+
+To provide a handicap advantage for a less experienced player in a two-player
+game, you may vary the positions of the Difficulty Switch.  Simply leave the
+switch in position A for the inexperienced player, and in position B for player
+number two.
+
+
+THE JOYSTICK CONTROLLER
+
+ONE_PLAYER GAME  Hold your joystice controller so that the red "FIRE" button is
+in the upper lefthand corner.  Use this button to release the clay pigeon (Press
+once and release) and to fire your gun (press again and release).  Use your
+Joystick to aim your gun.
+
+
+                        SHOOT
+                         UP
+                          ^
+              SHOOT       |       SHOOT
+            DIAGONALLY    |    DIAGONALLY
+               LEFT   \   |   /   RIGHT
+                       \  |  /
+                        \ | /
+    SHOOT                \|/             SHOOT
+    LEFT    <-----------------------------> RIGHT
+                        STOP
+
+
+Hold your Joystick to the left, and you will shoot to the left.  Hold it
+diagonally left, and you will shoot diagonally left, etc., as illustrated in the
+diagram above.
+
+
+TWO-PLAYER GAME  Except for Game No. 2 all play is the same as that described
+for the One-Player Game.  The only difference is that players take turns in
+shooting.
+
+
+GAME NO. 2  (See Game Menu) In this game, there are two variations from the
+other Two-Player Games:
+
+1.  In this variation, the player determines the shooter's position on the
+screen by holding the joystick in the position in which he wishes the shooter to
+appear (left, center or right).  In all other Two-Player games, the computer
+determines the shooter's position.
+
+2.  In the second variation, the opponent determines determines the target
+direction by holding the Joystick in the position in which he wishes the target
+to appear (left, center or right).  In all other Two-Player Games, the computer
+determines the target direction.
+
+
+There are seventeen variations of Skeet Shoot(tm).  Select your favorite with
+the Game Select switch on your console, choosing from any of the variations
+shown below on our game matrix.
+
+
+GAME MENU
+
+           ONE PLAYER     |      TWO PLAYER
+GAME |  TARGET | SHOOTER  |   TARGET | SHOOTER
+ NO. | L C R V | L C R V  |  L C R V | L C R V
+-----+---------+----------+----------+---------
+  1  |       V |       V  |          |
+  2* |         |          |        V |       V
+  3  |     R   |       V  |          |
+  4  |   C     |       V  |          |
+  5  | L       |       V  |          |
+  6  |       V |     R    |          |
+  7  |         |          |        V |     R
+  8  |       V |   C      |          |
+  9  |         |          |        V |   C
+ 10  |       V | L        |          |
+ 11  |         |          |        V | L
+ 12  | L       | L        |          |
+ 13  | L       |   C      |          |
+ 14  |   C     | L        |          |
+ 15  |   C     |     R    |          |
+ 16  |     R   |   C      |          |
+ 17  |     R   |     R    |          |
+-----------------------------------------------
+
+L = Left           C = Center        R = Right
+    V = Variable (Computer varies target direction
+                 or shooter's position.)
+
+* In Game No. 2, the player determines shooter's position and opponent
+determines target direction.
+
+
+(c) 1981 Games by Apollo
+a division of National Career Consultants, Inc.
+

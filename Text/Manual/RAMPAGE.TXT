@@ -1,0 +1,147 @@
+	R A M P A G E
+	For the Atari 2600
+	Activision
+
+Rampage was reprogrammed for the Atari 2600 by Bobco.
+Produced by Activision by Tom Sloper.
+Product Management by John Crompton.
+Product Testing by Steve Imes and Larry Weissenborn.
+
+For a recorded message about our newest software, call 415-329-7699.
+For technical help, call Product Support between 9:30 a.m. and 4:30 p.m.
+Pacific time Monday through Friday, 415-329-7699.
+
+If you have a modem, you can contact Activision through our electronic
+Product Support Bulletin Board System: 415-329-7684.
+
+For information about our products, write to:
+	Product Support
+	Activision
+	P.O. Box 3048
+	Menlo Park, CA 94025
+
+For the best service, be sure to note the subject of your inquiry on the
+outside of the envelope.
+
+	COPYING PROHIBITED
+	This software is copyrighted and all rights are reserved by Activision.
+The distribution and sale of this product are intended for the use of the
+original purchaser only and for use only on the computer system specified.
+Copying, duplicating, selling, or otherwise distributing this product
+without the expressed written permission of Activision are violation of U.S.
+Copyright Law and are hereby expressly forbidden.
+
+Copyright 1989 Activision.  All rights reserved.
+
+RAMPAGE and Bally Midway Mfg. Co. All rights reserved.  Used under
+authorization.
+
+Atari is a registered trademark and Atari 2600 and 7800 are trademarks of
+Atari Corp.
+
+
+
+	R A M P A G E
+
+Partners in Crime
+You and your buddy are ready for a little mass destruction.  You'll demolish
+buildings, grab and chomp horrified humans, and flatten puny helicopters and
+other antagonists who try to stop you.
+
+But you won't stop at just one town.  RAMPAGE has 85 cities for you to
+totally tr ash.  And you can put together one riotous wrecking crew from the
+likes of George the Ape, Lizzie the Lizard, and Ralph the Wolf.
+
+Getting Started
+1.	Connect up your video game system according to the manufacturer's
+instructions.
+2.	Plug in your joysticks.  For a one-player game, use the left joystick.
+3.	With the power OFF, insert the RAMPAGE cartridge.
+4.	Turn the power ON.  The RAMPAGE title screen will appear.  Press your
+joystick button or the SELECT button to go to the Monster Selection Screen.
+
+Selecting Your Wrecking Crew
+At the Monster Selection Screen, move the joystick up or down to highlight
+the name of your favorite monster, then press the joystick button once to
+select that monster.  In a two-player game, the second player than selects
+one of the remaining monsters using the same procedure.
+
+Once your monster has been selected, press the joystick button a second time
+to start a one-player game.  In a two-player game, the game will start
+immediately after the second monster has been selected.
+
+Each player begins the game with three lives.
+
+Trashing Cities
+You can destroy as many as 85 North American cities.  Your goal is to
+demolish every building in each city wile trying to avoid enemy fire.
+
+As you CLIMB a building, you'll PUNCH holes in the walls and GRAB and CHOMP
+people and other delectables.  Keep an eye out for helicopters, trolleys,
+boats, police care,s and tanks.  A good PUNCH will lay 'em out cold.
+
+Stalking Through A City
+To WALK right or left, move the joystick in the direction you want to move.
+
+Scaling Skyscrapers
+To CLIMB a building, move RIGHT or LEFT to approach it, then move the
+joystick UP to climb.
+
+Punching
+To PUNCH, hold the joystick in the direction you want to punch, then press
+the joystick button.
+
+Chomping
+Whenever you PUNCH certain enemies or innocent bystanders, you'll
+automatically GOBBLE them up.  Keep in mind that soldiers and civilians that
+appear inside buildings can be eaten only if they're a different color from
+that of your monster.
+
+Jumping
+To JUMP, simply press the joystick button with the joystick centered.
+
+
+Your Energy Level
+The DAMAGE BAR directly under your score lets you kown how you're doing.
+
+If you run out of energy completely, you'll automaticall turn into a measly
+human and lose one of your lives.  If you have any lives remaining, the
+RAMPAGE Blimp will deliver your backup monster.
+
+
+KEEPING SCORE
+Action Item						Points Awarded
+Punching a Building					   50
+Eating a Pedestrian or Soldier		   50
+Punching Another Monster				  250
+Punching a Tank					  250
+Punching a Police Car				  250
+Punching a Pickup Truck				  250
+Punching a Trolley or Boat			  250
+Eating a TV (when it's turned off)		  500
+Grabbing Money						  500
+Eating Flowers						  500
+Punching a Helicopter				  750
+Punching a Sign					 1000
+Eating a Transformed Monster			 1000
+
+You earn an extra life for every 10,000 points you score.
+
+
+Playing Tips
+-	Try to eat as much food as possible to keep up your energy level.  But
+beware!  Some delectables -- like cactus, toasters, bottles of poison, and
+TVs (when turned on) -- may give you a bad case of indigestion.  You'll soon
+learn that flickering objects, in general, can give you one bad bellyache.
+-	If you're in a hurry, JUMPING is much faster than WALKING.
+-	To avoid enemy fire from police cars and tanks, try to position your
+monster behind each such vehicle and then destroy it with a powerful punch.
+-	You'll need to climb on top of the tallest building in order to punch a
+helicopter.
+-	In a two-player game, punch the other player's monster to reduce his
+remaining strength, as indicated by his DAMAGE BAR.  If he's transformed
+into a helpless human, gobble him up to gain extra strength and bonus points.
+
+
+
+

@@ -1,0 +1,163 @@
+WORM WAR I
+ 
+TO SET UP:
+Set up your video game system and joystick controllers as instructed in
+your manufacturer's owner manual. (Use the left joystick controller
+for one player.) Turn the power off and insert the Worn War I game
+cartridge.
+ 
+TO BEGIN:
+Turn the power ON and choose the Difficulty Level (or Player Skill Level)
+and Play Option you want. Press the Game Reset lever to leave the
+"Demo Mode" and get ready to do battle with the hideous giant worms
+of Teriyaki!
+ 
+THE OBJECTIVE:
+Your mission, as a master tank commander, is to drive through the city
+of Teriyaki and blast away as many Worms and Blocks as possible
+without running out of fuel.
+ 
+THE CONTROLS:
+Tilt your joystick left and right to pilot your tank back and forth across 
+the screen. Tilt the joystick forward to speed up and backward to slow
+down. Press the joystick button once for a single shot or hold the button
+down for rapid fire.
+ 
+PLAY OPTIONS:
+Use the Game Select lever to choose a play option at any time during
+the game.
+ 
+SINGLE PLAYER OPTIONS:
+OPTION 1: The "Obstacle Course" begins with side Wall Segments and
+a clear playing screen. Obstacles appear after the first group of Worms
+are demolished and grow denser each round.
+ 
+OPTION 2: The "Straightaway" maintains a clear playing screen.
+ 
+OPTION 3: "Invisible Worms" uses the Option 1 playing screen, but
+Worms are only visible during brief flashes that light up the screen.
+ 
+2 PLAYER COOPERATIVE OPTIONS:
+In the cooperative options, the two tanks drivers SHARE fuel and points.
+OPTION 4 uses the same screen as in Option 1.
+OPTION 5 uses the same screen as in Option 2.
+OPTION 6 uses the same screen as in Option 3.
+ 
+2 PLAYER COMPETITIVE OPTIONS:
+In the competitive options, each tank driver has a separate fuel and
+score tally.
+OPTION 7 uses the same screen as in Option 1.
+OPTION 8 uses the same screen as in Option 2.
+OPTION 9 uses the same screen as in Option 3.
+ 
+DIFFICULTY/PLAYER SKILL SWITCHES
+The LEFT Difficulty Switch (or Player Skill Switch) controls the Worm
+MOVEMENT.
+A (or up)   = Random Worm Movement
+B (or down) = Fixed Worm Movement
+ 
+The RIGHT Difficulty Switch (or Player Skill Switch) control the Tank
+movement RESPONSE.
+A (or up)   = Slower Brake Response
+B (or down) = Faster Brake Response
+ 
+FUEL:
+As each battle begins you tank is filled with 99 fuel units. You lose 
+fuel by moving forward and by crashing into obstacle Blocks or giant
+Worms. You can refuel by driving through Pagoda Gas Station. The
+faster you drive through, the more fuel you get, though your tank can
+carry no more than 99 units. The fuel gauge is located at the top of the
+screen. Worm War I ends when you run out of fuel, or, in option 7, 8 and
+9 when both players' tanks are empty.
+ 
+FUEL CHART:
+Running into a Worm = 10 fuel points lost
+Running into a Block = 5 fuel points lost
+Moving forward one Wall Segment = 1 fuel point lost
+Driving through a Gas Station = 1 to 12 gained
+ 
+SCORING:
+The more Worms you rack up, the higher your score. The Worms will
+always attack in groups. Each group begins with the appearance of one
+Worm on the screen, the two Worms and then three on up to six Worms
+at once! You earn 20 points for each Worm shot in the first attack group.
+The Worm point value increases AND bonus points are awarded after
+each group is destroyed.
+ 
+You can also get points for blasting down obstacle Blocks. Blocks are 
+always worth 5 points apiece.  Be sure to record your high scores on the
+back of this folder!
+ 
+HINTS FROM THE DESIGNER...
+To avoid being totally clobbered by hordes of Worms, pull back on the
+stick whenever a new group is appearing.
+ 
+If a fuel Pagoda appears on top of a Block, carefully shoot away the
+Block, or try just to nick the Pagoda.
+ 
+When you are refueling, you are safe from collisions. Use this to move 
+over inconvenient Blocks.
+ 
+The far left and right sides of the screen are safe spots, but don't hang
+there too long. If you don't shoot Worms, you won't bring on any Pagodas.
+ 
+Have a good time and show those Worms who's boss.
+ 
+SOON TO BE RELEASED BY FOX VIDEO GAMES:
+ 
+GAMES BASED ON HIT MOVIES!
+ 
+PORKY'S - More Fun Than A Greased Pig!
+A Mel Simon Production
+ 
+SIX PACK - Fast Lane Fun!
+A Lion Share Production
+ 
+9 TO 5 - Take This Game And Play It!
+A 20th Century Fox Film Corporation Production
+ 
+MEGAFORCE - Where Action Speaks Louder Than Words!
+A Raymond Chow Production
+ 
+ 
+MORE FAST ACTION ENTERTAINMENT!
+ 
+TURMOIL - A Topsy-Turvy Rapid Reflex Test
+Program And Audio Visual copyright 1982 Sirius
+ 
+ 
+GREATEST GUNNERS:
+ 
+Name                   Option  Score
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+_____________________  ______  ___________
+ 
+ 
+Programmed by David Lubar
+Program and Audio Visual copyright 1982 Sirius Software
+Packaging copyright 1982 Fox Video Games
+ 
+Games Of The Century Is A Trademark Of Fox Video Games
+Sirius Is A Trademark Of Sirius Software
+ 
+Printed In Taiwan
+ 
+Fox Video Games, Inc., Saratoga, California 95071
+******************************************************************************
+*email at aadavis@mindgames.com if interested in trading Atari, Odyssey2,    *
+*Colecovision, Intellivision, C=64, Vic-20, or CoCo carts or systems.        *
+*Games: 2600:246, 5200:25, 7800:26, Coleco:38, Intellivision:56, Odyssey2:33 *
+******************************************************************************
+
+

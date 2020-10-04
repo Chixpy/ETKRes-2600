@@ -1,0 +1,77 @@
+<Picture>
+
+<Picture>ChasetheChuckwagon<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+chase the chuckwagon
+instructions for use
+
+(1) turn off your video game machine and insert a joystick
+    controller into the left joystick slot.
+
+(2) insert the chase the chuckwagon cartridge in the cartridge
+    slot.
+
+(3) turn video game machine on.
+
+(4) to begin play, press the select switch to clear the machine
+    and the game select switch to start.
+
+(5) the object of the first maze screen is to move chuckie, the 
+    dog, through the maze and escape through the opening at the
+    top of the screen directly below the chuckwagon.
+
+(6) if you successfully escape from the maze, you will enter the
+    reward screen.
+
+(7) the reward screen requires you wait until the dog dish is
+    even with chuckie and then press the joystick fire button
+    to allow chuckie to move to the dish and eat.  this will
+    score an additional 100 points.
+
+(8) if you miss, no points will be awarded and you will simply
+    go ahead to the next maze screen.
+
+(9) in each maze screen, there will be objects appearing on the 
+    screen and bouncing from side to side.  these should be 
+    avoided.  if they hit chuckie, he will be frozen temporarily
+    which will decrease your score.
+
+(10) also, in each maze, there is a dogcatcher who is chasing 
+    chuckie.  if he catches chuckie, you will lose a life.  you
+    only have three to start with so be careful.
+
+(11) when the game is over, your score will be displayed on the 
+    screen.  it will be the total of each maze screen score and
+    the total of each reward screen score.
+
+
+note:  for a real challenge, start the game with the switch on
+       the video game set at expert.  this will only allow you
+       thirty seconds per maze and the speed will be increased.
+       also, as the game progresses, the speed will increase.
+
+This document typed by jearney@farad.elee.calpoly.edu.
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

@@ -1,0 +1,173 @@
+	VIDTEC   VC 1002
+
+	SNEAK'N
+	PEEK
+
+	Instructions
+
+U.S. Games Corporations
+A Subsidiary of The Quaker Oats Company
+1515 Wyatt Drive
+Santa Clara, California 95054
+
+
+Sneak'n Peek Game Variations
+
+Sneak'n Peek is a one or two player hide and seek game designed to be played
+on the Atari Video Computer System or the Sears Video Arcade.  There are
+four variations of the basic game and two levels of difficulty to increase
+your enjoyment and test your skill.
+
+Sneak'n Peek is played in and around a spooky old house with a large yard
+and three weird rooms.  Each room, including the yard, is a separate scene:
+
+-	a living room
+-	a pink bedroom
+-	a blue bedroom
+-	the yard
+
+Each scene contains up to five hiding places.  That makes a total of twenty
+hiding locations.  Some of them are in really strange places, and some of
+the locations can change depending on the level you select.
+
+The game always begins in the living room with player one standing in the
+corner and covering his eyes.  Player two may sneak in to any of the five
+hiding places in the living room or exit through the door to another scene.
+To enter another room or go out-of-doors, move the player through the
+doorway and a new scene will appear.
+
+When a hiding place is found, simply move the joystick and the hiding place
+will pull the player in, making him invisible.  If you don't like the hiding
+place and want to move to another, then before the player is all the way
+into the hiding place, hold down the Red Button while moving the Joystick
+and the player will back away.  A timer keeps track of how long it takes the
+player to hide.
+
+Once the player is hidden, the computer will signal the other player to
+begin seeking the sneaky hider and his counter will begin counting.  Player
+two must peek in the hiding places.  When player one has been found, player
+two will automatically be pulled into the hiding place and the timer will
+stop.  Immediately the living room scene will reappear and the roles will
+automatically reverse.  Player two can then hide while player one covers his
+eyes in the corner.  (You will probably want your opponent to really cover
+his own eyes while you are hiding your player so that he can't sneak a peek.)
+
+With practice, you will be able to find and remember all of the hiding
+places, and be able to fine your opponent in less time than he takes to find
+you when it is your turn to hide.
+
+If a friend isn't available to play, the computer will be happy to hide from
+you.  It knows all of the hiding places and is very sneaky.
+
+[Screen Shot of Living Room scene: Timer up top, Door black rectangle on
+left side of screen, Seeking Player in corner with hands over eyes, and
+Hiding Player in front of blue couch.]
+
+
+Sneak'n Peek Game Variations
+
+Game 1
+One Player Game
+Fixed Hiding Places
+Computer Hides
+
+Game 2
+Two Player Game
+Fixed Hiding Places
+Players Both Hide
+
+Game 3
+Two Player Game
+Variable Hiding Places*
+Players Both Hide
+
+Game 4
+Two Player Game
+Fixed Hiding Places
+Computer Hides
+
+* 3 fixed hiding places and 2 variable hiding places.  The 2 variable hiding
+places can change from their standard positions to new positions in the same
+scene.  They change every time a player enters the scene to hide.
+
+
+Instructions
+1.	Connect the Atari Video Computer System or Sears Video Arcade following
+the manufacturer's instructions.
+2.	Install the Joystick controls.  The Left Joystick controls the dark color
+player and the Right Joystick controls the light color player.  For game
+variation number one, only the Left Joystick control is used.
+3.	Insert the cartridge, making certain that the power is OFF.
+4.	Move the power switch to ON.
+5.	Select the game variation of your choice.  Continuous activations of the
+SELECT switch will cycle the unit through four possible game variations.
+Refer to Sneak'n Peek Game Variations chart.
+6.	Select the desired level of difficulty.  The Left Difficulty Switch
+controls the Left Joystick and the Right Difficulty Switch controls the
+Right Joystick.  The difficulty levels are:
+		Position A -	Most difficult game play.
+		(Expert)	The size of the hiding place is very small and entry can
+                                be gained only by moving the player in a
+specific direction.
+		Position B -	Least difficult game play.
+		(Novice)	The size of the hiding places is much larger and entry into
+                                the hiding places occurs independent of the
+player's direction
+                                of movement.
+7.	Sneak'n Peek has two timers, one for the hiding player and one for the
+seeking player.  The seeking player's timer is four times slower than the
+hiding player's timer.  The hiding player's timer counts up; the seeking
+player's timer counts down.
+8.	To reset the game at any time, simply depress the RESET switch on the
+Atari Video Computer System or Sears Video Arcade.
+
+
+Diagrams of Hiding Places
+(including direction required to enter each hiding place and whether it each
+is a variable or fixed hiding place.)
+
+Living Room
+Under Blue Couch (up, fixed)
+Behind Blue Couch (left, fixed)
+Bottom of Room Left (down, fixed)
+Bottom of Room Right (down, variable)
+Corner of Room, Right-side of Couch (up, variable)
+
+Blue Bedroom
+Under Side of Pink Bed (up, fixed)
+Under Foot of Pink Bed (up, fixed)
+Left Side of Room Bottom (left, variable)
+Right Side of Room (right, variable)
+Closet Right Side (right, fixed)
+
+Pink Bedroom
+Under Side of Blue Bed (up, fixed)
+Under Foot of Blue Bed (up, fixed)
+Closet Left Side (left, fixed)
+Room Floor Center Left (up, variable)
+Room Floor Center Right (up, variable)
+
+The Yard
+Left Side of House (right, fixed)
+Right Side of House (left, fixed)
+Walkway (up, fixed)
+Right of Front Door Under Windows (up, variable)
+Right Side of Yard (right, variable)
+
+
+Look for more Vidtec videogames wherever you buy game cartridges.  Drop us a
+note and we'll be glad to add your name to our mailing list and keep you
+posted on new Vidtec game cartridges when they become available.
+
+USG Vidtek
+U.S. Games Corporation
+A Subsidiary of The Quaker Oats Company
+1515 Wyatt Drive
+Santa Clara, California 95054
+
+ATARI and Video Computer System are trademarks of Atari, Inc.
+
+VC 1002  Copyright 19812 U.S. Games Corporation.
+Printed in Taiwan.
+
+Manual typed by Lafe Travis.

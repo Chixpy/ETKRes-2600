@@ -1,0 +1,301 @@
+VIDEO PINBALL TM
+
+ATARI GAME PROGRAM TM INSTRUCTIONS
+
+ATARI
+
+A Warner Communications Company              MODEL CX2648
+
+
+
+SCORING             PINBALL IN          HELPFUL HINTS
+Section 6           YOUR OWN HOME       Section 7
+
+
+
+
+NOTE: Turn the console power switch off when inserting or
+removing a Game Program. This will protect the electronic
+components and prolong the life of your ATARI Video Computer
+System.                                 (c) 1981 ATARI, INC.
+
+
+
+GAME PROGRAM TM INSTRUCTION
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION                         2
+
+2. OBJECT OF THE GAME                   3
+
+3. USING THE CONTROLLERS                4
+
+4. CONSOLE CONTROLS                     5
+
+5. SCORING                              6
+
+6. GAME VARIATIONS                      7
+
+7. HELPFUL HINTS                        8
+
+
+
+1. INTRODUCTION
+
+How many of you out there have always longed to be a pinball
+wizard? It's a good bet that some of the places you had to go
+to play a game of pinball weren't the most comfortable for
+you. Well, relax. Since you were wise enough to invest in this
+ATARI (r) VIDEO PINBALL TM Game Program TM, you'll never have
+to worry about being at places with that kind of unsavoury
+atmosphere again.
+
+VIDEO PINBALL has the challenge and the excitement of standard
+pinball games, and it doesn't have any idea what a quarter is.
+So not only are you spared the unpleasant task of stuffing
+quarters into hungry machines, you have the comfort and the
+well-being of your home. What more could a pinball enthusiast
+ask for? And as for you pinball wizards, don't think you can
+master this one lickety-split. It'll be a while before your
+wiz rating is restored and in full swing.
+
+Just in case you're a pinball rookie, there's only one thing
+you need to know. You're going to love it. You may have stayed
+away from the more traditional places of pinball habitation in
+the past, but now you're going to see why so many other people
+have gone goofy with "pinball madness". As a matter of fact,
+you'll probably catch the fever yourself within about 20
+minutes.
+
+So take a deep breath, turn up the stereo, and jump right into
+VIDEO PINBALL. One more thing. Better get yourself a piggy
+bank for all those quarters you're going to save.
+
+2. OBJECT OF THE GAME
+
+The object of the game is to keep the ball in play as long as
+possible and to score as many points as possible.
+
+Pinball is one of the fastest growing indoor sports. It
+provides many forms of amusement, including competition,
+challenge, excitement, and stimulation. ATARI'S VIDEO PINBALL
+provides you with the challenge of pinball wizardry in your
+own home.
+
+VIDEO PINBALL TM is a game of skill and chance. It is like the
+large arcade pinball games, complete with sounds and bright
+colors that set the mood for the ultimate VIDEO PINBALL
+challenge.
+
+Each player starts with three balls. Every time you hit the
+ATARI rollover four times, you get an extra ball. The extra
+ball is indicated by a large X at the bottom of the scree.
+Playing VIDEO PINBALL requires skilful control of the flippers
+which are located at the bottom, center of the screen. When
+the ball drops to the bottom of the screen, you send it back
+into the playfield by using the flippers. The flippers are
+controlled with your Joystick Controller. It's your job to
+guide the ball within the playfield hitting bumpers, spinners,
+targets, and rollovers to score points.
+
+Use your Joystick Controllers to "nudge" the ball, but don't
+"nudge" too much, or you'll cause a "tilt". If you "tilt" the
+game, your ball scores no more points and any extra balls are
+lost. (See HELPFUL HINTS to learn more about nudge and tilt.)
+
+3. USING THE CONTROLLERS
+
+Use your Joystick Controllers with this ATARI (r) Game Program
+TM. 
+
+Be sure to plug the controller cables firmly into the jacks at
+the back of your Video Computer System TM.
+
+Hold the controller with the red button to your upper left
+toward the television screen. Use the LEFT CONTROLLER jack for
+one-player games. See Section 3 of your owners manual for
+further details.
+
+Use the Joystick Controller to move your flippers. Move the
+Joystick to the right to move the right flipper up, and to the
+left to move the left flipper up. Move the Joystick up to move
+both flippers at the same time.
+
+
+
+          Both Flippers
+                ^
+              \ | /
+Left Flipper <-----> Right Flipper
+              / | \
+                v
+  
+
+Use you Joystick Controller to start the game. Pull the
+Joystick down (towards you) to bring the plunger back. 
+
+Press the red controller button to release the spring and
+shoot the ball into the playfield.
+
+You can also use your Joystick Controller to "nudge" or apply
+"body English" on the ball. "Nudge" or "body English" means
+forcing the ball to go in a particular direction. To do this,
+hold the red button down while you push the Joystick in the
+direction you want the ball to go. All games allow you to
+"nudge " the ball. (See GAME VARIATION for further
+explanation.)
+
+4. CONSOLE CONTROLS
+
+To select a VIDEO PINBALL game, press down the game select
+switch.
+
+The number of players for each game appears at the upper left
+corner of the television screen. The game number appears to
+the right of the player number. 
+
+When you have selected the game you want to play, press down
+the game reset switch to start the action.
+
+Each time game rest is pressed down the game starts over. When
+game play starts, the player number and the ball number appear
+at the top of the screen to the left of the score.
+
+Difficulty Switches
+
+VIDEO PINBALL offers two difficulty levels - a and b. The a
+level is for expert pinball players, also known as pinball
+wizards. The b level game is for the beginning or novice
+pinball player. The a level game has two extra drain holes at
+the bottom of the playfield. Each VIDEO PINBALL player may
+choose his or her own difficulty level. In a one-player game,
+use the left difficulty switch. For two-player games, the left
+player uses the left difficulty switch; the right player uses
+the right difficulty switch. Difficulty levels may be changed
+at any time during game play.
+
+5. SCORING
+
+You score points each time your ball hits targets, bumpers,
+rollovers, or spinners. The scoring is fast, and you'll hear
+special electronic sounds as points are scored. When bonus
+points are scored the screen flashes. Scores are posted at the
+top right of the screen. In two-player games, each player's
+score appears with each turn. At the end of a two-player game
+both player's scores alternate at the top of the screen.
+
+Points are scored as follows:
+
+SPINNERS
+1 point each time the ball hits the spinner.
+
+BUMPERS
+100 times their current value. The value inside the bumper
+increases time all of the diamond shaped drop targets are
+knocked down.
+
+DROP TARGETS
+100 points each time a drop target is hit.
+
+ATARI ROLLOVER
+
+100 points; after hitting the ATARI rollover four times, you
+receive an extra ball. Each time it rolls over, the bonus
+multiplier increases by one. Only one extra ball can be
+awarded with each turn. The number of ATARI rollovers hit is
+indicated at the bottom of the screen by one [atari symbol]
+for each hit.
+
+LEFT ROLLOVER
+100 points each time it rolls over. Its value increases by one
+with each hit. When the ball drains, you receive 1000 points
+for each time it has rolled over, (up to 4000 points).
+
+SPECIAL LIT TARGET
+This target lights up for only four seconds. It is located
+between the two lower bumpers. Each time it is hit, the screen
+flashes and you score 1000 points.
+
+The bonus multiplier is tallied at the end of a turn.
+
+This rapid scoring is accompanied with a "whirring" sound.
+When you have scored one million points the score rolls over
+and starts again. When this happens you do not lose the
+additional 999999 points, they remain part of your score.
+
+6. GAME VARIATIONS
+
+VIDEO PINBALL has four exciting game variations. There are two
+games for one player and two games for two players. The
+variations are:
+
+GAME 1 is a one-player game. GAME 1 allows you to nudge the
+ball. Too much nudge will cause you to lose the ball (TILT)
+and any extra ball is lost. During GAME 1 the bumper values
+are accumulated for an entire game.
+
+GAME 2 is a two-player version of GAME 1. Each player takes at
+turn with one ball at a time. The turn lasts until the ball
+drains. Each player's score appears at the top of the screen
+with each turn. The left player is always number one.
+
+GAME 3 is a one-player game similar to GAME 1 except that the
+bumper values are not accumulated. The bumper values are reset
+with each new ball. GAME 3 is just a bit tougher than GAME 1.
+For a real challenge, try GAME 3 with difficulty level a.
+
+GAME 4 is a two-player version of GAME 3. Each player takes a
+turn with one ball at a time. The turn lasts until the ball
+drains. Each player's score appears at the top of the screen
+with each turn. As in GAME 2, the left player starts the game.
+
+7. HELPFUL HINTS
+
+TILT
+Tilt is caused by nudging the ball too much. When a tilt
+occurs, the top portion of the television screen turns red,
+your flippers are frozen, you cannot score points, and
+eventually the ball is lost through a drain. If an extra ball
+was earned before a tilt, you lose it. You still retain the
+bonus earned from the left rollover.
+
+NUDGE
+Nudging can be very helpful in preventing a lost ball. If the
+ball gets too close to a drain, you can use a nudge to move
+the ball and prevent it from dropping down the drain. Nudge
+the ball by holding the red controller button down whilst
+pushing the Joystick in the direction you want the ball to go.
+You can also use a nudge to help score points by nudging the
+ball towards a rollover or target.
+
+BANK SHOT
+Use the flippers to maneuver the ball so that it rebounds off
+a playfield device (bumper, rollover etc.), and then moves
+toward a specific target.
+
+PLUNGER
+Experiment with the plunger. Try pulling it halfway back, or
+all the way back, or anywhere in between. You might find you
+have better control over the ball with a particular plunger
+setting. Sometimes, a combination of plunger setting and
+nudging will help send the ball in the direction of the ATARI
+rollover.
+
+
+
+ATARI
+A Warner Communications Company
+
+ATARI, INC., Consumer Division
+P.O. Box 427, Sunnyvale, CA 94086
+
+C016943-48 REV. 1                            Printed in U.S.A
+
+
+
+
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

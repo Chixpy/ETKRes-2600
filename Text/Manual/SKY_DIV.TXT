@@ -1,0 +1,125 @@
+SKY DIVER(TM)
+
+GAME PROGRAM(TM)
+INSTRUCTIONS
+
+Model CX2629
+
+ATARI(R)
+(W) A Warner Communications Company
+
+ATARI, INC., Consumer Division
+1195 Borregas Ave., Sunnyvale, CA 94086
+
+(C) 1979 ATARI, INC.    C011402-29
+
+Use your Joystick Controllers with this Game Program(TM).  Be sure the
+controllers are firmly connected to your Video Computer System(TM).  Hold
+the controllers with the red button to your upper left toward the television
+screen.  See Section 3 of your owners manual for further details.
+
+Note: The console unit should be off when inserting or removing a Game
+Program.  This will protect the electronic components and prolong the life
+of your Atari(R) Video Computer System.
+
+HOW TO PLAY
+
+Your initial task is to guide the Sky Diver(TM) onto the landing pad.  Your
+ultimate task is to score more points than your opponent.  To hit the landing
+pad and score points you must:
+
+* Release the Sky Diver from the airplane.
+* Open the parachute.
+* Control the downward drift of the Sky Diver.
+* Land squarely on the pad at the bottom of the screen.
+
+There are five two-player games in Sky Diver.  You and your oppenent have
+nine jumps each in which to score points.  See the SCORING section for details.
+
+Both planes fly across the screen simultaneously, but in opposite directions.
+
+Wind Factor
+
+You must contend with a varying wind factor during eachg jump (except in Games
+3 and 4).  The "wind sock" at the bottom, center of the screen indicates the
+direction and the speed of the wind.
+
+If the sock is pointing to the right, the wind is blowing to the right, and
+conversely for the left.  If the sock is hanging loosely, the wind speed is
+slower than when the sock is flying rigidly and taut.
+
+The wind factor changes between jumps and may vary slightly during a jump.
+
+Console Controls
+
+To select a game depress the game select switch.  The game number is shown in
+the upper left corner of the screen.
+
+To begin a game depress the game reset switch.  During game play the number of
+jumps remaining is shown at the bottom left corner of the screen.
+
+USING THE CONTROLLER
+
+The left player uses the left Joystick; the right player uses the right
+Joystick.  You have no control over the flight of the plane across the screen.
+Here's how to use your Joystick Controller to operate the Sky Diver:
+
+1. Push the red button on your Joystick Controller to release the Sky Diver
+from the plane.
+
+2. Pull back on the Joystick (toward yourself) to open the parachute.
+
+3. Move the Joystick to the right and to the left to steer the Sky Diver right
+or left against the wind.
+
+SCORING
+
+Here's where to combine nerve and skill to beat your opponent.  You only score
+points when your Sky Diver lands squarely on the pad with an open parachute.
+
+THE LONGER YOU WAIT TO OPEN THE PARACHUTE, THE MORE POINTS YOU SCORE.
+
+You can score from 0 to 11 points per jump, depending on when you open the
+chute.  There is a point at the bottom of the descent where the parachute can
+no longer be opened.
+
+If your Sky Diver hits the ground with an unopened chute, you lose four points.
+
+The maximum score to shoot for in all games is 99.  The right and left scores
+on the screen represent the right and left players, respectively.
+
+HANDICAP (Difficulty Switches)
+
+Beginning players should start with the difficulty switch in the b position.
+In the a position, the planes fly significantly faster across the screen,
+thereby increasing the difficulty.
+
+It is possible for one player to have fast planes (using the a position), and
+the other player to have slow planes (using the b position), in the same game.
+
+The difficulty switches have no effect in Game 5.  Both planes fly at the
+faster speed.
+
+GAME DESCRIPTIONS
+
+Games 1 and 2 are identical with one exception.  In Game 2 the width of each
+landing pad is smaller, making it more difficult to score points.  The landing
+pads are placed in different spots for each jump.
+
+In Games 3 and 4 the landing pads move back and forth.  There is no wind
+factor.  The landing pads in Game 4 are smaller in width.
+
+Play "chicken" in Game 5 with your opponent.  There's only one landing pad in
+the middle of the screen.  The first player to land squarely on the pad
+scores points; the other player receives no points for that jump.
+
+ATARI(R)
+
+(W) A Warner Communications Company
+
+ATARI, INC. Consumer Division
+1195 Borregas Ave., Sunnyvale, CA 94086
+
+Printed in USA Rev 1
+
+This document typed by gchance@ecst.csuchico.edu.

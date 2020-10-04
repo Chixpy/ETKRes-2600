@@ -1,0 +1,257 @@
+<Picture>
+
+<Picture>Air_Raiders<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+AIR RAIDERS
+	
+
+Instructions (for 1 player)
+---------------------------
+
+The object of the game is to blast enemy aircraft out of the sky...and 
+dodge ground missiles!!!  Zero in on enemy planes!  Bank left, bank 
+right, dive, climb out!  Watch your elevation!  Keep track of the fuel?  
+Run out of ammo...land and refuel...take off again!
+
+
+
+THE GAME
+--------
+
+It's a dogfight...you against the enemy!  You're the pilot, gunner and 
+navigator all in one!!!  Enemy planes are buzzing you.  Anti-Aircraft 
+ground forces are shelling you!
+
+Get an enemy plane in your sights and FIRE!  Try to shoot down as many as 
+you can!  If ground fire (flak) explodes in your sight...you're hit...you 
+quickly lose altitude.  Climb back up!  Stay clear of the flack!
+
+[picture of screen.  The following things are pointed out:  Enemy 
+Aircraft (do I need to explain what these look like?), Your Gunsight (see 
+Enemy Aircraft), Ground Shelling (Flak) (they look like little diamonds 
+in the sky), Horizon (that line where the color goes from green to blue), 
+Remaining Ammunition (the number above the word "Amo"), Heavy Flack Zone 
+(this is the middle of that bar at the very bottom of the screen), Your 
+Plane Position (the white line that travels in the bar on the bottom of 
+the screen), Remaining Fuel (the bar just above the bottom bar), Altitude 
+Gauge (the number above the word "ALT"), and Number of Planes Shot Down (the 
+number above the word "HITS")]
+
+You must shoot down at least 10 planes before you can land to refuel then 
+take off again!  The game ends when you run out of ammo completely or 
+when you crash!  Press RESET and start again.  Try to get a better score 
+each time.  Challenge a friend!
+
+
+
+THE CONTROLS
+-------------
+
+Use the left joystick controller for this game.  Be sure the controller 
+cable is securely plugged into the back of your game console.  Hold the 
+controller so the RED BUTTON is to your upper left.  
+
+[picture of correct way to hold the controller]
+
+
+
+LET'S START THE ACTION!
+-----------------------
+
+CHOOSE LEVEL OF DIFFICULTY:
+
+Before the game begins, set your LEFT Difficulty Switch to "A" or "B".  
+It's much harder to get away from enemy shelling in the "A" position.
+
+
+TAKE OFF:
+
+When you start a game, and after you refuel, press the RED BUTTON.  The 
+runway lights appear to move as your plane starts to move.  When you gain 
+speed (about 4 seconds), pull back on the the JOYSTICK for takeoff.  If 
+you try to take off before gaining enough speed, you will crash!  Wait 
+too long before takeoff and you will run out of runway.  You'll quickly 
+get the hang of the timing!
+
+[picture of the runway]
+
+Once airborne, keep clear of enemy flak and be on the alert for enemy 
+planes!!!
+
+
+FLY THE PLANE:
+
+Fly the plane by pushing on the JOYSTICK.  You can make the plane fly in 
+four different directions.  You can quickly change the direction the 
+plane is flying.  If you don't move the Joystick, you level off and fly 
+straight ahead.  
+
+Push to make the plane climb [picture of joystick being pushed down}
+
+Push to make the plane bank left [picture of joystick being pushed left]
+
+Push to make the plane dive [picture of joystick being pushed up]
+
+Push to make the plane bank right [picture of joystick being pushed right]
+
+Your point of view is through the cockpit window.  As you "turn" the 
+plane, your view changes.
+
+Turn left and dive: see more ground
+[picture of joystick being pushed up and to the left]
+[picture of horizon sloping down toward the right; half sky, half ground 
+seen]
+
+Turn right and dive:  see more ground
+[picture of joystick being pushed up and to the right]
+[picture of horizon sloping down toward the left; half sky, half ground 
+seen] 
+
+Turn left and climb:  see more sky
+[picture of joystick being pushed down and to the left]
+[picture of horizon sloping down toward the right; only a little piece of 
+ground is seen]
+
+Turn right and climb:  see more sky
+[picture of joystick being pushed down and to the right]
+[picture of horizon sloping down toward the left; only a little piece of 
+ground is seen]
+
+
+AIM AND FIRE:
+
+You're on a gunnery misson!  To fire, get the enemy in your sights, then 
+press the RED BUTTON.  Make a direct hit and the enemy plane blows up!
+
+IMPORTANT:  Don't stop shooting until you are really low on fuel!  It's 
+important to make as many hits as you can when airborne!
+
+
+WATCH THE GAUGES
+
+It's important to keep an eye on your gauges.  You can fly to a maximum 
+40 altitude (This is 40,000 feet).  There aren't many enemy planes at 
+this altitude.  Be extra careful when you dive.  You lose altitude fast!  
+Get down under 10 and you'd better climb out before you crash!
+
+Once you are airborne you begin using fuel.  Climbing uses about 4 times 
+as much fuel as diving, and about twice as much as flying level.
+
+Before liftoff, your gauges look like this.
+[picture of gauges.  Alt and Hits are at zero.  Amo is at 99.  The 
+plane's position is in the middle of the bottom gauge, and the fuel 
+gauge is full]
+
+When you get really low on fuel, it's time to land and refuel!  Time this 
+carefully or you might run out of fuel and crash!
+
+Watch the plane position indicator.  Fly into the red zone and you're 
+into heavy flak.  This zone is even more dangerous at the low altitudes.  
+Keep out of this zone as much as possible.
+
+
+LAND...REFUEL...TAKE OFF AGAIN:
+
+You can land at any time.  BUT you can only refuel and take off again if 
+you made at least 10 hits the last time up!  Wait until you are really 
+low on fuel then fly down to 00 altitude.  Wait for the runway to appear, 
+approximately 4 seconds.  Push forward on the JOYSTICK until the horizon 
+is all the way up, then release the JOYSTICK.  You've landed!
+
+Once you land to refuel, you lose some ammo.  Check you ammo gauge.  You 
+only have as much ammo as the number of hits you made last time up.  For 
+example, if you got 11 hits then landed, you will take off with 11 ammo 
+after refueling.  If you are a crack shot, you can refuel several times!
+
+Once the plane is level after landing, you can take off again.  Remember 
+to gain enough speed before takeoff!
+
+IMPORTANT:  The game ends if you crash, or if you run completely out of 
+ammo and cannot take off again!
+
+
+ENEMY PLANES:
+
+Enemy planes usually fly in threes.  Shoot one and two are left.  Go 
+after them!  This is when you need to get fancy with your flying.  If 
+they fly left or right, follow them.  If you need to conserve fuel, try 
+to shoot down as many enemy planes as you can without climbing or diving.
+
+
+
+SCORING
+-------
+___________________________________________________
+|                 |               |               |
+|  Rating         |  1st Time Up  |  Entire Game  |
+|_________________|_______________|_______________|
+|                 |               |               |
+|  Student Pilot  |     0 - 10    |     0 - 10    |
+|_________________|_______________|_______________|
+|                 |               |               |
+|  Novice         |    10 - 20    |    10 - 30    |
+|_________________|_______________|_______________|
+|                 |               |               |
+|  Fighter Pilot  |    20 - 30    |    30 - 50    |
+|_________________|_______________|_______________|
+|                 |               |               |
+|  Ace Pilot      |    30 - 45    |    50 - 70    |
+|_________________|_______________|_______________|
+|                 |               |               |
+|  Double Ace     |    45 - 65    |    70 - 90    |
+|_________________|_______________|_______________|
+|                 |               |               |
+|  Triple Ace     |      65+      |      90+      |
+|_________________|_______________|_______________|
+
+
+
+WINNING TIPS
+------------
+
+* Shoot down as many enemy planes as you can the first time in the air.  
+  don't refuel until you absolutely need to.  The more hits you make, the 
+  more ammo you get the next time up!
+
+* When you see flack near your sight, pull back on the JOYSTICK so you 
+  are climbing when you get hit.  This way you won't dive as much when you 
+  actually get hit.
+
+
+
+And of course, this game was made by M Network.  And this game manual 
+was typed in by me!  And I am Eddie Beiles.  I can be reached at 
+beiles@email.unc.edu if you have any questions about this game manual.  Or 
+you can email me and thank me for typing it in.  Anyway, enjoy the game 
+and this wonderfully typed in manual.
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

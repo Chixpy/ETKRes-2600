@@ -1,0 +1,102 @@
+HomeRun		CX2623	Atari, Inc. 1978	
+----------------------------------------------------------------------------
+Table of Contents
+1.	Game Play
+2. 	Using the Controllers
+3.	Console Controls
+4.	Game Variations
+5.	Scoring
+
+
+1.     	Game Play 
+
+	Play _HOME RUN_ just as you would play baseball. The left or
+blue player is the "visiting team" and is the first to bat. The
+pitcher-outfielder pitches the ball. Three _strikes_ (either swinging
+or pitched) are an _out_; four _balls_ (any pitch not struck at that is
+NOT over the plate) are a _walk_ and the batter advances to first
+base.
+	If the pitcher hits the batter (and the batter does not strike
+at the pitch, or the pitch does not pass over Home Plate) the batter
+will advance to first base.
+	If the batter hits the ball, the outfielder(s) can catch the
+ball and make a putout by touching first base ahead of the runner or by
+tagging the runner. If there are other runners on base, a putout can be
+made by tagging any runner or, if the runner is in a "force play", by
+touching the base in front of that runner. With practice, doubleplays
+(two outs on one pitched ball) can be made with ease.
+
+
+2.	Using the Controllers
+
+	Use your Joystick Controllers with this ATARI Game Program
+cartridge.  Be sure the Joystick Controller cables are firmly
+plugged into the _CONTROLLER_ jacks at the back of your ATARI
+Video Computer System game. For one-player games, use the Joystick
+Controller plugged into the _RIGHT CONTROLLER_ jack.  Hold the Joystick
+with the red button to your upper left, toward the television screen.
+
+BATTER
+	Swing the bat by moving your Joystick from the neutral (center) 
+position to _any_ other position. If, after hitting the ball, it looks 
+as though the outfielder has a chance to make a putout if you take an 
+extra base, push the red crontroller button _before_ reaching base and 
+your runner(s) will stop at that base.
+
+PITCHER
+	To pitch the ball, press the red controller button. Throw
+curves, fastballs, screwballs, or change-up pitches by moving your
+Joystick after the ball leaves the pitcher.
+
+OUTFIELDER
+	After the batter hits the ball, control your outfielder(s) with
+the Joystick to catch the ball and make putouts.
+
+
+3.	Console Controls
+
+GAME SELECT SWITCH
+	Use the _game select_ switch to select the game number you wish
+to play. The game number changes on the top left side of the screen as
+you press the switch down.
+
+GAME RESET SWITCH
+	When you have selected the game number you wish to play, press
+down the _game reset_ switch to start the game.
+
+DIFFICULTY SWITCHES
+	The _difficulty_ switches control the speed of the outfielders
+and batted balls. In the _a_ position, the outfielders and batted balls
+will move more slowly than in the _b_position.
+
+TV TYPE SWITCH
+	Set this switch to _color_ if you have a color television set.
+Set it to _b-w_ to play the game in black and white.
+
+
+4.	Game Variations
+
+	The white letters at the top left of the playfield are;
+_I_ - innings, _O_ - outs, the white letters at the top right of the 
+playfield are; _B_ - balls, _S_ - strikes. The blue number is the left
+player's score; the red number is the right player's score.
+	GAMES 1,2,3, and 4 are single-player against the computer.
+Using the right Joystick Controller, pitch to the computer.  Your score
+appears at the upper right of the playfield, the computer's score
+appears at the upper left.
+	GAMES 5,6,7 and 8 are two-player games.
+
+
+5.	Scoring
+
+	Three _outs_ for each player or team are an _inning_; nine 
+innings make one, complete game. Score one _run_ for each runner
+crossing home4 plate. The batter scores a _home run_ by hitting the
+ball directly over second base, provided the ball is not caught by the 
+outfielder(s).
+
+
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

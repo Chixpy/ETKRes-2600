@@ -1,0 +1,141 @@
+---------------------------------------------------------------------
+
+SHARK ATTACK
+
+APOLLO 
+Game Instructions
+
+16 Game Variations 
+For One or Two Players
+----------------------------------------------------------------------
+
+THE SITUATION
+
+You are a deep sea diver in search of a fabulous treasure of diamonds 
+that spilled from the hold of a Spanish galeon that sank during a fierce 
+storm in the early sixteenth century.  You dive deep into the murky 
+darkness of Dave Jones' Locker, and enter the shark-infested maze of kelp 
+to retrieve the treasure.  You know your mission is rife with 
+danger...the menace of the man-eating sharks that patrol the kelp 
+beds...the lurking menace of the legendary Loch Ness monster, a beast 
+that will pursue you relentlessly if you dare invade its territory.
+
+THE SET-UP
+
+Shark Attack is played with one or two players using the Joystick 
+Controller.  Be sure the power is off when you insert or remove the Shark 
+Attack cartridge from your video game system.
+
+THE DIFFICULTY SWITCH
+
+When you set the Difficulty Switch to the "B" position, your diver moves 
+rapidly through the deep.  But at the "A" setting, he labors slowly 
+against a heavy current, and your challenge of acquiring a fortune while 
+eluding death is much greater.
+
+To provide a handicap advantage for a less experienced player in a 
+two-player game, you may adjust the positions of the Difficulty Switch.  
+Simply place the switch in position B for the inexperienced player, and 
+in position A for the veteran.
+
+THE JOYSTICK CONTROLLER
+
+Hold your Joystick Controller so that the red "FIRE" button is in the 
+upper left hand corner.  Use this button to close the shark cage door to 
+protect your diver in the games that allow it, while you use your 
+joystick to control your diver's movements in eight directions as 
+illustrated above (picture of joyustick).  Try to keep your diver in the 
+middle of the murky channels through the maze of kelp, because he can 
+easily become snarled in lush green tendrils of kelp that will impede 
+his movement.
+
+SCORING
+ 
+The screen shows one player's score on the left, the other player's score 
+on the right, and in the middle the current turn score of the player 
+competing at that time.  Players score one point for each diamond 
+gathered.  In the gobble game, the central score reflects how many 
+diamonds the diver is carrying with him, and is added to his permanent 
+score when he returns to the shark cage...if he ever does!  In the pick'm 
+up game, the central score reflects how many diamonds have been deposited 
+in the shark cage, and is added to the player's permanent score when his 
+turn is completed.
+
+(picture of screen)
+
+OPTIONS
+
+In the one-player mode, the game is over when a player's three divers and 
+any earned bonus divers have all been eaten by hungry sharks.  You get 
+one bonus diver each time 100 points are earned.  When two people are 
+playing, each completes his turn when one of his divers is eaten by a 
+shark.  In the pic'm up game, a diver must take each diamond back to the 
+shark cage one at a time.  In the gobble game, he collects them by 
+swimming over them one after the other.  They will be counted permanently 
+when he returns to the shark cage with them.  If he waits too long, he 
+may be eaten by a shark, and the points for the diamond he's gathered 
+will be lost forever!  Players may also decide whether the shark cage 
+door is always open, is controlled by the diver, is open and closed at 
+random, or is rotated to different sides of the cage.
+
+SHARK CAGE
+
+In the "open and closed at random" mode, the diver has no control over 
+the shark cage door.  But in the "diver control" mode, the game begins 
+with the door open.  When your diver has entered the cage and you press 
+the red "FIRE" button on your joystick controller, you will close the 
+door.  When you release your fire button, the shark cage door will open.
+
+SHARKS
+
+Sharks move across the maze, and are not bounded by it as is the diver.  
+On each pass, if a shark encounters any diamonds he will eat one.  If a 
+shark bumps agaisnt the shark cage, he will remove one diamond from the cage.
+
+PROTECTION FROM SHARKS
+
+A diver is safe from sharks when he is in the shark cage and the door is 
+closed.  He cannot kill a shark, so his only other defense against these 
+deadly denizens of the deep is to stay alert and swim quickly out of 
+their way.  So every second of the game you must decide between your 
+diver's safety and how many diamonds he collects.
+
+MYSTERY CAVES
+
+When the diver enters one of the four corner caves, he will immediately 
+and unpredictably reappear from any of the four caves.  Note that the top 
+two cave entrances are horizontal, and your diver will enter them moving 
+to the left or right.  The bottom two cave entrances are vertical, and 
+your diver must swim down through the entrance, then turn to the outside 
+of the screen at the bottom, entering the caves to the left or right.
+
+LOCH NESS MONSTER
+
+BEWARE! You cannot kill Nessie.  When she is disturbed, Nessie appears 
+from one of the four caves, and she will continue after the diver who has 
+disturbed her until your diver leads her back to one of the four caves, 
+whereupon she will enter and go back to sleep.  NOTE:  The shark cage is 
+no defense against the awesome strength of Nessie.
+
+GAME MENU
+______________________________________________________________________
+Game Number             	1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16    	   
+______________________________________________________________________
+# Players      	1		X   X   X   X   X     X     X     X	
+	       	2		  X   X   X   X    X     X     X     X
+______________________________________________________________________
+Cage Door	Open		X X             X  X
+		Open/Close	    X X               X  X
+                Diver Control           X X                 X  X
+		Rotate			    X X                   X  X		
+______________________________________________________________________
+Game Play	Gobble		X X X X X X X X
+		Pick'm Up			X  X  X  X  X  X  X  X
+______________________________________________________________________
+
+There are 16 variations of SHARK ATTACK.  Select your favorite with the 
+game select switch on your console choosing from any of the variations 
+shown on our game matrix.
+
+-----------------------------------------------------------------------
+

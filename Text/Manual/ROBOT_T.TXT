@@ -1,0 +1,246 @@
+ROBOT TANK
+
+by Activision
+c 1983
+
+Designed by Alan Miller
+
+
+Warning..
+Official Orders
+Code Name: Robot Tank
+
+
+FROM THE OFFICE OF THE PRESIDENT
+--------------------------------
+
+Greetings.  As you well know, sophisticated enemy Robot Tanks are quickly
+advancing cross country, firing at will and stopping at nothing.  You must
+command your own Robot Tanks to stop their charge of chaos.  Avoid being
+hit by enemy fire, or your Robot Tanks may be destroyed.  The rebels are
+currently headed towards downtown Santa Clara.  Only you can stop them.
+
+Good luck!
+
+
+
+Game Play
+---------
+
+1. Hook up your video game system.  Follow manufacturer's instructions.
+
+2. With power OFF, plug in the game cartridge.
+
+3. Turn power ON.  If no picture appears, check connection of your game
+   system to TV, then repeat steps 1-3.
+
+4. Plug Joystick into left controller port only.  This is a solo mission.
+
+5. The game select switch and difficulty switches are not used.
+
+6. Use of Joystick Controller.
+
+   * Hold Joystick Controller with red fire button in the upper left        
+     position.
+
+   * Move Joystick left to maneuver and/or aim your Robot Tank left.
+
+   * Move Joystick right to maneuver and/or aim your Robot Tank right.
+
+   * Push Joystick forward to roll your Robot Tank forward.
+
+   * Pull Joystick back to retreat
+
+   * Press the red fire button to shoot your Robot Tank cannon at 
+     rampaging enemy Robot Tanks.  Hold button down to continuous fire.
+
+7. To begin play.  Press game reset switch.
+
+8. Scoring.  A small tank appears at the top of your screen for each enemy
+   Robot Tank you destroy.  A square with the number 12 appears at the top of
+   your screen each time a squadron of twelve enemy Robot Tanks are 
+   destroyed.
+
+9. Reinforcements.  You begin with one active Robot Tank and three
+   reserves.  Reserve Robot Tanks begin operation in perfect condition.  You
+   earn one bonus Robot Tank for every enemy squadron destroyed.  The maximum
+   number of bonus Robot Tanks allowed at any one time is 12.
+
+10. End of Game.  You may lose your Robot Tank when it is hit by enemy
+    rocket fire.  Your video scrambles with static interference when this
+    happens.  Some hits may only damage your tank. (See "Damage Sensors" in
+    "Special Features").  Game ends when all of your Robot Tanks are 
+    destroyed or all 12 enemy squadrons are destroyed.
+
+[Image of the screen.  The military clock is the time centered at the very
+top of the screen.  The enemy robot tanks are the tanks you see on the
+screen.  There are four damage sensors.  The radar damage sensor is
+represented by a "R".  The treads damage sensor is represented by a "T". 
+The video damage sensor is represented by a "V".  The cannons damage sensor
+is represented by a "C".  The reinforcement takes are on the bottom left
+corner of the screen.  The radar scan is the circular thing on the bottom
+center of the screen.  The destroyed enemy tanks are the black tanks at the
+top of your screen.]
+
+
+
+SPECIAL FEATURES OF ROBOT TANK
+------------------------------
+
+YOUR ELECTRONIC EYE
+
+Your Robot Tank's electronic eye lets you view the battlefield from a
+remote control station.  Perspectives are real.  The size of enemy Robot
+Tanks and their fire increase on your remote screen as they get dangerously
+close.
+
+
+TWENTY-FOUR HOURS A DAY
+
+>From the first glimmer of sunrise, beyond the grey dusk and into darkened
+night, the enemy attacks relentlessly.  For you, sleep becomes a distant
+memory.  The military clock counts the hours and the days and can be used
+as a tool for strategy (see "Tips from Alan Miller").  How long can you go
+on?
+
+
+WEATHER ALERT
+
+Fog, rain and snow are reported to you through pre-dawn computer updates. 
+In the snow, your tank will slip and slide.  Rain significantly impedes
+your tanks mobility.  In blanketing fog, enemy Robot Tanks are only visible
+when they are right in front of you.  So, take advantage of bright sunshine
+while it lasts.
+
+
+RADAR SCAN
+
+The circular radar scan at the bottom of your screen is your window on the
+entire battlefield.  Your tank is at the center of the scan, and the moving
+dot describes location, distance and directional movement of the enemy
+Robot Tank.  Enemy tanks only fire rockets when they are in FRONT of your
+tank.  Your tank is safe when the enemy tank is behind you--when the moving
+dot is below the center of the scan.
+
+
+DAMAGE SENSORS
+
+Video, cannons, radar and treads can be damaged by an enemy hit.  Sensors
+report the damage by flashing on your control panel:
+
+V: Video, your view on the battlefield, blacks out periodically.
+
+C: Cannons will never go completely out, but when damaged, don't count on
+   them firing all the time.
+
+R: Radar scan inoperative.  You must depend on your video to fix enemy
+   position.
+
+T: Treads damaged.  Mobility is brought to a crawl.  Movement is almost
+   entirely frozen in the snow.
+
+Be forewarned!  Damaged tanks can NEVER be repaired.
+
+
+GUIDING YOUR CANNON FIRE
+
+Your tank's cannon fire is continuously targetable while it's in-flight. 
+It will follow the direction of your cross hairs.  Also, enemy rocket fire
+can be prematurely detonated by intercepting it with your own cannon 
+fire.  Destroying an enemy Robot Tank automatically explodes its in-flight
+rockets.
+
+
+
+GETTING A READING ON YOUR ROBOT TANK
+------------------------------------
+
+To successfully stop the rampage of enemy Robot Tanks, you must first
+become completely at ease with your own machine.  There will be enough
+tension in the throes of battle.
+
+Start out by practicing simple maneuvers.  Roll your tank in all
+directions--forward, back, left and right.  Pay strict attention to your
+tank's speed.  It is important to know how quickly it can advance on enemy
+Robot Tanks or retreat from them.
+
+Dodging enemy fire is a vital defensive move.  Find out how close you can
+get to an enemy Robot Tank and still have time to avoid on-coming rocket
+fire.
+
+The radar scanner is a very important monitoring device.  It is the only
+consistent way to know where the enemy is located at night or in
+unforgiving fog.  Practice using the scanner by firing your cannon when an
+enemy tank is directly above the center.  It's the only time you can make a
+hit.
+
+
+
+HOW TO JOIN ACTIVISION'S TANK CORPS
+-----------------------------------
+
+For service beyond the call of duty, you are eligible to join Activision's
+Tank Corps.  If you destroy at least 48 enemy Robot Tanks (4 squadrons),
+then you've earned the Medal of Merit patch.  Succeed in destroying 60
+enemy Robot Tanks (5 squadrons), and you proudly deserve the Cross of
+Excellence patch.  Distinguish yourself by destroying 72 enemy Robot Tanks
+(6 squadrons), and your meritorious achievement decorates you with the Star
+of Honor patch.
+
+Please send us a picture of your tour-de-force (TV screen), and we'll issue
+you the appropriate Tank Corps patch, along with our salute and
+congratulations.
+
+Be sure to write "ROBOT TANK" and the number of enemy Robot Tanks you
+destroyed on the bottom left-handed corner of the envelop.
+
+
+
+BECOME A HIGHLY DECORATED VETERAN OF ROBOT TANK
+-----------------------------------------------
+
+TIPS FROM ALAN MILLER, DESIGNER OF ROBOT TANK
+
+Alan Miller is an award-winning senior designer at Activision.  One of the
+"giants" in the field, he's created Checkers, Tennis, Ice Hockey,
+StarMaster and now, Robot Tank.
+
+"Once you're locked in electronic battle, there's only one thing you can be
+sure of-nothing ever stays the same.
+
+"Enemy Robot Tanks continually sneak up on you.  You'll frequently end up
+losing visibility for one reason or another.  So, practice aiming at enemy
+tanks using only the radar scan.  If you can master this, you will have
+better battling success at night or in fog.
+
+"When there's no visibility, I suggest constantly maneuvering your Robot
+Tank to keep the enemy behind you, so that the vulnerable front of your
+tank is safe.  Then, you can wait until conditions improve.
+
+"If your tank is damaged, and it's night, keep track of the time using the
+military clock.  If it's close to 0500 hours, then you may decide to wait
+for the weather alert.  Conditions may improve from the previous day, and
+your next offensive may prove more successful.
+
+"Remember that you can neutralize enemy fire by shooting into it.  But,
+it's a risky tactic.  Your miss could backfire and become a hit for your
+attacker."
+
+Alan Miller [signed]
+
+"P.S. When you've put plenty of distance between your Robot Tanks and the
+enemy, and all robotic communication has normalized, issue me a battle
+report.  I'd love to know how you and your machines are doing."
+
+MISSION ACCOMPLISHED
+
+
+
+And of course, this game was made by Activision in 1983.  This game manual
+was typed in by me!  Who am I?  I am Eddie Beiles.  I can be reached at
+beiles@lambada.oit.unc.edu if you have any questions about this game
+manual.  Or you can email me and thank me for typing it in.  Anyway, enjoy
+the game and this wonderfully typed in manual. 3/25/95
+
+
+

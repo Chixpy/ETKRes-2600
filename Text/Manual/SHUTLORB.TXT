@@ -1,0 +1,303 @@
+                            ---------------
+                            SHUTTLE ORBITER
+                            ---------------
+
+                       A single player video game for the
+	   Atari 2600 Video Computer System and Sears Video Arcade
+
+  Intended for use with the left joystick controller and a color =
+television.
+
+			    GAME BY: Bill Hood
+			    Cover Photo: NASA
+			    Graphics: Jean Baer
+		     Typesetting: Colonial Composition
+		   Prep Dept. Coordinator: Elaine Adkins=20
+			 Printing: Monarch Services
+
+	 Any cartridge which fails will be replaced when returned to:
+		     The Avalon Hill Video Game Company
+		4517 Harford Road, Baltimore, Maryland 21214
+
+    As with any video game, turn off television and game when not in =
+use.
+
+				 (c)1983
+
+		    The Avalon Hill Video Game Company
+    All Printed Material, Video Game and Audio Visual Display =
+Copyrighted
+
+    SHUTTLE ORBITER IS AVALON HILL'S TRADEMARK NAME FOR ITS SPACE =
+SHUTTLE=20
+MANEUVERING GAME Atari and Atari 2600 Video Computer Systems are =
+trademarks of=20
+Atari, Inc. Sears and Sears Video Arcade are trademarks of Sears Roebuck =
+Co.
+
+
+
+INSTRUCTIONS
+
+
+				  =20
+				   MISSION
+
+
+  You are the pilot of the space shuttle Challenger. Your mission is to=20
+complete the construction of a space station in as short a period of =
+time as=20
+possible. There are ten sections remaining to be transported to and =
+installed=20
+in the space station. The sections are available at the orbiting =
+Factory.=20
+Additional fuel is available at the orbital Depot.
+			    =20
+
+
+				    SETUP
+ =20
+
+  Ensure the joystick you intend on using is securely plugged into the =
+LEFT=20
+controller port. Insert the game cartridge and turn your game system on.
+
+
+
+			     GAME LEVEL SELECTION
+			    =20
+
+  When first turned on or after pressing RESET, the title display will=20
+indicate game level 1. To play a more difficult game, move the joystick =
+up=20
+(or down) to select game 2 or 3. For a practice session (no orbital =
+debris),=20
+select game Q. When the desired game level is displayed, press the =
+joystick=20
+fire button to initiate liftoff.
+
+
+
+THE ORBITAL DISPLAY
+
+
+  Once in orbit you will see the Orbital Display. At the top of the =
+screen is=20
+a view of the earth and various objects in orbit. The white object =
+represents=20
+the Challenger. The gold object is the Space Station under construction. =
+The=20
+red object is the orbiting Factory, and the green object is the orbital =
+Depot.=20
+Orbital debris is not displayed.=20
+
+
+  On the lower half of the screen is the Altitude Indicator. The bars=20
+indicate the relative orbital altitude of the Challenger, Space Station, =
+
+Factory, and Depot.  This indicator is helpful in matching orbits for=20
+rendezvous.
+
+  The elapsed time since entering orbit and the remaining fuel on-board =
+are=20
+displayed at the bottom of the screen.
+
+
+
+			   BASIC ORBITAL MECHANICS
+
+
+  Maneuvering between orbits follows one basic principle, If you are at =
+a=20
+lower altitude than another object, you will orbit the earth faster than =
+the=20
+object. If you are at a higher altitude than another object, you will =
+orbit=20
+the earth slower than that object. The greater the difference in =
+altitudes,=20
+the greater the relative orbital speed.
+
+  If you desire to rendezvous with an object that is ahead of you, you =
+should=20
+choose an orbit with a lower altitude to gain on that object. When you =
+are=20
+near the object, you should increase altitude to match the orbit. Adjust =
+your=20
+position by moving slightly higher to drop back, or by moving slightly =
+lower=20
+to move ahead. Then return to the same orbit as the object you seek.
+
+
+			             Fire main engines
+	       Alternate           (Raise orbit)=20
+	   Astronaut/Shuttle-\_         ^
+		Control           \   ---------  =20
+				          | o     |     Fire CMTs
+		   Fire CMTs         <|   O   |>    (Advance)
+		  (Drop Back)         |       |
+				          ---------
+				               v
+			      For Main Engines=20
+			       (Lower Orbit)
+
+
+			   =20
+			    MANEUVERING DISPLAYS
+
+
+  When you are close to another orbiting object, you will automatically =
+be=20
+switched to a maneuvering display.
+
+
+You must first rendezvous with the Orbiting Factory in order to pick up =
+a section of the space station.
+You maneuver the shuttle by changing orbits. If you pull down on the =
+joystick the orbit will lower and
+ the Factory will move upward and to the left on the display, If you =
+push up on the joystick,
+you will raise your orbit and the Factory will move down and to the =
+right on the display.=20
+To keep the shuttle and Factory from drifting together or apart, you =
+must adjust your orbit=20
+so that the middle of the Factory is horizontally centered with the =
+shuttle.=20
+You can maneuver forward or backward in your orbit without gaining or =
+losing altitude by using the=20
+Compensated Maneuvering Thrusters (CMTs). You control the CMTs by =
+pushing the joystick left=20
+or right.
+Once you have maneuvered the shuttle close to the Factory, press the =
+fire button once to gain control of=20
+the astronaut. Note that the blue band above the clock shifts to white =
+whenever the joystick controls the=20
+astronaut and returns to blue when the joystick controls the shuttle.
+Move the astronaut out of the shuttle to the door at the top of the =
+Factory. Safety precautions require that=20
+the astronaut be tethered and that he remain in sight of the cockpit. =
+Additionally, the Challenger's engines=20
+cannot be fired while an astronaut is outside the shuttle. If the =
+astronaut cannot reach the door you will=20
+have to return the astronaut to the shuttle and maneuver the shuttle =
+closer. When the astronaut reaches the=20
+door he will be provided a section for the space station. Return the =
+astronaut to the shuttle and press the=20
+fire button once to stow the section and regain control of the shuttle. =
+If you chose to pick up a second=20
+section, press the fire button again to gain control of the astronaut =
+and repeat the above procedure.=20
+Be sure you are controlling the astronaut so you don't mistakenly drive =
+the shuttle into the factory.=20
+When you have loaded the shuttle, press the fire buffoon so that the =
+band above the clock is blue and=20
+maneuver the shuttle away from the Factory toward your next destination. =
+You will automatically be=20
+switched to the Orbital Display when you sufficiently clear the Factory. =
+ When the shuttle is low on fuel,=20
+rendezvous with the Orbital Depot. You must line up the nose of the =
+shuttle into the slot on the left side of the Depot without bumping into =
+it.  Maximum fuel load for the shuttle is 9000 kgs.
+
+
+
+ALIGN TOP OF SECTION WITH TOP OF MARK
+
+
+  In order to complete the space station, you must properly insert the =
+last=20
+ten sections into the proper place. After you rendezvous with the Space=20
+Station, move the astronaut out of the shuttle near to the rotating =
+station.=20
+If you hold down the fire button while the astronaut is out of the =
+shuttle=20
+the space station will slow its rotation to facilitate insertion of the=20
+section. The section must be inserted so that it properly fits one of =
+the gaps=20
+in the left side of the space station. If the section hits the space =
+station=20
+or is inserted into the wrong gap, it will be damaged and you will have =
+to=20
+return it to the Factory for replacement. If the station is inserted =
+correctly=20
+it will remain attached to the space station. If you have carried a =
+second=20
+section in the shuttle, return the astronaut to the shuttle and press =
+the fire=20
+button TWICE to get the second section.
+
+ =20
+  The earth recently passed through the tail of a comet and a ring of =
+debris=20
+is forming around the earth. The ring is orbiting in the opposite =
+direction of=20
+the shuttle. When you are near the ring the display will automatically =
+shift=20
+from the orbital display until you have passed through the debris.
+
+
+
+WINNING
+
+
+  You win the game when you successfully install all ten sections of the =
+
+Space Station. The elapsed time in orbit and game difficulty level will =
+be=20
+displayed.
+
+
+
+				   LOSING
+
+
+  You lose when you run out of fuel, failing to complete the space =
+station.=20
+The elapsed time in orbit is displayed above the game difficulty level =
+and=20
+the number of sections successfully installed.
+
+
+
+				PLAYING TIPS
+
+ =20
+  Any time the shuttle hits the Factory, Depot, Space Station, or debris =
+it=20
+will be damaged and leak fuel. The greater the number of hits, the =
+greater=20
+the rate of fuel loss.
+
+  Any time the Challenger hits an object there is at least a 25% chance =
+you=20
+will damage your cargo. Due to packing constraints, if you are carrying =
+two=20
+sections and hit an object, you will definitely damage one section - =
+possibly=20
+both. You can only examine the sections at the Factory or Space Station. =
+If=20
+the section has no prongs on the right-hand side, it is damaged and =
+cannot be=20
+used. If one of the two sections being carried is damaged, the good =
+section=20
+will be brought out first by the astronaut.
+
+  The shuttle consumes more fuel carrying two sections (damaged or not) =
+than=20
+carrying one section, and more fuel carrying one section than with no =
+cargo.
+
+  Only one refueling should be necessary for the truly proficient pilot.
+
+
+
+				GAME CONTROLS
+
+
+  No switches other than the ON/OFF, COLOR/BW, and RESET switches are =
+used.
+ =20
+  You can pause the game by pushing the COLOR/BW switch to the BW =
+position.=20
+To resume, push to the COLOR position. The RESET switch will start a new =
+game.
+

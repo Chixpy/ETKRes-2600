@@ -1,0 +1,299 @@
+                                                            Guide No. 78139A
+
+                                   SMURF
+                                       (c) Peyo
+                      Rescue in Gargamel's(tm) Castle
+
+                           CARTRIDGE INSTRUCTIONS
+
+For use with the Atari(tm) 2600 Video Computer System(tm) and Sears Video
+Arcade(tm)
+
+
+                          [smurfy cover picture]
+
+o  For one or two players       o  Select from four skill levels
+
+A rescue adventure featuring TV's popular Smurfs(tm)
+
+                                                                      COLECO
+
+
+-----------------------------------------------------------------------------
+GAME DESCRIPTION
+-----------------------------------------------------------------------------
+
+                         [another smurfy picture]
+
+In Coleco's SMURF(tm) RESCUE IN GARGAMEL'S(tm) CASTLE, treacherous
+Gargamel(tm) has captured Smurfette(tm).  He keeps her trapped on a shelf high
+above his laboratory floor.  To reach the castle laboratory, nimble-footed
+Smurf(tm) must run and jump through fields, woods and caverns.  That's not
+all, either!  He must climb, tall mountains and duck dangers in the forest
+paths.  Help Smurf(tm) dodge the hawks, snakes, bats and scary spiders
+Gargamel(tm) sends from the castle!  Once in the laboratory, Smurf(tm) jumps
+to the bench, to the table, to the chair.  He must even jump to the shelf to
+free the captive Smurfette(tm)!  Can you make all these jumps and Smurf(tm)
+the day?
+
+-----------------------------------------------------------------------------
+GETTING READY TO PLAY
+-----------------------------------------------------------------------------
+
+o  Make sure the Video Computer System(tm) is connected to the T.V. And the
+   power supply is plugged in.
+o  Be sure that you have plugged the controller into the jack at the rear of 
+   the Video Computer System(tm)
+o  Insert cartridge as shown, then turn On/Off switch to ON.
+
+(ALWAYS TURN THE ON/OFF SWITCH TO OFF WHEN INSERTING OR REMOVING A CARTRIDGE)
+
+
+-----------------------------------------------------------------------------
+ATARI(r) 2600 Video Computer System(tm)
+-----------------------------------------------------------------------------
+
+
+ [smurfy picture of 2600 and all components and plugs and such smurfy stuff]
+
+
+-----------------------------------------------------------------------------
+USING YOUR CONTROLS
+-----------------------------------------------------------------------------
+
+
+               [smurfy picture of classic 2600 joystick]
+
+
+NOTE: For a one-player game, use the left controller.  For a two-player game,
+Player One uses the left controller; Player Two uses the right controller.
+
+1.  Control Stick: Use the Control Stick to make Smurf(tm) run, duck and jump.
+    Running:
+     Push the Control Stick left or right to move Smurf(tm) in that direction.
+    Ducking:
+     Push the Control Stick down to make Smurf(tm) duck.
+    Jumping:
+     Push the Control Stick up when Smurf(tm) stands still to make him jump in 
+     place.  Push it up while Smurf(tm) is running to make him jump forward.  
+     Push it up again immediately after Smurf(tm) lands from a jump to make 
+     Smurf(tm) do a bigger jump forward.
+2.  Red Button:
+     Press the Red Button on Player One's controller to begin a new game.
+
+-----------------------------------------------------------------------------
+HERE'S HOW TO PLAY
+-----------------------------------------------------------------------------
+
+Choosing up.
+------------
+When you turn the game on, one Smurf(tm) head, representing one player, and
+the words, "Skill 1" appear at the top of the screen.  (This indicates the
+Skill 1, one-player game option.)  If you want to play a higher Skill Level or
+a two-player game, press the Game Select Button until the Skill Level and
+number of players (as shown by one or two Smurf(tm) heads) you want appear
+onscreen.  Then press the Red Button to complete your choice.
+
+NOTE: If you are playing a two-player game, players take turns.  Player 1
+begins, and each turn lasts until the player's Smurf(tm) gets tired.
+
+Smurfing(tm) after her.
+-----------------------
+Your first Smurf(tm) appears near his mushroom home in the woods. 
+Smurfette(tm)--held captive by Gargamel(tm)--is far, far away to the right.
+
+Help Smurf(tm) travel through woods, fields and mountains, even through dark
+and creepy caverns, on his way to the spooky castle.
+
+These forests can be quite dangerous for travelers.  But Gargamel's(tm)
+creatures and tricks make the journey even more difficult!  Magic fences
+sometimes appear and disappear and snakes can cross water.  When a fence
+disappears, there's no need to jump over the empty space!  (Skill 1 games are
+a little easier.   In these there are no creatures to chase you.)
+
+If you see dangers, you can ravel back toward home to escape!  It's okay to
+outsmart Gargamel's(tm) evil creatures by running and jumping back the way you
+came.  But stay alert!  The creatures can follow you.  You get n points for
+jumping hazards that you've jumped before.
+
+Remember, when creatures come out, Smurf(tm) has to make the right kinds of
+jumping and ducking moves to escape them.
+
+                    WHERE DID SMURFETTE(tm) GO?
+                    ---------------------------
+
+
+                       [smurfy screen shot]
+
+
+Smurf(tm) be nimble!  Smurf(tm) be quick!
+-----------------------------------------
+Smurf's(tm) nimble feet must jump him past dangers everywhere.  Short jumps
+bounce Smurf(tm) straight up so he can dodge hawks and bats.  Walking, then
+jumping quickly lets Smurf(tm) make a bigger jump.  Jumping quickly twice in a
+row makes the second jump the biggest of all!  Learn to take just the right
+size jumps (big or small) to take him over picket fences and streams, even up
+he steep mountains.  And remember to duck when bats or Gargamel's(tm) pet
+hawks swoop low.
+
+If Smurf(tm) falls or is knocked down by a snake, bat, hawk or spider, he
+feels too tired to travel farther.  Then another Smurf(tm) must try to rescue
+Smurfette(tm).
+
+                     IT'S A ROCKY RESCUE JOURNEY!
+
+
+            [Yes, yet another smurfy B&W screen drawing]
+
+
+Keep Smurf's(tm) energy up!
+---------------------------
+Watch the Energy Level Indicator on your screen.  It drops low when Smurf(tm)
+gets tired in his travels.  But the moment Smurf(tm) enters a new land (woods,
+fields, mountains, caverns or Gargamel's(tm) laboratory), he feels better and
+his energy level goes right back up!
+
+Smurfing(tm) into the dreary castle
+-----------------------------------
+Smurf(tm) crosses the last of the fields, moving closer and closer to
+Gargamel's(tm) castle.  Just a few jumps and Smurf(tm) is inside!
+
+Oh no!  How big the chairs and table seem!  And high on a shelf stands brave
+Smurfette(tm), guarded by the castle bat.  (Sometimes mean Gargamel(tm) even
+makes her disappear momentarily!)  Can you help Smurf(tm) jump to save her and
+Smurf(tm) the day?
+
+                   GARGAMEL'S CREEPY LABORATORY.
+
+
+      [Screen drawing of Gargamel's creepy, yet smurfy, laboratory]
+
+Starting Over
+-------------
+When your game is done, you can play again by pressing Player One's Red
+Button.  If you want to change the Skill Level or the number of players, press
+the Game Reset Button and then the Game Select Button until the Skill Level
+and number of players you want appear on the screen.  Then press the Red
+Button on Player One's controller to start your game.
+
+-----------------------------------------------------------------------------
+SCORING
+-----------------------------------------------------------------------------
+
+     Smurf(tm) Action                               Points Scored
+    --------------------------------------------------------------
+    Smurf(tm) jumps over fence, stream,
+    rock or other obstacle............................400 points
+    Smurf(tm) frees Smurfette(tm)....................1000 points
+
+If you earn 10,000 points in a game, you win a bonus Smurf(tm)!
+
+-----------------------------------------------------------------------------
+THE FUN OF DISCOVERY
+-----------------------------------------------------------------------------
+
+This instruction booklet will provide the basic information you need tot
+started playing SMURF(tm) RESCUE IN GARGAMEL'S(tm) CASTLE, but it is only the
+beginning!  You'll find that this cartridge is full of special features to
+make SMURF(tm) RESCUE IN GARGAMEL'S(tm) CASTLE exciting every time you play. 
+Experiment with different techniques--and enjoy the game!
+
+-----------------------------------------------------------------------------
+90-DAY LIMITED WARRANTY
+-----------------------------------------------------------------------------
+    Coleco warrants to the original consumer purchaser in the United States of
+America any video game cartridge it manufactures, that the cartridge will be
+free of defects in material or workmanship for 90 days from the date of
+purchase under normal in-house use.
+
+    If you cartridge fails to operate properly DURING THE FIRST 90 DAYS AFTER
+PURCHASE, return it postage prepaid and insured, with your name, address,
+proof of the date of purchase and a brief description of the problem, to the
+Factory Service Station as listed.  If you cartridge is found to be factory
+defective during the first 90 days, it will be repaired or replaced at no cost
+to you.  If the cartridge is found to have been consumer damaged or abused it
+therefore will not be covered by the warranty, then you will be advised in
+advance of repair costs.
+
+    Coleco's sole and exclusive liability for defects in material and
+workmanship shall be limited to repair or replacement at its authorized Coleco
+Service Station, and Coleco shall in no event be liable for incidental,
+consequential contingent or any other damages, (some stated do not allow the
+exclusion or limitation of incidental or consequential damages, so the above
+limitation or exclusion may not apply to you).  This warranty does not
+obligate Coleco to bear the cost of transportation charges in connection with
+the repair or replacement of defective parts.
+
+    This warranty is invalid if the damage or defect is caused by accident,
+act of God, consumer abuse, unauthorized alteration or repair, vandalism or
+misuse.
+
+    This warranty is made in lieu of any other express warranty, and except
+for the foregoing warranty which is exclusive, there is no other express
+warranty being made.
+
+    This warranty gives you specific legal rights, and you may have other
+rights which vary from state to state.
+
+
+                        CARTRIDGE SERVICE POLICY
+    If your cartridge requires service after expiration of the 90 day Limited
+Warranty period, Coleco will service the cartridge and put it in working
+condition or replace it with a reconditioned unit (at our option), on receipt
+of your cartridge, postage prepaid and insured, with your check in the amount
+of $10.00 payable to Coleco Industries, Inc.
+
+For service information regarding your Coleco cartridge call 1-800-842-1225. 
+This service station is in operation from 8:00 a.m. To 4:30 p.m., Eastern
+time, Monday thru Friday.
+
+    Coleco's service obligation does no apply to defects arising from abuse,
+misuse or alteration of the cartridge.  If the cartridge is found to have been
+consumer damaged or abused it therefore will not be covered by the warranty,
+then you will be advised in advance of repair costs.
+
+Please allow 4 to 6 weeks for repair and return.
+
+All returns must be directed to:
+        Coleco Industries, Inc.
+        Consumer Electronics Department
+        P.O.  Box 47
+        Amsterdam, New York  12010
+        Attention: Consumer Quality Manager
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+                                 COLECO
+
+
+
+
+SMURF(tm), SMURFETTE(tm) and GARGAMEL(tm) are the trademarks of Peyo,(c) 1982. 
+Licensed by Wallace Berrie & Co., Van Nuys, CA.
+
+Atari(r) and Video Computer System(tm) are trademarks of Atari, Inc.
+
+Sears Video Arcade(tm) is a trademark of Sears, Roebuck & Co.
+
+Package, Program and Audiovisual(c) 1983 Coleco Industries, Inc. Amsterdam,
+New York  12010
+
+
+
+
+
+
+                           Printed in U.S.A.
+
+
+
+
+
+Manual typed in laboriously by Dr. Inferno (Jason Dante Bardis) on 5/27/96
+jasonbar@engineering.ucsb.edu
+--------------3CE61DB91B8--
+

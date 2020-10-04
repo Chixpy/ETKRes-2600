@@ -1,0 +1,220 @@
+PAC-MAN
+
+TABLE OF CONTENTS
+
+1. Here's Pac-Man
+2. Life in Mazeland
+3. Using your controllers.
+4. Console controls.
+5. Game variations.
+6. Scoring.
+7. Helpful hints for Pac-Man's survival.
+8. Game select matrix.
+
+1. HERE'S PAC-MAN
+
+We know that millions of people all over the world just love the
+PAC-MAN arcade game.  PAC-MAN has won the hearts of men, women, and
+children everywhere.  We also know that PAC-MAN has traditionally
+been an arcade game.  Well, we at ATARI know all about arcade games.
+After all, we make some of the greatest arcade games in the world, and
+we know how to bring the same dynamite game play into your home.
+
+Our PAC-MAN has all of the excitement and challenge of the standard 
+arcade game, and you get to play in the comfort and convenience of your
+own home.  This is especially advantageous if you still plan to make an
+occasional appearance at the arcade to show off your great playing
+skills. (Little do they know that you've been practicing at home all
+along.)
+
+Just in case you're new to PAC-MAN, don't worry.  It's easy to
+learn.  You'll be a pro in no time at all.
+
+So, relax, get comfortable and enjoy it in the privacy of your own home.
+We suggest that you read this instruction booklet thoroughly before
+beginning game play.  We know that you won't want to miss any important
+details about game play.  You might even find it entertaining.
+
+2. LIFE IN MAZELAND
+
+The object of the game is to keep PAC-MAN happy and healthy in his home
+of Mazeland.  PAC-MAN starts the game with four lives(turns).  The
+longer he survives, the more points you score.  You score a point for
+every video wafer that PAC-MAN eats.  You also score points when PAC-MAN
+eats power pills, vitamins, and ghosts.  Everytime PAC-MAN eats all of
+the video wafers on the maze, he earns an extra life and a new maze
+full of video wafers.
+
+The following information lists all of PAC-MAN's nutritional needs,
+which also happen to be your point-scoring objects.
+
+Video Wafers: These are the dotted lines on the screen.  You maneuver
+PAC-MAN around the playfield over the video wafers.  He automatically
+eats the video wafers, and they disappear from the maze.  You score
+one point for each video wafer he eats. (To score a point, PAC-MAN
+must pass directly over the video wafer.)
+
+Power Pills: Power pills are located in the four corners of the
+playfield.  Each power pill is worth five points.  When PAC-MAN eats
+a power pill, the ghosts become a transparent blue color.
+
+During this time, PAC-MAN has the super-strength to overcome the 
+ghosts.  This is his big chance to chase and gobble down each ghost.
+Unfortunately, this great power only lasts a few seconds.  When the
+power starts wearing off, the ghosts turn pink and then back to yellow.
+(Musical notes stop several seconds before ghosts turn back.)
+
+Vitamins: Vitamins are the two intersecting rectangles in the center of
+the playfield.  They only appear for a few moments and then disappear
+and reappear.  The vitamins are worth 100 points each time PAC-MAN
+eats them.
+
+Ghosts: The ghosts are the quartet of bad guys chasing PAC-MAN around
+the maze.  If a ghost eats PAC-MAN, you lose a turn(one life).  On
+the other hand, if PAC-MAN eats a ghost, you score points.  PAC-MAN can
+only eat ghosts after eating a power pill.  Then he can run around the
+maze eating ghosts.  The first ghost is worth 20 points, the second 
+ghost is worth 40 points, the third is worth 80 points, and the fourth
+is worth 160 points.  If the power pill wears off before PAC-MAN eats
+all the ghosts, he must eat another power pill and start chasing the
+ghosts again(starting at 20 points again).  After PAC-MAN eats a
+ghost, you only see eyes left on the ghost.  But, the ghosts are 
+reincarnated by returning to the big, square chamber in the center of
+the playfield.
+
+3. USING YOUR CONTROLLERS
+
+Use your Joystick Controllers with this ATARI(R) Game Program(tm)
+cartridge.  Be sure the controller cables are firmly plugged into the
+CONTROLLER jacks at the back of your Video Computer System(tm) game.
+For one-player games, use the Joystick plugged into the LEFT 
+CONTROLLER jack.  Hold the controller with the red fire button to
+your upper left toward the television screen.  See Section 3 of your
+owner's manual for further details.
+
+Use the Joystick Controller to guide PAC-MAN around the maze.  Move
+the Joystick in the direction you want PAC-MAN to move.  PAC-MAN
+moves around the area of the maze, but he can use the opening at
+the top and bottom of the maze as an escape route(See Figure 1 for
+escape routes.)  Remember that the ghosts can use the same escape
+routes, and that they may be waiting for PAC-MAN when he reenters
+the maze.  When PAC-MAN escapes through the bottom opening, he
+reenters through the top.  When he escapes through the top, he reenters
+at the bottom.
+
+The red fire button is not used during game play, although it may be
+used to start a game.
+
+4. CONSOLE CONTROLS
+
+Game Select Switch: To select the PAC-MAN game variation you would like
+to play, press down the GAME SELECT swtich. (See GAME VARIATIONS,
+Section 5 for further information about game variations.)  The game
+number appears at the bottom of the screen.  One number appears for
+one-player games and two numbers appear for two-player games(See Figure
+2 and 3 for game numbers.)
+
+Game Reset Switch: Once you have selected the game number you wish to
+play, press down the GAME RESET switch to start the game. (You can also
+press the red controller button to start game play.)  After GAME RESET
+is pressed, the score appears where the game number was, and the lives
+remaining appears at the bottom of the screen as shown in Figure 4 for
+one player and Figure 5 for two players.  The player using the Joystick
+plugged into the LEFT CONTROLLER jack is the player to start the game in
+the two-player game variations.
+
+Difficulty Switches: PAC-MAN has two difficulty levels.  When the
+DIFFICULTY switch is in the B position, the power pills last longer and
+the vitamins stay on the screen longer.  The A position is for the
+advanced PAC-MAN player.  The player using the Joystick plugged into
+the LEFT CONTROLLER jack uses the LEFT DIFFICULTY switch, the player 
+using the Joystick plugged into the RIGHT CONTROLLER jack uses the
+RIGHT DIFFICULTY switch.  In a one-player game, use the LEFT DIFFICULTY
+switch.
+
+TV Type Switch: Set this switch to COLOR if your television is color.
+Set it to B/W to play the game in black and white.
+
+5. GAME VARIATIONS
+
+PAC-MAN includes 8 game variations.  Each variation has a one-player
+game and a two-player game.  In the two-player games, the left
+player starts the game.  Each player takes a turn until PAC-MAN gets
+eaten by a ghost.
+
+Games 1, 2, 7, and 8 feature a slow moving PAC-MAN.  The ghosts in
+each of these games move at different speeds as follows:
+
+GAME 1 Ghosts move at jogging speed.
+
+GAME 2 Ghosts move at running speed.
+
+GAME 7 Ghosts crawl especially slow for young children.
+
+GAME 8 Ghosts move at walking speed.
+
+Games 3, 4, 5, and 6 feature a fast PAC-MAN with the ghosts moving at
+varying speeds as follows:
+
+GAME 3 Ghosts crawl around the maze.
+
+GAME 4 Ghosts move at walking speed.
+
+GAME 5 Ghosts move at jogging speed.
+
+GAME 6 Ghosts move at running speed.
+
+Games 3 and 7 are recommended for young children.  Game 6 is the most
+difficult game variation.  For a real challenge try Game 6 with
+difficulty level A.
+
+NOTE: Sometimes the ghosts try to hide behind each other, so they 
+appear to be one single ghost chasing PAC-MAN.
+
+6. SCORING
+
+VIDEO WAFER                  =     1 POINT
+POWER PILL                   =     5 POINTS
+VITAMINS                     =   100 POINTS
+FIRST GHOST                  =    20 POINTS
+SECOND GHOST                 =    40 POINTS
+THIRD GHOST                  =    80 POINTS
+FOURTH GHOST                 =   160 POINTS
+
+7. HELPFUL HINTS FOR PAC-MAN'S SURVIVAL
+
+1. When all of the ghosts are hiding on top of each other, eat a
+   Power Pill and then you can gobble all four ghosts in one big bite
+   and score 300 points.
+
+2. Try to eat as many Video Wafers as possible before eating a Power
+   Pill.  This will save the Power Pill until you really need it.
+
+3. Before you eat a Power Pill, stay in the corner close to it so you
+   can tease the ghosts into moving closer to you, thus allowing you
+   to eat more ghosts with one Power Pill.
+
+4. Use the top and bottom openings in the maze like a tunnel to
+   outsmart the ghosts.  Slip in or out of the openings to escape hungry
+   ghosts.
+
+8. GAME SELECT MATRIX
+
+Game Number           1   2   3   4   5   6   7   8
+---------------------------------------------------
+Slow moving PAC-MAN   X   X                   X   X
+Fast moving PAC-MAN           X   X   X   X
+Ghosts Jogging Speed  X               X
+Ghosts Running Speed      X               X
+Ghosts Crawl Speed            X               X
+Ghosts Walking Speed              X               X
+Children's Versions           X               X
+Challenge (level A)                       X
+---------------------------------------------------
+
+Atari, Inc. Consumer Division
+PO Box 427
+Sunnyvale, CA 94086
+
+
+-------------------Atari 2600 Instructions Archive-------------------

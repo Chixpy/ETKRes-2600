@@ -1,0 +1,266 @@
+MEGA FORCE
+
+by 20th Century Fox
+c 1982
+
+A Game By Dallas North
+
+
+Deeds Not Words
+
+TO SET UP
+---------
+
+Set up your video computer system and left joystick controller as
+instruced in your manufacture owner's manual.  Move the Color/B-W lever
+to the correct setting.  Turn the power OFF and insert MEGAFORCE game
+cartridge.
+
+
+
+TO BEGIN:
+---------
+
+Turn the power ON.  Use the Game Select lever and Difficulty Switches
+to choose a play level.  Press the Game Reset lever to begin an action-
+packed adventure from start to finish.
+
+
+
+THE OBJECTIVE:
+--------------
+
+Because of your reputation as a clever and daring memeber of the
+MEGAFORCE, you have been sent to Sardoun, a strategically important
+Democratic nation currently under attack.  Your mission is to destroy
+the Enemy Headquaters.  Armed with the world's most advanced fighting
+machine, the Moto-Fighter, you are dropped off just outside Sardoun. 
+You must pass the city and make your way across the barren desert to
+the Enemy Headquarters on a limited supply of fuel.  You'll be
+challenged the entire way by heavy air and ground attack.  Should you
+travel too far into the barren desert, flashing arrows will direct you
+back toward the enemy--that's the only help you can expect.
+
+
+
+THE CONTROLS:
+-------------
+
+Tilt the joystick forward, backward, left and right to maneuver the
+Moto-Fighter around the screen.  The Moto-Fighter fires missiles at a
+downward angle when on the ground.  When the Moto-Fighter takes to the
+air, it fires straight foward.  Either way, the Moto-Fighter can fire
+while moving forward or backward or while stationary.
+
+
+
+SCREEN DISPLAY:
+---------------
+
+All game information is displayed in a bar at the top of the screen. 
+The first line displays the current scome and warming messages. 
+"ALERT" warns that deadly Enemy Aircraft are approaching from the
+right.  "DEFEND" lets you knoe that Enemy Aircraft are close to, or are
+attacking Sardoun.  The information bar will flash from blue to BLACK
+when Sardoun has been totally destroyed.  Your Fuel supply and extra
+Moto-Fighters are tallied on the second line.
+
+[Image of the playing screen at the start of the game.  The Play Level
+(Demo Mode Only) is centered at the top of the screen.  Just below
+that, is the Fuel Remaining, a number next to a "F:".  The Moto-
+Fighters Remaining is the number next too the little man.  The Moto-
+Fighter is the ship that you contol.  The Bullet is what comes out of
+the Moto-Fighter when you press the fire button.  The Exploding Enemy
+Aircraft is what the enemy ships look like after a bullet hits it.  The
+Flashing Arrow directs you from the left side of the screen to the
+right side (which is the direction to the enemy headquarters).  Sardoun
+is the cluster of white buildings at the bottom of the screen.]
+
+
+
+PLAY LEVELS/DIFFICULTY SWITCHES:
+--------------------------------
+
+Each game of MEGAFORCE is made up of several, increasingly difficult,
+"rounds."  A round ends when the Enemy Headquarters had been destroyed. 
+Reamaing Moto-Fighters are carried over into each new round.  All
+Objects, Prizes and Fuel are replenished.  You must use the Game Select
+lever to advance to another play level.
+
+LEVEL 1--NORMAL GAME PLAY: You begin the game with 39 gallons of Fuel
+and 4 Moto-Fighters.  You can gain up to 59 gallons of Fuel during
+play.
+
+LEVEL 2--ADVANCED GAME PLAY: You begin with 29 gallons of Fuel and 3
+Moto-Fighters.  You can only gain up to 59 gallons of Fuel during play.
+
+LEVEL 3--EXPERT GAME PLAY: You begin with 19 gallons of Fuel and 4
+Moto-Fighters.  You can gain up to 59 gallons of Fuel during play.
+
+LEVEL 4--EASY PARACTICE GAME: You begin with 99 gallons of Fuel and 8
+Moto-Fighters.  Also, Enemy Aircraft do not shoot at you.
+
+LEFT DIFFICULTY SWITCH A: Prizes under Fuel Depot appear in random
+order.
+
+LEFT DIFFICULTY SWITCH B: Prizes appear in fixed order.
+
+RIGHT DIFFICULTY SWITCH A: Enemy Aircraft allowed to pass you will head
+for Sardoun and attack it.
+
+RIGHT DIFFICULTY SWITCH B: Enemy Aircraft allowed to pass you will stay
+and protect Fuel Depots.  They will occassionally go to Sardoun.
+
+[Image of the game during the middle of a round.  The Warning Message
+is at the top center of the screen.  The Palm Tree and Lake are at the
+bottom of the screen.  The Ground Rockets are also at the bottom of the
+screen, and they are the things that shoot up at you.  The Fuel Depots
+are also at the bottom of the screen, and if you shoot them, you gain
+fuel and prizes.]
+
+
+
+FUEL/MOTO-FIGHTERS/SCORING:
+---------------------------
+
+One gallon of Fuel is lost for every second of game play.  Your Moto-
+Fighter will flash when its tank is almost empty.  Running out of Fuel
+causes you to lose one Moto-Fighter, as does allowing Sardoun to be
+destroyed.  Moto-Fighters are also lost by carashing into or being shot
+by Enemy Aircraft and Ground Rockets.  Points, Fuel and extra Moto-
+Fighters are earned by destroying various Objects and Prizes (see
+below).  NOTE: ONCE SARBOUN IS DESTROYED, NO MORE POINTS CAN BE EARNED
+IN THAT "ROUND" OF THE GAME.  The game ends when you run out of Moto-
+Fighters.  Don't forget to write down your high scores on the back of
+this booklet.
+
+[Image of the game at the end of a round.  The Current Score is at the
+top center of the screen.  The Prize is the gold-colored item at the
+bottom of the screen.  The Enemy Aircraft are the UFOs that fly around. 
+Endmy Headquarters are the black buildings at the bottom of the
+screen.]
+
+
+
+OBJECTS/SCORING:
+----------------
+
+PALM TREES, LAKES AND ARROWS: Blasting these will have no effect on the
+game.
+
+GROUND ROCKETS: These can be destroyed only BEFORE they are launched
+from the ground.  You receive 300 points for each one shot to pieces.
+
+ENEMY AIRCRAFT: These are worth 100 points each.  Any allowed to pass
+by may head straight for Sardoun on a bombing raid.  Every time an
+enemy bomb blows up a Sardounian tower, the information bar will flash
+to white and you will hear a muffled explosion.
+
+SARDOUN (WHITE): Each tower destroyed is worth 100-400 points and adds
+10 gallons of Fuel to your tank.  Remember, however, once Sardoun is
+destroyed you cannot earn nay more points during that round AND you
+lose a MOto-Fighter at the end of the round.
+
+ENEMY HEADQUARTES (BLACK): Each tower exploded is worth 300-600 points. 
+Total destruction of the Enemy Headquarters ends that round and adds on
+1 additional point.
+
+FUEL DEPOTS: Each tank demolished is worth 80 points and 10 gallons of
+Fuel.  If the entire Dpot is destroyed, a Prize will appear in that
+area which you can also shoot.
+
+PRIZES: If allowed to scroll off the screen, they will disappear.  Make
+sure they are "safe" Prizes, then shoot them right away.  Don't shoot
+Enemy Aircraft or Ground Rockets found under the Fuel Depots.  The
+consequences are severe.
+
+
+
+PRIZE CHART
+-----------
+ ___________________________________________________________________
+|                  |          |          |                          |
+|       PRIZE      |  POINTS  |   FUEL   |       CONSEQUENCES       |
+|                  |          |  GAINED  |                          |
+|__________________|__________|__________|__________________________|
+|                  |          |          |                          |
+|      MISSILE     |    300   |    10    |            ---           |
+|__________________|__________|__________|__________________________|
+|                  |          |          |                          |
+|   MOTO-FIGHTER   |    300   |    10    |            ---           |
+|__________________|__________|__________|__________________________|
+|                  |          |          |                          |
+|                  |          |          |   Adds 7 Enemy Aircraft  |
+|  ENEMY AIRCRAFT  |    100   |     0    |   and 3 Rocket Bases to  |
+|                  |          |          |        The Screen        |
+|__________________|__________|__________|__________________________|
+|                  |          |          |                          |
+|   GROUND ROCKET  |     70   |     0    |  Same As Enemy Aircraft  |
+|__________________|__________|__________|__________________________|
+|                  |          |          |                          |
+|    YELLOW PALM   |    400   |    20    |            ---           |
+|__________________|__________|__________|__________________________|
+|                  |          |          |                          |
+|        MAN       |    600   |    20    |   Adds One Moto-Fighter  |
+|__________________|__________|__________|__________________________|
+|                  |          |          |                          |
+|       ARROW      |     0    |     0    |            ---           |
+|__________________|__________|__________|__________________________|
+
+
+
+HINTS FROM DALLAS NORTH...
+--------------------------
+
+Ground Rockets are able to rise to the top of the screen in order to
+reach you.  You can elude them (unless they are directly under you) by
+quickly reversing the Moto-Fighter's direction.  At the higher levels,
+however, it is safer to avoid the Ground Rockets and go on to the next
+round.
+
+If you need to rest for a bit, head for the desert area left of Sardoun
+or right of Enemy Headquarters.  Enemy Aircraft cannot fly into these
+areas and while you are there they will not bomb Sardoun.
+
+
+
+MEGAFIGHTERS
+------------
+ ________________________________________________
+|                            |         |         |
+|            NAME            |  LEVEL  |  SCORE  |
+|____________________________|_________|_________|
+|                            |         |         |
+|                            |         |         |
+|____________________________|_________|_________|
+|                            |         |         |
+|                            |         |         |
+|____________________________|_________|_________|
+|                            |         |         |
+|                            |         |         |
+|____________________________|_________|_________|
+|                            |         |         |
+|                            |         |         |
+|____________________________|_________|_________|
+|                            |         |         |
+|                            |         |         |
+|____________________________|_________|_________|
+|                            |         |         |
+|                            |         |         |
+|____________________________|_________|_________|
+
+
+
+And of course, this game was made by Fox Video Games in 1982.  This game 
+manual was typed in by me!  Who am I?  I am Eddie Beiles.  I can be 
+reached at beiles@lambada.oit.unc.edu if you have any questions about 
+this game manual.  Or you can email me and thank me for typing it in.  
+Anyway, enjoy the game and this wonderfully typed in manual.    4/9/95
+
+
+
+
+
+
+
+

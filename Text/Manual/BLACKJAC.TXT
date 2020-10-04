@@ -1,0 +1,411 @@
+<Picture>
+
+<Picture>Blackjack.html<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+BLACKJACK
+
+
+
+GAME PROGRAM INSTRUCTIONS
+
+
+
+
+
+ATARI (R)
+
+
+
+
+
+A Warner Communications Company
+
+
+
+
+
+ATARI, INC., Consumer Division
+
+1195 Borregas Ave., Sunnyvale, CA 94086
+
+
+
+
+
+
+(c) 1977 ATARI, INC.                              c011402-51
+
+
+
+
+
+Use your Standard Paddle Controllers with this game program.
+Be sure to plug the Controller cables firmly into the Video
+Computer System TM jacks. See your Video Computer Owner's
+Manual for details. You will need another set of paddle
+Controllers for three players to play Black Jack. During one
+or two-player games, plug your Standard Controllers into the
+left side of the Console.
+
+
+
+
+
+Note: To prolong the life of your Atari Video Computer System
+and protect the electronic components, the Console unit should
+be OFF when inserting or removing a game program.
+
+
+
+
+
+HOW TO PLAY BLACK JACK
+
+
+
+
+
+Place your bets, casino gamblers! And you're ready to play
+Black Jack. One, 2 or 3 players compete against the computer
+dealer. The computer deals each player two cards face-up. The
+computer also deals two card to itself - one face-up and the
+other face-down. After that, Lady Luck and your sharp skill
+determines the winner.
+
+
+
+
+
+Each card is worth points:
+
+.--.
+|5 |      Number cards = 
+`--'      Face Value (i.e. 5 = 5 points)
+
+.--. .--. .--. .--.      10, Jack (J), Queen (Q) and King (K) 
+|10| |J | |Q | |K |      = 10 points
+`--' `--' `--' `--'
+
+.--.
+|A |
+`--'      Ace (A) = 1 or 11 points
+
+
+
+
+
+
+
+A card hand is called "soft" when the Ace is used as 11
+points. A card hand is "hard" when any combination of cards is
+used except an Ace worth 11 points. For exemple, a soft 17 is
+an Ace (11 points) and a 6. A hard 17 could be a 10, 6 and an
+Ace (1 point).
+
+
+
+
+
+The object of the game is to get 21 points, or as close to 21
+points without "busting" (exceeding 21 points). You
+automatically score a Black Jack when your first two cards
+equal 21 points.
+
+
+
+
+
+If you are satisfied with the points of your first two cards,
+stay on tht hand. If you want to add more points to your hand,
+request a hit, and the dealer will give you another card. You
+may continue to hit until you are satisfied with your hand
+(stay) - or until you exceed 21 points and lose the game
+(bust).
+
+
+
+
+
+When all players have played their hands, the dealer reveals
+the face-down card. Like all the players, the dealer will hit
+or stay to get as close to 21 points without busting.
+
+
+
+
+
+You win the game when:
+
+
+
+•Your card hand is equal to more points than the dealer's
+     hand without exceeding 21 points.
+•The dealer busts and exceeds 21 points.
+•You score a Black Jack (An Ace and a face card or a 10).
+
+
+
+
+
+
+
+NOTE: A tie game (push) occurs when the dealer's card points
+equal your card points.
+
+
+
+
+
+BETTING
+
+
+
+
+
+Each player starts play with a total of 200 chips. Bet from 1-
+25 chips on each game. Your bet is added or subtracted from
+your total score depending on whether you win or lose. When
+you score a Black Jack, you win 1 1/2 times your bet. For
+example, you score Black Jack on a bet of 10 chips and win 15
+chips! A player is automatically removed from the game when he
+has 1000 chips or no chips remain in his score.
+
+
+
+
+
+NOTE: You may double your bet BEFORE the first hit. After you
+double the bet, you must take one hit. No other hits are
+allowed.
+
+
+
+
+
+GAME SELECT SWITCH: Use this switch for the following:
+
+
+
+•CONTROL THE NUMBER OF PLAYERS - Press the Game Select
+     Switch to cycle through all the positions of game set-ups
+     for one, two or three players. Release the switch when
+     the number of set-ups you want appears on the screen.
+•LEAVING THE GAME - A player can leave the game at any
+     time. To stop play action, push the Game Select Swicth
+     until your set-up disappears. (Other players' set-up will
+     remain.)
+•RETURNING TO THE GAME: Stop the game action by pressing
+     the Game Select until you set-up reappears on the screen
+     along with any other set-ups of players who had been
+     playing.
+•GOING BROKE - When you Go Broke (lose all your chips),
+     you can still play by asking the bank for another set-up.
+     Stop the play action and push the Game Select Switch to
+     cycle through all the set-ups. When your new set-up
+     appears along with the other players' previous set-ups,
+     release the switch. Now place your bets and continue
+     play.
+•BREAKING THE BANK - When you have 1000 chips, you Break
+     the Bank! Now you must start play again with 200 chips.
+     To produce another set-up, follow the directions for
+     Going Broke. Your 1000 chip score will remain on the
+     screen until you press the Game Select Switch.
+
+
+
+GAME RESET - Slide this switch back and forth to reset your
+score to 200. You will also hear the computer shuffle the
+cards.
+
+
+
+
+
+
+
+LEFT DIFFICULTY SWITCH - Slide the left Skill Switch to "B"
+position and the computer automatically shuffles the cards
+after every hand. Slide the switch to "A" and the computer
+automatically shuffles the cards after dealing 2/3rds (34
+cards) of the deck.
+
+
+
+
+
+RIGHT DIFFICULTY SWITCH - Move this switch to the "A" or "B"
+position and the rules of the game change:
+
+
+
+
+
+A POSITION = CASINO BLACK JACK RULES
+
+
+
+•Computer dealer must hit a soft 17 or less.
+•Computer dealer must stay on a hard 17. (Aces = 1 point).
+•Your score is not affected by tie games between the
+     dealer and you.
+•If your hand equals 10 or 11 points, you may double your
+     bet BEFORE the first hit. You must take one hit, and only
+     one hit is allowed.
+•A player is allowed four hits.
+
+
+
+
+
+
+
+B POSITION = PRIVATE BLACK JACK RULES
+
+
+
+•Computer dealer must stay on 17 or more points.
+•All tie games are won by the computer dealer.
+•You may double your bet on any combination of cards
+     BEFORE the first hit. You must take one hit, and only one
+     hit is allowed.
+•A player automatically wins the game when he hits four
+     times without busting.
+
+
+
+
+
+
+
+CONTROLLER ACTION TO PLAY BLACK JACK
+
+
+
+
+
+Use the knob and red button on your hand-held Controller:
+
+
+
+•Determine and make your bet
+•Determine and tell the dealer whether you want to stay,
+     double or hit your hand.
+
+
+
+
+
+
+
+A question mark appears below your total number of chips. This
+is the time to place your bet for the next game.
+
+
+
+•Turn the Controller knob and numbers from 1 to 25 appear
+     under the total score. Stop turning the knob at the
+     number of chips you wish to bet.
+•Press the red Controller button to make your bet with the
+     dealer.
+
+
+
+
+
+
+
+If there is more than one player, the last player to make his
+bet and press the Controller button erases the previous game's
+card hands on the screen.
+
+
+
+
+
+After the computr deals two cards, each player must decide to
+hit, stay or double his bet.
+
+
+
+•Turn the Controller knob and the words HIT or STAY appear
+     above your cards. Turn the knob to the action you want to
+     take.
+•If you turn the knob to HIT, press the red Controller
+     button and another card will appear on the playfield.
+     Continue to HIT until you are satisfied with your hand.
+•When you are satisfied with your hand, turn the knob to
+     STAY. Then press the red Controller button.
+
+
+
+
+
+
+
+NOTE: If the game rules allow, double your bet BEFORE the
+first hit. (After you double the bet, you must take one hit.
+Only one hit is allowed.) Just turn the Controller knob to
+DBLE. Then press the red Controller button for the hit that
+could win the game for you!
+
+
+
+
+
+ATARI (r)
+
+
+
+
+
+A Warner Communications Company
+
+
+
+
+
+ATARI, INC., Consumer Division, 1195 Borregas Ave., Sunnyvale,
+
+CA 94086
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+Document converted to html by gchance@ecst.csuchico.edu
+ -------------------Atari 2600 Instructions Archive-------------------
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
+
+

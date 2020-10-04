@@ -1,0 +1,508 @@
+<Picture>
+
+<Picture>CookieMonster<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+ATARI 2600
+
+CCW
+CHILDREN'S COMPUTER WORKSHOP
+AN ACTIVITY OF CHILDREN'S TELEVISION WORKSHOP
+
+COOKIE MONSTER MUNCH
+
+FOR CHILDREN AGES 3-7
+
+SESAME STREET
+
+ATARI AND CHILDREN'S COMPUTER WORKSHOP PRESENT:
+Educational games featuring the lovable Sesame Street Muppets and other
+wonderful, whimsical characters.  The creators of Sesame Street, Electric
+Company, and 3-2-1 Contact have teamed up with the creators of the world's
+most popular video games.
+
+ATARI/CCW games are designed by writers, artists, programmers, 
+psychologists, and lots of kids!
+
+OUR FORMULA:
+One Part Creative Magic
+         +
+One Part Technical Wizardry
+         +
+One Part Educational Know-How
+         =
+Dynamic, Child-Appropriate Video Games!
+
+ATARI/CCW Video Games Provide:
+* Family Play
+* Continuous Challenge
+* Long-Term Play
+* Nonviolent Play
+* Opportunity for Cooperative Play, Individual Play, and Competitive Play
+* Appeal to Both Girls and Boys
+
+This Video Game Product was developed by ATARI, INC. and the CHILDREN'S
+COMPUTER WORKSHOP
+(c) 1983 ATARI, INC. All Rights Reserved
+(c) 1983 CHILDREN'S COMPUTER WORKSHOP, INC. All Rights Reserved
+Muppet Characters (c) 1983 MUPPETS, Inc. All Rights Reserved
+Featuring the JIM HENSON(tm) SESAME STREET(tm) MUPPET(tm) characters.
+
+
+                       Table of Contents
+                       * Note to Parents
+                       * Setting Up
+                       * A Read-Aloud Story
+                       * Game Play
+                       * More Fun with Cookie Monster
+                       * Game Matrix
+
+* Note to Parents
+
+The COOKIE MONSTER MUNCH game provides children with a fun way to practice
+several important prereading skills.
+
+1) Tracing a maze pattern while staying within its borders gives children
+   practice with the type of hand-eye coordination that is important for
+   beginning reading and writing.
+
+2) Learning to follow directional arrows provides experience with print
+   symbols that young chilren need to use in school.
+
+3) Using the arrows on the controller also helps children become familiar
+   with the relational concepts of up, down, left, and right.
+
+When you play COOKIE MONSTER MUNCH with your child you can reinforce these
+learning goals by talking about the game as you play.  Use the words left,
+right, up, and down and encourage your child to use them too.  Say things
+like, "I'm making Cookie Monster go to the right to get his cookies," or,
+"Can you make Cookie Monster go down to get to the cookie jar?"
+
+
+* Setting Up
+
+HOW TO USE YOUR ATARI KID'S CONTROLLER
+
+Use your ATARI KID'S CONTROLLER to play this game.
+
+Plug the ATARI KID'S CONTROLLER into the LEFT controller jack at the back
+of your ATARI 2600 Video Computer System console. (See Figure 1.) In 
+two-player games, the players take turns using the controller as each 
+person's turn comes up. The computer keeps score automatically.
+
+           [Figure 1 - Plugging in the Controller]
+
+You will find one keypad overlay included with this game.  This colorful 
+overlay will help your child select and use appropriate buttons during game
+play. Slip the overlay tabs into the slots at the top and bottom of your 
+ATARI KID'S CONTROLLER, as shown in Figure 2.
+
+                     [Figure 2 - Keypad Overlay]
+
+             --------------------------------------------
+               Note: The "Atari Kid's Controller" was a
+               large  6" x 7 1/2" Video Touch Pad that
+               was bought separately from the game cart.
+               The Video Touch Pad that came with the
+               game "Star Raiders" could even be used in
+               it's place.  The Cookie Monster Munch 
+               overlay for the controller blocked off all 
+               but five of the keys:
+                                  
+                               [move up]
+                                  / \    
+                                  (2)                         
+                      
+              [move left] <(4)    (5)    (6)> [move right]
+                     
+                                  (8)  
+                                  \ /
+                              [move down]
+
+                   [The 5 key is used to pick up cookies]
+
+
+                       Kid's Controller Key Layout:
+                           _________________
+                           | 1     2     3 |
+                           |               |
+                           | 4     5     6 |
+                           |               |
+                           | 7     8     9 |
+                           |               |
+                           | *     0     # |
+                           -----------------
+                -------------------------------------------
+
+NOTE: Always turn the console POWER switch OFF before inserting or
+removing an ATARI Game Program Program cartridge.  This will protect the 
+electronic components and prolong the life of your ATARI 2600 Video Computer
+System game.
+
+HOW TO USE THE ATARI 2600 CONSOLE CONTROL SWITCHES
+
+POWER ON/OFF SWITCH
+After you have inserted the Game Program cartridge, press the POWER ON/OFF
+switch to ON.
+
+GAME SELECT SWITCH
+COOKIE MONSTER MUNCH contains ten delightful game levels.  Find the game
+number you want to play in the GAME MATRIX on the back cover.  Press the
+GAME SELECT switch until the game number appears at the lower left of the
+television screen. (See Figure 3.) The number on the right indicates the 
+number of players for that game.  For a detailed description of each game, 
+see GAME PLAY.
+
+                    [Figure 3 - Selecting a Game]
+ (Game Number shown on left bottom of screen. Number of Players on right)
+
+GAME RESET SWITCH
+After you have chosen the game level you want to play, press GAME RESET
+to begin the game.  You can also press GAME RESET during game play or after 
+a game ends if you want to start the game over.
+
+DIFFICULTY SWITCHES
+RIGHT and LEFT DIFFICULTY switches are not used in this game.
+
+TV TYPE SWITCH
+Set the TV TYPE switch to COLOR to play the game on a color TV.  Set this
+switch to B/W to play on a black and white TV.
+
+
+* A Read-Aloud Story
+
+                            THE COOKIE GARDEN
+
+Cookie Monster was taking his morning walk in the park when he remembered
+he had not eaten a single cookie since breakfast.  He was hungry!
+
+"Me want cookie!' he thought.
+
+Suddenly, Cookie Monster stopped.
+In front of him was an enormous cookie jar.
+
+"What this?" he asked out loud.  "It look like giant cookie jar!  Must
+have cookies inside."
+
+He shook the jar, "Me no hear cookies."
+
+He stuck his furrry fist down in the jar, "Me no feel cookies."
+
+He peered into the jar, "Me no see cookies."
+
+Cookie Monster sat down beside the jar.  He felt bluer than his blue fur.
+
+"Nothing make me sadder than empty cookie jar!" he sighed, "except empty
+Cookie Monster."
+
+Just then, a warm, sweet smell floated toward Cookie Monster.  He sat up
+and sniffed the air.
+
+"That smell like -- cookies!"
+
+Cookie Monster jumped to his feet and followed the delicious smell up a
+garden path and straight to a freshly-grown chocolate chip cookie.
+
+"Cowabunga!" he shouted.  "Me discover magical cookie garden where cookies
+grow like flowers!"
+
+Cookie Monster was just about to munch the delicious cookie when he saw
+another one growing a little way up the path.
+
+"Look!  Another cookie!"  He ran and picked it.  Then he saw another.  He
+ran and picked that one up too,
+
+Cookie Monster ran all around the garden, picking every cookie in sight.
+Soon his arms were loaded with a towering pile of his favorite food.
+
+"Me need someplace to put cookies, so me can eat them.  But where?"
+Then Cookie Monster remembered the empty cookie jar.  He ran as fast
+as his furry legs could carry him.  When he reached the jar, he put all
+the cookies inside.
+
+"Me hungry from all this work.  Time for a snack," he said.
+
+Crumbs flew in all directions as Cookie Monster crunched down every
+wonderful cookie he had collected.
+
+The next morning Cookie Monster had one thought, to get to his cookie
+garden.  But, when he arrived at the garden fence, he peeked over and
+saw a terrible sight.  There was someone else collecting HIS cookies!
+
+"Hey kid!" Cookie Monster shouted, "This MY garden.  These MY cookies.
+Go away!"
+
+"Me want cookies!"  Cookie Monster yelled as he jumped over fence and
+chased the kid.
+
+"But Cookie Monster, I--"
+
+But before the kid could finish explaining, Cookie Monster snatched the
+cookies away from the kid and ate them.
+
+As soon as the kid picked another cookie, Cookie Monster ran over and 
+tried to grab it.  But this time the kid raced to the cookie jar and was 
+able to put the tasty treasure inside before Cookie Monster could catch up.
+
+"Why you taking my cookies?" the blue monster asked.
+
+"I'm not taking your cookies!" explained the kid.  "I'm the Cookie Kid (tm)+
+and I planted this garden just for you.  I'm saving these cookies for a
+special Cookie Monster party!"
+
+"A party for me?" asked Cookie Monster.  "That the nicest thing me ever 
+heard.  Me want party now!"
+
+And Cookie Monster was so happy he even shared the cookies with his new
+friend, the Cookie Kid.
+
+                                   + Indicates trademark of MUPPETS, INC.
+
+
+* Game Play
+
+NOW PLAY THE GAME . . . HERE'S HOW:
+
+Cookie Monster is very hungry -- he needs cookies fast!  You can help.
+
+OBJECT OF THE GAME:
+
+Pick up as many cookies as you can and put them in the cookie jar.
+
+GET READY TO PLAY:
+
+Follow the directions in SETTING UP, to plug in the KID'S CONTROLLER, to
+use the keypad overlay, and to select a game level.
+
+To move through the garden mazes, press the arrow on your keypad overlay
+that points in the direction you want to go.  To pick up a cookie, press
+the cookie (5 key) on the keypad overlay.  You must be standing over a
+cookie to pick it up. (See figure 4.) You must follow the path back down 
+to the cookie jar to put cookies in the jar. (See Figure 5.)
+
+                [Figure 4 - Picking Up a Cookie] 
+            (Shows Cookie Monster's feet over cookie)
+
+             [Figure 5 - Putting Cookies in the Jar]
+  (Shows Cookie Jar, Maze Entrance, and Cookie in Cookie Monster's hand)
+
+Positioning Cookie Monster over the cookie may require some practice.  If
+your child has difficulty, say "Look carefully.  Is the cookie between
+Cookie Monster's feet?"
+
+GAME VARIATIONS
+
+In some games, you are the Coookie Monster.  In other games, you are the
+Cookie Kid, and Cookie Monster will chase you.  COOKIE MONSTER MUNCH
+contains ten levels of game play.  Below are general descriptions of the
+games.  For specific details see the GAME MATRIX on the back cover.
+
+Each new game level is designed to be more difficult than the last.
+Encourage your child to start playing the easiest game first and to
+practice the skills that will lead to the next level of difficulty.
+
+GAMES 1, 2, AND 3: BEGINNING GAMES
+
+In each of these games, you guide Cookie Monster through as many garden
+mazes as you want and help him gather cookies.  (See Figure 6.) The score
+resets after every maze.  The easy Game 1 mazes contain one to three
+cookies; the medium Game 2 mazes contain four to six cookies; and the
+difficult Game 3 mazes contain seven to nine cookies.  After picking up
+each cookie, go to the cookie jar and drop it in.  Remember, you can only
+pick up one cookie at a time.
+
+                ______________________________________
+               |  --|---|---|---|---|---|--|---|----  |
+               |  --|---|---|---|---|---|--|---|----  |
+               |     #        #       #       #       |
+               |     #       ##       ##      #       |
+               |     #####    #       C    ####       |
+               |         #    #       #    #          |
+               |     #   C    #       #    #    C  <----- Cookie
+ CM = Cookie   |     #   #    #       #    #    #     |
+      Monster  |   ###############CM###############   |
+               |                 ###                  |
+    Score ----------> 1           U  <------------------- Cookie Jar
+               |______________________________________|
+                      Figure 6 - Beginning Game
+
+
+Take as much time as you need.  Once you have picked up every cookie in the
+maze and have put each one in the jar, Cookie Monster will eat the cookies,
+one at a time. (See Figure 7.) Watch the crumbs fly and count the cookies
+that Cookie Monster eats.
+
+               [Figure 7 - Cookie Monster Eats Cookies]
+
+In beginning games, young children might need some help getting started.
+Say to your child, "Point to the cookie you want to get and show me how
+you want to move in the maze to get it."  Tell your child to trace the
+path on the screen with his or her finger.
+
+GAMES 4, 5, AND 6: ONE-PLAYER AND TWO-PLAYER TIMED GAMES
+
+Help Cookie Monster pick up as many cookies as he can before time runs out.
+When a maze is cleared, a new one will appear.  Cookie Monster may bring
+one or more cookies at once to the cookie jar or may pick up all the cookies
+before returning to the jar. .  Although you will only see one cookie in
+Cookie Monster's hand, your score will increase by the correct number when
+you drop the cookies in the jar.  One to three cookies will appear in the
+easy Game 4 mazes, four to six cookies will appear in the medium Game 5
+mazes, and seven to nine cookies will appear in the hard Game 6 mazes.
+
+You have five minutes to collect cookies in Game 4, four minutes in Game 5,
+and three minutes in Game 6.  Watch the time bar at the bottom of the screen.
+(See Figure 8.)  It will slowly become smaller as time goes by.  When the
+time bar completely disappears, your time is up.  As soon as this happens,
+Cookie Monster will eat every cookie you collected.  Yum!
+
+You may want to draw your child's attention to the time bar and explain
+it's purpose the first time he or she plays a timed game.  Note that it
+moves right-to-left for player 1 and left-to-right for player 2.  The
+color of the time bar also matches the score color of the player who is
+playing.
+
+In two-player games, pass the controller to player 2 when time runs out for
+player 1.  After Cookie Monster eats player 1's cookies, player 2 collects
+as many cookies as possible before time runs out.  Player 1's score will
+appear at the lower left side of the screen and player 2's score will appear
+at the lower right side of the screen, as shown in Figure 9.  When the time
+is up for player 2, Cookie Monster will eat those cookies and you can compare
+scores. Who collected the most cookies?
+
+                     [Figure 8 - Timed Game]
+            (Screen shot shows time bar under score)
+
+                [Figure 9 - Two-Player Timed Game]
+      (Screen shot shows the time bar under player 2's score)
+
+
+GAMES 7, 8, AND 9: COOKIE KID VS. COOKIE MONSTER
+
+Now things really get exciting!  In these games you are the Cookie Kid
+collecting cookies.  But watch out for the Cookie Monster because he will
+chase you and try to take away every cookie you pick up.  Cookie Monster
+guards the cookie garden by walking back and forth behind the fence, as
+shown in figure 10.  As soon as you have a cookie in hand, Cookie Monster
+jumps over the fence and runs after you.  If he catches you before you get
+to the cookie jar, he will eat every cookie you carry.  While chasing you,
+Cookie Monster will also stop and gobble any cookies in his path.  After
+Cookie Monster takes your cookies, or when you have safely put them in the
+cookie jar, he returns to his guard post behind the fence until you pick
+up another cookie.  If you pick up another cookie before Cookie Monster gets
+all the way back to the fence, he will start to chase you again.
+
+                ______________________________________
+               |  --|---|---|---|CM-|---|--|---|----  |  CM = Cookie
+   Fence -------> --|---|---|---|---|---|--|---|----  |       Monster
+               |      #       #       #          #    |
+               |      #       #       #          #    |
+               |     #####    #       #      #######  |
+               |     #   #    #       #      #     #  |
+               |     ######   #       #     ########  |         
+               |     #   #    #       #      #   #    |
+               |   #####################CK#########   |  CK = Cookie Kid
+               |                 ###                  |
+               |      5           U                   |             
+ Time Bar -------->  XXXXXXXXXX                       |
+               |______________________________________|
+                       Figure 10 - Cookie Kid Game
+
+
+There are nine cookies in each maze.  The mazes are easy in Game 7, medium
+in Game 8, and hard in Game 9.  For added excitement, the games are timed!
+You have five minutes to collect as many cookies as possible in Game 7,
+four minutes in Game 8, and three minutes in Game 9.  At the end of your 
+time period, Cookie Monster will eat all the cookies you saved.  Watch his
+eyes roll around happily.  What a party!
+
+Two-player Cookie Kid games are played just like one-player games, except,
+when time is up for the first player, the second player takes the controller.
+
+GAME 10: SUPER CHALLENGE GAME
+
+Are you ready for a super challenge?  Try collecting cookies in invisible,
+difficult mazes! (See Figure 11.)
+
+Played just like Game 9, Game 10 gives you three minutes to pick up cookies
+in as many mazes as you can.  Nine cookies are scattered throughout each
+maze.  Every time you pick up a cookie, the maze will flicker briefly so
+you can see how it looks.  Try to remember the shortest path back to the
+cookie jar so you can quickly and safely put your sweet treasure in the jar
+before Cookie Monster grabs it.
+
+In two-player Super Challenge games, each player has three minutes to pick
+up cookies in invisible mazes.  When time runs out for player 1, player 2
+takes over the controller.  At the end of each player's time period, Cookie
+Monster gobbles every cookie in the jar.
+
+                    [Figure 11 - Invisible Maze Game]
+
+
+* More Fun with Cookie Monster
+
+(Book activities for kids)
+
+  1. What happened first?  Here are some pictures of Cookie Monster.  What
+     happened in each picture?  Can you find what happened first?  What
+     happened next?  What happened last?  Now tell the story.
+  2. Cowabunga, it's Cookie Monster!!  Draw your favorite cookie in Cookie
+     Monster's hand.  Color the picture.
+  3. The Cookie Garden.  Help Cookie Monster get the cookies.  Use your
+     finger to follow a path from Cookie Monster to the cookie jar.  How
+     many cookies did he pass?  Count them.  Now try a different path.
+  4. The Cookie Kid Saves the Day.  Cookie Kid wants to save a cookie for
+     later.  Draw a picture of a cookie jar to put the cookie in.  Color
+     the picture.
+  5. Put the Cookie in the Cookie Jar.  Draw a picture of a big cookie jar
+     and tape it to the wall.  Then draw your favorite cookie and cut it
+     out.  Now blindfold your friend, brother, sister, or parent.  Spin
+     the blindfolded person around three times.  Lead him/her to the wall
+     and help him/her put the cookie in the cookie jar by giving directions.
+     Say things like, "Move your hand up.  Move your hand down.  Move your
+     hand right.  Move your hand left."
+
+
+* Game Matrix
+
+                            ------------------------------
+Easy = E                   | Game 1: E     | Game 6:  H,T |
+                           |---------------|--------------|
+Medium = M                 | Game 2: M     | Game 7:  E,T |
+                           |---------------|--------------|
+Hard = H                   | Game 3: H     | Game 8:  M,T |
+                           |---------------|--------------|
+Timed = T                  | Game 4: E,T   | Game 9:  H,T |
+                           |---------------|--------------|
+                           | Game 5: M,T   | Game 10: H,T |
+                            ------------------------------
+
+GAMES 1-3:  ONE-PLAYER GAMES ONLY
+GAMES 4-10: ONE-PLAYER & TWO-PLAYER GAMES
+
+
+CO19741-102  REV. A  26102
+(c) 1983 ATARI, INC.  All Rights Reserved
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

@@ -1,0 +1,164 @@
+	SUPERMAN
+
+	GAME PROGRAM INSTRUCTIONS
+	Copyright DC Comics Inc. 1979
+	Model CX-2631
+	ATARI
+	A Warner Communications Company
+
+	ATARI, INC., Consumer Division
+	1195 Borregas Ave., Sunnyvale, CA 94086
+	Book copyright 1979 ATARI, INC.
+
+
+	SUPERMAN
+Use your Joystick Controllers with this ATARI Game Program.  Be sure to plug
+the controller cables firmly into the jacks at the rear of your ATARI Video
+Computer System.  Hold the controller with the red button to your upper left
+toward the television screen.  See section 3 of your owner's manual for
+further details.
+
+For a one-player game, use either the right or left controller.
+
+Note: Turn the console off when inserting or removing a Game Program.  This
+will protect the electronic components and prolong the life of your ATARI
+Video Computer System.
+
+
+	GAME DESCRIPTION
+You are Superman.  Receiving a tip on a bomb scare, you rush to the
+Metropolis waterfront.  Dropping into a nearby phone booth, you change into
+Clark Kent, mild- mannered reporter for the Daily Planet, and continue east
+(right) toward the Metropolis Memorial Bridge.
+
+As you approach the bridge, it explodes!  Lex Luthor, arch enemy of
+Superman, is seen leaving in a hell-pack.  Some of the Lex Luthor henchmen
+rush from the scene.  A helicopter flies by carrying Lois Lane.  Is she in
+trouble, or has she hired the helicopter to scoop the story?  Another crook
+sneaks away.
+
+This is a job for Superman!  You rush back to the phone booth and emerge as
+the Man of Steel.
+
+"Up, up and away" you fly to capture Lex Luthor and his gang.  But beware!
+Lex Luthor has released three Kryptonite satellites that will seek you out.
+If any touch you, you become weak.  You will lose your ability to fly, and
+to capture and hold on to things.  Only a touch from Lois Lane will revive you.
+
+The destroyed Metropolis Memorial Bridge is important to the economy of the
+city.  Besides catching Lex Luthor and his gang, you must find the three
+pieces of the Bridge and rebuild it.
+
+The helicopter may try to help, but more than likely it will be a
+hindrance... sometimes even removing parts of the Bridge that you have put
+into place.  Other times it is a definite ally by snatching away the
+Kryptonite satellite that Lex Luthor may be hiding behind.
+
+After putting Lex Luthor and his gang behind bars, and rebuilding the
+Bridge, you return to the phone booth and change back into Clark Kent.  Then
+you catch a subway to the Daily Planet and turn in your story.
+
+
+	HOW TO PLAY
+[Screen Shot of Jail, Superman, Lex Luthor, Markers, and Timer Minutes and
+Seconds.]
+
+The object of this game is to put all the crooks behind bars, rebuild the
+Bridge, change back into Clark Kent and go to the Daily Planet in the
+shortest amount of time.
+
+There is a timer at the top of the playfield that is incremented in minutes
+and seconds.  It will start when you move the Joystick after depressing
+either Game Reset or Game Select, and stops when Clark Kent enters the Daily
+Planet.
+
+There are six markers at the top of the playfield; the largest represents
+Lex Luthor, the other represent his henchmen.  As each crook is put into
+Jail, one of these markers will disappear.
+
+Each "frame" denotes a city block of Metropolis.  They are connected at each
+of the four adjoining sides.  You can pass through all the city blocks of
+Metropolis by flying either east (right) or west (left).  Flying north (up)
+or south (down) continually will miss the phone booth and the Bridge.
+
+You can enter the Metropolis Subway System through the "doorway" of any of
+the four subway stations.  Once inside, to stay within the Subway System,
+you must move upward (north), as each of the four different colored areas
+are connected at the top.
+
+To exit into the city from the Subway System, move east (right), west
+(left), or south (down).  Each of the four different colored areas will exit
+into a different portion of Metropolis.  For example, exiting west from the
+pink section will bring you to the Jail; exiting west from the yellow
+section will bring you to the Daily Planet.
+
+There is a room inside the Daily Planet that is entered by passing through
+the "doorway" of the building.  Once inside, you must go through the Subway
+System before you can exit into the city.
+
+If you lose Lois Lane into the Daily Planet, she will tend to stay there.
+But... if the Helicopter goes by outside the building, she will come out to
+see what is going on and wander off.
+
+
+	USING THE CONTROLLER
+If you are above or below "street level", you can fly in any direction by
+moving your joystick as shown in the diagram.
+
+[Diagram of Joystick directions.]
+
+If you have been "zapped" by a Kryptonite satellite or are in your guise as
+Clark Kent, you can only walk to the right or left, unless you are in the
+Subway System or inside the Daily Planet.  Then you can walk in any direction.
+
+To land, return the Joystick to the center or "neutral" position.  If you
+are above "street level" you will float down to "street level", where you
+can walk.  If you are below "street level", you will float down to the city
+block below.
+
+To capture a crook, or to carry Lois Lane or pieces of the Bridge, you must
+touch them while flying.  To release them, land by returning the Joystick to
+neutral.
+
+To rebuild the Metropolis Memorial Bridge, all three pieces must be between
+the two buildings.  As the third piece of the Bridge touches the other two,
+the Bridge will be complete.
+
+To put Lex Luthor or one of his henchmen in Jail, fly through the bars of
+the Jail while carrying the crook.  When you do this, the crook's "marker"
+at the top of the playfield will disappear.
+
+If you land while carrying a crook, he will try to escape.
+
+X-RAY VISION
+X-Ray vision enables you to see into one of the four adjoining frames.
+Press the red controller button and move the Joystick in the direction in
+which you wish to see.  Be careful!  You will not move while using your X-
+Ray Vision, but the Kryptonite Satellites will, and they can "zap" you when
+you are looking elsewhere.
+
+
+Note: The Superman Game Program can be played by one or two people.  As a
+two-player game, teamwork is required between the players for Superman to
+avoid the Kryptonite Satellites and to capture Lex Luthor and his gang.  The
+player using the left Joystick Controller will have priority over the left
+and right movements of Superman, while the player using the right controller
+will have priority over the up and down movements of Superman.
+
+
+	HANDICAP (Difficulty Switches)
+The right difficulty switch controls the speed of Lex Luthor and his gang
+and the speed of Kryptonite Satellites.  In the A position the Kryptonite
+Satellites will go after you twice as fast as in the B position.  The crooks
+will also run from you twice as fast.
+
+When the left difficulty switch is in the B position, Lois Lane will appear
+whenever you are "zapped" by a Kryptonite Satellite.  When it is in the A
+position, you must find Lois Lane before you can get "revived".
+
+
+	CONSOLE CONTROLS
+After beginning, the game can be stopped by depressing the Game Select
+switch.  To resume play and restart the tim, push the Joystick in any
+direction. 
+

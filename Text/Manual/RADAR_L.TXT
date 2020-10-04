@@ -1,0 +1,302 @@
+			Copyright (c) 1988, Doug Neubauer.  
+			Copyright (c) 1989, Atari Corporation.
+
+--------------------------------------------------------------------
+
+ENEMY JET AT 12 O' CLOCK!
+
+You're locked in fight-to-the-death air combat with the
+enemy!  You may be outnumbered -- somehow you've been
+separated from your buddies -- but this is far from your first
+mission.  You've been flying your trusty little delta-wing
+fighter for more months than you care to remember.
+
+Suddenly you sight an enemy interceptor at 12 o'clock!
+These babies are a piece of cake.  You sneak up from
+behind and zap it with a few rounds from your machine gun.
+
+Just when you're feeling a little cocky from your last
+successful hit, an enemy Bomber appears out of nowhere.
+This one's not so easy.  Not only is its tail gunner an expert
+shot, but the Bomber is surrounded by a fleet of Escorters,
+and you can't even get at it with your guided missiles.
+
+It's going to take all of your expertise, along with your
+arsenal of ammunition, proximity missiles, and guided
+missiles, just to stay alive.  Any minute you could be sabotaged
+by a cagey patroller or the unsuspecting victim of a
+sneaky Stealth Fighter.
+
+Prepare for the dog fight of your life.  It's going to be a killer!
+
+GETTING STARTED
+
+1.  With your television turned on, insert the Radar Lock cartridge
+into your Atari 2600 (or 7800) as explained in your Owner's Manual.
+
+2.  Plug a controller into the left port.  Plug another controller
+into the right port for optional weapons selection in a one-player
+game or to play the game with two players.
+
+3.  Switch on your television.  Then push the console's [Power]
+switch to the ON position.  The Radar Lock title screen appears.
+
+4.  Press [Select], or move your controller left or right, to
+choose a one-player or two-player game.
+
+5.  Press [Reset] or the left fire button to begin the game.
+
+6.  During play, press [Reset] to restart the game.
+
+7.  To pause during a game, move the TV-type switch on the Atari 2600
+to B/W; to resume play, move the switch to COLOR.  On an Atari 7800, 
+press and hold [Pause] to pause the game.
+
+PLAYING THE GAME
+
+The object of the game is to use your state-of-the-art delta-wing
+fighter to defeat the enemy fleet in air combat.  Your fighter plane
+is equipped with guided missiles, proximity missiles, and rapid-fire
+machine guns.  The game consists of five missions of increasing difficulty.
+
+When the game begins, your jet starts up, increases speed, and takes off
+from the air field.  The scene then switches to the combat screen.
+
+At the end of each mission, you must refuel in flight.  Use the left
+controller's fire button to control your speed during the in-flight
+refueling sequence.  Hold down the button to accelerate, and release
+the button to return to normal flying speed.  Using the long-range 
+radar and missile lock, fly to the fuel tanker.  When you are close
+to it, the tanker will lower its fuel hose.  Once the nose of your jet
+is locked into the fuel hose, your mission is complete.  You receive
+bonus points for your remaining fuel and weapons and then advance
+to your next mission.
+
+[picture:  roughly triangular plane with four dots on it in a diamond pattern,
+with a solid line descending from it ending in a larger dot.]
+
+[picture:  Combat Screen.  Score and ammunition on top, enemy jets, horizon
+and your jet in the middle, fuel, lives counter, missile-lock radar (the
+crosshairs), long-range radar (the 90-degree-angle thing at right) and
+guns counter at right.]
+
+CONTROLLING YOUR FIGHTER
+
+Use the controllers to operate your delta-wing fighter.  Move the left
+controller to maneuver your jet in flight.  Move the right controller to
+select the weapons you wish to use.
+
+Left Controller				Right Controller
+
+	Dive					Machine Gun
+	  ^                                         ^
+	  |                                         |
+Bank  <--(O)--> Bank                     Guided <--(O)--> Proximity
+Left      |     Right		        Missiles    |     Missiles 
+          v                                         v
+        Climb				         (blank)
+
+THE INSTRUMENT PANEL
+
+The instrument panel is located at the bottom of the screen.  The 
+missile-lock radar is located in the center of the instrument panel,
+and the long-range radar is to the right.
+
+Use the long-range radar to locate enemy jets and the refueling tanker
+when they are not visible on the screen.  The small dot in the middle
+of the radar screen marks the location of the jet.  Enemy jets will
+appear in front of or behind your jet.
+
+The fuel gauge is shown to the left of the missile-lock radar.  When you
+are low on fuel, the gauge will begin to flash and you will hear a warning
+tone.  You must reach the tanker and refuel before your fuel runs out
+completely.
+
+The number of lives you have left is shown in the lower left-hand corner
+of the instrument panel.  The number of rounds you have left in your
+machine gun is shown on the right.
+
+The weapon you have selected is shown at the top of the screen, just 
+below the score.
+
+ONE-PLAYER GAMES
+
+In one-player games, the pilot controls both the firing of weapons 
+and the jet's flight.  Press the fire button on the left controller
+to fire the selected weapon.  To increase your jet's speed, hold down
+the fire button on the right controller.
+
+NOTE:  When the currently selected weapon runs out of ammo, it will
+automatically change to the next available weapon.  Move the right 
+directional control if you wish to select a different weapon.
+
+TWO-PLAYER GAMES
+
+In two-player games, the flight officer uses the left controller to fly
+the ship.  The weapons officer uses the right directional control to
+select weapons and the right fire button to fire them.
+
+WEAPONS
+
+Your jet starts out equipped with five guided missiles and about 2550 
+rounds of machine gun ammunition.  In Missions 3, 4 and 5, your jet also
+carries three proximity missiles.
+
+GUIDED MISSILES
+
+If you wish to fire guided missiles, you must change your weapon selection.
+Move the right controller to the left.  Your missiles remaining display 
+across the top of the screen.
+
+The primary function of guided missiles is to destroy enemy bombers.
+When an enemy jet is within range, the missile-lock radar will turn
+bright blue and you will hear a beeping tone.  Steer your jet until the
+locked-on enemy jet is in the cross-hairs.  The missile-lock radar will
+then turn deep-red, and you will hear a steady tone.  Fire your missile
+immediately to destroy the enemy jet.
+
+NOTE:  When an enemy jet is not within range, the missile-lock radar will
+be light blue if the jet is in front of you and violet if the jet is
+behind you.
+
+MACHINE GUNS
+
+In addition to the guided missiles, your jet is equipped with rapid-fire
+machine guns.  You begin your missions with this weapon ready to fire.
+The number of rounds remaining is displayed in the bottom right-hand corner
+of the screen.  Use the machine guns to destroy all enemy jets except for
+bombers; it takes 25 hits from a machine gun to destroy a bomber.
+
+PROXIMITY MISSILES
+
+In Missions 3, 4 and 5, your jet is equipped with proximity missiles.  Press
+the fire button to launch the missile; release the fire button to detonate it.
+When you detonate the missile, all visible enemy jets other than bombers 
+will be destroyed.
+
+WARNING:  Do not release the fire button too soon, or you will risk detonating
+the missile too close to your own jet and destroying it.
+
+THE ENEMY FLEET
+
+As you fly missions against the enemy, you will encounter different enemy
+aircraft.  Similar in appearance, these aircraft differ in their basic
+color and their capabilities.
+
+*  Drones appear only in Mission 1.  They are red and look like Interceptors,
+   only they can't shoot.  Drones are easy to hit and make good target 
+   practice for higher missions.
+
+*  Interceptors first appear in Mission 2 and are the basic enemy jet.
+   They are also red and are the easiest of the fighter jets to destroy.
+   They are not equipped with a tail gunner, so they can't hit you when
+   you are behind them.
+
+*  Patrollers first appear in the second wave of Mission 2 and are yellow.
+   In Mission 2, they follow assigned patrol routes.  In higher missions,
+   Patrollers can sneak up from behind and shoot you.
+
+*  Escorters first appear in Mission 3 and are blue.  Their primary purpose
+   is to protect enemy bombers, and they tend to fire quickly.
+
+*  Stealth Fighters first appear in Mission 4 and are black.  Stealth Fighters
+   can jam your long-range radar so you don't know exactly where they are.
+   They can sneak up behind you and fire on you, although they are not as
+   aggressive as Patrollers.
+
+*  Bombers are large, white delta-wing jets that are very difficult to 
+   destroy.  They first appear in Mission 3.  The Bomber has a tail gunner
+   so that it can also fire behind itself.  Proximity missiles cannot harm
+   a Bomber, and it takes 25 machine gun hits to destroy one, so guided
+   missiles are your best bet with these.  Bombers usually follow
+   assigned routes.
+
+*  Super Bombers are the most dangerous enemy jets.  They appear only in
+   Mission 5.  They are blue and red delta-wing jets, and guided missiles
+   are the most effective weapons for destroying them.  Super Bombers fire
+   a barrage of missiles at once, making them especially lethal.
+
+NOTE:  Some of the enemy jets will fire at you from behind.  When they have
+you in their sights, you will hear a warning tone and see the message
+"BEHIND YOU" displayed at the top of the screen.
+
+THE MISSIONS
+
+There are five missions in this game.
+
+MISSION 1:  DRONES
+
+Mission 1 is the easiest of the missions and offers good target practice
+against the Drones, who can't shoot.  Start with this mission to practice
+maneuvering your jet, shooting your weapons, and refueling.
+
+MISSION 2:  INTERCEPTORS AND PATROLLERS
+
+Wave 1:  Interceptors are the primary enemy attack jet.  They can shoot
+only what is in front of them.
+
+Wave 2:  Patroller jets follow assigned routes.  Use your long-range radar
+to locate the Patroller squadron.  After you have identified them, use
+thrusters (or after-burner) and quick maneuvering to bring them into
+your sights.  Use your thrusters when you want quick acceleration.
+When you have completed Mission 2, you earn a spare life.
+
+MISSION 3:  BOMBERS
+
+Wave 1:  In Mission 3, Bombers follow assigned patrol routes.  They shoot
+from either the front or the back and are difficult to destroy.  They are
+also protected by Escorters.
+
+Wave 2:  The Patrollers will try to sneak up and shoot you from behind.
+When you have completed Mission 3, you earn a spare life.
+
+MISSION 4:  STEALTH FIGHTERS
+
+Wave 1:  In Mission 4, your ship has the ability to roll.  This makes it
+much easier to maneuver, and the game moves much more quickly at this point.
+
+Wave 2:  Enemy Stealth Fighters appear.  They can jam your long-range radar
+and sneak up behind you, so you need to move quickly to avoid being hit.
+When you have completed Mission 4, you earn a spare life.
+
+MISSION 5:  SUPER BOMBERS
+
+Wave 1:  You get one last warm-up round of Interceptors before the 
+Super Bombers appear.  
+
+Wave 2:  Your final mission is to destroy five Super Bombers, which are
+escorted by Patrollers, Stealth Fighters, and Escorters.
+
+STRATEGY
+
+You have only five guided missiles.  Use them wisely.
+
+Proximity missiles are especially effective for destroying the escort fleet
+that protects an enemy bomber.
+
+SCORING
+
+Drone.....................50 points
+Interceptor..............100 points
+Escorter.................250 points
+Stealth Fighter..........400 points
+Patroller................500 points
+Bomber...................950 points
+Super Bomber............2000 points
+
+At the end of each mission, you score bonus points as follows:
+
+Each gallon of fuel remaining........1 point
+Each bullet remaining................1 point
+Each missile remaining............350 points
+Completing the mission............801 points
+
+You earn a bonus jet after completing Mission 2, Mission 3, and Mission 4.
+
+---end of manual---
+
+				typed up by Jeff Coleburn, vsp@netaxs.com
+
+ 
+
+

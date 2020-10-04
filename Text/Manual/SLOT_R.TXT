@@ -1,0 +1,138 @@
+SLOT RACERS TM
+
+GAME PROGRAM TM INSTRUCTIONS
+
+Model CX2606
+
+ATARI
+
+A Warner Communications Company
+
+ATARI, INC., Consumer Division
+1195 Borregas Ave., Sunnyvale, CA 94086
+
+(C) 1978, ATARI, INC.						C011402-06
+
+
+SLOT RACERS TM
+
+Use your Joystick Controllers with this Game Program TM. Be sure the
+controllers are firmly connected to your Video Computer System TM.
+Seethe Owner's Manual for details. Hold the controllers with the red
+button to your upper left towards the television screen.
+
+NOTE: To prolong the life of your Atari Video Computer System and 
+protect the electronic components, the console unit should be OFF when 
+inserting a Game Program.
+
+
+HOW TO PLAY
+
+Screech! Pow! Smash! This is the super chase scene, and you're in it right 
+behind the wheel of a Super Chasemobile car equipped with power and 
+incredible gadgets.
+
+Console Controls:
+
+To start the game action, use the console controls to program the type of 
+game you want to play.
+
+*       Press the Game Select to choose the game. The numbers of each
+game appear in the upper left corner.  (See Game Descriptions of the game 
+number of each game).
+*	Press the Game Select to choose one of the four chase mazes.
+
+There are four chase mazes. Each player steers one car through the maze. 
+Chase your opponent and attempt to hit him with one of the secret missiles 
+fired from your car headlights. You score a point each time you hit your 
+opponent with a missile.
+
+The differences between the nine games are:
+
+*	The speed of the cars
+*	The speed of the missiles
+*	The direction of the missile path
+
+
+CONTROLLER ACTION
+
+Use your Joystick Controller to steer the car and fire missiles.
+
+Steering the Car
+
+*	Push the Joystick forward to accelerate the car
+*	Pull the Joystick towards you to brake the car
+*	Push the Joystick to the left to turn the car to the left
+*	Push the Joystick to the right to turn the car to the right
+
+NOTE: You can turn the car only when the car is moving.
+
+Firing Missiles
+
+To fire a missile, press the red controller button. After you fire a missile, 
+there are three ways the missile can travel. Control the way the missile 
+travels with your Joystick Controller.
+
+1. If you want the missile to turn left after firing, push the Joystick to the 
+left as you press the red controller button.
+
+2. To turn the missile to the right after firing, push the Joystick to the right 
+as you press the red controller button.
+
+3. The missile will automatically turn at every corner (except in games 8 
+and 9) when you press the red controller button without pushing the 
+Joystick.
+
+Driving Tips
+
+*	In steering the car, note that you cannot turn the car into the wall. 
+The car will automatically take a corner to avoid crashing into a wall.
+*	After turning your car or missile onto a street remember to return 
+the Joystick to its center position. For example, if you push the Joystick to 
+the left to turn the car to the left, push the Joystick back to its center 
+position. Otherwise, the car will continue to make left turns.
+
+
+SCORING
+
+You score one point each time you hit your opponent's car with a missile. 
+The first player to score 25 points wins the game. The score of the left 
+controller player appears in the upper left corner; the right controller 
+player's score appears in the upper right corner.
+
+
+HANDICAP   DIFFICULTY SWITCH
+
+When the Difficulty is in the B position, you can shoot consecutive 
+missiles. Note that if a previously fired missile is still on the screen when 
+you fire a new missile, the old missile will dissappear.
+
+In A position, you cannot fire another missile if you already have a missile 
+on the screen. Before you can fire another missile:
+
+*	The missile on the screen must hit your opponent's car                           
+OR
+*	You must retrieve the missile on the screen by steering your car into 
+it.
+
+
+GAME DESCRIPTIONS
+
+GAMES 1-4
+Select your favorite maze pattern. These games feature missiles that travel 
+faster than the cars. Note that the speed of both the missiles and cars 
+increase with each game number. For example, Game 1 has the slowest 
+moving missiles and cars; Game 4 features the fastest moving missiles and 
+cars.
+
+GAMES 5-7
+Drive your car fast on these mazes. This time, the cars travel faster than 
+the missiles during these games. Note that the speed of the cars increase 
+with each game number. For example, Game 5 features the slowest 
+moving cars; Game 7 offers plenty of speed.
+
+GAMES 8 AND 9
+Missiles do not automatically turn corners during these games. That's why 
+some of your missiles may become trapped in front of a wall. In Game 9 
+you're driving race cars; Game 8 features slower cars.
+-------------------Atari 2600 Instructions Archive-------------------

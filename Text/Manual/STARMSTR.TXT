@@ -1,0 +1,316 @@
+                                ACTIVISION
+                                STARMASTER
+                            BASIC INSTRUCTIONS
+
+You are alone in space.  A critical and difficult mission awaits you.
+Carefully read these instructions and commit them to memory.  Then, study "The
+Power of StarMaster."  It will help to instruct you in the ways of advanced
+space combat.  And then, perhaps someday, YOU can attain the level of Supreme
+StarMaster.
+
+
+
+----------------------------STARMASTER BASICS----------------------------------
+                             PILOT BRIEFING
+
+"You must protect your starbases by destroying all invading enemy starfighters
+before they destroy you or your starbases.  You must accomplish your mission
+quickly, using the least amount of energy, sustaining the least damage.
+Succeed, and you will be rewarded.  Fail, and you will be destroyed.  The
+destiny of the galaxy is in your hands."
+
+1.  Hook up your video game system.  Follow manufacturer's instructions.
+
+2.  With power OFF, plug in game cartridge.
+
+3.  Turn power ON.  If no picture appears, check connection of your game
+    system to TV, then repeat steps 1-3.
+
+4.  Plug in left Joystick Controller (it's the only one you'll need).  When
+    Playing, hold the Controller with red button at upper left.
+
+5.  Difficulty switches (skill levels on Sears Tele-Games Video Arcade) may be
+    set at either level and should not be moved during game play.
+
+6.  Select game level as follows:
+    
+    a.  Move color/black-and-white switch to call up Galactic Chart (see
+        illustration next page).
+    b.  Consult first line of Mission/Attack Control Computer (MACC)
+        information at bottom of screen.
+    c.  Select game level with game select switch.  The initial letter of game
+        level will appear on the first line of the MACC information.  Game 
+        levels vary based on number, speed and accuracy of enemy starfighters,
+        and number and speed of meteors encountered in space.
+
+
+                               GAME LEVELS
+
+                                  |     Number of    |     Meteor and     |
+                                  |  Enemy Fighters  |     Enemy Speed    |
+        --------------------------|------------------|--------------------|
+          E: Ensign               |         9        |         Nominal    |
+          L: Leader               |        17        |   1.5 X Nominal    |
+          W: Wing Commander       |        23        |   2.0 X Nominal    |
+          S: StarMaster           |        31        |   2.5 X Nominal    |
+        ------------------------------------------------------------------|
+
+
+7.  The Adventure Begins.  Press game reset to start your mission.  Your ship
+    will be cruising through an empty sector of the galaxy.  Now, you must seek
+    out the enemy and race at warp speed to meet and destroy them.
+
+-------------------------------------------------------------------------------
+
+
+
+----------------------------MISSION OPERATIONS---------------------------------
+
+During the course of your mission, you will make use of four distinct modes of
+operation:
+                       Galactic Chart Analysis
+                       Warp Travel
+                       Engaging the Enemy
+                       Docking with a Starbase
+
+                          GALACTIC CHART ANALYSIS
+
+                               [screen shot]
+               [Your ship, Starbase, Enemy starfighters, MACC]
+
+Display your ship's Galactic Chart by moving the color/black-and-white switch
+on your game system.  The chart displays three types of information:
+
+1.  Galactic Radar/Sector Analysis.  Displays the relative locations in the
+    galaxy of your ship (indicated by a +); your starbases (shown as <>); and
+    enemy starfighters (shown as white "blips" on the radar).  There are 36
+    sectors of the galaxy (a 6x6 matrix) shown on the radar.
+
+2.  Mission/Attack Control Computer (MACC) Information.  Displayed below the
+    Galactic Chart:
+
+    E or L or W or S:  Game level (see prior page).
+    W:  Energey required to warp between sectors of the galaxy.
+    S:  Stardat (elapsed time of your mission).
+    E:  Energy remaining (your ship starts with 9999 units).
+    D:  Damage Control Status (see discussion next page).
+
+3.  Color of Computer Panel Display:
+
+    Green: You are in or flying to an empty sector.
+    Red:   You are in or flying to a sector occupied by enemy starfighters.
+    Blue:  You are in or flying to a sector occupied by a starbase.
+
+
+
+In Galactic Chart/Sector Analysis your object is to locate enemy starfighters--
+or your starbases.  After consulting MACC, select a sector of the galaxy to
+which to warp, to either engage the enemy or dock with a starbase for refueling
+and repairs.
+
+Select a sector of the galaxy by moving Joystick up, down, left or right, which
+moves a cross on the Galactic Chart display.  Place the + in the sector of the
+galaxy to which you wish to travel.
+
+Press red button on Joystick to begin Warp travel to sector selected.
+
+
+
+                              WARP TRAVEL
+
+In this segment of your mission, you will be travelling at warp speed from one
+sector of the galaxy to another.  Be alert to meteors which enter your path.
+Use your Joystick to steer around them (push or pull stick forward, back, right
+or left) or destroy them with your laser cannons (press red button on Joystick
+to fire).  Each meteor that hits your ship drains 100-500 units of energey from
+your shields, and could result in even greater damage to your ship.
+
+During warp travel, MACC will provide only Energy and Damage Control Status.
+
+
+
+                           ENGAGING THE ENEMY
+
+When you enter an enemy sector, your ship's laser gunsight will begin to flash,
+indicating the presence of enemy starfighters.  Your object is to destroy all
+enemy starfighters in the sector, in the fastest time, using the least amount
+of energy and avoiding damage to your ship.
+
+                             [screen shot]
+       [Enemy Starfighter, Enemy Fire, Gunsight, Laser Cannon Fire, MACC]
+
+Press the red button on your Joystick to fire your laser cannons.  A red
+explosion occurs when an enemy ship is destroyed.  A blue explosion occurs when
+you destroy incoming enemy fire.  A yellow explosion results when your ship is
+hit by enemy fire.  Each firing of your laser cannons requires 100 units of
+energy;  each time you are hit by enemy fire, you lose between 100 and 500 
+units of energy, depending on the severity of the damage.
+
+When all the enemy ships in a sector have been destroyed, your control console
+will turn from red to green.  You should then refer to your Galactic Chart
+(move color/black-and-white switch) to seek out more enemy or locate your
+starbases.
+
+While engaging the enemy in battle, MACC will display only Energy and Damage
+Control Status.  Monitor Damage Control to determine when damage occurs, as
+follows:
+
+Damage Control Status (D: LSWR)
+
+L:  Laser cannons destroyed.  You cannot fire at the enemy or meteors.
+S:  Shields destroyed.  You ship is defenseless.  One more hit from enemy fire
+    or collision with a meteor during warp travel will destroy your ship and 
+    end the game.
+W:  Warp engines are damaged.  You ship will use twice as much energy during
+    warp travel.  Watch energy reserves.
+R:  Radar destroyed.  You can no longer spot enemy fighters on the Galactic
+    Chart.  Your starbases will continue to appear.
+
+Whenever damage occurs, you will hear an explosion, whether you are monitoring
+your Galactic Chart or viewing the space around you.
+
+
+
+Energy Reserves
+
+MACC will activate the energy reserve alarm (a yellow hazard light on the
+control panel) when energy drops below 1000 units.  If your ship runs out of
+fuel, your mission cannot be continued, and the game is over.
+
+To repair damage and/or refuel, you must reach one of your starbases and dock.
+
+
+
+                         Docking with a Starbase
+
+To reach a starbase for docking, call up your Galactic Chart (see Galactic
+Chart Analysis), select a sector of the galaxy in which a starbase is located,
+and press the red button on your Joystick to warp to the starbase sector.
+
+To dock, use the Joystick to pilot your ship until your ship's sights connect
+with the orbitting starbase at its closest approach.
+
+                              [screen shot]
+                         [Sight, Starbase, MACC]
+
+Once Docked, your ship's energy will be completely replenished and all damage
+will be repaired.  You will then be prepared to continue your mission to
+destroy the enemy.
+
+
+
+When a Starbase is Destroyed
+
+Enemy starfighters are constantly trying to surround and destroy your
+starbases.  Only you can prevent this from occurring.  When the enemy succeeds
+in destroying a starbase, an explosion is heard (no matter where your ship
+happens to be at the time), and the starbase disappears from the Galactic
+Chart.
+
+-------------------------------------------------------------------------------
+
+
+                              THE MISSION ENDS
+
+When all enemy ships are destroyed or your ship is destroyed or your ship runs
+out of energy, your mission is over.
+
+Call up the Galactic Chart with the color/black-and-white switch and review
+your Mission Evaluation (score).
+
+
+
+-----------------------------MISSION EVALUATION--------------------------------
+
+When your mission is over, the top line of MACC will display an evaluation of
+your performance next to the game level indicator.  You must call up the 
+Galactic Chart to review your performance.
+
+Your score is determined by how efficiently you complete your mission.  You are
+awarded 100 points for each enemy starfighter you destroy.  You are penalized:
+
+         500 points for each starbase destroyed by the enemy.
+         100 points for each time you dock for refueling and repairs.
+           1 point for each Stardate elapsed.
+
+These bonus or penalty points are added to or deducted from a base score set at
+the beginning of each mission, as follows:
+
+
+                  Game Level          |          Base Score
+          ----------------------------|---------------------------
+             Ensign                   |            3100
+             Leader                   |            4300
+             Wing Commander           |            5700
+             StarMaster               |            6900
+
+Example:  At Leader level, you destroy all enemy fighters (17) in 83 stardates,
+docking once and losing one starbase.  Your Score:
+
+                  Bonus Score                    4300
+                  Credit for Enemy Destroyed    +1700
+                  Deduct for Stardates          -  83
+                  Deduct for Docking            - 100
+                  Deduct for Lose of Starbase   - 500
+                                               ------
+                                   FINAL SCORE   5317
+
+
+The  maximum score for each game level is as follows:
+
+                  Game Level          |       Maximum Score
+          ----------------------------|---------------------------
+             Ensign                   |            4000
+             Leader                   |            6000
+             Wing Commander           |            8000
+             StarMaster               |           10000
+
+
+
+-----------------------------------ENTER THE-----------------------------------
+                       "ORDER OF THE SUPREME STARMASTER"
+
+Any Mission Evaluation score which meets or exceeds the standards set below
+qualifies you to be inducted into the "Order of the Supreme StarMaster."
+
+                  Game Level          |       Maximum Score
+          ----------------------------|---------------------------
+             Ensign                   |            3800
+             Leader                   |            5700
+             Wing Commander           |            7600
+             StarMaster               |            9000
+
+If you qualify, send a photograph of the television screen which displays your
+accomplishment.  We will enroll you and send you a special emblem of
+achievement.
+
+-------------------------------------------------------------------------------
+
+
+
+---------------------------"THE POWER OF STARMASTER"---------------------------
+
+A special training manual accompanies these instructions.  It contains
+invaluable informatiuon, insight and guidance to help you understand the
+special features f StarMaster by Activision, and the skills and techniques
+which can help you achieve the "Order of Supreme StarMaster."  Read it
+thoroughly, and practice its principles.  With proper dedication and training,
+you, too, can have "The Power of StarMaster."
+
+[Note:  StarMaster by ACTIVISION is designed to be played on color television
+sets only.]
+-------------------------------------------------------------------------------
+
+
+
+Look for more Activision video games wherever you buy video game cartridges.
+Drop us a note, and we'll gladly add your name to our mailing list and keep 
+you posted on new Activision game cartridges as they become available.
+
+                                 ACTIVISION
+        Activision, INc., 3255-2 Scott Blvd., Santa Clara, CA  95051
+
+(c) 1982 Activision. AX-016-03A
+
+
+-------------------Atari 2600 Instructions Archive-------------------

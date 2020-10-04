@@ -1,0 +1,168 @@
+(Front)                           Mythicon
+                                       Inc.
+ 
+                ***   *****    *    ****     *****   ***   *   *
+               *        *     * *   *   *    *      *   *   * *
+                ***     *    *****  ****     ***    *   *    *
+                   *    *    *   *  *  *     *      *   *   * *
+                ***     *    *   *  *   *    *       ***   *   *
+ 
+                                Instructions
+ 
+                                                   tm
+                   Label & Program (c)1983 Mythicon,  Inc.
+ 
+(1)
+ 
+PATROL COMMUNIQUE 4024/8:  Friendly robot freighter downed on planetoid
+Beta-7 in your quadrant.
+ 
+CARGO:  Valuable trimetalisium energy crystals.  Enemy star cruiser with
+fighter drones enroute to confiscate these highly valuable blue energy
+crystals.
+ 
+MISSION:  Recover as many crystals as possible.  Destroy all enemy fighter
+drones you encounter.  Intelligence reports that enemy is combat testing new
+models of these drones and will periodically replace them during melee.
+ 
+MISSION STATUS:  Critical.  Expect extreme danger when penetrating orange
+atmosphere of Beta-7 planetoid.  The energy crystals have ionized the gases
+to such an extent that your horizontal drives will be useless: you may not be
+able to move left or right at low altitudes.  No further communication
+authorized.  Good Hunting.
+ 
+ 
+                      G E T T I N G    S T A R T E D
+ 
+1.  Plug in Joystick or Ball Controller
+ 
+2.  Turn power OFF, insert game cartridge.
+ 
+3.  Turn power ON.
+ 
+4.  DIFFICULTY SWITCHES are not used with STAR FOX since the enemy
+automatically becomes more aggressive as your score increases.
+ 
+5.  JOYSTICK CONTROLLERS move your space ship in any direction.  When you
+enter the orange atmosphere your landing gear will automatically deploy.  You
+will not be able to move left or right while in the planet's atmosphere.  The
+red button on the joystick fires your laser cannon.
+ 
+6.  BALL CONTROLLERS work very well with STAR FOX.  Higher scores should be
+possible.
+ 
+7.  GAME SELECT SWITCH will allow you to choose the
+ 
+(2)
+ 
+difficulty level and whether one or two players will be playing.
+ 
+ 
+  Man + Happy Face + Blank      Practice mode - One player only, no scoring
+ 
+  Man + Blank      + Blank      First Level One Player - Scoring for
+                                successfully shooting or ramming enemy and
+                                for recovering crystals.
+ 
+  Man + Blank      + Man        First Level Two Players  - Play alternates
+                                starting with left controller.
+ 
+  Man + Diamond    + Blank      Second Level, One Player - Scoring for
+                                successfully shooting enemy and for recoving
+                                crystals.  Colliding with enemy will cause
+                                you to loose a life.
+ 
+  Man + Diamond    + Man        Second level, Two Players
+ 
+8.  BEGIN PLAY by pressing the game reset button or by pressing the red button
+on your controller.  After each loss of a life, a controller symbol will
+appear at the top of the screen.  Pressing the red button on your controller
+will restart the game.
+ 
+Once you have pressed the read button, you are free to being searching for
+crystals.  They are always located just off the screen to the left or right.
+Flying in one direction then turning around and flying in the other direction
+is the best way to find crystals.
+ 
+9.  SCORING is done by destroying enemy fighters and recovering blue
+trimetalisium crystals.  To destroy a fighter drone you may shoot it with your
+LASER or ram it.  Be careful in the second level of difficulty;  your ship is
+destroyed if you ram the enemy.
+ 
+SCORES:
+        Ram enemy               10 points
+        Shoot enemy            100 points
+        Recover crystal        200 points
+ 
+(3)
+ 
+10.  LIVES remaining in addition to your current life are displayed at the top
+of the screen.  You have a total of four lives at the beginning of each game.
+ 
+11.  DIFFICULTY is determined automatically.  As your score increases the
+enemy becomes faster.  Your opponent is replaced automatically every 2000
+points or so, depending upon the tactics programmed into the enemy.  All but
+the most difficult enemy drones are available in the practice mode as well.
+In this mode, pressing RESET switch will return you to the easiest enemy.
+Each successive fighter drone is more difficult to shoot than the last.  Only
+the best players will get a chance to see some of the most aggressive units.
+ 
+                                 H I N T S
+ 
+Your search for crystals will be greatly reduced by flying rapidly to the
+right or to the left.  If you do not come across a crystal within a few
+seconds reverse direction.  This will generally being a crystal into view
+almost immediately.
+ 
+You are most vulnerable when within Beta-7's atmosphere while recovering the
+trimetalisium crystals.  Since trimetalisium possesses an extraordinary
+amount of energy, they float above the surface of Beta-7.  To reduce the time
+you must remain within the atmosphere wait until the crystal is near the top
+of the gaseous layer.  It is also helpful to dive into the atmosphere at an
+angle instead of dropping stright down.  Since your landing gear will deploy
+automatically as soon as your ship's sensors detect Beta-7's atmosphere gases
+you will decelerate very rapidly.  Pick-up the crystal and ascend to thinner
+air.
+ 
+(4)
+ 
+                          G A M E   F E A T U R E S
+ 
+STAR FOX by Mythicon has a high level of computer intelligence built in.  The
+enemy is very smart and always knows where you are.  It has an automatic
+tracking system which tells at what altitude you are flying, what airspeed
+your are maintaining and your rate of acceleration and deceleration.
+ 
+Because of the extraordinary sensing devices aboard, a fighter drone is
+capable of detecting your exery motion, except when bombing.  It will attempt
+to evade your LASER cannon and reestablish an attack position behind your
+ship.  Its sensors will also detect your entry into Beta-7's atmosphere.
+While you are recovering the trimetalisium crystals it will assume a bombing
+mode since it is not constructed to survive the ionized gases of the
+atmosphere.  In this mode it will detect your location, hover above you, and
+release tactical bombs.  When you rise out of the atmospheric level, it re-
+assumes its attack mode and the firing of its missles.
+ 
+(5)
+ 
+               O N E   Y E A R   L I M I T E D   W A R R A N T Y
+ 
+Mythicon Inc. warrants to the original consumer purchaser of any video game
+cartridge it manufactures that the product will be free of defects in
+material or workmanship from one year from the date of purchase.  If defective
+return the product along with the proof of the date of purchase, postage
+prepaid, to:
+                        Mythicon Inc.
+                        Service Department
+                        P.O. Box 1347
+                        Cupertino, CA 95015
+for repair or replacement.  This warranty give you specific legal rights and
+may also have other rights which vary from state to state.  This warranty does
+not cover damage resulting from accident, misuse or abuse.
+        tm
+STAR FOX   is a trademark of Mythicon Inc.
+<c> 1983 Mythicon Inc.
+Printed in U.S.A.
+ 
+This document typed by Scott Stone, tafoid@delphi.com. 
+ 

@@ -1,0 +1,130 @@
+MOONSWEEPER
+Game Program Instructions
+
+USS MOONSWEEPER --ALERT!
+
+Your mission: to reach and rescue miners stranded on hostile moons in Star Quadrant Jupiter²!
+
+Warning!  Proceed with extreme caution.  Deadly photon torch and space bullet showers
+reported.  Aurora flare activity in Quadrant at lethal levels.  Take evasive action, then land on as
+many moons as you can.  Avoid colliding with lunar landmarks.
+
+Unidentified alien ships patrol moons and launch armed surface destroyers.  Survive at all costs
+or the miners won't make it!
+
+GAME OBJECTIVES
+
+-Pilot the USS Moonsweeper around the sun of Star Quadrant Jupiter².  Avoiod or destroy
+aurora flares, photon torches and space bullets.  Land on one of the moons as it passes.
+-Rescue 6 miners from the moon.  Avoid towers and shots fired from alien surface destroyers.
+-While skimming the moon's surface, shoot towers, surface destroyers, Launcher Ships and
+Lunar Satellites.
+-When you've picked up 6 miners, fly through Accelerator Rings to blast off into outer space.
+Then begin another rescue mission.
+
+PREPARE FOR THE MISSION
+
+-Pull GAME SELECT switch to pick a skill level from #1 (easiest) through #4 (hardest)
+-To start playing, press red button on LEFT joystick controller.
+-Whenever you complete a succesful rescue mission and blast off, the game automatically
+advances to the next higher level.
+-In 2-player games, each player's turn continues until he loses a Moonsweeper.  Also, the skill
+level does not advance unless both player successfully blast off from a moon.
+
+GAME PLAY
+
+-To control flight direction, push joystick left or right.  Moonsweeper stays on the same horizontal
+level.
+-Avoid collisions with space bullets, aurora flares and photon torches by moving evasivley,
+shooting them or using your Forcefield Shield.
+-To fire: aim Moonsweeper, then press red button.
+-If you are hit, activate a reserve Moonsweeper by pushing joystick left or right.
+
+FORCEFIELD SHIELD
+
+-To activate Forcefield Shield:  Press red button while pulling joystick toward you.
+-Using the Shield costs you score points (unless your score is zero.)
+-You cannot land while using the Shield.
+
+MOON SELECTION
+
+-Watch for moons that orbit into the vicinity of your spacecraft.  Move Moonsweeper to the moon
+you want to reach.  The automatic pilot takes over and flies your craft down to the Rescue
+Altitude.
+-The moon color indicates rescue difficulty
+	Blue moons: easy, many miners
+	Green moons: less easy, fewer miners and more surface destroyers
+	Yellow moons: more difficult, scattered miners and more aggresive surface destroyers
+	Red moons:  most difficult, miners are far apart and surface destroyers attack very
+	                   agressively.
+-The higher the skin level the more likely you are to encounter more challenging moons.
+
+THE RESCUE
+
+-JOYSTICK controls speed and direction over moon surface.
+  -Pull back to fly slower, push forward to accelerate
+  -Move stick left or right to head in those directions
+-Pick up MINERS by flying over them.
+  -The Radar Spotter indicates where the next miner will appear.
+  -Pick up 6 miners to complete your rescue flight and leave this moon.
+  -Miner symbols at the top of the screen flash when Moonsweeper has a full load.
+-TOWERS appear all over the moonscape.  Avoid or destroy them!
+  -If you crash into a tower you lose a Moonsweeper and its passengers and return to the Orbit
+   Sequence
+-LAUNCHER SHIPS descend close to the moon and release surface destroyers that attack
+ Moonsweeper and capture miners.
+  -To shoot at Launcher Ships, pull back on joystick and press red button.
+-SURFACE DESTROYERS are the major menace to your successful rescue mission! Once they
+ land, surface destroyers swing back and forth across your flight path, shooting at you and
+ capturing miners.
+  -Watch out for missiles launched from surface destroyers.
+   A hit makes you lose Moonsweeper with all rescued miners on board.
+  -Collisions with surface destroyers will also destroy Moonsweeper.
+  -To shoot surface destroyers aim Moonsweeper and press red button.
+-SATELLITES cross the screen from time to time, and do not attack you; however, shooting them
+ gets you big scores!
+  -To shoot a satellite, pull back on the joystick while pressing the fire button.
+
+ACCELERATOR RINGS
+-When 6 miners have been rescued, Moonsweeper is full and you can blast off.  Fly through
+ Accelerator Rings to get enough speed to break away from the moon's gravity.
+  -Accelerator Rings are placed in a series, if you don't get up enough speed in one series, watch
+   for the next one.
+  -The number of rings you must fly through depends on your speed; generally, 2 or 3 rings gives
+   you the necessary momentum for blast-off.
+  -Rings are lined up in a straight row only on Blue moons.  Fly a zig-zag course to achieve blast
+   off speed on Green, Yellow and Red moons.
+-YOU ARE AWARDED AN EXTRA MOONSWEEPER, TO A MAXIMUM OF NINE, WHEN YOUR
+ SCORE INCREASES 10,000 POINTS.
+
+GAME VARIATIONS
+
+NUMBER         MOON COLORS
+     1                BLUE and GREEN
+     2                BLUE, GREEN and YELLOW
+                       (mostly BLUE and GREEN)
+     3                BLUE, GREEN and YELLOW
+                       (mostly GREEN and YELLOW)
+     4                BLUE, GREEN, YELLOW and RED
+
+SCORING
+
+IN ORBIT
+For each SPACE BULLET, AURORA FLARE, or PHOTON TORCH.............................10 points
+For each use of Forcefield Shield...........The longer you use the shield, the more points you lose.
+
+ON MOONS
+
+                              SHOOT
+                              TOWER,
+                             SURFACE           SHOOT
+              RESCUE        DESTROYER          LANDER           SHOOT        BLAST
+COLOR         MINER         OR MISSILE          SHIP          SATELLITE       OFF
+------------------------------------------------------------------------------------
+Blue            10              10               200             300           980
+Green           20              10               200             500          1225
+Yellow          30              40               300             700          1470
+Red             40              80               300            1000          1960
+
+© 1983 IMAGIC
+All Rights Reserved

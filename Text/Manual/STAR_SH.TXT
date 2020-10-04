@@ -1,0 +1,283 @@
+	STAR SHIP
+	Game Program Instructions
+
+	Atari
+	A Warner Communications Company
+	Atari, Inc., Consumer Division
+	1195 Borregas Ave., Sunnyvale, CA 94086
+	copyright 1977 Atari Inc.    C011405-03
+
+
+Use Joystick Controllers with this game program.  Be sure the Controllers
+are firmly connected to your Video Computer System.  See your owner's manual
+for details.  Hold the Controllers with the red button to your upper left
+towards the television screen.
+
+NOTE: To prolong the life of your Atari Video Computer System and protect
+the electronic components, the Console unit should be OFF when inserting a
+Game Program.
+
+
+CONTROLLER ACTION
+Controller action depends on the game being played.  Details for Joystick
+Controller action can be found under each game heading.  In all cases, hold
+the Controller with the red button to your upper left towards the television
+screen.
+
+DIFFICULTY
+Want to really test your aim in space?  Slide the Difficulty Switch to the
+"A" position during Star Ship games and your laser missiles become weaker.
+This makes it necessary for you to hold the Enemy Space Objects on target
+longer.
+Slide the Difficulty to "A" position during Lunar Lander games and you must
+be exactly on target before you score points.  As you attempt to land the
+Lunar Lander on the moon, make sure that you are landing DIRECTLY on the
+moon target as you fire the landing rockets with the red controller button.
+
+
+STAR SHIP
+You're sitting in your Star Ship cockpit.  And your television screen is
+suddenly transformed into the window of your Star Ship.  With the Joystick
+Controller, steer the ship deep into space.  A constant barrage of meteors
+whiz toward your window.  Eerie Enemy Space Objects float from the darkest
+parts of space.
+
+Asteroid (yellow speckles)
+Cannot be destroyed.
+
+Star Fighter (blue ship which looks like a Klingon ship)
+1 point.
+
+Flying Saucer (looks like a flying saucer)
+2 points.
+
+Space Robot  (looks like a pink bug)
+3 points.
+
+Space Module (the other player's ship in some variations)
+2 points.
+
+[Diagram of Joystick Directions]
+Joystick Forward: To Dive (Moves Objects Up)
+Joystick Back: To Climb (Moves Objects Down)
+Joystick Right: To Turn Right (Moves Objects Left)
+Joystick Left: To Turn Left (Moves Objects Right)
+
+
+JOYSTICK ACTION
+The movement of the Joystick affects the direction you travel through space.
+For example, to avoid collision with space objects on your ship's left,
+steer the ship to the right by moving the Joystick to the right; dive by
+moving the Joystick forward; soar upward by moving the Joystick back towards
+you.
+
+Your mission in space is to destroy Enemy Space Objects to score points.
+You are helpless against asteroids -- they can NOT be destroyed.  Lose one
+point when an Enemy Space Object or asteroid crashes into your ship.  Score
+one point when you destroy a star fighter.  Score two points when you zap a
+flying saucer or space module.  A space robot is worth three points when you
+destroy it.
+
+Destroy Enemy Space Objects with laser beams fired by pressing the red
+button on your Joystick Controller.  Laser beams are only effective when the
+objects are in the target area -- the two center bars of the Space Window.
+Zap an Enemy Space Object and your score appears at the top right of the screen.
+
+While you blast through space, you'll hear space sounds: computer "BEEPS"
+from your space ship controls, collisions and laser beams while you fire.
+
+
+ONE PLAYER GAMES
+[Screen shot of Space Window for Games 1,2,3,4]
+
+You are alone in these games.  Your television screen becomes your Space
+Ship Window as you guide your ship deep into space with the right Joystick
+Controller.  Meteors whiz past you.  And on each mission, Enemy Space
+Objects make a different strategy.
+
+Score points by destroying Enemy Space Objects.  Just press the red
+Controller button when the Enemy Space Object is in the target area and
+ZAPPP!  All one-player games last two minutes and 16 seconds.  During the
+final 16 seconds, your score flashes off and on the Space Window.
+
+GAME 1
+Your mission is to destroy as many SLOW MOVING Enemy Space Objects as
+possible in 2 minutes and 16 seconds.  The Enemy Space Objects appear two at
+a time as you guide your ship into space.
+
+GAME 2
+Your mission is to destroy as many SLOW MOVING Enemy Space Objects as
+possible in 2 minutes and 16 seconds.
+They appear one at a time as you guide your ship into space.
+
+GAME 3
+Your mission is to destroy as many FAST MOVING Enemy Space Objects as
+possible in 2 minutes and 16 seconds.  They appear one at a time.
+
+GAME 4
+Your mission is to destroy as many FAST MOVING Enemy Space Objects as
+possible in two minutes and 16 seconds.
+They appear two at a time.
+
+[Screen shot of Space Window for Games 5, 6, 7, 8, 9]
+
+You are sitting in your Star Ship cockpit.  Use the right Joystick
+Controller to guide the Star Ship.  The opponent uses the other Joystick
+Controller to steer the Space Module that appears through the Space Window.
+Your score appears in the top right corner of the Space Window.  The
+opponent's score is in the left corner.
+
+Space Module Joystick Action
+Joystick Forward, Move Up
+Joystick Back, Move Down
+Joystick Left, Move Left
+Joystick Right, Move Right
+
+Only the Star Ship Commander can score in this game.  But both players have
+a turn to be Commander of the Star Ship.  This game lasts 4 minutes and 32
+seconds.  During the final 16 seconds of each game half (2 minutes and 16
+seconds), the scores will flash at the top of the screen.  After the first
+half of the game, the Module at the Space Window changes color from blue to
+orange.  Then you become Commander of the Module and your opponent becomes
+the Star Ship Commander.
+
+Your mission as Star Ship Commander?  To destroy Enemy Space Objects and the
+Space Module you can see through your Space Window.  As you chase the Module
+through space, make points when you zap an Enemy Space Object or when you
+destroy the Module.  Lose 1 point when you collide with an Enemy Space
+Object or asteroid.
+
+As Module Commander, you must avoid collisions and laser missiles from the
+Star Ship.  The Module's main defense?  The ability to become invisible.
+The Module Commander presses the red Controller button and the Module
+disappears when it is near the target area in the center of the Space
+Window.  The Star Ship Commander scores 2 points when the Module collides
+with an Enemy Space Object or asteroid.
+
+
+GAME 5
+The space chase is on.  And you must destroy the Space Module.  There are no
+enemy space objects in this galaxy.  As Module Commander, you must avoid
+laser missiles.
+
+GAME 6
+Blast off into space after the Space Module.  You must destroy the Module
+and try to avoid collisions with the indestructible SLOW MOVING ASTEROIDS
+that appear.  If you are the Module Commander, you must avoid collisions and
+laser missiles.
+
+GAME 7
+Your mission?  To destroy the Space Module and try to avoid collisions with
+the indestructible FAST MOVING ASTEROIDS that appear.  As Module Commander,
+you must avoid collisions and laser missiles.
+
+GAME 8
+The space chase is on!  You must destroy the Space Module and SLOW MOVING
+Enemy Space Objects that appear one at a time from deep space.
+
+GAME 9
+Catch the Space Module.  You must destroy it and the FAST MOVING Enemy Space
+Objects that appear one at a time from deep space.
+
+
+
+WARP DRIVE (One-Player Games)
+you are sitting in your cockpit watching space whiz by.  With the right
+Joystick Controller, steer your ship past the indestructible asteroids.
+Your mission?  To cover as much distance as possible.
+
+Your space meter ticks away each parsec (a measure of space distance which
+equals 19.2 trillion miles) of distance in the upper right corner of the
+Space Window.  You lose one parsec each time you collide with an asteroid.
+
+To increase your speed into space, press the red Controller button.  You'll
+hear the engines roar into the fastest speed of all -- Warp Drive.  During
+the final 16 seconds of each game, your score will flash off and on at the
+top right of the Space Window.  Warp Drive game lasts 2 minutes and 16 seconds.
+
+Throughout your space race against time, you'll hear the sound of your Space
+Ship engines, computer "BEEPS" from your Space Ship controls, and collisions.
+
+[Screen Shot of Space Window for Games 10, 11]
+
+GAME 10
+Cover as much distance as possible while avoiding collisions with ASTEROIDS
+that appear one at a time.
+
+GAME 11
+Cover as much distance as possible while avoiding collisions with ASTEROIDS
+that appear two at a time.
+
+
+
+LUNAR LANDER
+[Screen Shot of Space Window for Games 12 - 17]
+
+You've explored space.  Now your mission is to explore the moon.  You
+control the Lunar Lander on the Space Window with your Controller Joystick.
+The game or another player controls the movement of the moon.  Score one
+point for every successful landing your Lunar Lander makes.
+
+NOTE: When the Lunar Lander or the Moon is moved off the top, bottom or
+sides of the Space Window, it will reappear at the opposite side.  For
+example, the Moon moves off the top of the Window and reappears at the
+bottom of the Window.
+
+You'll hear space sounds: computer "BEEPS" from your lander controls,
+collisions and retro fire from your rocket engines.
+
+ONE-PLAYER GAMES
+Each one-player game lasts 2 minutes and 16 seconds.  The computer controls
+the movement of the moon.  You control the movement of the Lunar Lander with
+the right Controller Joystick.  Score one point for every successful landing
+your Lander makes.  Before you can make a perfect landing, remember to fire
+your retro rockets by pressing the red Controller button as you land.
+
+GAME 12
+Using the right Controller, you steer the Lunar Lander.  The computer
+controls the movement of the moon.  Score one point for every successful
+landing.
+
+GAME 13
+Using the right controller, you are the commander of the Lunar Lander while
+the computer moves the moon.  Score one point for every successful landing.
+You must avoid collision with SLOW MOVING METEOR SHOWERS.  Lose one point
+when you collide with a meteor.  Meteors do not affect the moon.
+
+GAME 14
+You control the Lunar Lander with the right Controller.  The computer
+controls the moon.  Score one point for every successful landing.  You must
+avoid collision with FAST MOVING METEOR SHOWERS.  Lose one point when you
+collide with a meteor.  Meteors do not affect the moon.
+
+
+TWO-PLAYER GAMES
+Control the Lunar Lander with the right Joystick and your score appears in
+the top right corner of the Space Window.  The other player controls the
+moon with the left Joystick and that score appears in the left corner.  Only
+the Lunar Lander Commander can score one point for each successful moon landing.
+
+The two-player games last 4 minutes and 32 seconds.  After the first half of
+the game, the Lunar Lander changes from blue to orange, and the right
+Joystick controls the moon's movement; the left Joystick then controls the
+Lunar Lander.  That way, both players have a chance to score.  During the
+final 16 seconds of each game half (2 minutes and 16 seconds), the score
+will flash at the top of the Space Window.
+
+GAME 15
+You control the movement of the Lunar Lander.  Another player controls the
+moon.  Score one point for every successful landing.  As controller of the
+moon, you must try to avoid contact with the Lunar Lander.
+
+GAME 16
+Score one point every time you land on the moon.  Your only obstacles are
+SLOW MOVING METEOR SHOWERS.  When the Lunar Lander collides with a meteor,
+you lose one point.  As controller of the moon, you must try to avoid
+contact with the Lunar Lander.  Meteor showers do not affect the moon.
+
+GAME 17
+Score one point every time you land on the moon.  Your opponent controls the
+moon.  Your only obstacles are FAST MOVING METEOR SHOWERS.  When you collide
+with a meteor, you lose one point.  As controller of the moon, you must try
+to avoid contact with the Lunar Lander.  Meteor showers do not affect the moon.
+

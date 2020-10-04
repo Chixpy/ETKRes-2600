@@ -1,0 +1,128 @@
+U.S. Games 
+
+Raft Rider
+
+VC2006
+
+Raft Rider is a single player, full color game
+designed to be played on the Atari Video Computer
+System or the Sears Video Arcade.
+White Water everywhere! And hidden in the strong
+current are any number of dangers lying in wait
+to capsize your log raft. Your mission is to make 
+your way downstream as far as possible, avoiding 
+treacherous rocks, feisty moose, and sections of 
+tree which have been cut down by a pesky beaver.
+Skillful maneuvering is not without rewards, however,
+because there are also gold nuggets appearing in the
+river, which, when touched, can be accumulated to
+extend your trek into the wilderness.
+So put on your coonskin cap, get on your raft, and
+ride that white water to glorious high scores! Go
+ahead, get your feet wet, just try to keep the rest
+of you dry!
+
+(screen shot)
+
+Set-Up Instructions
+
+1. Connect the Atari Video Computer System or
+Sears Video Arcade following manufacturer's
+instructions.
+
+2. Install left joystick controller.
+
+3. Insert the cartridge  - making sure the power 
+is off.
+
+4. Move the power switch to on.
+
+5. Select difficulty level:
+Left Difficulty Switch:
+	Position A - for faster increase in river current
+	and advancement of Raft Rider downstream (to right
+	of screen), which cuts down available reaction
+	time.
+	Position B - for slower river current.
+Right Difficulty Switch:
+	Position A - causes moose to move upstream quickly.
+	Position B - moose is standing still in river.
+6. Push Game Reset switch to start game.
+
+Controls:
+
+Move joystick up or down to cause fast to move back and forth
+across river. After moving the pole up or down, you must
+release the joystick to allow the poling acting to take place.
+If you wish to move only sligtly to one side, quickly tap the
+joystick to the left during the raft's arc so the pole is to
+the back. This will stop the turning and head the raft
+downstream again.
+
+The fire button is not used in Raft Rider.
+
+To collect gold nuggests, position your raft in front
+of the rock's pathway as early as possible. Make the
+fine tuned adjustments in position as described above
+so that your pole, when extended forward, is in line
+to touch the rock. If successful, a money bag will appear
+at the bottom left of your screen. Three bags will buy you
+a new raft.
+
+Scoring:
+
+Each segment of river traveled earns you 125 points. 
+The score (bottom center) will continue to increase
+as long as you continue down the river. The game
+starts with three chances available (one Raft Rider
+is on the river, and two rafts at lower right).
+When a raft is lost, it is automatically replaced
+by reserves - if available.
+
+Collecting three gold nuggets (illustrated as money
+bags in the lower left of the screen), will buy you
+an extra chance to go on once you have lost all your
+rafts. The maximum number of chances available at 
+any one time is four: One represted by the Raft Rider
+on the river, and the other three represented by the 
+three rafts at the bottom right of the screen.
+
+Playing Hints:
+
+- Stay relatively close to the center of the river
+whenever possible. It allows you to reach gold nuggets
+and open passages faster with less distance to travel.
+
+- Limit movement back and forth across the river,
+since this causes your raft to move further downstream,
+making it more difficult to react to... CRASH!
+(Whoops) oncoming obstacles.
+
+- Gather gold nuggets early in the game - especially
+in the faster moving river version. It takes a keen
+touch to collect them at "fast water" speeds, but keep
+your coonskin cap on and aim that pole.
+
+- Gathering gold nuggets is a wilderness skill that takes
+grit, determination, and a keen eye. Better to aim
+too low than too high - you'll find out why!
+
+- After picking up a gold nugget, be ready to make your
+next move, but not too soon, or you'll miss it
+(or even worse, hit it.)
+
+- Moose: Don't touch these guys with even a ten-foot
+pole! Steer clear of their antlers, or you will be
+swallowing tadpoles.
+
+- When the beaver runs across the screen, be alert for the
+crashing sound warning you of impending danger. He just 
+chopped down a piece of tree that can land anywhere
+in the river.
+
+- As speed increases, plan ahead for unforeseen accidents.
+After you drift past an obstacle(s), pole into line with them.
+Then slalom down the river into wilderness folklore.
+
+
+copyright 1982 U.S. Games Corp.

@@ -1,0 +1,227 @@
+MASH
+
+TO SETUP:
+
+Set up your video computer system and left and right joystick controllers as 
+instructed in your maufacturer's owner's manual.  Move the color B/W lever to the
+correct setting.  Turn power off and insert the MASH game cartridge.
+
+TO BEGIN:
+
+Turn the power on.  Use the Game Select lever - and Difficulty Switches to choose
+a play level.  Press the Game reset lever and get ready to ship out to the Korean
+front!
+
+THE OBJECTIVE:
+
+You are Hawkeye Pierce, Chief Medical Surgeon of the 4077th MASH.  Your
+responsibilities include rescuing injured men from the battlefield, performing sur-
+gery in the operating room, or, in an alternative game, picking up Colonel Potter's 
+skydiving medics.  You pilot your chopper low through the trees, avoiding shells
+fired at you from a North Korean tank.  After picking up the medics orr wounded
+and rushing them back to the hospital, the pressure really starts to get heavy.  Time
+is running out for the injured men and you must operate.  You have to work fast.
+You are competing with your fellow surgeons, either B.J. Hunnicut, Trapper John 
+McIntyre or Frank Burns.
+
+(screen shot)
+
+THE CONTROLS:
+
+Tilt the joystick forward, backward, left and right to maneuver your chopper around 
+the screen.  Use the red trigger button to start games.  Once in the operating room
+the joystick is used to maneuver your surgical instruments around the screen.
+
+---
+
+DIFFICULTY SWITCHES:
+
+LEFT DIFFICULTY: Position A - Left joystick player begins game with 0 points.
+Position B - Left joystick player begins game with 99 points.
+In position B the computer (Frank Burns) will get dumber the farther he gets ahead.
+
+RIGHT DIFFICULTY: Position A - Right joystick player begins game with 0 points.
+Position B - Right joystick player begins game with 99 points.
+The right joystick player is the computer in 1 player games.
+
+(screen shot)
+
+CHALLANGER VARIATION:
+
+With the left difficulty switch in position A the challenger mode is entered for
+1 player games.  Frank Burns will play at maximum intensity in this mode.  Also
+Frank Burns will receive 8 points per second during the bonus surgery round.
+
+Whenever your difficulty switch is in position A (1 player or 2 player games) your 
+opponent will receive the point value of the shrapnel if it touches the patient
+while you are removing it.
+
+PLAY LEVELS:
+
+There are 8 play levels (or games) in MASH.  Each game consists of sev-
+eral "rounds."  A round ends when a certain number of men have been rescued.
+Between each round surgery is performed in the operating room.  The exception 
+is in games 7 and 8 which are devoted totally to the surgery game.  The games are
+won by the first player to reach 999 points.
+
+GAME        TITLE                                       # PLAYERS
+-----------------------------------------------------------------
+  1         Welcome to Korea                                1
+  2         Welcome to Korea                                2
+  3         Colonel Potter                                  1
+  4         Colonel Potter                                  2
+  5         Cease Fire                                      1
+  6         Cease Fire                                      2
+  7         O.R. (Operating Room)                           1
+  8         O.R. (Operating Room)                           2
+
+---
+
+WELCOME TO KOREA
+
+GAME 1 - In this game you, Hawkeye, must rescue more men than your computer
+opponent, Frank Burns.  With your joystick, you maneauver through the forest of
+trees and pick up men by touching them with your helicopter.  After rescuing 5 men
+your chopper will appear overloaded and you will not be able to take on more wounded until you have dropped them off at your MASH base.  Every time you 
+return to the base the point value of each man rescued is increased by 2 points.  The
+maximum point value for a rescued man is 25 points.  The North Korean tank at
+the bottom of the screen will chase the chopper which has the most points, and
+will launch projectiles whic you must dodge.  If a chopper collides witha projec-
+tile it flutters to the gorund, where it is rescued by Klinger in the ambluance.  The 
+round is voer after a total of 30 men are rescued.  The airplane has no function in
+this game.
+
+Between each round a bonus round of surgery is performed in the operating room
+where you must remove as many pieces of shrapnel as you can in 15 seconds.
+Shrapnel must not touch the patient.  If it does, the bonus surgery round is over.  In
+the normal variation (difficulty B) Frank Burns receives no points in the bonus 
+surgery round.  In the challenger version (difficulty A) Frank Burns receives 
+8 points per second plus the opint value of the shrapnel if it touches the patient.
+
+(Screen shot)
+
+(For more details on surgery see games 7 and 8.)
+
+GAME 2 - This game is identical to game 1 except the 2 players play against each
+other.  One player uses the left joystick, while the other uses the right joysitck.  In
+the operating room each player gets 15 seconds to removes as many pieces of 
+shrapnel as possible.  (For more details on surgery see games 7 and 8.)
+
+COLONEL POTTER
+
+GAME 3 - When we last left Colonel Potter he and his skydiving medics had just
+jumped from a plane without parachutes.  Your mission is to rescue them before
+they reach teh ground.  You maneuver your helicopter around the trees in order
+to rescue more medics than your computer opponent Frank Burns.  Each man res-
+cued is worth a variable number of points.  The close your chopper is to the ground
+when a medic is rescued the more points you receive (points vary from 5 at the
+
+---
+
+top to 20 at the bottom).  The North Korean tank at the bottom of the screen will
+chase the chopper who has the most points, and will launch projectiles which you
+must dodge.  The round is over when a total of 40 medics have been rescued.
+
+Between each round a bonus round of surgery is performed in the operating room.
+You have 15 seconds to remove as many pieces of shrapnel as possible.  Again
+Frank Burns will receive no points in the nomral version.  However he will receive
+points in teh challenger variation.  (See games 7 and 8 for more details.)
+
+CEASE FIRE
+
+GAME 5 - The shooting has stopped but the wounded keep coming.  Playing
+this game is similar to playing game 1 except that the tank has stopped launching
+projectiles.  You also have smaller helicopters for ease in rescuing the injured men.
+
+GAME 6 - This game is identical to game 5 except that 2 players compete against each
+other, one using the left joystick while the other uses the right joystick.
+
+O.R. (OPERATING ROOM)
+
+GAME 7 - You're in the operating room where you must remove bits of shrapnel
+from an injured man using your extractor.  You play against Frank Burns who
+receivs 6 points per second.  Each piece of shrapnel is worth a varying unmber 
+of points depending on the difficulty of its removal.  If the shrapnel touches your
+patient while it is being removed your turn is ended.  Point values range from 15 to
+80.  In the challanger version (left difficulty switch in position A), Frank Burns
+receives the point value of any piece of shrapnel that touches the patient.
+
+GAME 8 - This game is very similar to GAME 7 except that each player has 15 seconds 
+in which to remove as many pieces of shrampen as possible.  When his turn ends,
+the next player's turn starts.  And in the challenger variation (difficulty switch in
+position A) your opponent receives points if the shrapnel touches the man while
+it is being removed.
+
+HINTS FROM DALLAS NORTH...
+
+In the 'Welcome to Korea' and 'Cease Fire' game, try to plan your routes so they 
+require no needless detours.  Rescue a man on one pass, and try to force your
+opponent to conver as much ground as possible.  In two player versions the
+player who rescues the last guy gets to start first in the operating room, a big
+advantage when scores get close to 999 points.
+
+In the operating room games, a gentle tap on the joystick will yield much better
+results in moving the extractor than a brute force approach.  And any part of the
+extractor can be used to remove shrapnel, which comes in handy in a few of the
+tight corners.
+
+In the Colonel Potter games quick reflexes are more important than strategy.  And
+the tank stops shooting when someone is being rescued by the ambulance so
+you can be more aggressive in rescuing medics during this time.  And notice that
+Frank Burns' helicopter is able to fly through trees, while you must fly around them.
+
+This advantage must be compensated for by superior strategy and intelligence.
+
+---
+
+NOW AVAILABLE FROM FOX VIDEO GAMES:
+
+BANK HEIST - Fun You Can Bank On!
+
+THE EARTH DIES SCREAMING - Beat The Aliens Or Bite The Dust!
+
+SPACE MASTER X-7 - Blast The Hyperion Base Out Of Space!
+
+FLASH GORDON - Heroic Rescue Beyond The Stars!
+
+REVENGE OF TEH BEEFSTEAK TOMATOES - Once The Tomatoes
+Take Over, Will We Ever Eat Ketchup!
+
+CRYPTS OF CHAOS - Centuries Of Mystery, Hours Of Fun!
+
+FANTASTIC VOYAGE - A Heartstopping Adventure!
+
+ALIEN - In Your Living Room, Everyone Can Hear You Scream!
+
+TURMOIL - A Topsy-Turvey Rapid Reflex Test!
+
+MEGAFORCE - Where Action Speaks Louder Than Words!
+
+DEADLY DUCK - A Fiesty Fight Between Cranky Crabs And A 
+Fearless Duck!
+
+FAST EDDIE - Fast Action That'll Keep The Whole Family Hopping!
+
+WORM WAR I - Save The World From Hoards of Huge And Hideous 
+Worms!
+
+BEANY BOPPER - Stop The Meany Beanies Before They Stop Your
+Bopper!
+
+
+
+A Game By Dallas North
+(C) 1983 Fox Video Games, Inc.
+All Rights Reserved
+Mash is a trademark of
+Twentieth Century Fox Corporation.
+
+Fox Video Games, Inc.
+4701 Patrick Henry Dr. #9
+Santa Clara, CA 95050
+
+Printed in Taiwan
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+

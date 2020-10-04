@@ -1,0 +1,390 @@
+SPACE WAR
+
+GAME PROGRAM TM INSTRUCTIONS
+
+MODEL CX2604
+
+ATARI
+
+A Warner Communications Company
+
+ATARI, INC., Consumer Division
+1195 Borregas Ave., Sunnyvale, CA 94086
+
+(c) 1978 ATARI, INC.                                  C011402-04
+
+Use your Joystick Controllers with this Game Program TM. Be sure
+the Controllers are firmly connected to your Video Computer
+System TM. See your Owner's Manual for details. Hold the
+Controllers with the red button to your upper left towards the
+television screen.
+
+To prolong the life of your Atari Video Computer System and
+protect the electronic components, the console should be OFF when
+inserting or removing a Game Program.
+
+CONTROLLER ACTION
+
+   THRUST
+      ^
+      |
+      |
+   <----->
+TURN  |  TURN
+LEFT  |  RIGHT
+      v
+  HYPERSPACE
+
+Just like learning to drive a car, it takes a bit of practice to
+learn how to control your Star Ship during Space War and Space
+Shuttle games. The following exercises will help you gain
+proficiency in controlling your Star Ship. Game 14, a Space
+Shuttle game, is an excellent practice field.
+
+    <---    TURN LEFT                  -.     TURN RIGHT    
+    #####   (COUNTER CLOCKWISE)      ^ # \    (CLOCKWISE)
+  \  ###                            / ### v  
+   \ ### ^                         /  ### 
+    v # /                            #####
+      -'                              --->
+
+EXERCISE 1
+
+After cycling to Game 14, push the Game Reset button. Push the
+Joystick to the left; your Star Ship will rotate counter
+clockwise
+(left). Push the Joystick to the right; your Star Ship will
+rotate clockwise (right). Practice rotating your Star Ship in
+both directions. Notice how the Star Ship looks when it is each
+position.
+                                             
+     INCREASE SPEED                   SLOW SPEED
+            |                             |
+  DIRECTION V DIRECTION                   | DIRECTION
+         OF | OF                          | OF
+     TRAVEL | THRUST                      | TRAVEL
+            V                             V
+          #####                           #
+           ###                           ###
+           ###                           ###
+            #                           #####
+            |                             ^ 
+            |                             | DIRECTION
+            |                             ^ OF
+            V                             | THRUST
+
+EXERCISE 2
+
+Push the Game Reset button. By pushing the Joystick forward
+(towards the television screen), give your Star Ship three quick
+short bursts of "thrust". notice that your Star Ship is now
+travelling in a forward motion towards the bottom of the
+playfield. By turning the Star Ship either clockwise or counter
+clockwise, turn the Star Ship so it is facing away from the
+forward motion. Give the Star Ship thee short quick bursts of
+thrust. Your Star Ship will slow almost to a stop. Push the Game
+Reset and try again. Practice this exercise until you can stop
+the Star Ship completely.
+
+INCREASE SPEED
+
+DIRECTION OF    #
+TRAVEL          ###
+--------->----->####---->
+DIRECTION OF    ###
+THRUST          #
+
+
+SLOW SPEED
+
+                #
+              ###
+------>----->####<----<------
+DIRECTION OF  ### DIRECTION OF
+TRAVEL          # THRUST
+
+
+EXERCISE 3
+
+Push the Game Reset button. Turn your Star Ship so it is facing
+to your right and down (approximately 45 degrees). Give your Star
+Ship continuous "thrust" until it is moving rapidly across the
+playfield. Alternate using horizontal "thrust" and vertical
+"thrust" to bring the Star Ship to a near standstill in the
+middle of the playfield. After mastering the above exercises, you
+should be an experienced Star Ship captain, ready to do battle
+among the stars.
+\
+ \ DIRECTION OF TRAVEL
+  \  #
+   \##
+   ###
+  ####   ^
+      \  | DIRECTION
+       \ | OF THRUST
+         #
+        ###
+        ###
+       #####
+              #
+            ###
+       <---####
+  DIRECTION ###\
+  OF THRUST   # \
+                 \
+
+HANDICAP Difficulty Switches
+
+The left and right Difficulty switches must be in the "B"
+position during all Space War games. In Space Shuttle games,
+slide the Difficulty switch "A" and you must exactly match your
+Star Ship's velocity to the Space Module's velocity. In "B"
+position, your Star Ship does not have to travel at the same
+speed to dock with the Space Module.
+
+SCORING
+
+During Space War games (1 through 7) you score one point when
+your opponent's Star Ship explodes. A Star Ship will explode
+when: 
+*    A direct hit is made by firing a missile.
+*    The Star Ship collides with the Space Sun (games 4 and 5).
+*    The Star Ship runs out of fuel while in Hyperspace (games
+     2 through 7).
+*    The Star Ship tries to enter Hyperspace when out of fuel
+     (games 2 through 7).
+
+In one and two-player Shuttle games (8 through 17) one point is
+scored each time the Star Ship is successfully docked with the
+Space Module. You have ten minutes to score a maximum ten points.
+
+SPACE GLOSSARY
+
+Space Combat and Shuttle game playfields are characterized by
+different "galaxy" variations. The following descriptions will
+tell you what to expect when a game features any of these
+variations.
+
+[Picture of the playfield.]
+
+GALAXY BOUNDARY
+
+In some galaxies your Star Ship cannot penetrate the playfield
+boundaries and will instead bounce off the edges.
+
+WARP DRIVE
+
+Move your Star Ship off one edge of the Galaxy Boundary and it
+will go into Warp Drive and reappear on the opposite side. For
+example, move your Star Ship off the right edge and it will
+reappear on the left edge.
+
+SPACE SUN
+
+Fight the pull of gravity from the sun in the center of the Space
+Galaxy. In some games your Star Ship will explode from exposure
+to the extreme heat and reset to the starting position.
+
+HYPERSPACE
+
+Pull your Joystick towards you. Your Star Ship goes into
+Hyperspace and becomes invisible. When in Hyperspace, your Star
+Ship uses more fuel. It is impossible to be hit by your opponents
+missiles or to collide with the Space Sun while in Hyperspace.
+To make your Star Ship drop out of Hyperspace and reappear, pull
+the Joystick towards you.
+
+STARBASE
+
+Make contact with the Starbase at the center of the galaxy to
+refuel and resupply your missiles. Your missile and fuel gauges
+at the top of the playfield will reflect resupplies as your Star
+Ship resets to the starting point.
+
+SPACE WAR GAMES
+
+You and your opponent blast off into space. Each player controls
+one Star Ship with the Joystick Controller. the object is to
+score points by shooting your opponent's Star Ship with missiles
+fired by the red button on your Joystick Controller. Aim the nose
+of your Star Ship in the direction you want to fire.
+
+Space War games last ten minutes or until one player scores ten
+points. Player's scores appear at the top of the playfield and
+are color coordinated with the Star Ships.
+
+The two lines to the right of your score refer to fuel and
+missile supply. The top line is the fuel gauge; the bottom line
+is the amount of missiles remaining. Each player begins with
+eight missiles. Once the arsenal is depleted, the game will
+automatically reset each player with eight more missiles ONLY
+when both players are out of missiles.
+
+In most War games, fuel cannot be resupplied. In games 6 and 7,
+players can refuel and resupply missiles by docking with the
+Starbase. Fuel is used by adding "thrust" to your Star Ship or
+by putting your Ship into Hyperspace.
+
+GAME 1
+
+It's war in space as two players attempt to score 10 points
+first. You have Galaxy boundaries in this game.
+
+GAME 2
+
+Engage in combat in a galaxy which features Galaxy Boundaries and
+Hyperspace.
+
+GAME 3
+
+Oppose your space opponent in a galaxy which has Warp Drive. Use
+Hyperspace as a defensive move.
+
+GAME 4
+
+The Space Sun in the center of the galaxy exerts gravity during
+combat. Avoid your opponent or collision with the Space Sun by
+using Hyperspace. You also fight within Galaxy Boundaries.
+
+GAME 5
+
+The Space Sun, Warp Drive, and Hyperspace are the features of the
+galaxy playfield.
+
+GAME 6
+
+You can refuel and receive more missiles at any time during this
+game. Steer your Star Ship to the Starbase. This galaxy also
+features Galaxy Boundaries and Hyperspace.
+
+GAME 7
+
+Steer your Star Ship to the Starbase at any time during the game
+to refuel or receive more missiles. This galaxy also features
+Warp Drive and Hyperspace.
+
+SPACE SHUTTLE GAMES
+
+If you have mastered the exercises, you are ready to try Space
+Shuttle. Connect your Star Ship with the Space Module to score.
+Recommended strategy is to first match your Star Ship's speed to
+the Space Module's speed. Then slowly maneuver your Star Ship
+towards the Space Module. During Shuttle games the Star Ships
+have an unlimited supply of fuel.
+
+In one-player games, you control one Star Ship with the left
+Joystick Controller and compete against the clock. You have ten
+minutes to score a maximum ten points. During two-player games
+each player maneuvers his Star Ship to score. In two-player games
+with two Space Modules, the target Space Module will be the same
+color as your Star Ship. First player to score ten points or the
+most points in ten minutes wins.
+
+2-PLAYER GAMES
+
+GAME 8
+
+Two players each control one Star Ship and attempt to connect
+with the Module which is color coordinated with the Ship. Warp
+Drive is present in this galaxy.
+
+GAME 9
+
+Two players each control one Star Ship and compete to connect
+with the same Space Module. This galaxy features Warp Drive.
+
+GAME 10
+
+Each player controls a Star Ship and attempts to connect with a
+color coordinated Space Module. This galaxy has a Space Sun and
+Galaxy Boundaries.
+
+GAME 12
+
+Galaxy Boundaries characterize this galaxy. Each player controls
+a Star Ship and attempts to connect to the same Space Module.
+
+GAME 13
+
+Each player controls a Star Ship and attempts to connect with the
+Space Module that is color coordinated to the Star Ship. Galaxy
+boundaries are featured.
+
+1-PLAYER GAMES
+
+GAME 14
+
+One player controls a Star Ship and attempts to connect with the
+Space Module. This galaxy features Warp Drive.
+
+GAME 15
+
+A Space Sun and Warp Drive characterize this space galaxy. One
+player steers the Star Ship to connect with the Space Module.
+
+GAME 16
+
+One player controls a Star Ship and attempts to dock it with the
+Space Module. Galaxy Boundaries characterize this playfield.
+
+GAME 17
+
+A Space Sun and Galaxy Boundaries could affect one player's
+strategy to connect the Star Ship with the Space Module.
+
+SPACE WAR STRATEGY TIPS
+
+After you master controlling your Star Ship, you're ready to
+develop game strategy. The following tips should help you begin
+your competitive strategy for Space Shuttle and Space War games.
+
+SPACE WAR
+
+*    Change your Star Ship's position as soon as the game is in
+     the Start position. The initial location of the Star Ships
+     makes it easier for players to score a direct hit.
+*    Keep close surveillance on your opponent's missile supply
+     gauge. Plan your shots so that your opponent deletes his
+     missile supply first, leaving no defense against your
+missiles.
+*    Note that missile supplies are automatically replenished
+     only when BOTH players have used all their missiles. Use
+     this feature to you advantage when these three variables
+     occur at once:
+     *    Your opponent has no remaining missiles.
+     *    You have remaining missiles.  
+     *    You are playing in a galaxy with a Starbase.
+
+Leave your opponent without a chance for resupplying missiles by
+obtaining all of your missiles at the Starbase BEFORE your
+supplies are completely depleted.
+
+SPACE SHUTTLE
+*    The easiest way to match you Star Ship's speed with the
+     Space Module speed it to first, stop your ship. Point it in
+     the DIRECTION the module is travelling. Apply thrust until
+     the Star Ship and the Space Module are moving at the same
+     speed. Then move the Star Ship towards the Space Module.
+*    To efficiently make your Star Ship contact the Module:
+     *    Your Star Ship must travel at the same speed as the
+          Space Module.
+     *    Your Star Ship must travel in the same direction as
+          the Space Module.
+     Now point your Ship at the Module and apply thrust.
+
+SPACE WAR
+                                       /
+                  1  2  3  4  5  6  7 | 8  9 10 11 12 13 14 15 16 17
+                .---------------------+-----------------------------
+ No. of Players | 2  2  2  2  2  2  2 | 2  2  2  2  2  2  1  1  1  1
+  Single Module | -  -  -  -  -  -  - | -  X  -  -  X  -  X  X  X  X
+Galaxy Boundary | X  X  -  X  -  X  - | -  -  -  X  X  X  -  -  X  X
+     Warp Drive | -  -  X  -  X  -  X | X  X  X  -  -  -  X  X  -  -
+      Space Sun | -  -  -  X  X  -  - | -  -  X  X  -  -  -  X  -  X
+     Hyperspace | -  X  X  X  X  X  X | -  -  -  -  -  -  -  -  -  -
+       Starbase | -  -  -  -  -  X  X | -  -  -  -  -  -  -  -  -  -
+
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

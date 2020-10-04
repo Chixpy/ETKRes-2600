@@ -1,0 +1,136 @@
+typed in by kgifford@netaxs.com
+
+SKATE BOARDIN' (tm)
+
+For the Atari (r) 2600 (tm)
+
+----
+
+"jump on that board and get psyched for a totally intense cruise!..."
+
+----
+
+Instructions
+~~~~~~~~~~~~
+
+To Begin
+
+1) With power off, insert the Skateboardin (tm) cartridge into your Atari 
+   2600 (tm) game system according to the manufacturer's instructions.
+
+2) Plug joystick into port labeled "left controller".
+
+3) Turn power on.
+
+4) Press RESET to begin the game. (At any point during the game, press 
+   RESET to begin again.)
+
+The Cruise
+~~~~~~~~~~
+
+You _know_ you're late for school, but what you _don't_ know is that just 
+overnight, an array of obstacles has been placed along the way.  _Radical 
+man_, this is a skateboarder's dream come true!  You have to get to 
+school on time, but passing up the chance to ride ramps or cruise tubes 
+would make you look like a real nerd!  You've got to conquer a total of 
+thirty tubes and ramps in under five minutes to be totally awesome.  Not 
+only that, after you find all the tubes and ramps you have to find the 
+front steps of the school building.  Check the ratings at the end of the 
+instructions to find out how radical you are.
+
+----
+
+<screen shot of you taking a ramp>
+
+Your time clock is displayed at the top left of the screen, and next to 
+the clock is a number representing the amount of tubes and ramps you have 
+remaining.  Other obstacles include walls, rails and hurdles, _but you 
+need only conquer the tubes and ramps to finish._  The others, however, 
+must be avoided as they will stop you and knock you off your board.
+
+You start at the steps of your house, holding your skateboard.  Press 
+RESET to begin.  You can walk by moving the joystick in the direction you 
+want to go, but that's not going to get you to school very fast.  
+Instead, point the joystick left or right, and press the button to jump 
+onto your board.  Once on your board, _press the button to jump or press 
+it and hold it down to crouch._  If the button is held down, you will 
+land into a crouch after the jump.
+
+As you set your course through this gnarly maze, keep in mind that the 
+scoreboard display is _not_ a wall.  If you choose to go up, you can 
+cruise right on through.  You can cruise through the walks or over the 
+turf area, but cutting across the turf will slow you down.  To regain 
+your speed, you must either stay on the turf long enough to stop, or run 
+into an obstacle.  This will bring you off your board so you can jump 
+back on and resume at normal speed.
+
+To ride a ramp, you can be in either standing or crouched position - just 
+make sure you are cruising within the area from the botton to the top of 
+the ramp.  In other words, don't try to hit the ramp below or above it or 
+it won't count.  A _bing_ sound will indicate a successful ramp jump.
+
+To clear a tube, you must travel through it while in a crouch.  Head in 
+the direction of the tube, align yourself with the opening and then 
+crouch by jumping and keeping the button down.  While in a crouch, if you 
+need to adjust your position, _tap_ the joystick up or down to fine tune.  
+If you are approaching the tube while standing, or if you miss the 
+opening, you will crash into it and stop.  A _bong_ sound will indicate a 
+successful pass.
+
+<screen shot of you catching on to a truck>
+
+----
+
+Tips from the Pros
+~~~~~~~~~~~~~~~~~~
+
+Remember, each obstacle must be conquered only once.  Try to improve upon 
+your time by checking out new shortcuts.  
+
+If you want to max out your speed, get yourself up to the street (at the 
+very top of the maze) and try to catch the truck when it passes the stop 
+sign.  If you miss it, get off of your board and position yourself with 
+just your feet on the sidewalk.  When it passes, it will pick you up and 
+take you for a ride down the street.  Get off by moving the joystick in 
+the direction you want to go, but watch out - now you're really _cruising_!
+
+You know you're close to the school when you find the schoolyard.  If you 
+get really stuck in the maze, try making a map.
+
+There are rumors of a truly radical skateboarder who finished all thirty 
+obstacles and got to school with more than 2 minutes left.  See if you 
+can top that!
+
+Ratings
+~~~~~~~
+
+<drawing of a clock>
+
+Number of
+Obstacles left		Rating
+~~~~~~~~~~~~~~		~~~~~~
+
+30-25...................Spaz
+24-20...................Nerd
+19-10...................Cool
+9-1.....................Radical
+0.......................Totally Awesome
+
+----
+
+<warranty information deleted>
+
+(c) 1987 Absolute Entertainment, Inc.
+240 Godwin Avenue
+Midland Park, NJ 07432
+
+Skate Boardin' (tm) and Absolute Entertainment (tm) are Trademarks of 
+Absolute Entertainment (tm) Inc.  Atari(r) is a registered trademark and 
+2600 (tm) is a trademark of Atari Corp.
+
+--
+
+Manufactured by Absolute Entertainment Inc.
+PO Box 287, Midland Park, NJ 07432
+AG-043-02 (c)1987 Absolute Entertainment Inc.  All Rights Reserved. 
+

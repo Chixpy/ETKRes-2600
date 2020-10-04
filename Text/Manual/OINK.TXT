@@ -1,0 +1,74 @@
+Activision (R)
+OINK! (TM)
+
+VIDEO GAME CARTRIDGE FOR USE WITH THE ATARI (R) VIDEO COMPUTER SYSTEM (TM)
+
+CONCEIVED AND DESIGNED BY MIKE LORENZEN
+FOR ONE OR TWO PLAYERS
+Once upon a time there was a fairy tale about Three Little Pigs and the
+Big Bad Wolf.  Well, now it's a videogame, where you can be the little pigs
+or the Big Bad Wolf...you choose!
+
+OINK! (TM)
+HOME REPAIR MANUAL
+By Mike Lorenzen
+
+OINK! (TM) BASICS
+------------------------------------------------------------------------------
+1. With power OFF, plug in the game cartridge.
+2. Turn power ON.
+3. Plug in Joystick Controller/s (solo player uses left Joystick).
+4. Set both difficulty switches to 'b' to begin.
+5. Select game with the game select switch.
+   Game 1: One player (controlling the Pig) vs. Computer Wolf.
+   Game 2: Two players (taking turns controlling the Pig) vs. Computer Wolf.
+   Game 3: Two players (taking turns controlling the Pig and the Wolf).
+6. The Joystick Controller.  Move your Joystick to the left to move your Pig
+    to the left, to the right to move your Pig right, and up and down to move
+    your Pig up and down the screen.  Press the red button to grab an object;
+    release the button to drop it in place as a 'patch.'
+7. To start a new game press reset.  Wait for the Pig to walk to the center
+    of its house.  Move the Joystick to bring out the Wolf and start the
+    auction.
+8. Difficulty Switches.  With the difficulty switches in the 'a' position, your
+    Pigs must walk down to the wall to drop an object in place.  In the 'b'
+    position, they can drop objects in place from any point on the screen.
+    When playing game 3, the Wolf will huff and puff a little slower if your
+    difficulty switch is in the 'a' position.
+9. Scoring.  Points are earned every time your Pig drops an object in place
+    in the wall.  Objects in the first row are worth 4 points each.  Point
+    values for each object increase by 4 with each new row (see "Row After
+    Row" under "Special Features").  For example, in row 6, each object is
+    worth 24 points.  In row 7, each object is worth 28 points.
+
+SPECIAL FEATURES OF OINK! (TM)
+------------------------------------------------------------------------------
+Three Little Pigs, Three Little Houses.  Each Pig defends its own house.
+The first house is made of straw, so it's yellow.  The second is made of
+sticks, so it's brown.  The third house is made of bricks, so it's red.
+Each time you lose a Pig, you move to the next house and the next Pig.
+
+The Wolf Who Huffs and Puffs.  Whether your house is made of straw or sticks
+or bricks, the Wolf will try to blow it down to get the Pig.  He'll blow a
+little hole here, then a little hole there.  And, if you don't keep up with 
+the Wolf, he'll turn little holes into big holes.  Then he'll chase after your
+Pig.
+
+Losing a Pig.  If your Pig is struck by the Wolf's breath, he will fall down
+to the bottom of the wall, losing precious time.  And, if the hole is wide
+enough for the Pig to fit through, the Wolf's breath will take him right out
+onto the lawn.  And then you've lost a Pig.
+
+Row After Row After Row.  Every time a row of objects is used up, a new row
+appears.  With each new row, point values increase.  But as they do, the
+Wolf gets tougher and tougher.
+
+If You Can't Beat Him, Join Him.  You and a friend can take turns helping the
+Wolf in his homewrecking crusade.  In game number 3, each player will alter-
+nately have 3 turns helping the Wolf and 3 turns helping the Pigs.  Points
+are scored only while you're helping the Pigs.  At the end of the game, total
+scores are shown for both players.
+------------------------------------------------------------------------------
+Atari (R) and Video Computer System (TM) are trademarks of Atari, Inc.
+(C)1984 Activision
+

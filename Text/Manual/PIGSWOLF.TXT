@@ -1,0 +1,38 @@
+                  PIGS'N'WOLF INSTRUCTIONS
+
+1. To select a game level press down on the game select
+   switch. The game number will appear at the top right
+   hand corner of the screen. You may select from 1 to 3.
+   Special note: game 3 is for two layers only.
+
+2. Push reset button to start game.
+------------------------------------------------------
+OBJECT OF THE GAME
+
+Outwit the wolf for as long as possible by defending your
+house. Using the building blocks and your skill to do so.
+------------------------------------------------------
+PLAYING THE GAME
+
+1. You have 3 lives two of them are displayed on the roof
+   of the house, and one inside the house. To start the
+   game press reset.
+2. Gather the building blocks from the top of the screen
+   by pushing the fire button while standing next to the
+   block you want.
+3. Move to the bottom of the screen and using fire button
+   fill the gaps which the wolf has made.
+4. If wolf breaks through the wall and kills the pig
+   the game moves on to the next little pig's house.
+   Game ends when all 3 houses are demolished by the
+   wolf.
+---------------------------------------------------------
+TWO PLAYER MODE
+
+As the game moves on to next house, players switch roles
+by taking turns at being the wolf.
+---------------------------------------------------------
+SCORING
+
+Each brick scores 4 points, every new load of bricks the
+score doubles.

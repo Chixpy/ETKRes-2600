@@ -1,0 +1,810 @@
+VIDEO OLYMPICS
+
+by ATARI
+c 1977
+
+
+Use your Standard Paddle Controllers with this ATARI(R) Game
+Program(TM).  Be sure the Controller cable is firmly plugged into the
+jack at the rear of your ATARI Video Computer System(TM).  For one and
+two player games, plug the Paddle Controllers into the LEFT CONTROLLER
+jack.  For three and four player games, you  will need an additional
+set of Paddle Controllers.
+
+Note: Always turn the console power switch OFF when inserting or
+removing an ATARI Game Program.  This will protect the electronic
+components and prolong the life of your ATARI Vide Computer System.
+
+
+
+CONTROLLER ACTION
+-----------------
+
+Turn the knob to move the paddles.  Press the red Controller button to
+speed hit, WHAMMY(TM), CATCH(TM) the ball or jump the paddle depending
+on the game you play.  Some games give you a particular game feature to
+use in competition.  Activate these game features with the red
+Controller button:
+
+Speed - When you want to add some speed to the return ball, press the
+red Controller button as the ball makes contact with your paddle.
+
+WHAMMY(TM) - Put sharper angles on your return hits.  Press the red
+Controller button as the ball makes contact with the paddle.  The angle
+will continue on your return hit as long as you press the red
+Controller button or until your opponent returns the hit.
+
+CATCH(TM) - Press the red Controller button as the ball hits the paddle
+and the ball sticks to the paddle.  Use this time to plan strategy, aim
+a hit or pass to a team paddle.  But move slowly and carefully.  The
+ball will fly off the paddle if you make fast or sudden movements.
+
+Jump - Make the paddle jump up to hit or spike the ball during certain
+games.  Just press the red Controller button and your paddle will jump
+from the bottom of the playfield to the playfield center.  Be sure to
+activate the jump before the ball passes through the playfield center
+or the ball will travel through the paddle instead of bouncing off the
+paddle.
+
+-----------------------------------------------------------------------
+NOTE: To see what game features each game offers, check the game matrix
+at the conclusion of each game description.
+-----------------------------------------------------------------------
+
+
+
+DIFFICULTY
+----------
+
+Slide the Difficulty switch from "B" to "A" position and your paddle is
+reduced to half size.
+
+
+
+PONG(R)
+-------
+
+Pong(R) is played much like tennis.  Using a Controller, each player
+rallys the ball by moving the paddles on the playfield.
+
+Paddles move only vertically on the playfield.  When one player
+controls more than one paddle, all the paddles move together in unison. 
+If there are two players on one team, the second player's paddle will
+be striped.  Each team's paddles are color coordinated with the scores
+at the top of the playfield.  The right hand score refers to the right
+Controller player or team; the left number shows the left Controller
+player or team score.
+
+A player or team scores one point when the opponent hits the ball out
+of bounds or misses a hit.  The first player or team to score 21 points
+wins the game.
+
+The last player or team to score always serves the ball.  Serve by
+pressing the red Controller button after waiting at least one second
+after the point is made.  If there are two players on one team, either
+player can serve.  In Robot Pong, the computer always serves the ball
+to the player...who lost the point.
+
+-----------------------------------------------------------------------
+NOTE: In two-player games, plug your standard paddle Controllers into
+the left side of the Console.  Each player will have a solid paddle on
+the playfield.
+-----------------------------------------------------------------------
+
+
+ROBOT PONG(TM)
+(One-player Gamer)
+
+One player controls the right paddle and competes against the left
+paddle controlled by the computer.
+
+
+PONG(R)
+(Two-Player Game)
+
+Two opposing players each control one paddle.
+
+PONG(R) Playfield [Image of the screen.  One orange paddle on the left
+side, and one green paddle on the right side.]
+
+
+PONG(R) 4
+(Four-Player Game)
+
+It's a double game of Pong with two players on each team!  Each player
+controls one paddle.  Try playing zones with your partner.  You cover
+the upper half of the playfield while your partner plays the bottom
+playfield half.
+
+PONG(R) 4 Playfield [Image of the screen.  Two orange paddles on the
+left side of the screen, and two green paddles on the right side of the
+screen.]
+
+
+PONG(R) 4-I
+(Four-Player Game)
+
+Four players can play this game.  It's as simple as doubles game of
+tennis.  Two players are on each team.  One team player controls the
+paddle at the net; the other team player covers the back court.
+
+PONG(R) 4-I Playfield [Image of the screen.  One orange paddle on the
+left side of the screen, one orange paddle on the left-middle of the
+screen, one green paddle on the right-middle of the screen, and one
+green paddle on the right side of the screen.]
+
+
+ ______________________________________________________________
+|                     |               |           |            |
+|                     |      PONG     |   PONG 4  |  PONG 4-I  |
+|_____________________|_______________|___________|____________|
+|                     |   |   |   |   |     |     |      |     |
+|     GAME NUMBER     | 1 | 2 | 3 | 4 |  5  |  6  |   7  |  8  |
+|_____________________|___|___|___|___|_____|_____|______|_____|
+|                     |   |   |   |   |     |     |      |     |
+|  NUMBER OF PLAYERS  | 1 | 1 | 2 | 2 |  4  |  4  |   4  |  4  |
+|_____________________|___|___|___|___|_____|_____|______|_____|
+|                     |   |   |   |   |     |     |      |     |
+|        SPEED        | X |   | X |   | XXX |     | XXXX |     |
+|_____________________|___|___|___|___|_____|_____|______|_____|
+|                     |   |   |   |   |     |     |      |     | 
+|        WHAMMY       |   | X |   | X |     | XXX |      | XXX |
+|_____________________|___|___|___|___|_____|_____|______|_____|
+
+
+SUPER PONG(TM)
+(Two-Player Game)
+Each player controls two paddles.  Two opposing players rally to score.
+
+SUPER PONG(TM) Playfield [Image of the screen.  One orange paddle on
+the left side of the screen, one orange paddle on the left-middle of
+the screen, one green paddle on the right-middle of the screen, and one
+green paddle on the right side of the screen.]
+
+
+SUPER PONG(TM) 4
+(Four-Player Game)
+
+It's a doubles game of Super Pong!  With two players on each team, each
+player controls two paddles. 
+
+SUPER PONG(TM) 4 Playfield [Image of the screen.  Two orange paddles on
+the left side of the screen, two orange paddles on the left-middle of
+the screen, two green paddles on the right-middle of the screen, and
+two green paddles on the right side of the screen.]
+
+
+ _____________________________________________________
+|                     |              |                |
+|                     |  SUPER PONG  |  SUPER PONG 4  |
+|_____________________|______________|________________|
+|                     |      |       |        |       |
+|     GAME NUMBER     |   9  |  10   |   11   |  12   |
+|_____________________|______|_______|________|_______|
+|                     |      |       |        |       |
+|  NUMBER OF PLAYERS  |   2  |   2   |    4   |   4   |
+|_____________________|______|_______|________|_______|
+|                     |      |       |        |       |
+|        SPEED        | XXXX |       | XXXXXX |       |
+|_____________________|______|_______|________|_______|
+|                     |      |       |        |       |
+|        WHAMMY       |      | XXXXX |        | XXXXX |
+|_____________________|______|_______|________|_______|
+
+
+
+SOCCER
+------
+
+Get ready to kick that ball into the goal.  Each player uses a hand-
+held Controller to move the kickers on the playfield.  When you turn
+the Controller knob, your kickers move together in unison.
+
+A player or team scores one point when the ball is kicked into the
+goal.  The first player or team to score 21 points wins the game.
+
+Each team's soccer kickers are color coordinated with the score at the
+top of the playfield.  The right hand score refers to the right
+Controller team or player; the left score shows the left Controller
+player or team score.  If there are two players on one team, the second
+player's kicker will be striped.
+
+The last team to score puts the ball into play.  Put the ball into play
+by pressing the red Controller button after waiting at least one second
+after the point is made.  If there are two players on one team, either
+player can put the ball into play.
+
+-----------------------------------------------------------------------
+NOTE: In two-player games, use the left set of Controllers.
+-----------------------------------------------------------------------
+
+
+SOCCER
+(Two-Player Game)
+
+Two opposing players each control two kickers.
+
+SOCCER Playfield [Image of the screen.  One yellow paddle on the left
+side of the screen, one blue paddle on the left-middle of the screen,
+one yellow paddle on the right-middle of the screen, and one blue
+paddle on the right side of the screen.]
+
+
+SOCCER 4-I
+(Four-Player Game)
+
+Double your soccer fun with a soccer doubles game.  Two players are on
+each team; each player controls one kicker.
+
+SOCCER 4-I Playfield  [Image of the screen.  One yellow paddle on the
+left side of the screen, one stripped blue paddle on the left-middle of
+the screen, one stripped yellow paddle on the right-middle of the
+screen, and one blue paddle on the right side of the screen.]
+
+
+SOCCER 4-II
+(Four-Player Game)
+
+Two players are on each team.  Each player controls two kickers.
+
+SOCCER 4-II Playfield [Image of the screen.  One yellow paddle on the
+left side of the screen.  Moving from left to right, one stripped blue
+paddle, one stripped yellow paddle, one blue paddle, one yellow paddle,
+one stripped blue paddle, one stripped yellow paddle, and one blue
+paddle on the right side of the screen.]
+
+
+ _______________________________________________________________
+|                     |          |              |               |
+|                     |  SOCCER  |  SOCCER 4-I  |  SOCCER 4-II  |
+|_____________________|__________|______________|_______________|
+|                     |     |    |       |      |       |       |      
+|     GAME NUMBER     |  13 | 14 |   15  |  16  |   17  |  18   |
+|_____________________|_____|____|_______|______|_______|_______|
+|                     |     |    |       |      |       |       |
+|  NUMBER OF PLAYERS  |  2  |  2 |   4   |   4  |   4   |   4   |
+|_____________________|_____|____|_______|______|_______|_______|
+|                     |     |    |       |      |       |       |
+|        SPEED        | XIX |    | XXXXX |      | XXXXX |       |
+|_____________________|_____|____|_______|______|_______|_______|
+|                     |     |    |       |      |       |       |
+|        WHAMMY       |     | XX |       | XXXX |       |       |
+|_____________________|_____|____|_______|______|_______|_______|
+|                     |     |    |       |      |       |       |
+|        CATCH        |     |    |       |      |       | XXXXX |
+|_____________________|_____|____|_______|______|_______|_______|
+
+
+
+FOOZPONG(TM)
+------------
+
+Each player or team controls two vertical rows of paddles that move
+simultaneously.  The object?  To knock the ball into the goal.  A
+player or team scores one point for every goal.  The first player or
+team to score 21 points wins the game.
+
+If there are two players on one team, the second player's paddle is
+striped.  Each team's paddles are color coordinated with the score that
+appears at the top of the playfield.  The right hand score refers to
+the right Controller player; the left number shows the left Controller
+player's score.
+
+The last player or team to score serves the ball.  Serve by pressing
+the red button after waiting at least one second after the last point
+is made.
+
+Note that the vertical movement of each row is restricted; each paddle
+can move across half the playfield.  There are four paddles per row,
+but only three paddles on the row appear on the playfield at one time.
+
+-----------------------------------------------------------------------
+NOTE: In two-player games, use the left set of controllers.
+-----------------------------------------------------------------------
+
+
+FOOZPONG(TM)
+(Two-player Game)
+
+Two opposing players each control two rows of paddles.
+
+FOOZPONG(TM) Playfield [Image of the screen.  Three yellow paddles on
+the left side of the screen, three blue paddles on the left-middle of
+the screen, three yellow paddles on the right-middle of the screen, and
+three blue paddles on the right side of the screen.] 
+
+
+FOOZPONG(TM) 4
+(Four-Player Game)
+
+A doubles game of FoozPong!  Two players are on each team, and each
+player controls two rows of paddles.
+
+FOOZPONG(TM) 4 Playfield [Image of the screen.  Three yellow paddles on
+the left side of the screen.  Moving from left to right, three stripped
+blue paddles, three yellow paddles, three stripped blue paddles, three
+stripped yellow paddles, three blue paddles, three stripped yellow
+paddles, and three blue paddles on the right side of the screen.]
+
+
+ _________________________________________________
+|                     |            |              |
+|                     |  FOOZPONG  |  FOOZPONG 4  |
+|_____________________|____________|______________|
+|                     |      |     |       |      |     
+|     GAME NUMBER     |  19  |  20 |   21  |  22  |
+|_____________________|______|_____|_______|______|
+|                     |      |     |       |      |
+|  NUMBER OF PLAYERS  |   2  |  2  |   4   |   4  |
+|_____________________|______|_____|_______|______|
+|                     |      |     |       |      |
+|        SPEED        | XXXX |     | XXXXX |      |
+|_____________________|______|_____|_______|______|
+|                     |      |     |       |      |
+|        CATCH        |      | XXX |       | XXXX |
+|_____________________|______|_____|_______|______|
+
+
+
+HOCKEY
+------
+
+You're scrambling to hit the hockey puck into the goal.  Hockey games
+include variations on the number of hockey sticks you control, the
+playfield and the game features such as Speed, Whammy, or Catch.
+
+A player or team scores one point when a goal is made.  The first team
+or player to score 21 points wins the game.
+
+Hockey sticks move only vertically on the playfield.  When one player
+controls more than one stick, all the sticks move together in unison. 
+Each player or team's hockey sticks are color coordinated with the
+score at the top of the playfield.  The right hand score refers to the
+right Controller player; the left score shows the left Controller
+player's score.
+
+If there are two players on one team, the second player's stick will be
+striped.
+
+The last player or team to score always puts the puck into play again
+by pressing the red Controller button after waiting at least one second
+after the last point is made.  If two players are on one team, either
+player can serve.
+
+-----------------------------------------------------------------------
+NOTE: In two-player games, use the left set of Controllers.
+-----------------------------------------------------------------------
+
+
+HOCKEY I
+(Two-Player Game)
+
+Each player controls one stick and tries to hit the puck into the goal.
+
+HOCKEY I Playfield [Image of the screen.  One red paddle on the left
+side of the screen, and one yellow paddle on the right side of the
+screen.]
+
+
+HOCKEY II
+(Two-Player Game)
+
+Two opposing players each control two hockey sticks; shoot with the
+forward stick and defend the goal with the second hockey stick.
+
+HOCKEY II Playfield [Image of the screen.  One red paddle on the left
+side of the screen.  One red paddle on the left-middle side of the
+screen.  One yellow paddle on the right-middle side of the screen.  One
+yellow paddle on the right side of the screen.]
+
+
+HOCKEY III
+(Two-Player Game)
+
+Each player controls three paddles in this hockey games.  Two opposing
+player attempt to score with one paddle that guards the goal and two
+paddles that cover the playfield.
+
+HOCKEY III Playfield [Image of the screen.  One red paddle on the left
+side of the screen.  Moving from left to right, one yellow paddle, one
+red paddle, one yellow paddle, one red paddle, and one yellow paddle on
+right side of the screen.
+
+
+HOCKEY 4-I
+(Four-Player Game)
+
+Four players scramble on the icy playfield to make goals.  Each player
+controls one paddle, and there are two players on each team: one
+forward and one goalie.
+
+HOCKEY 4-I Playfield [Image of the screen.  One red paddle on the left
+side of the screen.  One striped yellow paddle on the left-middle side
+of the screen.  One striped red paddle on the right-middle side of the
+screen.  One yellow paddle on the right side of the screen.]
+
+
+HOCKEY 4-II
+(Four-Player Game)
+
+Double your hockey fun with two players on each team.  Each player
+controls a row of hockey sticks controls a row of hockey sticks with
+the Controller.  Any one stick can move across half the playfield. 
+There are four paddles per row, but only three paddles appear on the
+playfield at one time.
+
+Hockey 4-II Playfield [Image of the screen.  Three red paddles on the
+left side of the screen.  Three striped yellow paddles on the left-
+middle side of the screen.  Three striped red paddles on the right-
+middle side of the screen.  Three yellow paddles on the right side of
+the screen.]
+
+
+ _______________________________________________________________
+|                     |            |             |              |
+|                     |  HOCKEY I  |  HOCKEY II  |  HOCKEY III  |
+|_____________________|____________|_____________|______________|
+|                     |      |     |      |      |       |      | 
+|     GAME NUMBER     |  23  |  24 |  25  |  26  |   27  |  28  |
+|_____________________|______|_____|______|______|_______|______|
+|                     |      |     |      |      |       |      |
+|  NUMBER OF PLAYERS  |   2  |  2  |   2  |   2  |   2   |   2  |
+|_____________________|______|_____|______|______|_______|______|
+|                     |      |     |      |      |       |      |
+|        SPEED        | XXXX |     | XXXX |      | XXXXX |      |
+|_____________________|______|_____|______|______|_______|______|
+|                     |      |     |      |      |       |      |
+|        WHAMMY       |      | XXX |      | XXXX |       |      |
+|_____________________|______|_____|______|______|_______|______|
+|                     |      |     |      |      |       |      |
+|        CATCH        |      |     |      |      |       | XXXX |
+|_____________________|______|_____|______|______|_______|______|
+
+ ____________________________________________________
+|                     |              |               |
+|                     |  HOCKEY 4-I  |  HOCKEY 4-II  |
+|_____________________|______________|_______________|
+|                     |       |      |       |       | 
+|     GAME NUMBER     |   29  |  30  |   31  |   32  |
+|_____________________|_______|______|_______|_______|
+|                     |       |      |       |       |
+|  NUMBER OF PLAYERS  |   4   |   4  |   4   |   4   |
+|_____________________|_______|______|_______|_______|
+|                     |       |      |       |       |
+|        SPEED        | XXXXX |      | XXXXX |       |
+|_____________________|_______|______|_______|_______|
+|                     |       |      |       |       |
+|        WHAMMY       |       | XXXX |       |       |
+|_____________________|_______|______|_______|_______|
+|                     |       |      |       |       |
+|        CATCH        |       |      |       | XXXXX |
+|_____________________|_______|______|_______|_______|
+
+
+
+QUADRAPONG
+----------
+
+The king of Pong games! Four players play this Pong game.  Two players
+are on each team, and each player controls one paddle.
+
+Team paddles are color coordinated with the score at the top of the
+playfield.  The right hand score refers to the right Controller player;
+the left score shows the left Controller player's score.
+
+The movement of each player's paddle is restricted to one side of the
+rectangle playfield.  Each side of the rectangle has a goal.  Each
+paddle guards a goal.
+
+To score one point, a player must hit the ball into either goal guarded
+by the opposing players.  (Be careful not to score against your
+teammate!)  The first team to score 21 points wins the game.
+
+The last team to score serves the ball by pressing the red Controller
+button after waiting at least one second after the last point is made. 
+Either player can serve on a two-player team.
+
+
+Quadrapong(R)
+(Four-Player Game)
+
+Each player controls his paddle with a Controller and attempts to make
+goals.  The first team to make 21 goals wins the game.
+
+QUADRAPONG(R) Playfield [Image of the screen.  One stripped yellow
+paddle on the left side.  One stripped blue paddle on the right side. 
+One yellow paddle on the top.  One blue paddle on the bottom.]
+
+
+ ____________________________________
+|                     |              |
+|                     |  QUADRAPONG  |
+|_____________________|______________|
+|                     |       |      |     
+|     GAME NUMBER     |   32  |  33  |
+|_____________________|_______|______|
+|                     |       |      |
+|  NUMBER OF PLAYERS  |   4   |   4  |
+|_____________________|_______|______|
+|                     |       |      |
+|        SPEED        | XXXXX |      |
+|_____________________|_______|______|
+|                     |       |      |
+|        CATCH        |       | XXXX |
+|_____________________|_______|______|
+
+
+
+HANDBALL
+--------
+
+Play Handball just as you would a regular game of handball.  Two or
+four players each control one Paddle.  Paddles are located on the same
+side of the playfield and are color coordinated with the score at the
+top of the playfield.  The right hand scores refer to the right
+Controller player or team; the left number shows the left Controller
+player or team score.
+
+When your paddle is solid, it is your turn to hit the ball.  After you
+successfully hit the ball, your paddle will start to blink.  If you hit
+the ball out of turn (when your paddle is blinking), your opponent
+scores one point.  You score one point when your opponent misses the
+ball or hits it out of turn.  The first player to reach 21 points wins
+the game.
+
+The last player or team to score serves the ball after waiting at least
+one second after the score is made.  Either player can serve on a two-
+player team.  Serve by pressing the red Controller button.
+
+The second player on a two-player team will have a striped paddle and
+will play forward.
+
+-----------------------------------------------------------------------
+NOTE: In two-player games, use the left set of Controllers.
+-----------------------------------------------------------------------
+
+
+HANDBALL
+(Two-Player Game)
+
+Each player controls one paddle and competes for points.
+
+HANDBALL Playfield [Image of the screen.  An orange and a blue paddle
+are on the right side of the screen.]
+
+
+HANDBALL II
+(Four-Player Game)
+
+It's a doubles game of handball!  Two players are on one team.  Each
+player controls one paddle.  Either player on one team can make the
+hit.
+
+HANDBALL II Playfield [Image of the screen.  A stripped orange and a
+stripped blue paddle are on the middle right side of the screen, and an
+orange and a blue paddle are on the right side of the screen.]
+
+
+ __________________________________________________
+|                     |            |               |
+|                     |  HANDBALL  |  HANDBALL II  |
+|_____________________|____________|_______________|
+|                     |      |     |       |       |
+|     GAME NUMBER     |  35  |  36 |   37  |   38  |
+|_____________________|______|_____|_______|_______|
+|                     |      |     |       |       |
+|  NUMBER OF PLAYERS  |   2  |  2  |   4   |   4   |
+|_____________________|______|_____|_______|_______|
+|                     |      |     |       |       |
+|        SPEED        | XXXX |     | XXXXX |       |
+|_____________________|______|_____|_______|_______|
+|                     |      |     |       |       |
+|        WHAMMY       |      | XXX |       | XXXXX |
+|_____________________|______|_____|_______|_______|
+
+
+
+VOLLEYBALL
+----------
+
+Two or four players can play volleyball.  The object?  To successfully
+return the ball over the net in the center of the playfield.
+
+Each player controls one paddle which moves in a horizontal line at the
+bottom of the playfield.  Paddles are color coordinated with the score
+at the top of the playfield.  The right hand score refers to the right
+Controller player or team; the left number shows the left Controller
+player or team score.
+
+A player or team scores one point when the opponent misses the ball or
+hits it into the net.  The first player or team to score 21 points win
+the game.
+
+During doubles games, the second player on each team will cover the
+upper portion of the playfield with a smaller paddle.
+
+The last team to score serves the ball after waiting at least one
+second after the point is made.  Either player can serve on a two-
+player team.  Serve by pressing the red Controller button.
+
+
+VOLLEYBALL
+(Two-Player Game)
+
+Two competing players each control one paddle and volley for points.
+
+VOLLEYBALL Playfield [Image of the screen.  A yellow paddle is on the
+bottom left side of the screen.  A white net is in the middle of the
+screen.  A blue paddle is on the bottom right side of the screen.]
+
+
+VOLLEYBALL 4
+(Four-Player Game)
+
+With two players on each team, you can set up and spike the ball.
+
+VOLLEYBALL 4 Playfield [Image of the screen.  A yellow paddle is on the
+bottom left side of the screen.  A small yellow paddle is on the middle
+left side of the screen.  A white net is in the middle of the screen. 
+A small blue paddle is on the middle right side of the screen.  A blue
+paddle is on the bottom right side of the screen.]
+
+
+ _____________________________________________________
+|                     |              |                |
+|                     |  VOLLEYBALL  |  VOLLEYBALL 4  |
+|_____________________|______________|________________|
+|                     |       |      |        |       |
+|     GAME NUMBER     |   39  |  40  |   41   |   42  |
+|_____________________|_______|______|________|_______|
+|                     |       |      |        |       |
+|  NUMBER OF PLAYERS  |   2   |   2  |    4   |   4   |
+|_____________________|_______|______|________|_______|
+|                     |       |      |        |       |
+|         JUMP        | XXXXX |      | XXXXXX |       |
+|_____________________|_______|______|________|_______|
+
+
+
+BASKETBALL
+----------
+
+Get ready to shoot baskets!  Two or four players can play basketball. 
+Each player controls one paddle that moves in a horizontal line across
+one half of the bottom playfield.  Each player controls one paddle that
+moves in a horizontal line across one half of the bottom playfield. 
+Each player or team has a basket.  The player on the left side of the
+playfield must shoot the balls at the basket on the right side of the
+playfield.  The right side player shoots at the left basket.
+
+Paddles are color coordinated with the score at the top of the
+playfield.
+
+A player or team scores one point when the ball goes through the
+basket.  The first player to score 21 points wins the game.
+
+The team who scores the last point inbounds the ball onto the field by
+pressing the red Controller button after waiting at least one second
+after the last point is made.  Either player on a two-player team can
+put the ball into play.
+
+Where you dribble the ball on your paddle determines the direction the
+ball will travel.  For example, dribble the ball off the right side of
+your paddle and the ball will shoot to the right.
+
+-----------------------------------------------------------------------
+NOTE: Be careful not to shoot the ball into your opponent's basket on
+your side of the court.
+-----------------------------------------------------------------------
+
+The second player on a two-player team will control a small paddle
+located higher on the playfield.
+
+The paddles are color coordinated with the scores at the top of the
+playfield.  The right hand score refers to the right Controller player
+or team; the left number shows the left Controller player or team
+score.
+
+-----------------------------------------------------------------------
+NOTE: In two-player games, use the left set of Controllers.
+-----------------------------------------------------------------------
+
+
+BASKETBALL
+(Two-Player Game)
+
+Using the paddles, each player tries to make shots and score.  The
+first player to score 21 points wins the game.
+
+BASKETBALL Playfield [Image of the screen.  There are two blue baskets
+at the upper corners of the screen.  One orange paddle is at the bottom
+left corner.  One green paddle is at the bottom right corner.]
+
+
+BASKETBALL 4
+(Four-Player Game)
+
+Two players are on each team.  Each team tries to make shots and score. 
+The first team to reach 21 points wins the game.
+
+BASKETBALL 4 Playfield [Image of the screen.  There are two blue
+baskets at the upper corners of the screen.  One orange paddle is at
+the bottom left-middle.  One small orange paddle is at the middle left-
+middle.  One green paddle is at the bottom right-middle.  One small
+green paddle is at the middle right-middle.]
+
+
+ _____________________________________________________________
+|                     |                   |                   |
+|                     |     BASKETBALL    |    BASKETBALL 4   |
+|_____________________|___________________|___________________|
+|                     |    |    |    |    |    |    |    |    | 
+|     GAME NUMBER     | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
+|_____________________|____|____|____|____|____|____|____|____|
+|                     |    |    |    |    |    |    |    |    |
+|  NUMBER OF PLAYERS  |  2 |  2 |  2 |  2 |  4 |  4 |  4 |  4 |
+|_____________________|____|____|____|____|____|____|____|____|
+|                     |    |    |    |    |    |    |    |    |
+|        WHAMMY       |    | XX |    |    |    | XX |    |    |
+|_____________________|____|____|____|____|____|____|____|____|
+|                     |    |    |    |    |    |    |    |    |
+|        CATCH        |    |    |    | XX |    |    |    | XX |
+|_____________________|____|____|____|____|____|____|____|____|
+|                     |    |    |    |    |    |    |    |    |
+|         JUMP        |    |    | XX |    |    |    | XX |    |
+|_____________________|____|____|____|____|____|____|____|____|
+
+
+
+
+VIDEO OLYMPICS
+--------------
+
+    |||
+    |||
+   / | \
+  /  |  \
+   ATARI
+
+                  |                 |    Super   |
+                  |     Pong(R)     |   Pong(tm) |   Foozpong(tm)  
+Game Number       | 1 2 3 4 5 6 7 8 | 9 10 11 12 | 13 14 15 16 17 18 
+Number of Players | 1 1 2 2 4 4 4 4 | 2  2  4  4 |  2  2  4  4  4  4 
+Speed-Up          | X   X   X   X   | X    XX    | XX    XX    XX
+Whammy(tm)        |   X   X   X   X |   XX    XX |    XX    XX
+Catch(tm)         |                 |            |                XX
+
+
+                  | Foozpong(tm)|           Hockey  
+Game Number       | 19 20 21 22 | 23 24 25 26 27 28 29 30 31 32 
+Number of Players |  2  2  4  4 |  2  2  2  2  2  2  4  4  4  4
+Speed-Up          | XX    XX    | XX    XX    XX    XX    XX
+Whammy(tm)        |             |    XX    XX          XX
+Catch(tm)         |    XX    XX |                XX          XX
+
+
+                  |Quadrapong|   Handball  | Volleyball
+Game Number       |  33  34  | 35 36 37 38 | 39 40 41 42  
+Number of Players |   4   4  |  2  2  4  4 |  2  2  4  4 
+Speed-Up          |  XX      | XX    XX    |
+Whammy(tm)        |          |    XX    XX |    XX    XX
+Catch(tm)         |      XX  |             |            
+Jump              |          |             | XX    XX  
+
+
+                  |       Basketball  
+Game Number       | 43 44 45 46 47 48 49 50  
+Number of Players |  2  2  2  2  4  4  4  4 
+Whammy(tm)        |    XX          XX
+Catch(tm)         |          XX          XX
+Jump              |       XX          XX
+
+And of course, this game was made by Atari in 1977.  This very very very 
+long game manual was typed in by me!  Who am I?  I am Eddie Beiles.  I 
+can be reached at beiles@lambada.oit.unc.edu if you have any questions 
+about this game manual, like why I put the game matrix in there twice 
+(because that is the way it was in the manual).  Or you can email me and 
+thank me for typing it in (please do, this one took *forever*).  Anyway, 
+enjoy the game and this wonderfully typed in manual.       4/10/95
+
+

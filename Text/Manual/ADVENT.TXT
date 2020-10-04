@@ -1,0 +1,448 @@
+<Picture>
+
+<Picture>Adventure.html<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+<Picture>
+
+
+
+
+
+
+
+ADVENTURE
+
+Game Program Instructions
+
+
+
+Use your Joystick Controller with this ATARI(C) Game Program.(tm)
+Be sure the Controller is firmly plugged into the LEFT CONTROLLER jack
+at the rear of your ATARI Video Computer System.(tm)  Hold the
+Controller with the red button to your upper left toward the television
+screen.  See Section 3 of your Owner's Manual for further details.
+
+
+
+
+
+Note: Always turn the console power switch OFF when inserting or
+removing an ATARI Game Program.  This will protect the electronic
+components and prolong the life of your ATARI Video Computer System.
+
+
+
+
+
+Note: For more enjoyment of the ADVENTURE Game Program, please read
+all instructions carefully before beginning play.  Keep this 
+instruction booklet handy for quick reference.
+
+
+
+
+
+HOW TO PLAY
+
+
+
+
+
+An evil magician has stolen the Enchanted Chalice and has hidden it
+somewhere in the Kingdom.  The object of the game is to rescue the
+Enchanted Chalice and place it inside the Golden Castle where it belongs.
+
+
+
+
+
+This is no easy task, as the Evil Magician has created three Dragons
+to hinder you in your quest for the Golden Chalice.  There is Yorgie,
+the Yellow Dragon, who is just plain mean; there is Grundle, the Green
+Dragon, who is mean and ferocious; and there is Rhindle, the Red
+Dragon, who is the most ferocious of all.  Rhindle is also the fastest
+Dragon and is the most difficult to outmaneuver.
+
+
+
+
+
+There are three castles in the Kingdom; the White Castle, the
+Black Castle, and the Golden Castle.  Each castle has a Gate over the 
+entrance.  The Gate can be opened with the corresponding colored Key.
+Inside each Castle are rooms(or dungeons, depending at which Skill
+Level you are playing).
+
+
+
+
+
+The Castles are separated by rooms, pathways, and labyrinths.  Common
+to all the Skill Levels is the Blue Labyrinth through which you must
+find your way to the Black Castle.  Skill Levels 2 and 3 have a more
+complicated Kingdom(see SKILL LEVELS section).
+
+
+
+
+
+USING THE CONTROLLER
+
+
+
+
+
+You can move in any of eight directions with the joystick in that
+direction(see diagram).  Each area shown on your television screen
+will have one or more barriers or walls, through which you CANNOT pass.
+There are one or more openings.  To move from one area to an adjacent 
+area, move "off" the television screen through one of the openings, the
+adjacent area will be shown on your television screen.
+
+
+
+
+
+Scattered throughout the Kingdom are certain objects to help you in
+your search for the Enchanted Chalice.  To pick up an object, all that
+is necessary is to touch it.  You will hear a sound that will notify
+you that you have the object in tow.  To drop the object, press the red
+controller button.  You will hear a different sound that will tell you
+that the object has been released.
+
+
+
+
+
+To open any Castle, touch the Gate with that Castle's corresponding
+colored key.  The GAte will slide open and you can enter the Castle by
+moving upward through the Gate.  If you are leaving the Castle, it is
+advisable to push the Key out first or you may inadvertently close the 
+Castle Gate behind you.
+
+
+
+
+
+CONSOLE CONTROLS
+
+
+
+
+
+Choose the Skill Level you wish to play by depressing the game select
+switch.  To begin play depress the game reset switch.
+
+
+
+
+
+If you get "eaten" by one of the Dragons, do not despair!  Just depress
+the game reset switch and you will be "reincarnated" and placed back in
+front of the Golden Castle.  Unfortunately, any Dragons you may have
+slain(see GOOD MAGIC) will also be reincarnated.  If you were
+carrying any object with you, it will remain where it was.
+
+
+
+
+
+If you have finished one game and wish to begin another depress either
+the game reset or the game select switch.  The number of the skill level
+at which you were playing will appear on the television screen.  Depress
+the game reset switch and begin play.
+
+
+
+
+
+DIFFICULTY SWITCHES
+
+
+
+
+
+By using the difficulty switches you can increase or decrease the
+difficulty of the game at each Skill Level.
+
+
+
+
+
+When the left difficulty switch is in the b position, the Dragons will
+hesitate before they bite you.  Therefore, when the left difficulty
+switch is in the a position, it is more difficult to escape them.
+
+
+
+
+
+GOOD MAGIC
+
+
+
+
+
+While the Evil Magician has created many hazards to slow you in your
+quest to rescue the Enchanted Chalice, there is some Good Magic on your
+side:
+
+
+
+
+
+
+
+
+•  You have a Sword that you can use to slay the Dragons  To do this, you
+   must touch him with it.
+
+•  If the right difficulty switch is in the a position all Dragons will
+   run from the Sword.
+
+•  There is a Bridge that can be used to pass over the walls of any
+   portion of the Kingdom.  The Bridge CANNOT be used to pass through
+   any barrier into the next portion, nor can it be used to move from
+   right to left or left to right over a barrier or wall.  It also
+   CANNOT be used to get past a locked Castle Gate.
+
+   Pick up the Bridge the same way you would any other object.  Place the
+   Bridge across the wall that you wish to pass over and release it by
+   pushing the red controller button.  The ends of the Bridge must be
+   visible on both sides of the wall for it to work.  After releasing
+   the Bridge you can then pass through it to the other side of the
+   wall or barrier.
+
+   If you should happen to touch the inside of the Bridge while you are
+   passing over the barrier, the Bridge will close and you may become
+   trapped as well.
+
+   To release yourself, press the red controller button.  If, for some
+   reason, your magic should fail and you still cannot release yourself,
+   press game reset and "reincarnate".  Use reincarnation as a last
+   resort, especially if you have slain one or more Dragons.
+
+•  In all games, Yorgie, the Yellow Dragon, is afraid of the Gold Key
+   and will run from it.  He will also stay away from whatever room or
+   area of the Kingdom in which it may be.
+
+•  To remove objects that are stuck in a wall and out of reach, there
+   is a Magnet that affects all inanimate objects, including the Bridge.
+   The Magnet can also be used to move objects in an adjacent part of
+   the kingdom by putting it in front of you before entering that part
+   of the Kingdom.
+
+
+
+
+
+
+
+
+
+
+BAD MAGIC
+
+
+
+
+
+The Evil Magician has cast a spell to make it difficult for you to
+succeed in resucing the Enchanted Chalice.  Not only do the Dragons
+rally around and try to stop you from getting the Enchanted Chalice,
+they guard other objects in the Kingdom:
+
+
+
+
+
+
+
+
+•  Grundle, the Green Dragon, guards the Magnet, the Bridge, and the
+   Black Key.
+
+•  Rhindle, the Red Dragon, guards the White Key.
+
+•  When not guarding the Enchanted Chalice, Yorkle, the Yellow Dragon,
+   roams freely about the Kingdom.  Sometimes he will assist Grundle or
+   Rhindle in guarding whatever it may be that they are guarding.
+
+There is other Ba Magic that you must overcome in order to rescue the
+Enchanted Chalice:
+
+•  You cannot pick up and carry a slain dragon.
+
+•  In Skill Levels 2 and 3(see SKILL LEVEL descriptions), besides the
+   Dragons, the Evil Magician has created a Black Bat that carries 
+   objects arround throughout the Kingdom and trades them for an
+   object that you may be carrying.  The Black Bat may trade a live
+   Dragon for the Sword and leave you defenseless, or it may trade
+   you something for the Enchanted Chalice just as you are ready to
+   put it into the Golden Castle.
+
+
+
+
+
+
+
+
+
+
+GOOD OR BAD MAGIC
+
+
+
+
+
+Some Magic can be good or bad, depending on the situation:
+
+
+
+
+
+
+
+
+•  You can catch the Black Bat and carry it and whatever the Black
+   Bat may be carrying.  However, sometimes the Black Bat will
+   escape(usually at the most inopportune times).
+
+•  If there are four or more objects(including the Castle Gates) in
+   your area of the Kingdom, your magic may or may not work.  Sometimes
+   you can slay a Dragon, sometimes you can't.  However, it is easier
+   to avoid being swallowed by a Dragon.
+
+
+
+
+
+
+
+
+
+
+If you have slain a Dragon, and he is blocking your path, so you cannot
+get through, you can use this to your advantage by placing one or two
+objects in the same area and then move through the slain Dragon.
+
+
+
+
+
+Sometimes the Black Bat can be used to your advantage by getting it to
+swap for an object you need that may be stuck in a wall.
+
+
+
+
+
+SKILL LEVELS
+
+
+
+
+
+Level 1
+This is the simplest Skill Level.  When you depress the game reset switch
+to begin play, you will see the Key to the Golden Castle.  Unlock the
+Castle and enter.  You will find the Sword inside the Golden Castle.  The
+Key to the Black Castle is being guarded by Grundle, the Green Dragon.
+Yorgle, the Yellow Dragon is roaming free and may or may not be found
+guarding the Enchanted Chalice, which is hidden with the Magnet inside
+the Black Castle.
+
+
+
+
+
+Level 2
+This Kingdom is much larger than Level 1.  There are Catacombs (in which
+you can see only part way).  The Key to the Golden Castle is hidden here.
+You must pass through the Catacombs to reach the White Castle.  The Key
+to the White Castle is hidden in the Blue Labyrinth.  Inside the White
+Castle is the Red Dungeon.  There is a Secret Room in the Red Dungeon
+where the Key to the Black CAstle is hidden.  To get to the Secret room 
+you must use the Bridge.
+
+
+
+
+
+To get to the Black CAstle you must pass through the Blue Labyrinth.
+Behind the first room of the Black Castle is the Grey Dungeon, which is
+similar to the Catacombs.  The Enchanted Chalice is hidden here, guarded
+by Rhindle, the Red Dragon.
+
+
+
+
+
+All objects, the Dragons, and the Black Bat will start in the same place
+in the Kingdom each time you play the game at Level 2.
+
+
+
+
+
+Level 3
+The Kingdom is the same as Level 2, but is more difficult to play as the
+Evil Magician has placed all the objects and the Dragons randomly within
+the Kingdom.  You will never know for sure what is in the next area of
+the Kingdom until you enter it, nor will you know for sure where the
+Enchanted Chalice may be hidden.  The Dragons could be inside any of
+the Castles.
+
+
+
+
+
+Atari, Inc. Consumer Division
+
+1195 Borregas Ave.
+
+Sunnyvale, CA 94086
+
+
+------------------------------------------------------------------------
+
+>>> Document converted to html by gchance@ecst.csuchico.edu <<<
+
+------------------------------------------------------------------------
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
+
+

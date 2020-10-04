@@ -1,0 +1,260 @@
+                          ACTIVISION BRIDGE INSTRUCTIONS
+                          ==============================
+
+		 [Typed up] By: Dean St.Antoine
+                                ===================
+
+
+                      Copyright 1980 Activision AX-006-03 Rev 2
+
+                      Game before: Skiing AG-005
+                      Game after:  Tennis AG-007
+
+                      Designer:    Larry Kaplan
+
+===============================================================================
+
+You have in your possession the ultimate solitaire bridge game!  Bridge by
+ACTIVISION deals you hundreds of millions of hands at random, provides a
+computer partner who bids by rules, and even plays as your opponents after
+you've established a contract.  You can play the same hand over and over again
+until you're satisfied or keep dealing until you find a hand you want to play.
+Best of all, you'll never again be without a game with Bridge by ACTIVISION.
+Look inside to see how it's done.
+
+A NOTE TO BEGINNING BRIDGE PLAYERS...
+=====================================
+Bridge by ACTIVISION was designed for people who already know how to play the
+game. It won't teach you the basics - you'll want to read a good instructional
+book or take some classes for that.  But it will give you virtually unlimited
+opportunities to practice what you learn and sharpen your game - at your own
+pace.
+
+BRIDGE BASICS
+============= 
+
+ 1. Hook up your video game system. Follow manufactuer's instructions.
+ 2. With power OFF, plug in game cartridge.
+ 3. Turn power ON. If no picture appears, check connection of your game
+    system to TV, then try steps 1-3 again.
+ 4. Plug in left Joystick Controller (it's the only one you'll need). Hold
+    it with the button in the upper left.
+ 5. Set both difficulty switches at b (down) to begin.
+
+Note to owners of Sears Tele-Game: On your system, difficulty switches are
+called skill left (or right) player and a (or up) is expert and b (or down)
+is novice.
+ 
+ Select your game
+ ----------------
+
+ 6. Select game with the game select switch.  The game number will appear at
+    the top center of screen.
+ 
+   If you want to bid and play:
+       Game 1: 21 team points or more
+       Game 2: 25 team points or more
+       Game 3: 29 team points or more
+    If you want to play without bidding (you set contract):
+       Game 4: 13 team points or more
+       Game 5: 21 team points or more
+       Game 6: 25 team points or more
+       Game 7: 29 team points or more
+ 
+  (Point counts above are based on the standard American point count system
+   popularized by Charles Goren and represent the total combined team points
+   of your hand and your partner's.)
+
+   Dealing a hand
+   --------------
+ 
+ 7. Deal a hand by pressing the game reset switch.  Your hand will appear at
+    the bottom of the screen.  Every time you press game reset, you will get
+    a new and completely different hand with at least the minimum team point
+    count for that game you have selected.
+
+BIDDING (GAMES 1-3)
+===================
+
+ 1. Select your bit with the Joystick.  It's your bid when you see the bid
+    option flashing on and off in the upper right hand ocrner of the screen.
+    Push the Joystick forward to raise the bid and pull it toward you to 
+    lower the bid.  Bids increase through normal suit rotation (Clubs,
+    Diamonds, Hearts, Spades, No-Trump). Pass ("P", which flaes in red) is
+    always the lowest bid.
+
+ 2. When the bid you want is flashing on the screen, push the Joystick button
+    to enter the bid.  It will appear in the center of the screen above your
+    hand.
+
+ 3. Your computer partner will then respond.  He recognizes most standard
+    opening bids (see below) and uses Stayman and Blackwood conventions, where
+    appropriate, to bid with you to establish a contract.  Your opponents
+    do not bid; assume they pass every bid.  NOTE: YOUR PARTNER WILL RESPOND
+    ONLY TO THE FOLLOWING OPENING BIDS:  1 OR 2 OF ANY SUIT, AND 1,2 OR 3 NO
+    TRUMP.  IF YOU BID ANYTHING ELSE, YOUR PARTNER WILL PASS.  For more details
+    on how your partner bids see "How Your Partner Bids in Bridge by
+    ACTIVISION", a special book included with this cartridge.
+
+ 4. After your partner bids, his bid will appear in the center of the screen
+    above your bid.  Your next hightest available bid will begin flashing in
+    the upper righty corner of the screen.  You should bid again if you are
+    still seeking a contract.  The bidding continues until either you or your
+    partner passes; the last bid before passing becomes the contract.
+
+ 5. If you pass instead of opening the bidding on any hand, the computer will
+    deal a new hand.  Your partner will not open.
+
+ 6. When a contract is established, four things happen: 1) the contract bid is
+    displayed in the upper right corner of the screen; 2) your partner's hand
+    appears (since one of you is now dummy); 3) the upper left corner of the
+    screen shows how many totals tricks you need to take to make your contract
+    (in red, with a minus sign); 4) your opponent to the left of declarer leads
+    a card from his hand and play begins.
+
+ 7. In games 4-7, where there is no bidding, you simply select the contract (or
+    bid) you want to play by using the Joystick as in steps 1 and 2.  You may
+    bid on your hand alone or you may check your partner's cards by moving the
+    left difficulty switch UP to A and bid on both hands.  Once you select a 
+    bid, play starts as described next.
+
+(Insert picture of screen here)
+
+PLAYING (after a contract is established)
+=========================================
+
+ 1. Playing a hand in Bridge by ACTIVISION is like playing any game of bridge.
+    After the opening lead, you control the play of both hands on the table,
+    weather North (your partner) or South (you) is dummy.  The computer plays
+    East and West in proper order.
+
+ 2. When it is North's or South's turn to play, one of the cards in that hand
+    will begin flashing. Move the Joystick left or right until the card you
+    want to play is flashing.
+
+ 3. When the card you want to play is flashing, push the Joystick button.  The
+    card's number and suit will now appear in the middle of the screen.
+
+ 4. After all four hands have played their cards on a trick, the card that took
+    the trick will start flashing.  If your team took the trick, the number of
+    tricks remaining to make your contract will decrease (or your overtricks
+    will increase, if you've already made your bid).  After you've reviewed the
+    trick, press the Joystick button again to take the cards off the table.
+
+ 5. If your team won the trick, a card in the winning hand will begin flashing.
+    You start the next trick by choosing a card to lead from that hand.
+    Continue play as in steps 2 and 3 above.  If East or West took the last
+    trick, the computer will lead from the proper hand and the card will 
+    appear on the table.  Continue play as above until all tricks are played.
+
+    After the last trick is played and you push the Joystick button to clear
+    the table, your bid will appear just above your hand, and the number of 
+    undertricks (negative, in red) or overtricks (positive, in black) you made
+    will be displayed in the upper left corner of the screen. If zero (0)
+    appears there, you made your bid exactly.  Nicely bid and played! If you
+    overbid or underbid and want to play that hand again, take a look at
+    "Replaying a Hand" on the next page.
+
+(another picture of the screen goes here)
+
+SOME SPECIAL FEATURES OF BRIDGE BY ACTIVISON
+============================================
+
+Replaying a hand
+----------------
+
+You can play any hand over again as many times as you like. Just start bidding
+again after the last trick is cleared by following the steps outlined in
+Bidding.  If you don't want to replay the hand, press the Joystick button when
+the "P" is flashing, and the computer will deal a completely new hand.
+
+Starting over
+-------------
+
+One of the great things about Bridge by ACTIVISION is that you can start
+playing over again in the middle of a hand, if you don't like the way the hand
+is playing.  To start over, you must first finish playing a trick, but, instead
+of simply pressing the button to clear the trick, pull the Joystick toward you
+and hold it there while pressing the button.  The hand will reset at the 
+beginning, and you can start the bidding over again. You may want to try this
+a few times to practice the procedure.
+
+Taking a Peek
+-------------
+
+Use the left difficulty switch to determine whether your partner's hand is 
+visible durring the bidding:
+
+  a (up)    - Displays both your hand and your partner's.
+  b (down)  - Displays your hand only.
+
+Use the right difficulty switch AFTER YOU HAVE PLAYED A HAND to see what your
+opponents held.  East will show on the top of the screen, West on the bottom.
+A flashing red "E" will appear beneath the East hand.
+
+  a (up)    - Displays East and West hands after play is complete.
+  b (down)  - East and West hands are not displayed at any time.
+
+NOTE: As long as the right difficulty switch is UP at A, you cannot deal a new
+hand by pushing your Joystick button.  You must push game reset to deal a new
+hand.
+
+How your Activision computer partner bids
+-----------------------------------------
+
+A complete description of how your computer partner responds to your bids is
+discussed in a booklet titled "How Your partner Bids in Bridge by ACTIVISION"
+enclosed with this cartridge.
+
+HOW BRIDGE BY ACTIVISION CAN HELP YOU SHARPEN YOUR GAME
+=======================================================
+
+Tips from Larry Kaplan, designer of Bridge.
+
+(Larry's Mug Shot goes here)
+
+Larry Kaplan has been playing bridge since high school.  Like most of us, he 
+frequently had had the experience of not being able to find a fourth, let
+alone a second or thrid, to play bridge.  He has solved this problem with
+Bridge by ACTIVISION.  Larry is a senior member of the Activision design team
+and a veteran video game designer.
+
+"Our game, like bridge with cards, has millions of possible hands.  I calculate
+that our computer can deal over five hundred million different hands.  None of
+us in the design group has yet seen the same hand twice, and we play almost 
+every day.
+
+"I can't give you tips on how to beat the game, because the point isn't to beat
+it.  Its purpose is to let you have fun running through a wide variety of
+Bidding and playing situations, with your choice of minimum partnership point
+counts, playing and replaying as many hands as you want without having to 
+gather up other players to practice.
+
+"Many people who have tried Bridge by ACTIVISION say that it can help partners
+better understand each other's bidding and interpretation of the point count
+system.  some of you may quarrel with some of my computer playing rules, but
+I tried to adjust the computer bidding and playing to reflect the way a vast
+majority of players would react.  Bridge is a wonderfully flexible game, and
+most players develop their own sytle of bidding and playing.  That's part of
+the fun of it.
+
+"I hope you enjoy our game of Bridge.  I'd love to hear from you with your 
+comments.  Good luck!"
+
+(Larry Kaplan's signature here)
+
+"P.S. I would like to thank a good friend and great bridge player, Jack Verson,
+for his invaluable assistance on Bridge by ACTIVISION."
+
+Look for more exciting video game cartridges by ACTIVISION wherever you buy
+video game cartridges. Drop us a note and we will add you to our mailing list
+and keep you posted on new ACTIVISION game cartridges as they become available.
+
+
+                                ACTIVISION
+        Activision, Inc., 3255-2 Scott Blvd., Santa Clara, CA 95051
+
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

@@ -1,0 +1,111 @@
+QUEST FOR QUINTANA ROO INSTRUCTIONS
+
+OBJECT OF THE GAME:
+   Yucatan Sam explores the temples of Quintana Roo searching for the
+keys to open the cermonial vault and acquire the riches inside:
+
+START OF THE GAME:
+   Insert the game cartridge.  Push the POWER switch to the on position.
+Depress the GAME RESET switch or press the firebutton to start the game.
+The number of game lives is shown in yellow at the top right of the screen.
+
+OUTSIDE TEMPLE SCREEN:
+   On this screen Sam must evade the poisonous snakes while climbing the
+outside of the temple to reach the portals to the rooms inside.  Beware
+of the moon god's wrath reflecting from the eyes of the temple.  Push the
+joystick to the right or left to walk to either side of the temple.  Stand
+next to the first step at the side of the temple.  Push the joystick away
+from you to walk up the steps at the side of the temple.  Stand next to the
+temple on any of the five levels that are paved with red flagstones and 
+depress the firebutton to enter the first room on that level.
+
+INSIDE A TEMPLE SCREEN:
+   On this screen Sam can move around the floor using the various tools and
+weapons.  Press the joystick in any of the eight directions to move Sam.
+   Depress the GAME SELECT switch to choose a tool or weapon.  Sam's color
+changes according to your selection.
+   When Sam is WHITE he has nothing in his hand.  Pressing the firebutton
+will allow Sam to pick up treasures, supplies, herbs, and map rocks.  When
+Sam picks up a map rock he turns YELLOW.  Sam must drop the map rock to
+pick up another object or use a tool or weapon.  Pressing the firebutton
+when Sam is WHITE or YELLOW will cause him to exit a room if he is standing
+in the black doorway.
+   When Sam is BLUE he has drawn his gun.  Pressing the firebutton will
+shoot the gun.  The number of bullets remaining is shown in blue at the
+bottom left of the screen.
+   When Sam is RED he has grasped a flask of acid.  Pressing the firebutton
+will cause Sam to throw the acid.  The number of flasks remaining is shown
+in red at the bottom right of the screen.
+   When Sam is GREEN he has grasped his chisel.  Pressing the firebutton
+will cause Sam to use his chisel.
+   Depress the GAME RESET switch to immediately drop whatever Sam is carrying
+(thus turning WHITE in color again).  Pressing the firebutton causes Sam to
+pick up objects if he has nothing in his hand.  This will allow Sam to exit
+a room if he is standing in the doorway.
+
+ADVERSARIES:
+   Inside the temple Sam will encounter the following enemies:
+     snakes - destroyed by shooting
+     mummies - destroyed by acid
+
+TREASURES:
+   Inside the vaults Sam will find the following objects:
+     map rocks - used to open vault
+     treasures - used to score points
+     acid - restocks Sam's supply
+
+MAGIC HERBS:
+   If Sam is bitten by a snake or spider he has 60 seconds to find the magic
+green herbs and pick them up thereby curing himself.  The amount of time
+Sam has left before he dies is shown in red at the top center of the screen.
+
+TEMPLE AIR:
+   The air in the temple is very stale.  When Sam enters the temple he has
+only 90 seconds of breathable air.  He must exit the temple before this
+time is gone of he will die.  The time remaining is shown in white at the
+top of the screen.
+
+MAP VAULT:
+   In order to open the map vault Sam must grasp a map rock and place it in
+the proper map rock hole.  This is done by positioning Sam under the
+desired hole and pressing the firebutton.  If the rock is the proper one
+the hole will disappear.  If it is incorrect the map rock will be
+relocated somewhere in the temple.
+
+OPENING VAULT:
+   There are two ways to open a vault door.  The first is using the chisel.
+If Sam strikes the secret rock with the chisel the vault will open.  In
+order to hit the secret rock Sam must be standing as near to the wall as
+possible.  The second method uses the acid.  If Sam stands as near to the
+wall as possible and throws the acid onto the wall, the vault door will be
+opened.
+
+SCORING:
+   Killing enemies                      100 points
+   Opening valut                        100 points
+   Picking up treasure                 1000 points
+   Inserting map rock                  1000 points
+   Opening map vault                   5000 points
+An extra man is awarded for collecting 20 treasures without dying.
+
+HELPFUL HINTS:
+- Bring all five map rocks to the map vault room before inserting them.
+This will make it easier to remember which ones you have tried.
+- Save one flask of acid as a defense against the mummy.
+- Leave one cache of acid flasks in an exposed vault room as an emergency
+supply.
+- Sam can only carry five flasks of acid at a time.  If you pick up more
+you will lose the excess.
+- When you are exploring the long columns of rooms keep an eye on your air
+timer.  Only explore half of the rooms at a time.
+- Remember where the magic herbs are.
+- Position Sam's nose under the hole you wish to try when attempting to
+insert map rocks.
+- Remember.  Sam can only exit a room if he is WHITE or YELLOW.
+- To pause the game select the B-W TV type.  To restart the game select
+the Color TV type.
+
+THIS PRODUCT IS MANUFACTURED UNDER WORLDWIDE LICENSE BY TELEGAMES
+
+
+

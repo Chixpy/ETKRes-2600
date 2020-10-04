@@ -1,0 +1,267 @@
+[ NOTE: A Colecovision joystick may be stubstituted for the Atari
+Joystick Controller/Booster-Grip combination if you do not have the
+Booster-Grip adaptor. ]
+
+                                                 tm *
+             O   M   E   G   A      R   A   C   E
+
+For the Atari 2600.
+For one or two players.
+
+GAME PLAY INSTRUCTIONS
+
+(c) 1983 CBS Toys, A Division of CBS, Inc.
+* OMEGA RACE is a trademark of Bally Midway Mfg. Co.
+(c) 1981, 1983 Bally Midway Mfg. Co. All Rights Reserved.
+Atari and 2600 are trademarks of Atari, Inc.
+
+                         CBS ELECTRONICS
+
+SETTING UP YOUR VIDEO CONSOLE
+
+1. Hook up your video game system, following manufacturer's
+instructions.
+
+2. With the power OFF, plug in your video game cartidge.
+
+3. Turn power ON.  If no image appears, check the connection of your
+game system to the TV, then repeat steps 1-3.
+
+                        tm *
+4. Slip the Booster-Grip over the shaft of a Joystick Controller so
+that the bottom rim of the Booster-Grip rests snugly in the base of
+the shaft.
+
+[ To the left of this instruction is a drawing of the Booster-Grip
+sliding down over the shaft of a Joystick Controller ]
+
+5. Insert the plug of the Joystick Controller into the plug of the
+Booster-Grip as shown and then plug the completed assembly into the
+LEFT CONTROLLER jack of your video system.
+
+[ To the left of this instruction is a drawing of the (socket) plug at
+the end of the Joystick Controller cord inserting into the (pin)
+socket of the Booster-Grip ]
+
+6. Use the GAME SELECT switch to select either the one-player (Game 1)
+or two-player (Game 2) version of the game.  Details for setting up
+the two-player version may be found in the back of this manual.
+
+7. To start the game, press the GAME RESET switch.  The race is on!
+
+Programmed for CBS Electronics by Bally Midway Mfg. Co., Chicago,
+Illinois.
+              tm
+* BOOSTER-GRIP Patent Pending.
+
+Note: Never remove your video game cartidge from the console unless
+the power is turned OFF.
+
+THE GAUNTLET IS TOSSED!
+
+To The Earthling:
+
+We, the leaders of the Omegan Star System, have spent countless eons
+perfecting our method of training our warrirs to defend our star
+colonies.  This method -- you may call it OMEGA RACE -- has proven so
+successful that evildoers tremble at the mere thought of interfering
+with us.  As a result, our lives have become rather mundane and
+boring.  So now we search the galaxies for other forms of intelligent
+life fast and tough enough to meet the challenge of our OMEGARACE.
+Having failed to locate such life, we're settling for you.  We await
+you in the arena!
+
+The Omegans [ In cursive, no less! ]
+
+OBJECT OF THE GAME
+
+The object of OMEGA RACE is to evade enemy fire and score points by
+destroying the various types of Omegan Warrior Ships and Photon Mines
+you'll encounter while speeding around a mysterious cosmic arena.
+
+###    ###  FIGHTER SHIPS
+  ##  ##    You begin each game with a fleet of three Fighter Ships. 
+    ##      Only one Fighter at a time may maneuver around the arena.
+            The number of Fighters remaining in reserve is indicated
+by the number of squares appearing in the lower right corner of your
+screen.
+
+                     tm
+Use your Booster-Grip adaptor with your Joystick Controller to gain
+complete control over your Fighter.  After fitting the Joystick with
+the Booster-Grip, hold the assembly so that the red button on the base
+of the controller is to your upper left toward the screen and the
+trigger on the Booster-Grip is facing front.  Tightly grasp the
+Booster-Grip so that your forefinger rests on the trigger and your
+thumb rests on the booster.  Both the booster and the red button on
+the base of the controller perform the same function in OMEGA RACE;
+they control your Fighter's thrust.  The trigger is used to fire your
+laser cannon.  The Booster-Grip itself serves as your Fighter's
+directional control.  Use it to steer your Fighter in any direction
+and to aim your laser cannon.
+
+[ To the left of this paragraph is a picture of a joystick with a
+Booster-Grip adaptor on it. ]
+
+[ NOTE: A Colecovision joystick may be stubstituted for the Atari
+Joystick Controller/Booster-Grip combination if you do not have the
+Booster-Grip adaptor. ]
+
+Your laser cannon will fire only in the direction in which your
+Fighter is pointed.  While you have an unlimited supply of ammunition,
+you may fire off only two shots at a time.
+
+Extra Fighters are awarded at the following point levels: 30,000,
+80,000, and 150,000.  However, you may never have more than four
+Fighters in reserve at any one time.
+
+OMEGAN ATTACK WAVES (RACKS)
+
+Each wave, or rack, you'll encounter will be made up of seven Omegan
+Warior Ships, each one programmed to destroy your Fighter by either
+blasting it to bits or ramming right into it.  As each wave is
+cleared, a new wave will take its place, made up of faster, nastier,
+and craftier Omegan Warior Ships.  The three classes of Omegan Warrior
+Ship are:
+
+      ###         DROID SHIPS
+   ###   ###      During the first attack wave (Rack 1) these ships
+###         ###   remain motionless, representing more of an obstacle
+###         ###   than a threat.  In later waves, however, they begin 
+   ###   ###      to orbit the arena at an ever-increasing rate.
+      ###
+
+
+      ###         COMMAND SHIPS
+   ###   ###      Every wave contains at least one Command Ship and it
+###   ###   ###   is this class of ship that should be your primary
+###   ###   ###   target.  Command Ships fire directly upon you, forcing
+   ###   ###      you to use evasive maneuvers in order to survive long
+      ###         enough to return their fire.  If a Command Ship is
+                  destroyed, one of the remaining Droid Ships will
+immediately take its place.
+
+####        ####  DEATH SHIPS
+   ###    ###     The longer a Command Ship eludes your laser fire, the
+     ######       closer it gets to transforming into a madly-spinning
+   ###    ###     Death Ship.  These "ninjas of space" represent the
+####        ####  ultimate in Omegan technology, rebounding off the walls
+                  of the arena, varying both speed and direction, firing
+an endless succession of laser blasts and leaving behind a deadly trail of
+explosive Photon Mines.  Should you be skillful enough to destroy a Death
+Ship, it'll just be a matter of micro-seconds before another Command Ship
+turns into one.
+
+As you advance through wave after wave, Command Ships will appear more
+frequently and the speed of _all_ Omegan Warrior Ships will increase.
+And, like mose perfectionists, their skills as marksmen will improve.
+
+Points are scored for every ship and Photon Mine destroyed including
+those destroyed in a suicide crash.  Should your Fighter be destroyed,
+oyu next Fighter will commence the race at the current rack level,
+_but against a full complement of seven Omegan Warrior Ships!_
+
+        ##        PHOTON MINES
+     ###  ###     Photon Mines left by Death Ships are a lot like mustard
+  ###        ###  gas; they're very persistent.  A Photon Mine will stay
+     ###  ###     exactly where it is until you either blast it or crash
+        ##        into it.  Of the two, the first way is more desirable.
+                  However, any Photon Mines left in the arena when a wave
+is cleared will automatically be disintegrated.
+
+DROID FORCE BONUS
+
+Every group of four waves constitutes and Omegan Droid Force.  Every
+time you successfully eliminate a Droid Force (For example: Racks 1
+to 4, Racks 5 to 8, etc.) you'll recieve a bonus of 5,000 points as a
+reward for your stamina and endurance.
+
+END OF GAME
+
+The game ends when you sacrifice your last Fighter in a race that
+never ends...OMEGA RACE!
+
+SCORING
+
+Your score is displayed at the top of the screen throughout the game.
+Point values:
+Photon Mine         500 points
+Droid Ship        1,000 points
+Command Ship      1,500 points
+Death Ship        2,500 points
+Droid Force Bonus 5,000 points
+
+TWO-PLAYER VERSIONS
+
+Two players may compete in OMEGA RACE, alternating turns.  There are
+two different ways to set up your video game console for the
+two-player game.  If you own only one Booster-Grip, use the GAME
+SELECT switch to select Game 2 and set the RIGHT DIFFICULTY switch to
+B.  Both players will then use the same controller, trading back and
+forth at the beginning of each turn.  IF you own a second
+Booster-Grip, connect it to another Joystick Controller and plug it
+into the RIGHT CONTROLLER jack.  Select Game 2 and set the RIGHT
+DIFFICULTY switch to A.  Each player will then be able to use his/her
+own controller.  Either way, game play remains the same, except that
+the second player's score appears at the bottom of the screen instead
+of the top.
+
+STRATEGY HINTS
+
+1. Learn to use your Booster-Grop to control your direction as you
+ricochet off the walls of the arena.  Mastering this technique will
+almost always enable you to maintain a good position for destroying
+both Command Ships and Death Ships.
+
+2. Use your thrust sparingly to "float" back and forth or up and
+down.  You'll be able to fire without worrying about navigating.
+
+3. To rack up really high scores, go for the more valuable ships
+first.  Since they're always replaced, you'll be able to get more
+points for the same quantity of ships destroyed.
+
+              C  B  S     E  L  E  C  T  R  O  N  I  C  S
+
+            VIDEO GAME CARTIDGE LIMITED NINETY DAY WARRANTY
+
+CBS Inc. ("CBS") warrants to the original consumer purchaser of this
+CBS Electronics cartidge for a period of ninety days from the date of
+purchase that it is free from any defects in materials or
+workmanship.  If any such defect is discovered within the warranty
+period, CBS will repair or replace the cartridge, at its option, free
+of charge on receipt of the cartridge woth proof of date of purchase,
+postage paid, at: CBS Electronics, 601 Doremus Avenue, Newark, NJ
+07105.
+
+In the even that your cartridge is replaced, the replacement will be
+continued on the original warranty for the balance of its term or for
+30 days, whichever is longer.
+
+This warranty is limited to the electronic circuitry and mechanical
+parts originally provided by CBS and is not applicable to normal wear
+and tear.  This warranty shall not apply to defectrs arising from
+abuse, unreasonable use, mistreatment or neglect.
+
+ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES OF
+MERCHANABILITY AND FITNESS, ARE HEREBY LIMITED TO NINETY DAYS FROM THE
+DATE OF PURCHASE.  CONSEQUENTIAL OR INCIDENTAL DAMAGES RESULTING FROM
+A BREACH OF ANY APPLICABLE EXPRESS OR IMPLIED WARRANTIES ARE HEREBY
+EXCLUDED.
+
+Some states do not allow limitations on how long an implied warranty
+lasts or do not allow the exclusion of limitations of incidental or
+consequential damages, so the above limitations or exclusions may not
+apply to you.
+
+This warranty gives you specific legal rights and you may also have
+other rights which vary from state to state.
+
+CBS Toys, A Division of CBS, Inc., Newark, NJ  07105
+
+2L-2640-0000
+
+[ This manual was typed in by Bryan T. Raynor.  Feel free to address
+any comments/questions to btr9p@virgina.edu.  The tip regarding use of
+the Colecovision Joystick in place of the Booster-Grip adaptor was
+provided by Greg Chance. ]
+

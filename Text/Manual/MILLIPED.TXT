@@ -1,0 +1,112 @@
+--------------------------------------------------------------------------------
+ MILLIPEDE  Blast Those Bugs 		Video Game Cart for the ATARI 2600 VCS
+--------------------------------------------------------------------------------
+RID YOUR GARDEN OF THOSE BOTHERSOME BUGS!
+	An army of menacing millipedes - cousins to the famed Centipede - have
+	invaded your garden patch, and you must shoot arrows at them to rid
+	your plot of these pesky pests.  But wait!  The millipedes aren't the
+	only insidious insects you have to destroy.  Jumping spiders, buzzing 
+	bees, bouncing beetles, mosquitoes, dragonflies, inchworms, and earwigs
+	all have unique and deadly powers of their own!
+
+GETTING STARTED
+	Insert the MILLIPEDE cartridge as explained in your 2600 Video Computer
+	System owner's guide, and turn on your system.
+
+	Plug a joystick controller into the LEFT CONTROLLER jack for this
+	one-player game.
+
+	Press GAME SELECT or the fire button to select the number of points you
+	want to begin a game with.  In the first game of any game playing
+	session, you can start with 0, 15,000, or 30,000 points.  Move your
+	controller forward to increase your score and back to decrease your 
+	score.  After the first game, you can start at up to 15,000 points
+	below your previous high score (in 15,000 point increments up to
+	300,000).  If you just played a game and scored 107,000 points, for
+	example, you can start your next game at 90,000.
+
+SURVIVAL TIPS
+	* Make sure you keep your eye on the millipede while you're getting rid
+	of the other pests.  The millipede can sneak up on you if you're not
+	careful, so keep it under control.
+
+	* If a millipede touches a poisonous mushroom - poinsonous mushrooms
+	are colored differently from most - watch out!  The millipede will
+	charge directly at you!
+
+	* When the insects swarm, you're in for big trouble if you're not
+	alert.  Only a spider can enter the garden while the mosquitoes, bees,
+	or dragonflies are swarming.  You get 100 extra points (above the
+	normal point value) for the second swarming bug you destroy, 200 for
+	the third, and so forth - up to 1000 extra points per bug.  But beware! 
+	Swarming bugs fly fast and furious!
+
+	* Each insect has its own unique sound, so keep your ears open and you
+	can anticipate what will be coming next.
+
+SCORING
+	You begin the game with three lives.  For every 15,000 points you earn,
+	you're awarded another life.
+
+	*Mushroom 		1
+	Mushrooms are all right, but they're slowly choking you out of your
+	garden.
+
+	*Millipede head 	100
+	*Millipede segment 	10
+	The millipedes attack from the top of your garden.  They march back and
+	forth across your patch until they get to the bottom.  When a millipede
+	bumps into a mushroom, it reverses direction.  If any part of the
+	millipede touches you, you're finished!
+
+	*Spider 		300, 600, 900, or 1200
+	Jumping spiders enter from either side of the screen.  How many points
+	you get for ridding the garden of a spider depends on how close it is
+	when you shoot it.
+
+	*Beetles		300
+	Beetles crawl in when you least expect them.  They also have a
+	paricular pattern they follow, so pay attention!
+
+	*Mosquito 		400
+	Swat mosquitoes for big points.  But you'd better be quick with your
+	arrows - mosquitoes also swarm!
+
+	*Bees 			200
+	Bees buzz randomly through the magic patch.  They have a very distinct
+	sound, so they're easy to recognize.  But watch out when they swarm at
+	you or you're sure to get stung!
+
+	*Inchworm 		100
+	The inchworm can't move too quickly, but is tricky just the same.  When
+	you shoot this little critter, the movement of all the insects on the
+	screen is slowed down for about four seconds.
+
+	*DDT Bomb 		800
+	Thank goodness for pesticides!  Just pierce one of the DDT bombs in
+	your garden and earn an automatic 800 points.  Expode the DDT at the
+	right time, and the vapor will wipe out any bug it touches!  For each
+	bug that's destroyed by DDT, you'll earn triple the points you'd 
+	normally get for it.
+
+	*Dragonfly 		500
+	Be careful!  These flying beasts like to swarm too.
+
+	*Earwig 		1000
+	Earwigs are hard to hit, but if you're on target, they're worth a lot. 
+	Earwigs also poison mushrooms on contact, changing their color if you
+	don't get them before they cross the width of the screen.  Get the
+	earwigs before they cause more damage.
+
+	Each time you lose a bug blaster, you receive 5 points for every flower
+	and every three mushrooms left on the screen.
+
+	(c) 1987 ATARI CORP
+	Designed by Dave Staugas
+	Computer Graphics by Jerome Domurat
+	Audio by Andrew Fuchs and Robert Victra
+	Arcade game by Ed Logg
+
+--------------------------------------------------------------------------------
+
+-------------------Atari 2600 Instructions Archive-------------------

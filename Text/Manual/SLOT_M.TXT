@@ -1,0 +1,152 @@
+SLOT MACHINE(TM)
+GAME PROGRAM(TM)
+INSTRUCTIONS
+
+/|\ ATARI(R)
+W A Warner Communications Company
+
+ATARI, INC., Consumer Division
+1195 Borregas Ave., Sunnyvale, CA 94086
+
+(C)1979 ATARI, INC.  C011402-5-3
+
+Use your Joystick Controllers with this Game Program(TM).
+Be sure the controllers are firmly connected to your
+Video Computer System(TM).  See section 3 of your owner's
+manual for details.  Hold the controller with the red
+button to your upper left towards the television screen.
+For one-player games use the right controller.
+
+Note: The console unit should be off when inserting or
+removing a Game Program.  This will protect the electronic
+components and prolong the life of your Atari(R) Video
+Computer System.
+
+HOW TO PLAY
+
+Depress the console's game select switch to choose the
+particular Slot machine you wish to play.  Each "Machine
+Playfield" features a specific number of players and
+"paylines."  (See matrix on back cover for the game
+number of each variation.)  The game number appears in
+the upper left corner of the Machine Playfield.  The
+first number in the upper right corner refers to the
+number of players; the second number refers to the
+number of paylines.
+
+Depress the game reset switch to start play.  The numbers
+in the upper right and left corners change to 25 in games
+2, 4, 6, and 8, which are two-player games.  This is the
+number of coins each player receives in their "bank" to
+begin betting.  In games 1, 3, 5, and 7, which are one-
+player games, the number in the upper left corner changes
+to 24.
+
+This occurs because the computer has made its initial bet
+and subtracted one coin from the original 25-coin bank.
+
+The numbers in each lower corner of the Machine Playfield
+show how much is being "bet" by each player.  A question
+mark appears in each player's betting square.
+
+The Difficulty Switches have no effect in this Game Program.
+
+HOW TO BET
+
+Use the red button on your Joystick Controller to place your
+bet.  You can bet up to five coins each time.  Games 3, 4,
+7, and 8 have a maximum of five paylines.  Each bet of one
+coin increases the chances of adding to your bank.  For
+example, bet three coins and you may win a jackpot on
+either the first, second, or third paylines.
+
+Games 1, 2, 5, and 6 only "pay" on the center line (or
+payline ).  In these games, the more you bet (up to five
+coins) the more you can add to your bank.
+
+After placing your bet, pull back on your Joystick to spin
+the reels of the Slot Machine.  In two-player games, both
+players must do this to spin the reels.  The game ends
+when one player's bank is "broke".  To continue play depress
+the game reset switch once.  This adds 25 coins to each
+player's bank.  (The game may end with one player going
+broke, while the other player has coins remaining.  When
+the game reset switch is depressed once, the player who
+went broke is given 25 coins, while the player with coins
+remaining receives 25 coins plus the amount left when the
+game ended.)
+
+In one-player games, you are competing against the computer.
+The computer makes a random bet for each play.  The game
+ends if you or the computer go broke.  To continue play
+depress the game reset switch once.  This adds 25 coins to
+each bank.  As in two-player games, the player with coins
+remaining when the game ends does not lose those coins when
+the game reset switch is depressed once those coins when the
+game reset switch is depressed once.
+
+Depress the game reset switch TWICE to reset each player's
+bank to 25 coins, for all one- and two-player games.
+
+SCORING
+
+Your Slot Machine(TM) Game Program "pays off" in the same
+manner as a 3-wheel, 20-stop, slot machine found in a
+gambling casino.
+
+The score for a one-player game is displayed in the upper
+right corner of the screen.  The computer's score is on
+the left.  In two-player games, the right player's score
+is on the right, the left player's score is on the left.
+
+For Jackpot Games (Games 1 to 4):
+
+ANY	ANY	ANY			20
+BAR	BAR	BAR
+
+BAR	BAR	BAR		       100
+
+CAR	CAR	CAR		       200
+
+For Payoff Games (Games 5 to 8):
+
+CACTUS					 2
+
+CACTUS	CACTUS				 5
+
+TABLE	TABLE	BAR			10
+
+TABLE	TABLE	TABLE			10
+
+TV	TV	BAR			14
+
+TV	TV	TV			14
+
+BELL	BELL	BAR			18
+
+BELL	BELL	BELL			18
+
+BAR	BAR	BAR		       100
+
+CAR	CAR	CAR		       200
+
+SLOT MACHINE(TM)
+
+Use your Joystick Controllers with this Game Program(TM)
+Hold the Controller with the red button to your upper
+left, toward the television screen.  Be sure the
+controllers are firmly connected to your Video Computer
+System(TM).
+
+		 | JACKPOT GAMES | PAYOFF GAMES  |
+		 --------------------------------|
+Game Number	 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+		 |---+---+---+---+---+---+---+---|
+# of Players	 | 1 | 2 | 1 | 2 | 1 | 2 | 1 | 2 |
+		 |---+---+---+---+---+---+---+---|
+Center Pay Line  | X | X |   |   | X | X |   |   |
+		 |---+---+---+---+---+---+---+---|
+Up to 5 Paylines |   |   | X | X |   |   | X | X |
+		 ---------------------------------
+
+Printed in USA Rev.1

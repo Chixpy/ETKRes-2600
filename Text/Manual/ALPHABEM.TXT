@@ -1,0 +1,510 @@
+<Picture>
+
+<Picture>AlphaBeam<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+ATARI 2600
+
+CCW
+CHILDREN'S COMPUTER WORKSHOP
+AN ACTIVITY OF CHILDREN'S TELEVISION WORKSHOP
+
+ALPHA BEAM WITH ERNIE
+
+FOR CHILDREN AGES 3-7
+
+SESAME STREET
+
+ATARI AND CHILDREN'S COMPUTER WORKSHOP PRESENT:
+Educational games featuring the lovable Sesame Street Muppets and other
+wonderful, whimsical characters.  The creators of Sesame Street, Electric
+Company, and 3-2-1 Contact have teamed up with the creators of the world's
+most popular video games.
+
+ATARI/CCW games are designed by writers, artists, programmers, 
+psychologists, and lots of kids!
+
+OUR FORMULA:
+One Part Creative Magic
+         +
+One Part Technical Wizardry
+         +
+One Part Educational Know-How
+         =
+Dynamic, Child-Appropriate Video Games!
+
+ATARI/CCW Video Games Provide:
+* Family Play
+* Continuous Challenge
+* Long-Term Play
+* Nonviolent Play
+* Opportunity for Cooperative Play, Individual Play, and Competitive Play
+* Appeal to Both Girls and Boys
+
+This Video Game Product was developed by ATARI, INC. and the CHILDREN'S
+COMPUTER WORKSHOP
+(c) 1983 ATARI, INC. All Rights Reserved
+(c) 1983 CHILDREN'S COMPUTER WORKSHOP, INC. All Rights Reserved
+Muppet Characters (c) 1983 MUPPETS, Inc. All Rights Reserved
+Featuring the JIM HENSON(tm) SESAME STREET(tm) MUPPET(tm) characters.
+
+
+                       TABLE OF CONTENTS
+                       * NOTE TO PARENTS
+                       * SETTING UP
+                       * A READ-ALOUD STORY
+                       * GAME PLAY
+                       * MORE ALPHABET FUN
+                       * GAME MATRIX
+
+* NOTE TO PARENTS
+
+The ALPHA BEAM game provides children with an exciting outer space setting
+in which they can practice important prereading skills such as:
+
+ [ A A ]    1) Matching identical letters.
+
+ [ D d ]    2) Matching upper case letters with their corresponding lower
+               case letters.
+
+ [ m n ]    3) Discriminating between confusing letters.
+
+ALPHA BEAM is unique in that it includes opportunities for cooperation.
+When you play ALPHA BEAM with your child you can foster coooperative play
+by talking to him or her.  As you play, say things like, "Which letter
+should we pick up first?"  and, "Where should we put the letter A?"
+Encourage your child to talk about the game also.
+
+
+* SETTING UP
+
+HOW TO USE YOUR ATARI KID'S CONTROLLER
+
+Use your ATARI KID'S CONTROLLERS to play ALPHA BEAM.    
+
+For a one-player game, plug an ATARI KID'S CONTROLLER into the LEFT cont-
+roller jack at the back of your ATARI 2600 console. (See Figure 1.) For a
+two-player game, the player who operates the top shuttle uses a controller
+plugged into the LEFT jack and the player who manuevers the bottom shuttle
+uses a controller plugged into the RIGHT jack.
+
+           [Figure 1 - Plugging in the Controller]
+
+You will find two keypad overlays included with this cartridge.  These
+colorful overlays will help your children select and use appropriate buttons. 
+Slip the overlay tabs into the slots at the top and bottom of your ATARI 
+KID'S CONTROLLER, as shown in Figure 2.
+
+                     [Figure 2 - Keypad Overlay]
+
+             --------------------------------------------
+               Note: The "Atari Kid's Controller" was a
+               large  6" x 7 1/2" Video Touch Pad that
+               was bought separately from the game cart.
+               The ALPHA BEAM WITH ERNIE overlays for the 
+               controller blocked off all but four keys:
+                                  
+                               [Beam up]
+                                  / \    
+                                  (2)                         
+                      
+              [move left] <(4)           (6)> [move right]
+                     
+                                  (8)  
+                                  \ /
+                              [Beam down]
+
+
+
+                       Kid's Controller Key Layout:
+                           _________________
+                           | 1     2     3 |
+                           |               |
+                           | 4     5     6 |
+                           |               |
+                           | 7     8     9 |
+                           |               |
+                           | *     0     # |
+                           -----------------
+                -------------------------------------------
+
+NOTE: Always turn the console POWER switch OFF before inserting or
+removing an ATARI Game Program Program cartridge.  This will protect the 
+electronic components and prolong the life of your ATARI 2600 Video Computer
+System console.
+
+HOW TO USE THE ATARI 2600 CONSOLE CONTROL SWITCHES
+
+POWER ON/OFF SWITCH
+After you have inserted the Game Program cartridge, press the POWER ON/OFF
+switch to ON.
+
+GAME SELECT SWITCH
+ALPHA BEAM contains 12 exciting game levels. Each level is more challenging
+than the previous level.  Find the game number you want to play in the GAME 
+MATRIX on the back cover.  Press the GAME SELECT switch until the game number 
+appears at the lower left of the television screen. (See Figure 3.) The number 
+on the right indicates the number of players for that game.  For a detailed 
+description of each game, see GAME PLAY.
+
+                    [Figure 3 - Selecting a Game]
+   (Game Number shown on left bottom of screen. Number of Players on right)
+
+GAME RESET SWITCH
+After you have chosen the game level you want to play, press GAME RESET
+to begin the game.  You can also press GAME RESET during game play to start 
+the game over.
+
+DIFFICULTY SWITCHES
+RIGHT and LEFT DIFFICULTY switches are not used in this game.
+
+TV TYPE SWITCH
+Set the TV TYPE switch to COLOR to play the game on a color TV.  Set this
+switch to B/W to play on a black and white TV.
+
+
+* A READ-ALOUD STORY
+
+
+                           ERNIE THE ASTRONAUT
+
+"Space is terrific," said Ernie the astronaut as he flew his rocket ship
+past the beautiful ringed-planet Saturn.  "But I'm really getting homesick
+and I miss my old buddy Bert.  I think I'll turn around and start for home.
+I'd better take a look at my trusty space map first so I won't get lost."
+
+But as Ernie unfolded the map, his glance fell upon the fuel gauge of his
+rocket ship.
+
+"Uh oh!  I'm almost out of fuel!"  Ernie began to worry.  "I hope I can make
+it to the next refueling station in time."
+
+Just as his ship coasted to a stop, Ernie spotted the Alpha Beam Fuel 
+Station. He put on his space suit and got into his space shuttle to go
+collect the fuel for his rocket.
+
+"Boy am I lucky," he said.  "I just made it!"
+
+First, Ernie flew his shuttle over his rocket fuel bays to see what kind of
+fuel he needed.  Then, he flew to the fuel station and carefully selected
+the right tank for each fuel bay on his ship.
+
+"The `A' fuel tank goes in the `A' docking bay, the `B' fuel tank goes in
+the `B' docking bay, and so on," said Ernie.  "If you're planning to fly
+a rocket ship through outer space, you've got to know your ABC's!"
+
+Ernie knew he had to fill up the fuel bays as quickly as possible because,
+according to his automatic countdown clock, his ship was set to blast off
+in a few seconds.
+
+"Nine...eight..." ticked the clock.  (Ernie loaded the first fuel tank.)
+"Seven...six...five...four..."  (The `B' and `C' tanks were loaded.)
+
+"Am I loading the fuel correctly?"  Ernie wondered.  "Will my ship make it
+all the way back to earth?"
+
+"Three...two..." (Ernie loaded the last tank and jumped aboard his rocket
+just as the fuel bays closed.)  "One!  Blast off!"  The great rocket ship
+headed towards Earth.
+
+"I sure hope I make it," said Ernie.  "I really miss my old buddy Bert!"
+
+"Ernie began to feel better as he passed Saturn again and saw Jupiter 
+straight ahead.
+
+"If I can just get to Mars," he thought.  "Earth is only one stop away."
+
+But Ernie's ship started to slow down.  He looked at the control panel and
+saw that his fuel indicator was nearing the empty mark again.
+
+"Oh no!" he groaned.  "I'm running out of fuel.  Now I'll never make it all
+the way home.  I'll never see my buddy Bert again!"
+
+"What do you mean, Ernie?" asked Bert.  "Of course you'll see me again.
+I'm just going to the kitchen to make oatmeal for breakfast."
+
+Ernie opened his eyes and realized that he was safe in his own room.  His
+toy rocket had fallen off his bed and was lying on the floor.
+
+"Boy did I ever have a crazy dream, Bert!" laughed Ernie with relief.
+"You'll never believe it, not in a million light-years!"
+
+
+* GAME PLAY
+
+NOW PLAY ALPHA BEAM...HERE'S HOW:
+
+Oh no!  Ernie's rocket ship is out of gas!  Help Ernie get home by filling
+up his rocket and making it blast off!
+
+OBJECT OF THE GAME:
+
+Beam the lettered fuel tanks that are floating in space into the docking bays
+of Ernie's rocket ship.
+
+GET READY TO PLAY:
+
+Follow the directions in SETTING UP to plus in the KID'S CONTROLLER, to use
+the keypad overlay, and to select a game level.
+
+SHUTTLE MOVEMENT
+
+To move your space shuttle left, press the arrow that points left on your
+keypad overlay. ( 4 key )
+To move your space shuttle right, press the arrow that points right on your
+keypad overlay.  ( 6 key )
+
+BEAM LETTER TO SHUTTLE
+
+If you control the top shuttle, move your shuttle directly under a letter
+and press the beam button on your overlay that points up.  ( 2 key )
+
+If you control the bottom shuttle, move your shuttle directly over a letter
+and press the beam button on your overlay that points down.  ( 8 key )
+
+BEAM LETTER FROM SHUTTLE TO ROCKET
+
+To beam a letter from the top shuttle into the rocket, move your shuttle over
+a fuel bay and press the beam button that points down.
+                                              
+                                             =*= <-----Shuttle (player 1)
+         Top Fuel Bays__________              |
+                         |      |             | <------Beam down
+             __________  |  __  |  __     __  |  _____
+            |          |___|  |___|  |___|  |_|_|      \
+            |                                            \      
+            |   R O C K E T   S H I P                     |
+            |           ___    ___    ___    ___         /
+            |__________|   |__|   |__|   |__| | |_____ /
+                         |      |             |
+      Bottom Fuel Bays___|______|             | <------Beam up
+                                              |
+                                             =*= <-----Shuttle (player 2)
+
+ 
+To beam a letter from the bottom shuttle into the rocket, move your shuttle 
+under a fuel bay and press the beam button that points up.
+
+As your child learns to maneuver the shuttlecraft, you may want to give him
+or her some step-by-step guidance.  Try saying:
+
+                 * "First move your shuttle to the letter."
+                 * "Next, beam the letter onto the shuttle."
+                 * "Next, move to the docking bay."
+                 * "Now, beam the letter onto the rocket ship."
+
+GAME VARIATIONS
+
+ALPHA BEAM contains 12 levels of game play. Games 1 and 2 are for one player
+only, while Games 3, 4, 5, 9, 10, and 11 have one-player and two-player
+versions.  Games 6, 7, 8, and 12 are two-player games only.  Remember, when
+pressing GAME SELECT, the numeral on the lower left of the screen indicates
+game number while the numeral on the lower right indicates player number.
+Below are detailed descriptions of each game level.  For quick reference,
+use the GAME MATRIX on the back cover.
+
+GAMES 1 AND 2: PRACTICE GAMES
+
+Practice beaming letters onto your shuttlecraft and then into the rocket
+fuel bays.  When you want to pick up fuel, press the right or left arrow
+on your keypad overlay.  Your shuttle will automatically center under the
+nearest fuel tank.  When you are ready to load the fuel on the rocket, press
+the right or left arrow to automatically center your shuttle over the
+closest fuel bay.  The letters on the fuel tanks and the rocket side are
+all the same letter.  Game 1 uses all upper case letters while Game 2 uses
+all lower case letters.  Take as much time as you want.  Each time you fill
+up Ernie's rocket, it blasts off toward Earth.  Welcome home!  Had enough
+practice?  Now try a more challenging game.
+
+In practice games, young children might need some help getting started.
+Say to your child, "Point to the letter you want to pick up and show me
+which way (left or right) you want to move to get it."  This is also a
+good opportunity to talk about the names of the letters on the screen.
+
+GAMES 3, 4, and 5
+
+Match the letters in the sky with those on the side of the rocket.  The four
+letters on the side of the rocket are in alphabetical order while the four
+lettered tanks in the sky are scrambled.  When you beam the correct letters
+from the sky into the rocket bays, you will be putting them in proper
+alphabetical order.
+
+You must carefully center your shuttle under and over the letters and rocket
+bays.  If you try to beam a letter into a bay where it doesn't match, it
+won't go in and you'll hear a loud buzz.
+
+All the letters in Game 3 are in upper case, and all letters in Game 4 are
+lower case.  In Game 5 all the letters on the side of the ship are lower
+case while the letters in the sky are upper case.  Each time you fuel up
+Ernie's ship, it blasts off for home.  What a blast!
+
+GAMES 6, 7, and 8
+
+Now you and your partner must work together to put the same letter pairs
+in the top and bottom fuel bays of the rocket. (See Figure 4.) There are
+no letters printed on the rocket side so you decide which letters go where.
+Once a letter is beamed into a bay, the matching letter will only go into
+the adjoining bay.  As soon as you fuel up the ship, it blasts off and you
+fly all the way home!
+
+Game 6 uses all upper case letters and Game 7 uses all lower case letters.
+In Game 8, the player operating the top shuttle selects from upper case
+letters, while the player operating the bottom shuttle selects from lower
+case letters.
+
+                     [Figure 4 - Cooperative Game 8]
+
+GAME 9
+
+Match upper case letters in the sky with lower case letters on the ship
+before the countdown reaches one.
+
+Game 9 is a timed game.  See the number in the window of the rocket nose?
+(See Figure 5.) This is your countdown timer.  You must fuel up Ernie's
+rocket as the countdown goes from nine to one.  When the countdown reaches
+one, the rocket doors close, and the rocket blasts off.
+
+You get as far as Saturn if each player docks one tank in the right bay.
+if each player docks two tanks correctly, you get to Jupiter.  You'll
+reach Mars if each player puts three tanks in the right bays.  And you'll
+fly all the way to home sweet planet Earth if all four tanks are correctly
+placed!  Welcome home Ernie! (See Figure 6.)
+
+                     [Figure 5 - Timed Game]
+           (Shows Countdown Timer in the nose of rocket)
+
+                   [figure 6 - Ernie gets Home]
+
+GAMES 10 and 11
+
+Now each player must choose among five letterd tanks in the sky to match
+four lettered bays in the rocket.
+
+Don't be surprised if the letters in the sky do not match the letters on the
+rocket.  Each time you beam a letter from the sky it is replaced by the next
+letter in the alphabet.  For example, beam a "K" onto your shuttle and it is
+replaced by an "L" in the sky; beam that"L" onto your shuttle and it's 
+replaced by an "M."  When you take the letter "Z" it is replaced by an "A."
+If you don't want to keep a letter that you beam onto your shuttle, simply
+beam another letter aboard your shuttle and the one you don't want will 
+disappear into the air!  You can beam through as many letters as you like
+this way until you have the letter you need to fill in the rocket bay.
+
+All letters in Game 10 are upper case; all letters in Game 11 are lower
+case.  You have more time to dock your letters in Game 10 than in Game 11.
+In both games, the countdown starts at nine, and when it reaches one, your
+ship blasts off!  How far will you get?  As in Game 9, that depends upon
+how many fuel bays you filled correctly.
+
+You may want to talk about the concept of alphabetical order with your child.
+Encourage him or her to think about each letter on the screen and ask,
+"What letter comes next in the alphabet?"
+
+GAME 12
+
+You and a partner beam matching letters into pairs of adjoining rocket bays.
+All upper case letters float above the rocket, while all lower case letters
+float below it.  When you take a letter from the sky, it is replaced by the
+next letter of the alphabet.  So, although you and your partner may not start 
+out with matching letters, you can work together to create letter pairs by
+replacing letters in the sky until you make a match.  The clock on the
+rocket ship will give you a quick countdown, so work fast and see how far
+you can make that rocket go when it blasts off!
+
+GAME 12: SUPERCHALLENGE
+
+When you've mastered matching letters randomly, try a more challenging game.
+See how fast you and your partner can spell these words together:
+
+   HOME         BERT         STAR       SHIP        FAST          DOCK
+
+   MOON         MARS         ZOOM       BEAM        FUEL          GAME
+
+You can also make your own list of words with four letters or ask your
+parent or friend to make one for you.
+
+
+* MORE ALPHABET FUN
+
+(Book activities for kids)
+
+  1. SPACE STATION XYZ
+     Jumping Jupiter! There are lots of letters at the Alpha Beam fuel
+     station. Can you find all the letters?
+  2. THE SHUTTLE FLEET
+     Look! There are five shuttles in the fleet. Four shuttles are the
+     same. Which one is different?
+  3. WHICH LETTER DOESN'T BELONG?
+     In each picture there are four fuel tanks. Three of the fuel tanks
+     have the same letter. One doesn't. Point to the letter in each
+     picture that doesn't belong.
+  4. OUTER SPACE BUDDIES
+     Ernie made a friend in outer space. Draw a picture of his new friend.
+     Color the picture.
+  5. FUEL IT UP!
+     Ernie's rocket ship needs fuel fast! You can help. Draw a line from
+     each letter on the spaceship to the letter it matches in space.
+
+* GAME MATRIX
+
+            _1_________       _2_________       _3_________
+           |    =*=    |     |    =*=    |     |    =*=    |
+           |     A     |     |     a     |     |     A     |
+           |           |     |           |     |           |
+           | A A  A  A |     | a a  a  a |     | A B  C  D |
+           |___________|     |___________|     |___________|
+
+            _4_________       _5_________       _6_________
+           |    =*=    |     |    =*=    |     |    =*=    |
+           |     c     |     |     A     |     |     A     |
+           |           |     |           |     |     A     |
+           | a b  c  d |     | a b  c  d |     |    =*=    |
+           |___________|     |___________|     |___________|
+
+            _7_________       _8_________       _9_________
+           |    =*=    |     |    =*=    |     |    =*=   T|
+           |     a     |     |     A     |     |     A     |
+           |     a     |     |     a     |     |           |
+           |    =*=    |     |    =*=    |     | a b  c  d |
+           |___________|     |___________|     |___________|
+
+            _10________       _11________       _12________
+           |    =*=   T|     |    =*=   T|     |    =*=   T|
+           |     L     |     |     n     |     |     A     |
+           |           |     |           |     |     a     |
+           | B R  K  L |     | r m  n  c |     |    =*=    |
+           |___________|     |___________|     |___________|
+
+ =*=  <--- Shuttle
+  T   <--- Timed Game: Countdown 9 to 1
+Games 1 & 2: One-Player Games
+Games 3, 4, 5, 9, 10, & 11: One-Player & Two-Player Games
+Games 6, 7, 8, & 12: Two-Player Cooperative Games
+
+
+CO1974-103 REV. B 26103
+(c) 1983 ATARI, INC. All Rights Reserved
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

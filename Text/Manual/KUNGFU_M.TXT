@@ -1,0 +1,200 @@
+Kung-Fu Master
+
+For the Atari 2600 and Compatible Systems
+
+Martial Artists Guide
+
+Activision
+
+
+One Goal, Many Levels
+---------------------
+The lovely Princess Victoria is being held captive in the Evil Wizard's temple.
+As the Kung-Fu Master, you're the only one powerful enough to rescue her.
+
+The temple itself wouldn't pose that much of a problem.  Except that it has
+five different levels.  And each one is crawling with a tireless army of
+enemies.
+
+Using your superb martial arts skills, you'll have to oust henchmen, knife-
+throwers, dragons, and a slew of other not-very-nice types.
+
+If you manage to clean out everybody on a level, you'll automatically go to
+the next level.  And your energy meter and timer will be reset.
+
+Once you succeed in rescuing Princess Victoria, you'll be sent back down to
+the first floor for more kicking and punching and jumping.  Only this time
+things will happen even faster and more furiously.
+
+Start-Up
+--------
+1. Make sure that the power switch on your game machine is OFF.
+
+2. Insert the Kung-Fu Master cartridge as described in you game system owner's
+   guide.
+
+3. Turn the power switch to ON.
+
+4. To begin play for a 1-player game, press the GAME RESET lever.  To begin
+   play for a 2-player game, press the GAME SELECT lever, then the GAME RESET
+   lever.
+
+What's on the Screen
+--------------------
+In the upper left quarter of the screen you'll notice some numbers and bars.
+Here's what's what:
+
+  Timer
+  -----
+  The first number-the one that keeps getting smaller-is your timer.  When it
+  reaches 200, a warning will sound to let you know that time's running out.
+  And when the timer reaches zero, you lose your life.
+
+  Lives
+  -----
+  The number off to the right a bit (it starts at 3) is the number of lives
+  you have left.
+
+  Score
+  -----
+  The lower numbe-the one that keeps increasing (you hope)-is your score.  You
+  can earn points for destroying each opponent-unless you let him get too
+  close before you punch or kick him.
+
+  Your Energy Bar
+  ---------------
+  The first bar, labeled PLAYER, indicates your energy level.  When it runs
+  out, so does your life.
+
+  Enemy Energy Bar
+  ----------------
+  The second bar, labeled ENEMY, is the energy meter for the final opponent in
+  each level.  You must deplete all of his energy to be able to go on to the
+  next level.
+
+Note on two-player games:  In a two player game, play alternates whenever a
+player loses a life.  The second-player's timer, score, and energy bar replace
+thos of the first player, and so on.  If one player loses all of his lives,
+the other player continues without interruption until the game is over.
+
+One Friend, Many Enemies
+------------------------
+Princess Victoria is your only friend in this treacherous temple.  Everyone
+else-and everything else-is out to get you.  Some of your enemies demonstrate
+their power in numbers.  Others sport some nasty weapons.  While still others-
+like the snakes-are completely indestructible.
+
+You'll quickly learn the ins and outs of doing in your various opponents.
+Each type requires special handling.  Here's a hint or two on how to handle
+them, just to get you started.
+
+Henchmen.  They're not that much of a threat for a Kung-Fu Master like you.
+One punch or kick should do it.  Problem is, there's so many of them.  And
+they come at you from both sides.  Plus, they'll try to hold on to you and
+drain your energy.
+
+Knife-throwers.  Duck or jump to avoid the knives.  And use two punches or
+kicks to knock these guys out of the game.
+
+Midgets.  These tumbling attackers approach you from either side.  Sometimes
+it's best toget them with a low punch or kick.
+
+Dragon balls.  Inside each of these innocent-looking falling balls is a fire-
+breathing dragon, just waiting to singe your ghi off.  Destroy the ball before
+it hits the ground using a single kick.  Or duke it out with the dragon with
+punches or kicks.
+
+Snake baskets.  Like the dragons, these vile creatures fall from the sky
+disguised.  Only these guys are hidden in baskets.  Smash the baskets before
+they hit the ground.  Or stay away from the scurrying snakes inside.  Best to
+jump over them if you have to.
+
+Killer moths.  They'll fly around annoyingly, trying to sting you.  Sting them
+first will a well-placed punch or kick.
+
+The Five Biggies.  At the end of each level there's one guy who's bigger and
+badder than all the others.  He can't exactly kill you with one blow, but each
+of his hits will put a big dent in your energy level.  So if your energy is
+already low when you meet him, you could be in big trouble.
+
+Here's who's who on each level:
+    Level 1 - The Fist Fighter
+    Level 2 - The Boomerang Thrower
+    Level 3 - The Giant Kicker
+    Level 4 - The Lightning Magician
+    Level 5 - The Gang Master
+
+Total Control
+-------------
+As an experienced Kung-Fu master, you have total control of your every move,
+every punch, every kick.  The key is knowing when and where to use each
+element of your martial artistry.  The following instructions outline precisely
+what you need to do to execute each move:
+
+To move right or left, move the joystick right or left.
+
+To jump, push the joystick forward.
+
+To squat, pull the joystick back.
+
+To kick high, move the joystick to the right or left and press the button.
+
+To kick low, pull the joystick back and press the button.
+
+To punch high, push the joystick diagonally forward to the right or left and
+press the button.
+
+To punch low, pull the joystick diagonally back to the right or left and press
+the button.
+
+To break a Henchman's hold, jiggle the joystick rapidly from side to side.
+
+Earning Points and Extra Lives
+------------------------------
+You'll earn points for defeating your enemies.  Some enemies are worth more
+points than others.
+
+Any time left over at the end of a level is multiplied by 10 and added to your
+score.  And any energy left over at the end of a level is multiplied by 100
+and added to your score.
+
+Here's what earns what:
+
+  ENEMY                    POINTS     POINTS
+                             PER        PER
+                            KICK       PUNCH
+  --------------------     ------     ------
+  Henchmen                   100        100
+  Knife Thrower              500        800
+  Midgets                    200        300
+  Dragon Ball               2000       2000
+  Killer Moths               500        600
+  Fist Fighter              2000       2000
+  Boomerang Thrower         3000       3000
+  Giant Kicker              3000       3000
+  Lightning Magician        5000       5000
+  Gang Master              10000      10000
+
+New Lives
+---------
+You'll be awarded an extra life at 75,000 points.
+
+A Few Hints
+-----------
+   * Don't use punches and kicks randomly.  A true martial artist knows when
+     to apply them at just the right moment.
+
+   * Try to figure out which type of blow works best against which opponents.
+     Most of them have certain weak spots.
+
+   * Don't try to battle the snake-just stay out of its way.
+
+   * Remember: no one opponent can kill you outright.  But they all rob you
+     of energy.  So if an opponent happens to hit you just when your energy
+     is low enough, he may end up killing you.
+
+   * Keep a close eye on the timer.  When it runs out, so does your life.
+
+Copyright 1987  Activision, Inc.
+------------------------------------------------------------------------------
+

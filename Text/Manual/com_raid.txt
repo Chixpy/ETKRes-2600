@@ -1,0 +1,113 @@
+U.S.GAMES                       VC 1004
+Commando Raid (TM)
+
+
+INSTRUCTIONS
+
+
+U.S. GAMES CORPORATION
+A Subsidiary of The Quaker Oats Company
+1515 Wyatt Drive
+Santa Clara, California 95054
+
+
+Commando Raid
+
+Commando Raid is a single player, full color game simulating Arcade =
+Action
+and designed to be played on the ATARI (R) Video Computer System (TM) or
+the Sears Video Arcade (R).
+
+You are in defense of your buildings which have come under attack by =
+android
+commando raiders. Without warning they appear, intent on capturing your
+buildings and destroying your gun emplacement.
+
+First the troop carrying helicopters fly in dropping android =
+paratroopers
+to test your defenses. Soon the sky is filled with fluttering =
+helicopters
+and wave after wave of android paratroopers. They must be destroyed! =
+Each
+paratrooper allowed to land on a building destroys a portion of that
+building. If three paratroopers land on a building. It will be totally
+destroyed and must be considered under commando control.
+
+Worse still, the androids can now tunnel towards your gun emplacement.
+Each paratrooper who lands on that building expands the tunnel. If they
+are not stopped, they will plant an explosive charge under the gun.
+
+In the midst of the battle, an aircraft may appear. It will drop a
+devastating bomb which can destroy all buildings and the gun =
+emplacement.
+You must shoot it down or at least shoot the bomb it drops. If you miss,
+its back to basic training!
+
+{screen shot, pointing out: SCORE, BOMBER, BOMB, HELICOPTER,
+COMMANDO PARATROOPER, BUILDING, GUN EMPLACEMENT}
+
+Instructions
+
+1)      Connect the Atari (R) Video Computer System (TM) or
+        Sears Video Arcade (R) following the manufacturers instructions.
+2)      Install the Left joystick control. The Right joystick is not =
+used.
+3)      Insert the cartridge making certain that the power is OFF
+4)      Move the POWER switch to ON.
+5)      Select the game variations of your choice using the left and =
+right
+        difficulty switches and the TV TYPE switch.
+6)      Move the joystick forward to start the game.
+7)      Push the RESET switch any time to start the game.
+8)      After the game is over, a new game may be started by pressing =
+the
+        joystick forward.
+
+Scoring
+
+1)      Shooting down a helicopter or bomber is equal to 200 points.
+2)      Shooting down a commando paratrooper or a bomb is equal to
+        115 points.
+
+Awards
+
+Every 10,000 points you will be awarded a new building to take the place =
+of
+the building that is most badly damaged. A ringing bell signals the =
+award.
+
+
+Levels of play
+
+There are eight levels of play.
+
+Each level is defined by a different colored paratrooper Squad.
+
+Each level contains more paratroopers in a single helicopter attack.
+
+
+Game variation selection
+
+1)      The COLOR SWITCH selects anti-aircraft fire control;
+                Color =3D Manual Fire
+                Black & White =3D Automatic Fire
+2)      The LEFT DIFFICULTY SWITCH selects straight bullets or steerable
+        missiles;
+                Position A =3D Straight Bullets
+                Position B =3D Steerable Missiles
+3)      The RIGHT DIFFICULTY SWITCH selects the Bomber;
+                Position A =3D No Bomber
+                Position B =3D Bomber
+
+
+Look for more U.S. Games video games wherever you buy game cartridges. =
+Drop
+us a note and we'll be glad to add your name to our mailing list and =
+keep
+you posted on new game cartridges when they become available.
+
+Atari (R) and Video Computer System (TM) are trademarks of ATARI, INC.
+Video Arcade (R) is a trademarks of Sears, Roebuck and Co.
+
+VC1004          (C) 1982 U.S. Games Corporation         Printed in =
+Taiwan

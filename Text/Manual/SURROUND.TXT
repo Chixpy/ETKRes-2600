@@ -1,0 +1,153 @@
+1. INTRODUCTION (GAME PLAY OBJECTIVE)
+
+Welcome to the exciting and competitive world of SURROUND. Your basic
+objective is to surround your opponent, causing him to run out of
+space in which to move, and at the same time not running into
+anything yourself. You can set up a blockade, force him into a corner
+or wander off by yourself and hope that he runs into something on his
+own.
+
+Along with the basic SURROUND game, we've added four game features to
+make things more interesting. Be sure to read Section 4 to learn more
+about these features.
+
+Then there's VIDEO GRAFFITI. It's just for fun without the competitive
+edge thrown in. VIDEO GRAFFITI actually allows you to draw on the
+screen. Again, read Section 4 to find out more.
+
+We'd like to invite you to read the remainder of these instructions so
+that you don't miss any important details. After that, you'll be
+ready to have at it! There are one and two-player games so that you
+may compete against the computer or another player. So good luck,
+we're sure you're going to enjoy the SURROUND Game Program cartridge.
+
+2. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+Press down the GAME SELECT switch to choose the game you wish to
+play. There are 14 games in all. The game number changes at the top,
+left side of the screen as you press down the GAME SELECT switch.
+Reading Section 4 and Section 6 will help you decide which game or
+games to play.
+
+GAME RESET SWITCH
+Once you have decided which game to play, press down the GAME RESET
+switch to start the game. The GAME RESET switch may be used to start
+a new game, or to reset a game at any time.
+
+
+DIFFICULTY SWITCHES
+Beginning players should start with the DIFFICULTY switch in the B
+position. This position prevents the player from backing onto their
+previous track block. In two-player games, the right player uses the
+RIGHT DIFFICULTY switch, the left player uses the LEFT DIFFICULTY
+switch. (Right and left player meaning the player using the right and
+left controller, respectively.) During one-player games against the
+computer, slide the LEFT DIFFICULTY switch to B if you want the
+computer to play like an amateur; slide it to A if you want the
+computer to play like a pro.
+
+There is no difficulty factor in VIDEO GRAFFITI games (Games 13 and
+14).
+
+TV TYPE SWITCH
+
+Set this switch to COLOR if you have a color television set. Set it
+to B-W to play the game in black and white.
+
+3. USING THE CONTROLLERS
+
+Use your Joystick Controllers with this ATARI Game Program cartridge.
+Be sure to plug the controller cables firmly into the jacks at the
+back of your Video Computer System game. Hold the controller with the
+red button to your upper left toward the television screen. Use the
+RIGHT CONTROLLER jack for one-player games. See Section 3 of your
+owners manual for further details.
+
+NOTE: In two-player games, the right player uses the Joystick plugged
+into the RIGHT CONTROLLER jack, the left player uses the Joystick
+plugged into the LEFT CONTROLLER jack.
+
+When the game begins, your blocks automatically move across the
+screen toward your opponent. Use the Joystick to control the
+horizontal and vertical movement of the tracks, or in games with
+Diagonal Movement, the diagonal movement of the tracks.
+
+Move your Joystick right, left, up or down to move your leader block
+in the same direction on the screen. (See FlGURE 1.)
+
+4. GAME VARIATIONS/FEATURES
+
+Games 1-12 in this Game Program cartridge are all SURROUND games.
+Check the GAME SELECT MATRIX, Section 6 to see which games are for
+one player, and which games are for two players.
+
+The SURROUND games offer four different features. The GAME SELECT
+MATRIX will show you which features are offered in each game.
+
+SPEED UP
+As the leader block moves on the screen, it will speed up
+automatically at different intervals. There are five speeds in all,
+and you have no control over them. They will happen automatically
+during each turn, so be prepared.
+
+DIAGONAL MOVEMENT
+In games with Diagonal Movement, you can move the leader block
+diagonally on the playfield. (In all other games, you can only move
+the blocks vertically or horizontally.) Move your Joystick in a
+diagonal direction to move your leader block in the same diagonal
+direction on the screen. For example, if the leader block of your
+track is in the center of the playfield and you want to move it
+diagonally to the upper right corner, move the Joystick to the right
+and slightly away from you. (SeeFigure 1.) Figure 2 shows you an
+example of what Diagonal Movement looks like on the screen.
+
+ERASE
+When you don't want to leave a track, press the red controller button
+and no blocks will appear on the screen. Release the button and a
+track of blocks will appear as you continue to steer with your
+Joystick Controller. Use Erase for super strategy moves.
+
+WRAPAROUND
+In games featuring Wraparound, when you move your leader block off
+the playfield, it will reappear at the opposite side (See FIGURE 3).
+For example, move It off the top of the screen and it will reappear
+at the bottom of the screen.
+
+VIDEO GRAFFITI
+Games 13 and 14 are appropriately called VIDEO GRAFFITI. You can
+write a word, draw a picture, or get as abstract as you like. One or
+two players can use their Joysticks to control the movement and the
+direction of the track or tracks.
+
+Move your Joystick in any direction to move the track block in the
+same direction on the screen. VIDEO GRAFFITI uses Diagonal Movement,
+Erase, and Wraparound. (See the GAME SELECT MATRIX) 
+
+5. SCORING
+
+You score one point when your opponent steers his leader block into
+another part of his track or your track. In games which do not
+feature Wraparound, you also score a point when your opponent steers
+into one of the playfield boundaries.
+
+NOTE: The most effective strategy is to surround your opponent's
+tracks with your own tracks.
+
+THE FIRST PLAYER TO SCORE 10 POINTS WINS THE GAME. The leader block
+of your track is color coordinated with the score at the top of the
+playfield.
+
+In one-player games, your score is displayed at the upper right
+corner of the screen. In two-player games, the right player's score
+is on the right, the left player's score is on the left.
+
+6. GAME SELECT MATRIX
+
+Game Number        1  2  3  4  5  6  7  8  9 10 11 12      13      14
+Number of Players  2  1  3  1  2  2  2  2  2  2  2  2  1 or 2  1 or 2
+Speed Up                 X  X     X  X     X  X  X  X
+Diagonal Movement              X  X  X        X  X  X               X
+Erase                                X              X       X       X
+Wraparound                              X  X  X  X  X       X       X
+-------------------Atari 2600 Instructions Archive-------------------

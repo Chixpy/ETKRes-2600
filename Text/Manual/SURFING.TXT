@@ -1,0 +1,67 @@
+               SURFING INSTRUCTIONS
+
+INITIAL SET UP
+
+1. Insert game into your Atari 2600 (with Power off)
+   Then turn power on. You will see the initial screen.
+
+2. Plug in left joystick controller.
+
+3. Two numbers will appear on the upper left hand corner.
+   The left number which will be zero at the start of
+   play is the scoring clock. As long as the surfer
+   is successfully riding the wave, this number will
+   increase. The right number which starts at one, tells
+   the player which game level will be played.
+
+4. Game Select Switch: The player can select any one of
+   four starting levels by depresseing game select
+   switch.
+5. Left Difficulty Switch: The object of the first part
+   of the game is to keep the surfer as close as possible
+   to the top (crest) of the moving wave. Some error is
+   allowable. With the left difficulty switch in the "A"
+   position, this error is greater than the "B" position
+   so the game is easier in the "A" position.
+
+5. Right Difficulty Switch: The game is normaly played
+   in the "A" position. In the "B" position the shape
+   of the ship will change while the surfer is under-
+   water. Be careful for this is very tricky and
+   difficult to get through successfully.
+
+6. TV Type Switch: This switch can be used to stop the
+   game (time out) at any time by placing it in the
+   B-W (black and white) position. To continue game
+   return the switch to the color position.
+
+PLAYING
+
+To start the game press the button on the joystick.or
+the game start switch on the console).
+
+Shark Attack - At various times the shark will swim
+towards the surfer. Just before the shark comes in
+contact with the surfer, press the button on the joystick
+to jump the surfer over the shark.
+
+When the surfer is underwater you must move the figure
+through the sunken galleon while avoiding an attacking
+octopus and position the figure close to the surfboard
+which is floating and moving on the water on the top
+right side of the scene. Beware of the jellyfish that
+is located under the surfboard.
+
+SCORING
+
+The scoring timer will cycle only when the surfer is
+riding the wave. The higher the number, the more skill-
+ful the player.
+Bonus - You will receive an extra turn for every 1000
+points scored.
+
+         SCORING      RATING
+          1,500         poor
+          2,500         good
+          3,000.   excellent
+          3,500        great

@@ -1,0 +1,117 @@
+	SPECTRAVISION
+	Video Game Cartridge
+
+	T A P E
+	W O R M
+
+	One or Two Players
+	For the Atari and Sears Video Game Systems
+	Instruction Manual
+
+You don't know what a SPECTRAWORM is?  Well -- we ar ethe little critters
+who clean up the fruit left over in your television from that other video
+game that you play!  And we do all this for "BEANS".  To see me at work, and
+help me out -- just plug me into your game console.  By the way, if you see
+"SPANKY" the spider, or "BEEKY" the bird don't tell them where I am!
+
+Additional version for young children.
+For the Atari and Sears Video Game Systems.
+
+GETTING STARTED
+1.	Hook up game console.
+2.	Insert Cartridge - make sure power switch is always in the "OFF" position
+when
+        installing cartridges.
+3.	Turn console "ON"
+4.	"A" = Diet Bean
+	"B" = High Calorie Bean
+5.	Demo Mode
+	A chance to get acquainted with our friends.
+6.	Set Game Selector
+	Game 1 = 1 Player Beginner
+	Game 2 = 2 Players Beginner
+	Game 3 = 1 Player Advanced
+	Game 4 = 2 Players Advanced
+7.	Game Reset
+	Now hit the "GAME RESET" lever and find those beans.
+8.	Joystick Controller.
+	[Diagrams showing the proper way to hold an Atari- type joystick, and a
+Spectravision Quickshot joystick.]
+
+
+PLAYING THE GAME
+	"A Look at the Bean Patch"
+	[Screen shot of Tape Worm's play screen.  It looks very much like Atari
+Surround, except there are Beans, Beetles, a Spider, a Bird, an Apple and a
+Worm.]
+
+When you start the game "SLINKY" and the first bean appear on the screen.
+
+The idea is to eat each of the ten beans (they appear one at a time) before
+the mystery beetle moves across the screen from left to right.
+
+If you eat the bean before the beetle gets to the fruit, the beetle moves
+back to the left and the bean counter is reduced by one.  If however, the
+mystery beetle gets to the fruit first, then 2 additional beans appear on
+the screen and the bean counter is increased by 2.
+
+A maximum of 8 beans will appear on the screen at any one time.  And the
+bean counter can hold up to 30 beans at a time.
+
+You start the game with 4 chances to eat the fruits.
+You lose a chance (worm) if --
+1.	You touch the edges of the bean patch.
+2.	You get tangled up.
+3.	You touch an obstacle in one of the advanced patches.
+4.	"SPANKY" or "BEEKY" eats you.
+
+SPANKY AND BEEKY
+At any time these guys can appear on the bean patch.  They will only catch
+"SLINKY" if they touch his head (yellow square).  So when you see them...Get
+out of the way!!
+
+As you advance from patch to patch, different obstacles appear in the middle
+of the screen.  If you touch any part of them you lose one chance.
+
+1. Apple Bean Patch
+2. Orange Bean Patch
+3. Grape Bean Patch (Night)
+4. Strawberry Bean Patch
+5. Banana Bean Patch
+
+NIGHT PATCH
+The third patch is at night.  In order to see the patch you must push the
+red button on your joystick.  This will give you approximately 2 seconds of
+light.  When you eat a bean you get additional 2 seconds of light.  Each
+time you press the fire button, you are penalized 1 bean.  So try to use it
+as seldom as possible.
+
+
+THE REST OF THE STUFF
+
+	- SCORING -
+
+PHASE				EACH BEAN			FRUIT
+Apple 		(1)		 5 pts				 50 pts
+Orange 		(2)		10 pts				100 pts
+Grape (Night)   (3)		15 pts				150 pts
+Strawberry	(4)		20 pts				200 pts
+Banana		(5)		25 pts				250 pts
+
+Maximum Score: 9,995 pts.
+A bonus worm for each 1,000 points.
+A maximum of 4 worms can be saved at any one time.
+
+
+SKILL LEVEL
+    0 -   995			FISH BAIT
+1,000 - 2,995			EARTH WORM
+3,000 - 4,995			SILK WORM
+5,000 - 7,995			BOOK WORM
+8,000 - 9,995			TAPE WORM
+
+
+	SPECTRAVISION
+	copyright 1982 Audio Visual by
+	SPECTRAVISION INTERNATIONAL LTD.
+

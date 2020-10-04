@@ -1,0 +1,241 @@
+SUMMER GAMES
+
+by Epyx
+c 1987
+
+INTRODUCTION
+------------
+
+SUMMER GAMES is a series of seven exciting competitive events.  Up to
+eight players can enter this international contest, choosing a single
+country for which to compete (no two players can choose the same
+nation to represent).
+
+The object is to see your country come out on top.  Events vary from
+head-to-head races like hurdles, sprints, swimming and rowing, to solo
+events like skeet and gymnastics.  Win an event either by scoring a
+faster time or by piling up more points than your opponent.  The
+nation that wins the most events takes home the gold medal!
+
+
+
+GETTING STARTED
+---------------
+
+* Set up your video game console and plug in the cartridge.
+* Turn the power switch on.
+* Be sure to set the difficulty switch correctly as described below.
+
+
+SWITCHES
+
+* The left difficulty switch controls the number of joysticks.         
+  Position A = two joysticks; B = one joystick.  Use the left joystick 
+  when you're in the single-joystick mode.  If you wish to play head- 
+to-head with your opponent and have two joysticks, select position     
+A.  Otherwise flip the switch to position B.
+
+* SELECT sends you into practice mode, allowing you to cycle           
+  between events.  Practice in single joystick mode.  You'll           
+  remain in an event until you press SELECT once more.
+
+* SELECT also returns you to the country-select menu, from which       
+you may start competing.
+
+* RESET lets you restart a game from the middle, but also              
+  transfers you into practice mode.
+
+* Holding SELECT down and pressing RESET returns you to the            
+  country-select menu.
+
+* The right DIFFICULTY and TV TYPE switches should be ignored.
+
+
+NOTES:
+
+* DASH, HURDLE, AND ROWING have a computer opponent when you           
+  played alone.
+
+* In two-player games, the left joystick controls the top player       
+  and the right joystick controls the bottom player.
+
+
+
+STARTING PLAY
+-------------
+
+SUMMER GAMES begins as the title screen appears.  From the title
+screen you will move on to the country-select menu by pressing the
+FIRE BUTTON or waiting for the music to end.  The country-select menu
+is a list of eight eligible countries:  the USA, USSR, U.K., Japan,
+Greece, Canada, Spain, and Italy.
+
+Highlight the country of your choice by moving the cursor up and down
+with the joystick.  Press the FIRE BUTTON to select the highlighted
+country.  If you change your mind after you've made your selection,
+re-highlight the country you selected and press the FIRE BUTTON again. 
+You will then be able to select a new country name from the list. 
+When each player has selected a country to represent, move the cursor
+to "Done" and press the FIRE BUTTON.  The first event's title will
+appear on the screen.
+
+Events are announced on a screen that shows the names of competing
+countries and the name of each event as it is played.  Press the FIRE
+BUTTON to enter the event; press the FIRE BUTTON again to start the
+event.  If you fault during play, the even will replay up to three
+times (you can only fault in certain events).  When a country finishes
+an event, the announcement screen returns with the name of the next
+nation to compete.  When all competitors have completed an event, the
+next event begins.  The order of competing nations stays the same
+throughout the series of events.
+
+
+
+THE GAMES
+---------
+
+HURDLES
+
+The object of this event is to jump all the hurdles as fast as you
+can.  Press the FIRE BUTTON to begin READY/SET/GO sequence.  There is
+an overhead view of the track in the center of the screen showing
+which runner is ahead.  At GO push the joystick to the right and hold
+it there until you near the first hurdle.  Jump hurdles by "tapping"
+the joystick UP as your runner approaches each hurdle (holding the
+joystick up for too long slows your man down).  Push the joystick
+right to sprint again once you've cleared the hurdle.  Just as in live
+competition, crashing into hurdles costs valuable time.  And the
+harder you crash, the more 'get-up' time you're docked.  First one to
+the finish live wins.
+
+
+SWIMMING
+
+Like the hurdling event, swimming begins with a READY/SET/GO sequence
+when you press the FIRE BUTTON.  Anticipate the gun (GO) and press the
+joystick to the right early to get a good start (but not too early or
+you'll fault).  Gain speed by hitting the FIRE BUTTON on each down
+stroke, just as your swimmer's arm reaches the water.  Turn quickly at
+the pool's end by tapping the joystick left before you hit the wall. 
+Time the strokes and the turns well and splash home to victory.  The
+first swimmer to finish his laps wins.
+
+
+SKEET SHOOTING
+
+Targets are launched from the right or the left of the firing range
+when you press the FIRE BUTTON.  Move the joystick left or right, up,
+or down to sight the target and shoot by pressing the FIRE BUTTON. 
+Shoot at either one or two targets from each of the eight shooting
+posts.  Adjust your aim carefully and quickly before you fire (keep in
+mind that there is a slight gravitational pull on your sight as you
+aim).  The shooter with the most hits out of 25 wins the medal.
+
+
+100-YARD DASH
+
+The 100-yard dash is a speed event.  Runners line up on two parallel
+tracks, as in the Hurdles event.  Press the FIRE BUTTON to start.  At
+GO (but not before) move the joystick as fast as you can in any
+direction to make your runner sprint.  Keep the joystick moving in all
+directions as fast as you can until your runner reaches the finish
+line.  The fastest time wins.
+
+
+SWIMMING RELAY
+
+Three-man teams compete against one another in this extended version
+of the Swimming competition.  Press the FIRE BUTTON to start the
+READY/SET/GO sequence.  As in the swimming event, anticipate the gun
+(GO) and press the joystick right early to get a good start.  Press
+the FIRE BUTTON just as the swimmer's arm reaches the water on the
+down stroke to gain speed.  As he nears the right side of the pool,
+tap the joystick to the left before he hits the wall to turn him
+around.  Remember that each member of your relay team swims two laps;
+as the first swimmer nears the left side of the pool, anticipate his
+arrival and the tap the joystick right.  Be careful not to tap the
+joystick too early or you will lose time!  Follow the same sequence
+for each swimmer on your team.  The first team to finish wins.
+
+
+GYMNASTICS
+
+In this event, only one athlete competes at a time.  The winner is
+determined by points gained in special maneuvers during his routine. 
+The initial screen shows your gymnast ready to start his run at the
+pommel horse.  Press the FIRE BUTTON to start your man running toward
+the horse; press it again as he nears it to initiate a mount.  Once
+mounted, your gymnast holds the pommel horse bar and circles the
+horse's axis in a rhythmic motion.  Points are give for mounting and
+dismounting correctly (0.5 each), for traversing the horse (0.5), and
+for each 360 degree spin the gymnast makes (.005).  Points are
+subtracted for incorrect hand placement (0.1), for moving in the wrong
+direction (.1), for falling off the end of the horse (1.0 - automatic
+disqualification), and for faulty dismounts (1.0).
+
+The upper screen shows your gymnast in motion on the pommel horse. 
+The lower screen shows your gymnast's hand position by a pair of dots
+that follow his motion up and down the horse.  Increase his speed as
+he revolves about the horse's axis by pushing the joystick left just
+before he moves across the bottom of the pommel horse.  Push it to the
+right as he approaches the top of the horse.  If you're quick, you can
+increase speed faster by pushing the joystick right (or left) more
+than once.  Your athlete will slow down if you fail to press the
+joystick right and left, but he'll keep on the horse and in motion. 
+Move the joystick up to move him to the top of the horse, move it down
+for your gymnast to reach the 'south' end.  (Up-to-down or down-to-up
+is a full transversal).  Remember he can fall off the end and be
+disqualified!  Watch the hand and body movements of your gymnast to
+determine when to push the joystick up or down.  (If he's moving to
+the bottom of the horse, and his hands are close together, then the
+bottom one should be moved...)  Remember that you can only move the
+hand that is in the air (the smaller dot) so you must time your
+movements carefully.  There is a one-minute time limit with a maximum
+of 10 points to be earned.  When it is time to dismount, you'll hear a
+warning bell.  Good Luck!
+
+
+Rowing
+
+A READY/SET/GO sequence begins this speed event.  Move the joystick
+left and right in rhythm to gain top speed (speed is shown on an
+indicator in the middle of the screen).  The fastest time wins the
+event.
+
+
+
+SCORING
+-------
+
+AWARDS CEREMONY
+
+After every event, the countries of the top three competitors are
+listed in the order they placed.  The country name of the Gold Medal
+winners appears at the top of the screen.
+
+
+Champion Ceremony
+
+A Grand Champion of the games is selected based on the number of
+points awarded.     
+     Gold Medal   = 5 points
+     Silver Medal = 3 points
+     Bronze Medal = 2 points
+The points are totaled after all events have been completed, and the
+player with the most points is honored as the Grand Champion.  The
+ceremony takes place after the Awards Ceremony for the final event.
+
+
+
+NOTES
+-----
+
+
+
+And of course, this game was made by Epyx in 1987.  And this game manual 
+was typed in by me!  And I am Eddie Beiles.  I can be reached at 
+beiles@email.unc.edu if you have any questions about this game manual.  Or 
+you can email me and thank me for typing it in.  Anyway, enjoy the game 
+and this wonderfully typed in manual.
+
+

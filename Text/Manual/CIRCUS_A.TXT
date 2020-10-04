@@ -1,0 +1,181 @@
+The Circus Atari manual is a 6 page fold-out.
+
+Page 1 (front cover)
+
+CIRCUS ATARI(R)
+GAME PROGRAM(tm)
+INSTRUCTIONS
+
+Model CX2630
+
+ATARI(R)
+A Warner Communications Company
+
+ATARI, INC., Consumer Division
+P.O. Box 427, Sunnyvale, CA 94086
+
+(C) 1980 ATARI, INC.
+
+Page 2
+
+Use your standard Paddle Controllers with this ATARI(R) Game
+Program(tm).  Be sure the Controller cable is firmly plugged into the
+jack at the rear of your ATARI Video Computer System(tm).
+
+For one and two player games, plug the Paddle Controllers into the LEFT
+CONTROLLER jack.
+
+(Transcriber's note:  This section is accompanied by a line drawing of 2
+standard Atari paddle controllers.)
+
+Note:  Always turn the console switch OFF when inserting or removing an
+ATARI Game Program.  This will protect the electronic components and
+prolong the life of your ATARI Video Computer System.
+
+HOW TO PLAY
+
+POP! POP! POP! Pop the balloons and score points.  A wall of red, blue,
+and white balloons will appear at the top of the screen.  You must pop
+balloons by catching a clown on the teeter-totter and bouncing him up to
+the balloons.  Use the controller to move the teeter-totter across the
+screen to catch the clowns.  Each time a clown pops a balloon, the
+balloon will disappear and you score points.
+
+Each player receives five clowns or turns.  If you fail to catch a clown
+on the teeter-totter he will crash and disappear from the playfield.
+Press the red controller button and another clown will bounce off the
+trampoline from the right or left corner of the playfield.  After five
+clowns have crashed the game is over.  The clowns may land on any point
+of the teeter-totter except where the other clown is sitting, which
+causes them to crash.
+
+CONSOLE CONTROLS
+
+To select a game depress the game select switch.  There are 8 variations
+to this game.  See GAME VARIATIONS for game play differences and
+explanations.  The game and the number
+
+Page 3
+
+of players is shown in the upper middle of the screen with the game
+number to the left and the number of players to the right.
+
+To begin a game depress the game reset switch.
+
+(Transcriber's note:  This section is accompanied by a picture of a game
+screen indicating the game number and number of players.)
+
+HANDICAP
+
+Difficulty Switches
+
+When the difficulty switch is in the a position the clowns bounce faster
+after contact with the balloons and the teeter-totter.  In the b
+position you have better control of the clowns because they are not
+moving as fast.  For one-player games use the left difficulty switch.
+
+USING THE CONTROLLERS
+
+Use your Paddle Controller to move the teeter-totter across the screen.
+Press the red button on the Paddle Controller to start a turn, or press
+the red button to start a clown bouncing from the trampoline.  Pressing
+the red button while the clown is in the air changes the direction of
+the teeter-totter.  This is helpful in preventing the airborne clown
+from crashing into the other clown on the teeter-totter.
+
+Page 4
+
+(Transcriber's note:  This section is accompanied by 2 illustrations of
+a game screen, incorrectly demonstrating the effect of pressing the
+button with a clown in the air)
+
+SCORING
+
+The first point is scored as the clown leaves the trampoline.  Once the
+clown starts the bouncing motion, one point is scored each time he hits
+the trampoline or the teeter-totter.  Additional points are scored as
+the clown pops the balloons.  Remember, the higher the balloon he pops
+the more points you score, so it is best to catch him on the edge of the
+teeter-totter for the highest bounce.
+
+(Transcriber's note:  This section is accompanied by an illustration of
+a game screen, indicating the score, which player is currently playing
+{number immediately right of score} and the player's clown number.
+Also, the point value of the different balloons is indicated as follows:
+RED 10 points each, BLUE 5 points each, WHITE 2 points each.  Also,
+bonuses are awarded for clearing entire rows as follows:  TOP=100
+points, MIDDLE=50 points, BOTTOM=20 points.)
+
+Each time you pop the entire row of red balloons you receive an extra
+clown or turn.  The top right corner of the screen will show an "X" to
+indicate an extra clown or turn.  Although scoring can be infinite,
+there is only space for four digits on the
+
+Page 5
+
+screen, so when you become a pro your score will read 0000 again as you
+pass 9999.
+
+GAME VARIATIONS
+
+GAMES 1 through 6 may be played by one or two players, but GAMES 7 and 8
+are two-player games only.
+
+GAME 1 is called Breakout(tm) Circus.  As the clown pops balloons he
+rebounds from balloon to balloon both horizontally and vertically.  Each
+time a full row of balloons is popped a new row appears and you receive
+bonus points.  When the top row of red balloons are all popped you
+receive and extra clown.  (See SCORING for a breakdown of points and
+bonus scoring.)
+
+GAME 2 is like GAME 1, except the playfield has an additional wall of
+barriers added below the balloons, which makes the game more difficult.
+
+(Transcriber's note:  This section is illustrated with a picture of a
+game screen with an X next to the clown number, indicating an extra
+clown.)
+
+GAME 3 is called Breakthru(tm) Circus.  In Breakthru Circus the clown
+does not rebound off the balloons.  He continues to move in a horizontal
+direction off the balloons.  This version is somewhat easier for the
+beginning player.  Scoring is the same as GAME 1.
+
+GAME 4 is Breakthru Circus with a row of barriers added to the playfield
+below the balloons.
+
+GAME 5 is similar to Breakout Circus, except the balloons do not
+"restore" after the full row is popped.  All balloons on the
+
+Page 6 (back cover)
+
+screen must be popped before you receive three new rows of balloons.  At
+this time you receive 170 bonus points and an extra clown.
+
+GAME 6 is the same as GAME 5, but with the additional row of barriers
+added below the balloons.
+
+GAME 7 is for two players.  Both players share the same wall of
+balloons.  The computer tracks each players' score individually.
+
+GAME 8 is the same as GAME 7 but has the addition of barriers below the
+balloons to make the game more challenging.
+
+At the end of each game final scores will appear at the top of the
+screen, left player to the left and right player to the right in two-
+player games.
+
+(Transcriber's note:  This section is illustrated with a picture
+demonstrating the above paragraph.)
+
+GAME MATRIX
+GAME NUMBER    1    2    3    4    5    6    7    8
+ONE-PLAYER     x    x    x    x    x    x
+TWO PLAYER     x    x    x    x    x    x    x    x
+BREAKOUT(tm)   x    x              x    x    x    x
+BREAKTHRU(tm)            x    x
+
+BREAKOUT(tm) and BREAKTHRU(tm) are Trademarks of ATARI, INC.
+
+Printed in U.S.A.     C011402-30 REV. 2
+
+-------------------Atari 2600 Instructions Archive-------------------

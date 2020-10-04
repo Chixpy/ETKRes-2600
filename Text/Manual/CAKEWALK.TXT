@@ -1,0 +1,191 @@
+Cakewalk
+
+One Player
+Uses Left Joystick
+
+1983  CommaVid, Inc.
+
+Something's amiss at the bakery!
+
+The conveyers are spinning out of control! A torrent
+of cakes and pies pour from the ovens. The besieged
+Baker must snatch the pastries before they fall off
+the end, but avoid the deadly silverware. If that's
+not enough, there's a dancing gingerbread man that
+tries to out-fox the Baker and a surly janitor
+to sweep up the mistakes.
+
+You must maneuver the Baker among the six conveyers.
+You can stop one, but neglect it or try to stop
+another conveyor and it's on the move again.
+When you catch enough pastries, you'll earn a coffee
+break. Rest, enjoy your coffee, and get ready for a new
+onslaught of runaway goodies.
+
+Good reflexes alone aren't enough to avoid disaster.
+As the pace increases, planning time and margin of error
+vanish until the bad-tempered janitor won't clean up
+another spill. Can you catch all the pastries and
+keep the Bakery going until the next coffee break? Test
+your speed, skill, and decisiveness in Cakewalk, the 
+latest video challenge from Commavid.
+
+
+Getting Started
+
+-Turn off your game console.
+
+- Insert the Cakewalk game cartridge.
+
+- Be sure the left joystick controller is firmly connected
+to the console (this is the only controller used.)
+
+- Turn on your game console, you will see the game
+"title screen".
+
+- Set the left difficulty switch to "B". Note: On Sears
+Tele Games the difficulty switches are called 
+skill switches and the "b" position os callled novice.
+
+- To play game variation #1, the basic game, start the
+game by pressing the game reset switch. The "title screen"
+will disappear and after a slight pause, play will start.
+
+- To select any one of the 16 possible game variations,
+repeatedly press the game select swtich until the desired
+game number appears in the score area at the top left
+of the screen. Note that the "title screen" disappears
+as soon as you press game select, but play will not start
+until game reset is pressed.
+
+- Consult the appropriate sections of this booklet
+for a complete explanation of the game features and
+play variations.
+
+
+Using the joystick
+
+- Hold the base of the joystick in your hand with the
+fire button in the left corner nearest the TV. Pushing
+forward and backward on the joystick moves the baker 
+up and down.
+
+- Pressing the fire button stops the belt nearest the
+baker. This stopped belt will begin moving again after
+about 4 seconds, or will start immediately if you stop
+another belt. A stopped belt becomes red (brighter grey
+on a B/W TV).
+This color change will help you see quickly that you
+have stopped the desired belt.
+
+- In game variations with "belt speedup," pushing the
+joystick to the right will speed up the belt nearest
+the baker.
+
+- Pushing the joystick left has no function in any game 
+version.
+
+
+Play Features
+
+- Each pastry caught scores 100 points.
+
+- The baker must not catch the knife and fork that
+appear occaisionaly. These are the only objects that the
+baker must avoid.
+
+- When a pastry is dropped, the janitor will clean it up.
+The number of reserve "cleanups" is shown at the top left
+of the screen as a row of red blocks. At most 4 cleanups
+can be kept in reserve. When a pastry is dropped ( or
+a baker inhured on the knife and fork), with no cleanups
+in reserve, the game ends.
+
+- Periodically, when enough pastries have been caught, a 
+coffee break is earned. Pastries stop appearing on the belts
+and a steaming cup of coffee appears on the center belt. The
+game pauses until the baker touches the cip of coffee, and the 
+coffee will not fall off the belt. When you are ready to resume
+play, move the baker to the coffee cup. He will consume it,
+and a new and more difficult onsalught of pastries will start.
+
+- An extra reserve cleanup is earned at the end of each coffee 
+break when the baker drinks his coffee.
+
+- Gingerbread men will appear on the belts from time to time.
+In some game variations only gingerbread men appear. They will
+dance back and forth on the belts, both when the belt is 
+stopped and moving.
+
+- At the end of the game, the "title screen" returns with
+your score, visible at the top left. To the right of the
+score, where the reserve clean-ups are normally displayed,
+are zero to four red blocks that encode the game number 
+that was played. This allows complete photographic 
+documentation of your high scores.
+
+
+Play Tips:
+
+- More experienced players can start with the left difficulty
+switch in the "a" (or "expert" position to begin play at
+the difficulty level normally encountered after the fourth
+coffee break.
+
+- The right difficulty switch and the TV type (Color / BW)
+switch have no function in Cakewalk.
+
+- Game #11 is probably the hardest, and game #6 is
+the easiest.
+
+- If you want the fastest action possible action, play games
+with the "belt speedup" feature.
+
+- Study the Gingerbread men, they are more predicatable 
+than they seem. They do act somewhat differently in the
+"all gingerbread men" game versions.
+
+- In a fast and crowded situation, if a pastry is dropped,
+use the time taken by the janitor to clean up. Stop a belt and
+position your baker to salvage the situation.
+
+
+
+Game Features Chart
+
+		1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16
+Fast Baker	   x     x     x     x     x       x       x       x
+Pause to box       x  x        x  x         x   x           x   x
+Belt speedup             x  x  x  x                 x   x   x   x
+All Gingerbread men                  x  x   x   x   x   x   x   x
+
+
+Game Variations
+
+- The "fast baker" feature allows you to move the baker faster and 
+make the game easier.
+
+- The "pause to box" feature forces the baker to remain stationary
+while he turns to place the boxed cake on the outgoing belt.
+This will make it slightly more difficult to handle closely spaced
+bunches of cakes.
+
+- With the "belt speedup" feature, pushing the joystick to the right
+will speed up the belt nearest to the baker. If the cakes aren't
+coming too fast, this can be as much of an aid to playing as the belt
+stop feature.
+
+- You can select "all gingerbread men". These games are very similar
+to the regular game, but all are more difficult becaise all pastries
+are erratic Gingerbread men.
+
+
+-----------------------------
+
+In Cakewalk you move a baker along the ends of six
+conveyor belts carrying pasties. If a pastry moves off the end
+of a belt, it falls. To prevent pastries from falling, move
+the baker to touch them as they reach the end of the belt.
+He will quickly catch the pastry and place it boxed on the
+outgoing belt. Points are scored for all pastries caught.
+If too many pastries fall, the game is over.

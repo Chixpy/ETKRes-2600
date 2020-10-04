@@ -1,0 +1,143 @@
+                                 SQUEEZE BOX
+
+                              US Games  VC2002
+
+                            US Games Corporation
+                   A Subsidiary of The Quaker Oats Company
+                              1515 Wyatt Drive
+                        Santa Clara, California 95054
+
+
+>> Squeeze Box
+
+Squeeze Box is a single player, full color game designed to be played on the
+Atari Video Computer System or the Sears Video Arcade. There are six game
+variations to test your skill and judgment.
+
+Squeeze Box is the ultimate escape game. Our pistol packin' jailbird has got
+to shoot like crazy to knock out an escape route through the walls... before
+they close in on him. The longer it takes, the faster they come, so aim
+carefully. But don't rush out too fast because the next room is worse, and
+you're getting points for each block you shoot out.
+
+Test your endurance! Wait too long and you might touch the wall. Three
+touches and its all over - except for the hottest finish you have ever
+encountered in a video game.
+
+                      [picture of game screen omitted]
+
+
+>> Set-Up Instructions
+
+ 1. Connect the Atari Video Computer System or Sears Video Arcade following
+    the manufacturers instructions.
+
+ 2. Install the left joystick control. The right joystick is not used.
+
+ 3. Insert the cartridge making certain that the power is OFF.
+
+ 4. Move the POWER switch to ON.
+
+ 5. Select the game of your choice.
+
+ 6. Press the red fire button on the joystick to start the game.
+
+ 7. Push the RESET switch any time to start a new game.
+
+ 8. After the game is over, a new game be started by pressed the fire button
+    on the joystick.
+
+ 9. The LEFT DIFFICULTY SWITCH selects fast or slow bar speed:
+        Position A = Fast Bar Speed
+        Position B = Slow Bar Speed
+
+10. The RIGHT DIFFICULTY SWITCH selects automatic fire:
+        Position A = Manual fire
+        Position B = Automatic fire
+
+
+>> Controls
+
+o   Use left joystick control.
+
+o   Move joystick left and right or up and down to control movement of 
+    figure.
+
+o   Adjust the angle of your shooting by depressing the fire button (in
+    either auto-fire or manual mode) and holding joystick either up or down
+    depending on desired angle of shot. Angel will then stay as set, until
+    moved to another position.
+
+
+>> Game Variations
+
+Game 1      The squeeze bars randomly grow in from both sides of the room.
+            You must shoot them back and attempt to get out of the room. The
+            bars will begin moving faster and faster as time goes on. If you
+            succeed in leaving the first room, you enter the next room with
+            faster growing bars.
+
+Game 2      The squeeze bars only grow-in from one wall. The other wall is
+            stationary. The object is to turn all the moving color bars white
+            by shooting them all the way back. When this happens, the screen
+            automatically clears and you are in the next room. As the game
+            becomes faster, it is less desirable to stay in the room, and it
+            becomes harder to turn all the bars white.
+
+Game 3      Once again, the squeeze bars grow-in from only one wall, but the
+            other wall now begins to move in on you. Shooting back the
+            growing bars rolls up the score. Shooting back the flashing bars
+            rolls up bonus points. As the game goes on, it becomes faster.
+            The faster it is, the harder it becomes to shoot a pathway out.
+
+Game 4      Game 4 is identical to Game 1 except there are twice as many
+            horizontal color bars.
+
+Game 5      Game 5 is identical to Game 2 except there are twice as many
+            horizontal color bars.
+
+Game 6      Game 6 is identical to Game 3 except there are twice as many
+            horizontal color bars.
+
+
+>> Scoring
+
+    Games 1 & 4     Each color bar                       10 points
+    Games 2 & 5     Each color bar                       10 points
+                    Each white bar                        0 points
+    Games 3 & 6     Each color bar                       10 points
+                    Each blinking bar                    20 points
+    All games       Shooting a path and walking off     100 points
+
+
+Special bonus - Games 1 & 4 - shooting all bars off screen and leaving room
+gives you an extra star (3 maximum).
+
+
+>> Play Hints
+
+o   The longer your shot, the more time available for the walls to move in on
+    you. Stand as close as possible to the advancing bars so your gun will
+    fire more frequently, but be careful!
+
+o   Try to completely shoot away one wall of bars first and then reverse to
+    the opposite wall. Remember, if you clear away all bars (both sides) you
+    gain an extra turn (star - 3 maximum).
+
+o   Change the shooting angle as seldom as possible as this takes up time
+    allowing the bars to advance. Now get out there and blast away those
+    walls or you'll be trying to hotfoot your way to freedom!
+
+-----------------------------------------------------------------------------
+
+Look for more U.S. Games video games wherever you buy game cartridges. Drop
+us a note and we'll be glad to add your name to our mailing list and keep you
+posted on new game cartridges when they become available.
+
+This cartridge is manufactured for the ATARI Video Computer System, Model 2600
+by U.S. Games. ATARI Video Computer System, and 2600 are trademarks of Atari,
+Inc. U.S. Games is not affiliated with Atari, Inc. Video Arcade is a
+trademark of Sears, Roebuck & Co,
+
+VC2002          (c)1982 U.S. Games Corporation.         Printed in Taiwan.
+

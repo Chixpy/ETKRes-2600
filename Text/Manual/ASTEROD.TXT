@@ -1,0 +1,248 @@
+ASTEROIDS(tm)
+
+Atari(R) Game Program(tm) Instructions
+
+
+TABLE OF CONTENTS 
+
+1. COSMIC SPACE PATROL
+2. GAME PLAY
+3. OPERATING YOUR SPACESHIP
+4. CONSOLE CONTROLS
+5. SCORING
+6. GAME VARIATIONS
+7. HELPFUL HINTS
+8. GAME SELECT MATRIX
+
+1. COSMIC SPACE PATROL 
+
+On a quiet serene evening the Cosmic Space Patrol sets out for the usual night cruise through the boulevards of
+space. This beat was always the same; calm, no action and no excitement. For some reason this night feels
+different. Shortly before 0200 hours some form of intergalactic material is sighted through the visual particle
+counter. The material is too large a mass to measure. It's drifting closer. Lookout, it's a giant asteroid boulder
+and it's headed straight for the Cosmic Spacecraft. The only chance for survival is to dodge the boulder or
+destroy it. Destroying it doesn't mean just breaking it up, it means vaporizing it. Small asteroid boulders are
+equally as fatal as large ones. 
+
+Whew, the boulder just missed colliding with the Cosmic Spacecraft, but suddenly the Cosmic Space Patrol
+find themselves surrounded by thousands of the deadly asteroids. The Cosmic Space Patrol must act quickly
+to save their spacecraft and spare their lives. The spacecraft is equipped with photon torpedoes, hyperspace,
+shields, and flip control. 
+
+The Cosmic Space Patrol is highly trained to handle this situation. Could you do as good a job as the Cosmic
+Space Patrol? How would you protect yourself if you were caught in a deadly asteroid belt? This is your big
+chance to fly throughout the demensions of space and fend against asteroid boulders. The longer you survive,
+the more space hazards you'll encounter. 
+
+2. GAME PLAY 
+
+The object of the game is to destroy as many asteroid boulders as possible and keep your ship in space as
+long as possible. Use your Joystick Controller to maneuver your ship through space and press the red
+controller(fire) button to shoot photon torpedoes at the asteroid boulders. When an asteroid is hit, it may just
+break up into smaller boulders, or it may be completely pulverized. In some game variations you'll face
+additional space hazards such as satellites and UFOs (Unidentified Flying Objects); both of which may be
+firing torpedoes at you. 
+
+3. OPERATING YOUR SPACESHIP 
+
+                  THRUST
+                    | 
+                   \|/
+COUNTERCLOCKWISE --- --- CLOCKWISE
+                   /|\
+                    |
+                 FEATURES
+
+Use your Joystick Controller with this ATARI(C) Game Program(tm) cartridge. Be sure to plug the controller
+cables firmly into the jacks at the Video Computer System(tm) Game. Hold the controller with the red fire
+button to your upper left toward the television screen. Use the LEFT CONTROLLER jack for one-player
+games. See Section 3 of your owner's manual for further details. 
+
+Use the Joystick Controller to aim the spaceship and to fire photon torpedoes at the asteroids. Move the
+Joystick right to rotate the ship clockwise; move it left to rotate the ship counterclockwise. Push the Joystick
+forward to thrust(propel) the ship through space. (The ship moves only in the direction it's pointed.) 
+
+Pulling the Joystick down causes the ship to perform different functions such as hyperspace, shields, or flip(see
+Section 6, GAME VARIATIONS). After aiming the spaceship with your Joystick, press the fire button to
+shoot photon torpedoes at the asteroid boulders. Continue to press and release the fire button as fast as
+possible to quickly destroy all the asteroids. 
+
+If the game variation you're playing includes satellites and UFOs, use your Joystick to aim and press the fire
+button to shoot torpedoes at them just as you would for the asteroid boulders. 
+
+4. CONSOLE CONTROLS 
+
+GAME SELECT SWITCH 
+
+To select an ASTEROIDS(tm) game, press down the game select switch. (See Section 8, GAME SELECT
+MATRIX to choose the game you wish to play.) The game number and the number of players appear at the
+top of the screen. The game number is on the left; the number of players is on the right as shown in Figure 1. 
+
+GAME RESET SWITCH 
+
+Once you have selected a game number, press down the game reset switch to start the action. Each time game
+reset is pressed down the game starts over. After the game starts, the score appears at the top of the screen as
+shown in Figure 2. 
+
+NOTE: To change game numbers quickly, hold down game select and game reset together. 
+
+DIFFICULTY SWITCHES 
+
+The ASTEROIDS game has two difficulty levels, a and b. The b level is normal game play for beginning
+players. The a level offers a bigger challenge with the addition of UFOs(Unidentified Flying Objects) and
+satellites(see Figures 3 and 4). UFOs are tough to hit, but each one is worth 1000 points. (See Section 5 for
+SCORING.) 
+
+Satellites are larger and easier to destroy. UFOs and satellites may be firing back at you, so be on the lookout
+for their stray artillery. UFOs do not attack until you have reached over 15,000 points. When satellites and
+UFOs sneak up to attack you, you'll hear their engines. The satellites have a low pitched engine sound and the
+UFOs have a higher pitched sound. 
+
+TV TYPE SWITCH 
+
+Set this switch to color if your television is color or to b/w if your television is black-and-white. Setting this
+switch to b/w will not affect a color television. 
+
+5. SCORING 
+
+Points are determined by the size of the asteroid boulders. Obviously, the smaller boulders are harder to hit
+and therefore worth more points. With each game or turn you have four spaceships. You can earn extra
+spaceships by scoring high as indicated in the GAME SELECT MATRIX. 
+
+
+Points are scored as follows: 
+
+SMALL ASTEROIDS              100 POINTS
+
+MEDIUM ASTEROIDS              50 POINTS
+
+LARGE ASTEROIDS               20 POINTS
+
+
+SATELLITES                   200 POINTS
+
+UFOs                        1000 POINTS
+
+
+
+
+6. GAME VARIATIONS 
+
+ASTEROIDS includes 66 game variations for 1 or 2 players. 
+
+FAST/SLOW 
+
+FAST/SLOW (F/S) refers to the speed that the asteroids travel. 
+
+LIVES 
+
+LIVES is a feature which allows you to earn extra spaceships. Game variations provide you with an extra ship
+every 5000, 10,000, or 20,000 points, depending on the game number you choose. The tougher game
+variations don't provide any extra spaceships. (See Section 8, GAME SELECT MATRIX for extra ship
+lives.) You'll hear a beeping sound when an extra spaceship is earned. 
+
+FEATURES 
+
+Depending on the game variation you choose, you may be able to save your spaceship from destruction by
+using one of the game features of ASTEROIDS. 
+
+Hyperspace Hyperspace (H) is a feature offered in Games 1 through 8 for one player and Games 34 through
+41 for two players. by moving the Joystick down, or towards you, hyperspace makes your spaceship
+disappear in space and reappear at some other place on the screen. Hyperspace is helpful as a quick getaway
+when an asteroid or boulder is headed toward your spaceship, but it may also be a hindrance if your spaceship
+reappears in the path of an oncoming asteroid boulder. 
+
+Shields Games 9 through 16 for one player and Games 42 through 49 for two players allow you to protect
+your spaceship by surrounding it with protective shields (SH). Pull your Joystick back towards you to put up
+shields, but don't use shields for more than two seconds or your spaceship will blow up. 
+
+Flip In game variations featuring flip (FL), you can flip your spaceship around 180 degrees which aims it in the
+opposite direction. Flip is a fast way to attack asteroids coming from behind. Flip is a feature in Games 17
+through 24 for one player and Games 50 through 57 for two players. 
+
+Games 25-32 (one-player) and Games 58-65 (two-players) have no optional features (W). This makes these
+game variations more challenging and you must depend solely on your quick skill and coordination. 
+
+YOUNG CHILDREN'S VERSIONS 
+
+Games 33 through 66 are easy versions for young children. These games feature slow asteroids, hyperspace,
+and an extra ship each 5000 points. 
+
+7. HELPFUL HINTS 
+
+After playing ASTEROIDS several times you'll discover which techniques work best for you. Here are some
+that the space cadets at ATARI found most helpful. 
+
+1. When the screen becomes clear of asteroids (just before a new group of large asteroids appears), try to
+avoid placing your spaceship close to the right or left edge of the screen. New asteroids almost always begin
+from these edges. 
+
+2. It is often helpful to remain in the center of the screen throughout the game, aiming your spaceship right or
+left in a circular motion. 
+
+3. If you're close to earning an extra ship, and your spaceship is about to crash, you may want to cause your
+spaceship to collide with a small asteroid, UFO, or satellite. You'll earn points even if you crash, and this may
+be just enough points to earn that extra ship. 
+
+4. Try to hit the faster and smaller asteroid boulders. This will give you more protection and more points. 
+
+8. GAME SELECT MATRIX HOW TO READ THE GAME SELECT MATRIX SPEED 
+
+S = Slow F = Fast 
+
+EXTRA LIFE 
+
+5 = 1 Extra Ship Every 5000 Points 10 = 1 Extra Ship Every 10,000 Points 20 = 1 Extra Ship Every 20,000
+Points N = No Extra Ships 
+
+FEATURES 
+
+H = Hyperspace SH = Shields FL = Flip W = Without Features 
+
+
+
+One Player   1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16
+
+
+Speed        S  F  S  F  S  F  S  F  S   F   S   F   S   F   S   F
+Extra Life   5  5 10 10 20 20  N  N  5   5  10  10  20  20   N   N
+Features     H  H  H  H  H  H  H  H  H  SH  SH  SH  SH  SH  SH  SH
+
+
+Two Players 34 35 36 37 38 39 40 41 42  43  44  45  46  47  48  49   
+
+
+
+------------------------------------------------------------------------------
+One Player  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33
+------------------------------------------------------------------------------
+Speed        S   F   S   F   S   F   S   F   S   F   S   F   S   F   S   F | K
+Extra Life   5   5  10  10  20  20   N   N   5   5  10  10  20  20   N   N | I
+Features    FL  FL  FL  FL  FL  FL  FL  FL   W   W   W   W   W   W   W   W | D
+                                                                           | S
+------------------------------------------------------------------------------
+Two Players 50  51  52  53  54  55  56  57  58  59  60  61  62  63  64  65 |66
+------------------------------------------------------------------------------
+
+ATTENTION: ATARI(R) ASTEROIDS(tm) Game Program(tm) cartridge owners: 
+
+This ATARI ASTEROIDS cartridge is very similar to the famous ATARI coin-operated ASTEROIDS game,
+but you may notice some game play differences. You will see that the game playfield on your television is
+smaller and has borders on all four sides. The dark border on the left side of the screen does not interfere with
+game play. It is a programming characteristic of all ASTEROIDS cartridges. The size of the border varies on
+different televisions. You may also notice that as asteroids disappear from the top, bottom, right, or left side of
+the playfield, they "wraparound" and reappear at the opposite edge of the playfield. 
+
+If you are playing the ASTEROIDS game in the "a" difficulty level, UFOs will sometimes begin to attack after
+you have reached 7500 points, and they will always attack after you have over 15,000 points. 
+
+We wish you lots of luck in defending your spaceship, and hope you have many hours of fun playing the
+ATARI ASTEROIDS game. 
+
+ATARI, INC., Consumer Division
+PO Box 427
+Sunnyvale, CA 94086
+
+>>> Typed and converted to html by gchance@ecst.csuchico.edu <<< 
+
+-------------------Atari 2600 Instructions Archive------------------- 

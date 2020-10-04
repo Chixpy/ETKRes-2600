@@ -1,0 +1,333 @@
+DESERT FALCON
+
+by ATARI
+c 1988
+
+
+A DARING DESERT QUEST FOR TREASURE!
+-----------------------------------
+
+All around you are long stretches of sand, ancient pyramids baking in
+the hot dead air, and constant danger.
+
+The legends that brought you here are 30 centuries old.  The tales tell
+of thieves who plundered the Pharaoh's tomb, loading bags of gold,
+silver, and precious gems onto their camels, then making off into the
+desert.  But in the night, horrible desert beasts pursued the robbers,
+and the priceless treasure was scattered and lost.  Not even a camel
+was ever seen again.
+
+Now you search for the lost treasure, daring the beaks and claws of the
+desert guardians.  As you scan the endless sand for the glitter of
+jewels, your eye catches sight of gliding shadows.  Something's coming!
+
+You could turn back now and be safe.  Or you could go on, and dare to
+steal the Pharaoh's jewels.
+
+
+GETTING STARTED
+
+1. Insert the Desert Falcon cartridge into your Atari 2600 or 7800(TM)  
+   console.
+
+2. For one player, plug a joystick into the left controller jack.  For  
+   two players, plug a second joystick into the right controller jack.
+
+3. Turn on your television, then press the [Power] button to turn on    
+   your console.  The Desert Falcon title and options screen appears.
+
+4. Select game options by pressing [Select] or by using the left        
+   joystick.  Move the joystick handle up or down to choose one of four 
+   skill levels: Novice (easiest), Standard, Advanced, or Expert (most  
+   difficult) and to choose between a one- or two-player game.  An      
+   option is selected when it lights up.
+
+5. Press [Reset] or the left joystick's fire button to start the game.
+
+6. Press [Select] to redisplay the options screen at any time.
+
+
+GAME PLAY
+
+The Pharaoh's lost treasures--enormous gems, big golden eggs, and
+silver ingots--are scattered among the ancient pyramids and obelisks. 
+Fly towards the treasures, then hover or hop over them to pick them up
+and earn points.  Use your joystick handle to maneuver.  (Follow the
+chart above.)
+
+The treasures are guarded by flying and crawling beasts.  Burrowing
+Uwes crawl out of the sand to charge at you, and Vultures, Warrior
+Phleas, Scarabs, Flying Fish, and Phantom Gliders attack from the air. 
+Darts fly at you, spit our by the Howling Sphinx waiting at the end of
+the trail.  All these enemies will destroy you if they hit you.
+
+Protect yourself by firing darts.  A direct hit destroys enemy
+creatures and gains you points.  You can also maneuver around enemies. 
+At higher levels, watch out for flame-throwing Fire Pots and dart-
+shooting Mini-Sphinxes.
+
+You begin the game with five lives.  Each time you're hit or you crash
+into an object you lose a life, but you will recover as long as you
+have lives left.
+
+The end of each desert trek brings you to the Howling Sphinx.  You must
+shoot this Sphinx in the middle of its face in order to get past it,
+all the while dodging the darts and nasty creatures it spits at you.
+
+ ______________________________________________________________
+|                                 |                            |
+|              ACTION             |     JOYSTICK OPERATION     |
+|_________________________________|____________________________|
+|                                 |                            |
+|            Fire darts           |   Press fire button once   |
+|_________________________________|____________________________|
+|                                 |                            |
+|      Activate super powers      |  Press fire button twice,  |  
+|                                 |    quickly ("DBL-PRESS")   |
+|_________________________________|____________________________|
+|                                 |                            |
+|        Fly; gain altitude       |    Pull handle backward    |
+|_________________________________|____________________________|
+|                                 |                            |
+|        Land, hop, or swim       |     Push handle forward    |
+|_________________________________|____________________________|
+|                                 |                            |
+|  Maintain altitude in the air;  |       Release handle       |
+|           stop on land          |                            |
+|_________________________________|____________________________|
+|                                 |                            |
+|            Move left            |      Push handle left      |
+|_________________________________|____________________________|
+|                                 |                            |
+|            Move right           |      Push handle right     |
+|_________________________________|____________________________|
+
+
+SUPER POWERS
+
+Hop over any three hieroglyphs scattered in the sand to gain super
+powers.  Super powers give you great advantages, such as letting you
+destroy all enemies on screen at once or paralyze the Howling Sphinx.
+
+Check the Gaming Box at the bottom of the screen to find out which
+power you've gained and whether if requires pressing the fire button
+twice quickly ("DBL-PRESS").  Some powers will be used up when you
+double-press the fire button; other powers last for about 20 seconds. 
+A new power is awarded when you pick up three more hieroglyphs, whether
+or not the previous power was used.
+
+There are many super powers for you to discover (some of them are
+described on the next page).  But beware: in the higher levels of play
+you can earn super problems, such as Shackles, as well as super powers.
+
+Gaming Box [Image of the box below the game screen.  The Current Score
+is in the upper right corner.  The score of Player 1 is on top, and the
+score of player two is on the bottom.  Below the score, and in the
+middle, is the current Super Power the player possesses.  Below this is
+the Lives Remaining and Hieroglyphs Picked Up.  The Lives Remaining of
+Player 1 is on the left, the Hieroglyphs Picked Up is in the middle,
+and the Lives Remaining of Player 2 is on the right.  On the left side
+of the bottom line, the Base Value per Treasure is shown.  On the right
+side of the bottom line, the Value Multipliers are shown.]
+
+
+HIEROGLYPHS
+
+Ankh [Image of a "+" with a "o" on top of it.]
+
+Bowl [Image of a bowl.]
+
+Eye [Image of an eye, with an eyebrow, and a line coming out of its     
+    right side.]
+
+Man [Image of a man standing sideways, with a backpack and a walking    
+    stick.]
+
+Bird [Image of a bird standing sideways.]
+
+Cane [Image of a candycane.]
+
+Feather [Image of a backwards 'P" with the top part colored in.]
+
+Sun Over Water [Image of a colored in circle with three hyphens in a    
+               line bellow it, and four hyphens in a line bellow        
+               that.]
+
+ _____________________________________________________________________
+|                |                                                    |
+|  SUPER POWERS  |                    WHAT THEY DO                    |
+|________________|____________________________________________________|
+|                |                                                    |
+|    Air Bomb    |   Pressing the fire button destroys all airborne   |
+|                |           enemies and enemy darts in sight         |
+|________________|____________________________________________________|
+|                |                                                    |
+|      Decoy     |   Enemies are tricked into flying towards a decoy  |
+|                |             spot instead of towards you            |
+|________________|____________________________________________________|
+|                |                                                    |
+|   Hold Sphinx  |   The Howling Sphinx is unable to spit creatures   |
+|                |                  or darts at you                   |
+|________________|____________________________________________________|
+|                |                                                    |
+|   Invincible   |               Nothing can destroy you              |
+|________________|____________________________________________________|
+|                |                                                    |
+|    Omnicide    |    All enemies on screen are destroyed when you    |
+|                |            double-press the fire button            |
+|________________|____________________________________________________|
+|                |                                                    |
+|     Points     |              You are given free points             |
+|________________|____________________________________________________|
+|                |                                                    |
+|    Polywater   |          You can fly and hop but not swim          |
+|________________|____________________________________________________|
+|                |                                                    |
+|                |   You are given two random hieroglyphs.  The next  |
+|    Roulette    |     hieroglyph you pick up determines your next    |
+|                |                     super power                    |
+|________________|____________________________________________________|
+|                |                                                    |
+|    Shackles    |          You can fly and swim but not hop          |
+|________________|____________________________________________________|
+|                |                                                    |
+|      Warp      |  You fly at lightning speed to the Howling Sphinx  |
+|________________|____________________________________________________|
+
+
+
+SCORING
+-------
+
+SHOOTING DESERT BEASTS
+
+Each enemy you destroy earns you points.  Destroying a flying enemy
+increases the base value of treasures.  You cannot shoot the Howling
+Sphinx's darts.
+
+ ____________________________________________________________
+|                  |          |                              |
+|   DESERT BEASTS  |  POINTS  |  POINTS ADDED TO BASE VALUE  |
+|                  |  SCORED  |         OF TREASURES         |
+|__________________|__________|______________________________|
+|                  |          |                              |
+|    Mini-Sphinx   |   1000   |               0              |
+|__________________|__________|______________________________|
+|                  |          |                              |
+|   Warrior Phlea  |    500   |               5              |
+|__________________|__________|______________________________|
+|                  |          |                              |
+|      Scarab      |    300   |               3              |
+|__________________|__________|______________________________|
+|                  |          |                              |
+|    Flying Fish   |    200   |               2              |
+|__________________|__________|______________________________|
+|                  |          |                              |
+|      Vulture     |    200   |               2              |
+|__________________|__________|______________________________|
+|                  |          |                              |
+|   Burrowing Uwe  |    150   |               0              |
+|__________________|__________|______________________________|
+|                  |          |                              |
+|  Phantom Glider  |    100   |               1              |
+|__________________|__________|______________________________|
+
+
+DESTROYING THE HOWLING SPHINX
+
+First Sphinx.............................................. 5,000 points
+Each additional Sphinx......... previous Sphinx score plus 1,000 points
+                                          (up to 10,000 points maximum)
+
+
+STEALING TREASURES
+
+During regular game play, each treasure you pick up earns you the base
+value, plus increase that treasure's value multiplier by 1.  In the
+bonus round, each treasure is worth the base value times its value
+multiplier.
+
+
+BONUS LIVES
+
+You earn a bonus life at every 10,000 points scored.  You can have a
+maximum of four lives remaining.
+
+
+BONUS ROUND
+
+Destroying the Howling Sphinx gains you entrance to the bonus round. 
+Here your goal is to pick up as many treasures as you can in the time
+allowed.
+
+During the bonus round, your time allowed is counted down in seconds in
+the Gaming Box.  The bonus score is tallied next to the time.  When the
+round ends, the bonus score is added to your current score.  The last
+hieroglyphs or super power you gained reappear along with your
+remaining lives.
+
+You are not attacked in the bonus round, and colliding with objects
+will not cost you a life; only time is lost.
+
+
+STRATEGY
+
+Gauge the altitude of flying beasts by watching their shadows.
+
+Figure out what combination of hieroglyphs awards you which power.  For
+instance, the combination "Bird, Cane, Bowl" gives you Warp (except at
+Novice level) while the combination "Cane, Bird, Bowl" (the same
+hieroglyphs in a different order) gives you Air Bomb.  Pick up a
+particular combination when its power will do you the most good.
+
+In the bonus round, go for the treasures that have the highest value
+multiplier.
+
+Gaming Box [Image of the box below the game screen.  On the bottom
+line, from left to right, are: Base Value per Treasure, Gem Value
+Multiplier, Golden Egg Value Multiplier, and Silver Ingot Value
+Multiplier.  The line above the bottom line contains, from left to
+right: Time Allowed and Bonus Score.
+
+
+DESERT GUARDIANS
+
+Mini-Sphinx [Image of a small dog lying down.]
+
+Warrior Phlea [Image of a plane in a nose dive.]
+
+Scarab [Image of a "diamond" with two white hyphens on the left         
+       corner.]
+ 
+Flying Fish [Image of a fish in a nose dive with four wings.]
+
+Fire Pot [Image of a pot with flames leaping out of it.]
+
+Vulture [Image of a vulture in a nose dive.]
+
+Burrowing Uwe [Image of a hollow "0" with a face on the left side.]
+
+Phantom Glider [Image of a glider flying to the south-west.]
+
+Howling Sphinx [Image of a large dog lying down.]
+
+
+TREASURES
+
+Golden Egg [Image of a "o" colored in.]
+
+Gem [Image of a "v" colored in, with a top on it.]
+
+Silver Ingot [Image of a horizontal bar.]
+
+
+
+And of course, this game was made by Atari in 1988.  This game manual
+was typed in by me!  Who am I?  I am Eddie Beiles.  I can be reached at
+beiles@lambada.oit.unc.edu if you have any questions about this game
+manual.  Or you can email me and thank me for typing it in.  Anyway,
+enjoy the game and this wonderfully typed in manual.       4/14/95
+
+
+
+

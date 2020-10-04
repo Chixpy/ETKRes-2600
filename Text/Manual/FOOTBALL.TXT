@@ -1,0 +1,221 @@
+Sears Tele-Games Football Game Instructions
+   For 2 players   3 games
+
+Sears, Roebuck and Co. 4975114
+
+Use your Joystick Controllers with this Tele-Games(r) Cartridge.
+Be sure the controller cables are firmly plugged into the jacks
+on the rear of your Video Arcade(tm).  Hold the controller with
+the red button to your upper left towards the television screen.
+See page 4 of your owner's manual for further details.
+
+Note: To prolong the life of your console unit and protect the
+electronic components, the unit should be OFF when inserting or
+removing a Tele-Games Cartridge.
+
+Note: When playing on a black and white television, place the TV
+type switch on the console in the color position.  Otherwise the
+white players score will disappear from the screen at game end
+when the switch is in the black and white (b-w) position.
+
+TO BEGIN PLAY
+
+    .-Left Player's Score
+    |      Timer  Down Indicator
+    v      v     v
+_________________________
+|   00    5:00   1 00   | <-Right Player's Score
+|          <-           | <-Offense Indicator
+|  -------------------  |
+|  ===================  |
+|  ----%----%----%----  | <-Orange Team
+|  =========*=========  |
+|  ----X----X----X----  | <-White Team
+|  ==_______________==  | <-First Down Marker
+|  -------------------  |
+|  ===================  |
+|_______________________|
+
+The Timer Clock at the top center of the playfield begins counting
+down from 5:00. The clock ticks only during play and stops between
+plays.  Depress the game RESET switch to start a new game.
+
+The left, or orange, player begins on offense.  This is indicated
+by the small arrow under the Timer Clock.  The number at top left
+is the orange player's score.  The number at top right is the white
+player's score.  The number to the left of the white player's score
+is the Down Indicator.
+
+The question mark (?) beneath each player's score is a reminder to
+program your play, and will disappear when you do so.  The play
+automatically begins after both players have entered a play formation.
+
+The offensive player has four "downs" or attempts to get the ball
+over the First Down Marker or the line shown on the screen.  If the
+offense moves the ball over the First Down Marker, he receives another
+four downs.  If the player scores, his opponent receives the ball and
+becomes the offensive team.
+
+To stop your opponent from getting a first down or scoring, you must
+"tackle" him by stopping his forward motion.  Do this by manuevering
+one of your players into his path and touching him.
+
+USING THE CONTROLLER
+
+There are five offensive and five defensive formations.  Use your
+joystick to program the formation you wish to use, (see diagrams on
+back pages).  For a punt formation, push the red controller button.
+
+After the play begins, each player (in games 1 and 2) can control
+his men with the Joystick.  (Diagram refers to movement as you see
+it on your television screen).  The offensive player controls only
+the ball carrier and can pass (or punt from the punt formation) by
+pressing the red controller button.
+
+The defensive player controls his lineman with the Joystick.  When
+the red controller button is pressed, the Joystick will control the
+defensive back.
+
+            Move
+  Up & Left  Up   Up & Right
+        \    |    /
+ Left <-- Neutral --> Right
+        /    |    \
+Left Down   Down   Right Down
+
+All offensive plays can be pass plays, except when a "punt" play is
+set.  Any player (including your opponent) is an eligible receiver.
+All passes must be made behind the "line of scrimmage" or the line
+on which the play started.
+
+To punt, push the red controller button to program the "punt
+formation."  After the play starts, push the red button again and
+your Quarterback will kick the ball.  On a punt play only the
+defensive back can catch and return the ball.  If the ball is not
+caught, the computer will randomly select the yardage or lenghth
+of your kick.
+
+In games 1 and 2, the path of the ball on a pass or punt can be
+"steered" after it leaves the Quarterback by using the Joystick.
+You can steer the ball left or right only.
+
+SCORING
+
+The offensive team scores a "touchdown" (seven points) by moving
+the ball past the opponent's goal line.  The defensive team can
+score a "safety" (two points) by tackling the opponent behind his
+goal line.  In addition, the defensive team gets the ball.
+
+HANDICAP (Skill Switches)
+
+When placed in the EXPERT position your players cannot move from
+side to side as quickly as in the NOVICE position.  This will give
+the more experienced player a handicap.
+
+GAME DESCRIPTIONS
+
+Game 1 After programming your play, use the Joystick to control
+your players.  The offensive player controls only the ball carrier
+and the flight of the pass or punt.  The defensive player controls his
+lineman or, by holding the red controller button down, the defensive
+back.
+
+The players will randomly follow the play as programmed when not
+controlled by your Joystick.
+
+Game 2 In this game, when your players are not controlled by the
+Joystick, they will follow the play exactly as programmed.  Use
+more strategy and try to outguess your opponent's plays.
+
+Game 3 Program in your offensive and defensive plays and watch the
+computer run them out.  Neither player can control the players
+movements, but the offense can pass or punt the ball by pushing
+the red controller button.
+
+OFFENSIVE PLAYS
+                              1
+1 Split Left               _______
+2 Tight Right              |o5   |
+3 Split Right            4 |  O  | 2
+4 Tight Left               |_____|
+5 Punt                        3 [Top view of Joystick]
+
+_______________   _______________   _______________
+|            1|   |            2|   |            3|
+|  <-%        |   |        %->  |   |        %->  |
+|             |   |             |   |             |
+| %     %    %|   |%   %   %    |   |  %    %    %|
+| v    /    / |   | \   \  v    |   |   \    \   v|
+|_____________|   |_____________|   |_____________|
+   [v-down, /-down left, \-down right, ^-up]
+                  _______________   _______________
+Right and left    |            4|   |            5|
+refers to how the | <-%         |   |      %      |
+teams are viewed  |             |   |      v      |
+on the playfield. |   %  %  %   |   |  %   %   %  |
+                  |   v /  /    |   |  v   v   v  |
+                  |_____________|   |_____________|
+
+_______________   _______________   _______________
+|            1|   |            2|   |            3|
+| ^   \    \  |   |  /   /  ^   |   |  /    /   ^ |
+| X    X    X |   | X   X   X   |   | X    X    X |
+|             |   |             |   |             |
+| <-X         |   |         X-> |   |         X-> |
+|_____________|   |_____________|   |_____________|
+
+   _______________   _______________
+   |            4|   |            5|
+   | ^  \   \    |   |  ^   ^   ^  |
+   | X   X   X   |   |  X   X   X  |
+   |             |   |      ^      |
+   |   <-X       |   |      X      |
+   |_____________|   |_____________|
+   [v-down, /-up right, \-up lefft, ^-up]
+
+
+DEFENSIVE PLAYS
+
+_______________   _______________   _______________
+|            1|   |            2|   |            3|
+|    <-%      |   |     %->     |   |      %->    |
+|             |   |             |   |             |
+| %    %    % |   | %   %   %   |   | %    %    % |
+| v   /    /  |   |  \   \  v   |   |  \    \   v |
+|_____________|   |_____________|   |_____________|
+
+                  _______________   _______________
+Right and left    |            4|   |            5|
+refers to how the |    <-%      |   |      %      |
+teams are viewed  |             |   |             |
+on the playfield. |  %   %   %  |   |  %   %   %  |
+                  |  v  /   /   |   |  v   v   v  |
+                  |_____________|   |_____________|
+
+_______________   _______________   _______________
+|            1|   |            2|   |            3|
+| ^   \    \  |   |   /   /  ^  |   |  /    /   ^ |
+| X    X    X |   |  X   X   X  |   | X    X    X |
+|             |   |             |   |             |
+|    <-X      |   |      X->    |   |      X->    |
+|_____________|   |_____________|   |_____________|
+
+   _______________   _______________
+   |            4|   |            5|
+   |  ^  \   \   |   | ^   ^   ^   |
+   |  X   X   X  |   | X   X   X   |
+   |             |   |     ^       |
+   |<-X          |   |     X       |
+   |_____________|   |_____________|
+
+
+                              1
+1 Wide Left                _______
+2 Tight Right              |o5   |
+3 Wide Right             4 |  O  | 2
+4 Tight Left               |_____|
+5 Deep                        3 [Top view of Joystick]
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

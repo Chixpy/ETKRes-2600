@@ -1,0 +1,194 @@
+HERO
+
+R. Hero's
+Guide to Rescue Etiquette
+
+
+Duty Calls!
+
+Roderick Hero, at your service. Please, call me R. Hero.
+Everyone else does. I wish to address myself to fledging
+Heros and All-Around Good Guys everywhere. A crisis is
+afoot, affording me an ideal opportunity to share a few 
+of the finer points of heroic endeavor with you. Do pay attention.
+
+Volcanic activity has trapped miners in mineshafts in Mount Leone.
+I shall use equipment (some think it rather nifty) of my own invention
+to help miners no mere mortal can reach. It would give me 
+great pleasure to have your help.
+
+The object of this undertaking is to rescue all the miners possible
+beofre running out of lives.
+
+Making Ready!
+
+Do follow these simple instructions. There's a good fellow.
+
+- Insert cartridge. Turn power ON.
+
+- Plug in the left joystick controller. (See "Essentials" for use)
+
+- Select one of five one-player games with the game select switch.
+  The higher the game number, the deeper within the mine one begins  
+  and the more advanced the challenge. (See "Rescue Challenge Chart".)
+
+- To start, press game reset. Note how Yours Truly hovers in a mineshaft,
+  ready to go once the power gauge turns completely yellow. One need
+  only move the joystick to begin.
+
+- Reserves. I embark with four opportunities - very well then, "lives" -
+  one in use, three in reserve. One acquires an additional life, to 
+  a maximum of six in reserve, for every 20,000 points earned.
+
+- Power Gauge. One hears and sees the power gauge fill at the start 
+  of each level. Power begins to diminish when the joystick is moved
+  at the beginning of each level or after a reserve life appears on
+  the screen. If power runs out and a reserve life remains, one
+  reappears at the top of that level.
+
+- Game ends when one runs out of lives, of course.
+
+
+
+Some Essentials
+
+"Must haves" for the rescuer in the know.
+
+Prop-pack. My greatest inspiration, to which I'm very attached.
+This propeller pack allows one to fly where one wishes.
+- to fly up: push joytsick forward.
+- to run or fly left or right: move joystick left or right.
+- to hover: tap joystick forward.
+- to fly down a shaft: Step off ledge. Gravity does the rest!
+
+Microlaser Beam. The helmet comes equipped with a microlaser beam.
+With it one can blast vile vermin. The Beam can also slice through
+walls, but this takes time and time costs precious power.
+- to fire: press joystick button.
+- for continuous fire: press and hold button.
+
+Dynamite. One begins each game and every mineshaft level with six
+sticks of dynamite, each of whcih can demolish a small wall.
+- land and move near a wall
+- to place and ignite dynamite: pull joystick toward you. Then move
+  fast or be blown up! I, R. Hero, cannot stress this enough.
+
+Raft. A heat-resistant raft floats on certain stretches of the lava 
+river. If it can carry R. Hero across the river when he lands on it 
+(it can), it can carry you. A word to the wise: Getting off
+isn't always easy!
+
+
+Planning the Perfect Outing
+
+One should make it a point to be as familiar with the details of a
+rescue operation as with guests in one's home. To wit:
+
+Meet the Mineshaft: Mineshafts extend vertically and horizontally
+deep into Mount Leone. Some dead end;others are blocked by walls.
+Some walls and surfaces glow red; these contain magma deopists,
+molten lava behind the rock. Like lava rivers, magma deposits
+cost one life should one be careless enough to touch
+them. Oh yes, before I forget, lanterns light these murky mineshafts.
+Touch or shoot one and that section of the mine will go dark.
+Most unpleasant.
+
+Hello to Hazards. The shafts, you will note, are alive with various vermin: 
+Springing spiders, shaft bats, mine moths and nesting snakes. Do avoid 
+them, or blast the loathsome little beggars with the microlaser beam.
+In addition, a tentacle traces one's every move over certain parts of the 
+lava river. As one cannot shoot it, practice caution. Touching
+any of these hazards results in a lose of life, alas.
+
+How Low Can One Go? One must locate a miner on each level before
+moving lower in the mine. The deeper one goes, the faster things
+move, the more dangerous and numerous the challenges become and
+the harder it is to find the miner. The current level number 
+appears in place of the score at the beginning of each level.
+To tackle tougher tunnels right away, one may start the resuce
+mission at deeper levels.
+
+
+Rescue Challenge Chart
+
+Game Number			Starting Level
+1				1
+2				5
+3				9
+4				13
+5				17
+
+* Game 5 starts on level 17, but all following levels are random.
+No level number appears during game 5.
+
+In games 1-4, the word PRO appears in place of the level number after
+level 20. My highest accolade, you can bve sure.
+
+
+Scoring
+
+
+- Shoot a critter		50 points
+- Each dynamite stick
+  remaining when miner
+  is rescused			50 points
+- Dynamite a wall		75 points
+- Rescue Miner			1000 points
+
+
+One earns additional points for every unit of power remaining
+when a miner is rescued. The higher the level number, the more
+each unit of power is worth.
+
+The day has been saved when the score reaches 1,000,000. The
+rescue operation ceases. Can you say what else happens? 
+R. Hero, of course, knows...
+
+
+Join the Activision "Order of the H.E.R.O."
+
+Score 75,000 points or more and join ranks with R. Hero
+in the Order of the H.E.R.O. Just send us a pciture of your TV
+screen shwing your score. Be sure to include your name and address.
+We'll send you an official Order of the H.E.R.O. emblem. Be sure
+to write "H.E.R.O. VCS" and your score on the front corner of
+the envelope.
+
+H.E.R.O. Hints for the hearty hero
+Tips from John Van Ryzin
+
+John Van Ryzin collects camera. He golfs. He camps, and goes canoeing.
+In addition, he's from New Jersey. But what you must understand about
+John is, he loves his work. He thrives on it. As proof of this, he 
+belongs to almost every Activision club. No mean feat, that.
+
+"The mineshafts of Mount Leone present many challenges to a rescuer.
+I recommend you watch the opening sequence before playing the game.
+It'll give you a feel for the terrain and help you recognize some
+of the dangers ahead. Also, the more you play, the better you'll learn
+your way around the different mineshafts. Since speed in locating 
+miners earns you more points, you'll want to move as quickly and
+efficiently as possible. Here are a few tips I think you might
+find useful.
+
+- the dynamite R. Hero carries is potent. He doesn't need to be right
+  next to a wall in order to blow it up.
+- If R. Hero runs out of dynamite, he can burn through walls with the
+  microlaser beam. The closer he stands to the wall, the faster he'll
+  break through.
+- If a lantern goes out, find mineshafts by looking at the rough edges
+  along the bottom of the screen.
+- When flying above the river, ride the ceiling by pushing up as well as 
+  to the left or right.
+- Ride rafts whenever possible since it is easier than trying to go 
+  under a lava ceiling.
+- A word about tentacles: They don't move too fast, so don't try to
+  outrun them.
+
+Hope that helps some. You'll discover your own techniques as you plumb
+the depths of the mine. Let me hear what they are when you emerge
+from 'down under'."
+
+
+
+

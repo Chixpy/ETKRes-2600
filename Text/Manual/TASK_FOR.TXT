@@ -1,0 +1,111 @@
+FROGGO GAMES(TM)
+Task Force(TM)
+Instructions
+
+Task Force
+
+   Task Force is a full-color action game, for one or two players, for
+use on the ATARI(R) Video Computer System.(TM)
+   Terrorists are at it again, and you command anelite anti-terrorist Task
+Force.  Negotiations have failed, so it's up to you to "take out" the
+terrorists.  They're holding several highrise buildings, and your Task Force
+is in position outside.  You have wire-guided missiles to fire any time a
+terrorist steps into view in a window.  You must fire quickly, because the
+terrorists never miss you when they have time to get off a shot.  And the
+terrorist leader on the roof has a neutron bomb that ends it for everybody
+if he lets it go.  But look before you fire!  The terrorists sometimes push
+hostages into view...don't shoot if the guy in the window doesn't have a gun.
+And plan ahead!  You have to wait for new supplies after firing all of your
+wire-guided missiles.
+   Take out the 9 terrorists in the first building, then your Task Force
+heads out to the next hot spot (held by 12 terrorists), and the next (held
+by 15 terrorists).  Your fourth anti-terrorist operation is a treacherous
+night raid...and the action only gets hotter after that!
+
+Instructions for Setup
+
+1. Follow the manufacturer's instructions to connect the ATARI Video
+Computer System to your TV.
+
+2. Install only the Left Joystick control for a single player.  Install
+both Joysticks if two players are going to be involved in Task Force action.
+
+3. Make certain that the ATARI power switch is OFF, then insert the Task
+Force game cartridge.
+
+4. Set the TV TYPE switch to the proper setting.
+
+5. Set the DIFFICULTY switches to A (slow) or B (fast).
+
+6. Set the CHANNEL 2-3 switch to the proper setting.
+
+7. Move the POWER switch to ON.
+
+Instructions For Play
+
+1. Push RESET to activate Task Force.
+
+2. Push SELECT to select the game variation you want:
+   1. Single player, expert level
+   2. Two players, expert level
+   3. Single player, beginner level
+   4. Two players, beginner level
+
+3. Push RESET again to start Task Force action.
+
+4. Use the Joystick to line up your gunsight on a terrorist and push the red
+FIRE button to launch a missile.
+
+5. As you start attacking each terrorist nest, you have six missiles unpacked
+and ready to fire, plus three more crates containing six missiles each: a total
+of 24 wire-guided missiles.  Once you fire all 24 missiles, you are at the
+mercy of the terrorists for several seconds while more missiles are brought in
+to your command center.
+
+6. Each terrorist moves into a window, stops, and takes aim for several
+seconds.  Whenever you allow a terrorist enough time to fire, one of your
+commandos is dead for sure.  Terrorists never miss a shot!
+
+7. Scoring
+                        Bldg 1      Bldg 2    Bldg 3
+   White Death             100         110       120
+   Pirate                   50          60        70
+   Gang Green               40          50        60
+   Hoodman                  30          40        50
+   Yellowbelly              20          30        40
+   Hostage(LOSE POINTS!) -1000       -1000     -1000
+
+NOTES: If you shoot a hostage when you have fewer than 1000 points, you lose
+all the points you have.  As your anti-terrorist squad proceeds from one
+building to the next, the number of points scored for taking out each terrorist
+continues to rise.
+
+8. Bonus points!  If you take out the nine hostages holding Bldg 1, you earn
+140 bonus points as you move your anti-terrorist squad to Bldg 2.  You earn
+additional bonus points each time you clean out another nest of terrorists.
+
+9. Night Raids: When you take out the 15 terrorists holding Bldg 3, the video
+screen will go black...because your next operation is a NIGHT raid!  Terrorists
+are still moving around and getting ready to fire at you, even though you
+can't see them.  But you can trick them into turning on their lights for a few
+seconds by firing a missile at the building.  Just hope you don't hit a
+hostage!
+
+10. Two Players:  Action switches to Player 2 after Player 1 is shot once by
+a terrorist.  Player 2 controls Task Force action until he/she is shot by a
+terrorist.  NEGOTIATIONS ARE OVER!  IT'S TIME FOR TASK FORCE ACTION!!
+
+   Want to be the first to know when our next new Froggo video game becomes
+available?  Just send us a card with your name and mailing address, so we
+can put you on our Special Customer Mailing List.  Also, watch for new
+Froggo video games wherever you buy game cartridges.
+
+FROGGO GAMES CORPORATION 2685 Marine Way, Bldg. 1219 Mountain View, CA  94043
+
+ATARI(R) and Video Computer System(TM) are trademarks of ATARI, INC.
+
+FG1003 (C)Froggo Games Corp. Printed in U.S.A.
+
+
+
+

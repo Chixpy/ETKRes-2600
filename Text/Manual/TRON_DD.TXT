@@ -1,0 +1,181 @@
+M                                               No. 5662-0950
+Network
+
+
+Tron         
+Deadly Discs +
+
+Instructions
+
+(For 1 Player)
+
+The ultimate in futuristic adventure!  Based on the Motion Picture from
+Walt Disney Productions.  Move TRON safely through battle against warriors
+attacking in waves of three against one.  Lethal saucers are the weapons.
+Score points by knocking them out before they get TROM!
+
+For Your Atari* Video Game System
+
++ TRON DEADLY DISCS is a trademark owned by and used under license from Walt
+Disney Productions.
+
+* ATARI is a trademark of ATARI, INC.
+
+Game inspired by TRON, the futuristic adventure Motion Picture from Walt
+Disney Productions.
+
+---
+
+
+THE GAME
+
+TRON is alone, standing in the center of an arena with walls on all
+sides.  Three doors open and three computer-controlled attackers
+enter the ring.  The contest is on!  Warriors more around throwing
+destroyer discs.  Split-second reflexes keep TRON in motion, dodging
+their deadly aim.  Keep him moving...he can only withstand 5 hits
+before he is "de-rezzed" (that is, he dies).  Try a fast exit... "teleport"
+(in one door and out anohter) and surprise his attackers.  Fire back and
+hit as many of them as possible.  Warriors destroyed by TRON's disc are
+replaced every 10 seconds, unless you clear the board by getting them
+before they get him.  If you succeed in knocking down all of his op-
+ponents before the replacements arrive, you advance a scoring level.
+This increases the point value of each opponent hit.  As your score
+goes higher, warriors become faster, more aggressive, their discs speed
+up, and they throw them more often.  It's an action packed game in
+which only the swift survive.
+
+THE CONTROLLS
+
+Use your joystick controller with this
+game to move TORN around the
+arena.  Be sure your controller cable
+is securely plugged into the back of
+the game console.  Hold the con-
+troller so the red FIRING BUTTON is
+to your UPPER LEFT.
+
+---
+
+TRON's disk is thrown by depressing the red FIRE BUTTON on the 
+Joystick controller.  It travels in one of the eight directions as indicated
+by which way the joystick is being held at the time the button is
+pushed.  The disc returns to TRON after it travels far enough to reach
+one of the walls.  It can also be recalled to TRON at any time while it is
+in flight simply by depressing the FIRE BUTTON a second time.
+
+                            * Push joystick LEFT to make TRON
+                            run yoward screen LEFT.
+
+                            * Push joystick RIGHT to make TRON
+                            run toward screen RIGHT.
+
+                            * Push joystick FORWARD to make
+                            TRON run UP.
+
+                            * Push joystick BACK to make TRON
+                            run DOWN.
+
+                            * Press red FIRE BUTTON to throw
+                            TRON's disc; press a second time to
+                            recall disc.
+
+DIFFICULTY SWITCHES
+
+The only console switch used by this game is the LEFT Difficulty Switch,
+which can be set to either "A" or "B".  The "A" position is the faster,
+more challenging game.  The "B" position starts at a slower, easier level
+and gets faster.  Warriors start out farily ineffective and gradually in-
+crease their skill depending on the number TRON has knocked down.
+
+---
+
+ACTION!
+
+TO START THE GAME, DEPRESS RESET SWITCH, THEN PUSH YOUR
+JOYSTICK CONTROLLER IN ANY OF THE EIGHT DIRECTIONS AVAILABLE.
+
+There can be a maximum of three opponents on the screen at any one
+time. Move TRON directly in line with an attacker and fire away!  Hit as
+many warriors as possible, wihtout risking TRON's life in the process.
+Dodge those oncoming discs!  TRON weakens and fades in color each
+time he is hit (five times maximum).  Whenever you clear the screen of
+opponents before replacements arrive, TRON recovers from one
+hit and darkens in color (five is still the maximum after recovering).  If
+ou hit the last warrior at the same time he hits TRON, TRON does not
+recover from the hit.
+
+Keep in mind that TRON's disc is dangerous to opponents only
+while it is travelling away from him.  This part of the travel is depicted
+by a thin picture of a disc.  It is not harmful on the return path, when
+the disc is depicted as a square.  Opponents hit are replaced after a
+short delay.  If you succeed in knocking down all of his opponents
+before replacements arrive, you advance a scoring level, which in-
+creases the point value of each opponent hit.
+
+                Whenever an opponent enters the arena,
+                he comes in via an entrance created 
+                just for him.  An entrance may be locked 
+                open by TRON if he strikes it with his
+                disc; this locked open condition is in-
+                dicated by a color change.
+
+
+TELEPORTING:  Often there will be two entrances opposite each other
+across the arena which will have been locked open.  Together they
+provide a mechanism with which TRON can "teleport" himself across
+the screen, disabling enemy shooting for about two seconds.  Simply
+direct TRON into one of the par of entrances.  The entrance from
+which he is "teleported" is then closed.
+
+
+
+---
+
+SCORING
+
+Your schore is displayed at the top of the screen at all times.  Every
+screenful of attackers is worth more than the preceding group.  At the
+lowest scoring value, you score twn points each time an enemy is 
+hit.  This value gradually increases each time you advance a scoring
+level, which is indicated by the color of the opponents
+
+-------------------------------------------------------------
+
+   LIGHT GREEN       DARK GREEN         BLUE            WHITE
+     WARRIORS         WARRIORS        WARRIORS         WARRIORS
+
+
+
+        10               20              40              75
+      POINTS           POINTS          POINTS          POINTS
+
+-------------------------------------------------------------
+
+      YELLOW            BLACK           RED              GOLD 
+     WARRIORS         WARRIORS        WARRIORS         WARRIORS
+
+
+
+        150              300            500              800
+      POINTS           POINTS          POINTS          POINTS
+
+-------------------------------------------------------------
+
+WINNING TIPS
+
+* Keep TRON on the run!  A moment's hesistationmay cost him his life!
+Dodge oncomng discs while trying to hit as many warriors as posible.
+
+* Be careufl in the conrers.  It's easy to get trapped there!
+
+* Lock as many doors open as you can.  "Teleport" to escape being hit
+or to surprise your attackers.
+
+* When "teleporting" TRON, think ahead and watch out!  Don't run
+smack into a warrior or group of warriors on the other side.  That
+could prove deadly!
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+

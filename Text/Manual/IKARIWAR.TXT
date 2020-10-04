@@ -1,0 +1,174 @@
+<Picture>
+
+<Picture>Ikari_Warriors<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+Atari 2600 Game Manual
+
+Ikari Warriors
+
+You are a member of those elite combat specialists, the Ikari
+Warriors. Your buddy and you are on a special mission behind enemy
+lines, and you've been sleeping, eating, and breathing jungle combat for the
+last two weeks. Your tired, but that never affect your razor-sharp judgement
+and your will to survive.
+
+Your main weapons are machine guns, grenades, and your own
+cunning in the face of danger. Sometimes you'll have a tank at your disposal,
+which comes in handy when enemy fire is particularly brutal.
+
+You move swiftly through the jungle, wading through rivers and
+resting from time to time with the ruins of bombed-out buildings. You're
+tunning out of ammunition and grenades but you know the battle can't last
+forever. Sooner or later, one side is going to emerge victorious. Let's just hope
+it's yours!
+
+Getting Started
+
+1. With your TV switched on, insert the Ikari Warriors cartridge into 
+   your Atari 2600 (or 7800tm) as described in your owner's manual.
+
+2. Connect a controller to the left controller port. In two-player 
+   Ikari Warriors, connect a controller to each controller port.
+
+3. If you are using an Atari 2600 use the TV TYPE switch to
+   select color or black and white.
+
+4. Switch on your console. The Ikari Warriors title screen
+   appears.
+
+5. To select one or two player Ikari Warriors, press SELECT or
+   move the controller up and down to highlight the desired option. To
+   select the highlighted option and begin the game, press the fire button
+   or RESET.
+
+6. To return to the opening screen and restart the game with
+   the currently selected options, press RESET.
+
+JUNGLE WARFARE
+
+Playing the Game
+
+Ikari Warriors is a one or two player game of survival. You
+and your partner move behind enemy lines in the hopes of wiping out the enemy.
+You begin the game with 50 grenades, 99 rounds of ammunition, and 3 lives.
+If your luck you can capture a tank to protect you from enemy fire.
+
+Move your controller to manoeuvre through the jungle. Your main weapons are
+machine guns and grenades. To fire bullets and tank shells, press the fire
+button. To toss grenades, hold down the fire button for one or two seconds
+until the grenade launches.
+
+Watch you bullet and grenade supply carefully. Pick up new supplies before you
+run out. To pick up new supplies, simply walk over a supply icon. There are no
+icons that up-grade your fire power. (See items.)
+
+The tank, which moves only on dry land, provides safety from enemy bullets. To
+enter the tank, move your player onto the top of the tank.
+
+The tank can be destroyed by enemy grenades. If the tank sustains damages
+while you are inside you go with it. To exit the tank, hold down the fire
+button for one or two seconds. Press the fire button to fire shots from the
+tank.
+
+You must pick up fuel along the way to keep the tank moving.
+The tank explodes if it runs out of gas, so don't miss the energy
+supply icons!
+
+In your journey through the jungle you will occasionally encounter a river or
+the sea. You will have to cross the water in order to continue. You can still
+fire while you are in the water. 
+
+If you come into physical contact with an enemy soldier you
+lose a life. You can hide behind rock and rubble to avoid enemy gunfire.
+However you will still be vulnerable to their grenades, so watch out!
+
+Each time the enemy makes a successful hit you lose a life.
+You receive a bonus life every 10,00 points. The fame is over when you lose
+your last life. To win the game, you must rescue the colonel being held
+captive by the enemy.
+
+Screens
+
+The game play takes place on the Action screen. The status bar
+displays game information.
+
+                              Status Bar
+
+(A picture appears here illustrating the layout of the status
+bar)
+
+Items
+
+Walk or drive your tank over the icon labelled S to replenish
+your fuel and ammo supplies.
+
+
+Strategy
+
+Conserve bullets and grenades.
+
+Plan your attack carefully. Dash in quickly, shoot, and back
+off before the enemy has a chance to aim and shoot back!
+
+If you come into contact with an enemy soldier you lose a
+life.
+
+Learn enemy locations and anticipate enemy attacks.
+
+Run over enemy soldiers with your tank. It saves ammo!
+
+
+Scoring
+
+The following table shows the number of points you will
+receive for destroying
+enemy unit and rescuing the colonel.
+
+        Enemy Soldier..................................100 points
+        Helicopter.....................................200 points
+        Enemy Tank.....................................200 points
+        Bunker.........................................300 points
+        Gate...........................................300 points
+        Buildings......................................200/300 points
+
+                           ATARI
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors, or
+omissions. Reproduction of this document or of any portion of its contents is
+not allowed without the specific written consent of Atari corporation.
+
+Atari, the Atari logo, 2600, and 7800 are trademarks or registered trademarks
+of Atari Corporation. Ikari Warriors is a registered trademark of SNK
+corporation.
+
+Copyright 1987, SNK Corporation. All rights reserved.
+
+Copyright 1990, Atari Corporation, Sunnyvale, CA 94089-1302
+All rights reserved.
+
+G. C. 7.19 91                                             C300016-177 Rev. A
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

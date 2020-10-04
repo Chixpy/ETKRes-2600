@@ -1,0 +1,453 @@
+Stellar Track
+Game Instructions
+
+CONTENTS:
+
+1. History of the Interstellar Conflict
+2. Mission Objective
+3. Console Controls
+4. Using the Joystick
+5. Mission Overview
+6. Galaxy Map
+7. Long Range(LR) Scan
+8. Short Range(SR) Scan
+9. Warp
+10. Photon Torpedo
+11. Phasors
+12. Damage
+13. Status Report
+14. Starbase Docking
+15. Aliens
+16. Mission Summary
+17. Command Summary
+
+
+----
+1. History of the Interstellar Conflict
+
+It is 2000 years since the unification of our planet and we "Terrans" have 
+peacefully excelled in art, philosophy, and science.  Our technology has 
+mastered all but one problem, the hyperwarp drive (which would allow us to 
+travel to other planets).  Trapped in our own solar system for lack of the 
+hyperwarp drive, there seems to be no way out until we are discovered by 
+extraterrestrial life.  These "Aliens" are anxious to trade their hyperwarp 
+technology for Terran art and science to revitalize their stagnant culture.
+
+As time passes we Terrans expand out empire through interstellar trade and the
+use of hyperwarp technology.  Increasingly the Terrans and Aliens compete over
+the riches of the universe.  We develop phased energy weapons (PHASORS) and 
+force shields, while the Aliens insist on escorting their merchant envoys with
+warships.  Tension begins to grow.
+
+The Terran government, directed by the House of Viceroys, decides to build and
+indestructible Starfleet and two Galactic Starbases to insure cosmic military 
+supremacy.  With the invention of a deadly photon-launcher and the virtual 
+invisibility of the starbases (their location is a closely guarded secret), we 
+Terrans feel that a single Super Warship can keep the scattered Alien fleet in
+check.  You are the captain and sole commander of that warship.
+
+While the Viceroys are relaxing and confident of our military superiority, the
+Alien Council of Elders rule that the Terran culture has to be destroyed.  This
+is to be done before Alien dominance in the heavens is lost.  As the commander,
+you must throw back the Alien invasion.
+
+----
+2. Mission Objective
+
+The object of your mission is to destroy the Aliens in the galaxy with PHOTONS 
+or PHASORS before they destroy you.  If you run out of time (STARDATES) or fuel
+(ENERGY), we Terrans are lost!
+
+NOTE:  The complexity of STELLAR TRACK will make it necessary for you to 
+periodically refer to this manual during your first several missions.  It's 
+also a good idea to use a note pad and pencil to keep track of vital 
+information during each mission.
+
+----
+3. Console Controls
+
+GAMES SELECT/GAME RESET:  These switches both have the same function, which is
+to randomly select the size of a new mission.  There are two factors which 
+vary with each mission.  One is the number of STARDATES you have and the other
+is the number of Aliens you must destroy to win.  Press down either switch to 
+change and/or select the size of each mission.  Continue depressing either 
+switch until you select the size mission you want.
+
+NOTE:  The best missions to start out with are those with approximately 25 to 
+35 Aliens, and the most STARDATES you can find.
+
+RIGHT and LEFT PLAYER SKILL switches
+
+RIGHT PLAYER SKILL switch:  This switch controls you shield strength of damage
+probability.  In the NOVICE position, the probability of damage is lower.  In 
+the EXPERT position, the probability is twice as high.
+
+LEFT PLAYER SKILL switch:  This switch controls your phasor strength.  In the 
+NOVICE position, your PHASORS, or energy units, are twice as powerful as the 
+Aliens phasor strength.  In the EXPERT position, you PHASORS are equal in 
+strength to the Alien's phasors.
+
+----
+4. Using the Joystick
+
+Use one of your Joystick with this Tele-Games(r) Cartridge.  Be sure to plug 
+the controler cable firmly into the left jack at the back of your Video 
+Arcade(tm).  Hold the controller with the red button to your upper left toward
+the television screen.  See page 4 of your owner's manual for further details.
+
+Once you have selected the size mission you want, press the red controller 
+button to start.  The GALAXY MAP command will appear (flashing) toward the 
+bottom of the screen.  In total, there are seven commands available.  These 
+commands are selected with the Joystick, then entered with the controller 
+button.  Each command is displayed (flashing) on the screen as you move the 
+joystick right or left.
+         MOVE LEFT                         MOVE RIGHT
+         ----------                        -----------
+         Galaxy Map                            Galaxy Map
+         Warp                                      Warp
+         Status                                    Long Range(LR)
+         Short Range(SR)                       Scan
+             Scan                                  Phasors
+         Photon                                    Photon
+         Phasors                                   Short Range(SR)
+         Long Range(LR)                        Scan
+            Scan                                    Status
+
+You won't know which commands to use (and especially in what order to use 
+them), until you learn more about each one through these instructions.  
+Remember for now that when the command you want to use is displayed on the 
+screen, you must press the red controller button to enter it.
+
+NOTE:  Also keep in mind that you must press the red controller button whenever
+you are finished reading a particular display and are ready to continue with 
+another command.
+
+----
+5. Mission overview
+
+So far you've been given some basic information on (1) the history of the war;
+(2) your overall mission objective; (3) how to select the size of a mission; 
+(4) how to get the mission started; and (5) how to use the Joystick to display 
+the various commands.
+
+This information alone addresses only the beginning of your mission.  Now you 
+must learn how and when you use each command.  You must also learn how to deal
+with other mission factors, such as the difference between a quadrant and a 
+sector, what a starbase can do for you, and so on.
+
+Quadrants/Sectors
+
+The galaxy is divided into 36 quadrants, and each quadrant is divided into 64 
+sectors.  It may help to think of the quadrants as states, and the sectors as 
+cities within those states (quadrants).
+
+The general flow of you mission is as follows:
+    1.  Use the LONG RANGE(LR) SCAN to see which quadrants contain Aliens 
+          and/or starbases.
+    2.  Use the WARP command to travel or jump among the quadrants and sectors 
+          as you go after Aliens and starbases.
+    3.  Use the SHORT RANGE(SR) SCAN to see which sectors contain Aliens and 
+          starbases.
+    4.  Use PHOTON/PHASORS to destroy Aliens.
+    5.  Use the STATUS command to keep track of Aliens remaining, time left 
+          (STARDATES), ENERGY remaining, and damage to your ship.
+    6.  Use starbases to refuel and repair damage to your ship.
+    7.  Use the GALAXY MAP to coordinate the entire mission.
+    8.  Use a note pad to keep track of all of the above.
+
+NOTE:  All commands and other mission detail are explained in greater detail 
+  later in these instructions.
+
+If you destroy all the Aliens, you mission is successful and you receive a 
+ranking (CADET, ENSIGN, LIUTENANT, CAPTAIN, COMMODORE, or ADMIRAL).  Ranking 
+is based on how much time and energy it takes you to destroy the enemy.  The 
+less you use, the higer your ranking.  You're ranked at the end of a mission 
+regardless of how it ended.  Naturally, if you saved the galaxy, your rank 
+tends to be higher.  However, if you waste resources to win, you might still 
+be reduced to CADET!
+
+If you run out of time (STARDATES) or fuel (ENERGY), the Terrans must surrender
+to the Aliens.
+
+IMPORTANT:  The color of the screen tells you who or what is in the quadrant 
+you are currently occupying.
+    GREEN   = empty
+    RED     = Aliens
+    GREY    = starbase
+
+When you are in a quadrant containing both Aliens and a starbase, the screen 
+will be red.  Once you destroy the Aliens in that quadrant the screen will 
+turn grey.
+
+----
+6. Galaxy Map
+
+The GALAXY MAP is a 6x6 chart which starts out empty at the beginning of each 
+mission.  Each time you scan on of the 36 quadrants, that quadrant will show up
+on the GALAXY MAP the next time it is displayed.  A scanned quadrant shows a 
+two-digit number on the GALAXY MAP.  The left digit indicates the number of 
+Aliens in that quadrant.  The right digit tells you whether a starbase exists 
+in that quadrant (See Figure 2 [screen shot omitted]).
+
+As an example, an entry of 21 indicates two Aliens and a starbase in the 
+quadrant.  Keep in mind that although some commands use time or energy, 
+calling the GALAXY MAP is completely free.
+
+----
+7. Long Range (LR) Scan
+
+CAUTION:  The LR SCAN looks similar to the GALAXY MAP, and it is easy to 
+confuse the two of them.
+
+The LR SCAN is a 6x6 chart which shows the contents of the quadrant you are in,
+plus all adjoining or adjacent quadrants.  As with the GALAXY MAP, the 
+information is presented as a two digit number.  The left digit tells you the 
+number of Aliens in the quadrant; the right digit tells you whether a starbase
+exists in the quadrant.  (See Figure 3 [screen shot ommitted])
+
+The LR SCAN does not use energy or startime.  However, when you are in a 
+quadrant with Aliens, they will fire at you (one by one) after you use the LR 
+SCAN.
+
+Note that the LR SCAN shows adjacent quadrants while the GALAXY MAP 
+cumulatively displays all the quadrants you have scanned.
+
+----
+8. Short Range (SR) Scan
+
+Each quadrant contains 64 sectors.  The SR SCAN is an 8x8 chart which enables 
+you to see exactly what is contained in you quadrant by showing you what is 
+in each of the 64 sectors.  Figure 4 [screen shot ommitted] shows you what you
+might find in a typical SR SCAN, as well as what the various objects look like.
+A SR SCAN fills in the GALAXY MAP for the current sector only.
+
+[NOTE-- You look similar to the Enterprise, Aliens similar to X-Wing fighters,
+Stars look like asterix, and starbases look like circles with dots at their 
+centers.]
+
+You must use the SR SCAN to find out exactly where the enemy is, or where a 
+starbase is.  It does not use energy or startime, but like the LR SCAN, any 
+Aliens in your quadrant will fire at you (one by one) after you use it.
+
+----
+9. Warp
+
+The Warp command is used to move your ship from one quadrant to another, or 
+from one sector to another.  Using the WARP command is expensive - it uses 
+STARTIME and ENERGY.
+
+Warping among quadrants -- STARTIME used = one STARDATE for each quadrant jumped
+                             ENERGY used = 100 units for each quadrant jumped
+Warping amoung sectors   -- This manuever costs 10 units of ENERGY for each 
+                            sector jumped but uses no STARDATES.
+
+How to WARP:
+  1. Using the Joystick, display the WARP command on the screen.
+  2. Then enter the COURSE number which is the direction you want to travel.
+      This is done by moving the Joystick right or left.  There are eight 
+      possible directions to move (with corresponding numbers), as shown in 
+      Figure 5.  When the number you want is displayed (flashing) on the 
+      screen, press the red controller button to enter it.
+  3. Next enter the FACTOR numbers, which represent the distance in quadrants 
+      and sectors you want to travel.  Move the Joystick right or left to 
+      change the numbers on the screen.  Then press the controller button to
+      enter the numbers.  The first (left) number indicates how many quadrants
+      to jump.  The second (right) number indicates how many sectors you want 
+      to jump.
+
+      Remember, when moving within the same quadrant (sector to sector), you 
+      must enter "0" for the first number since you do not want to move 
+      quadrants, only sectors.
+
+            FIGURE 5:
+                  1
+               8  |  2
+                \ | /
+              7 - O - 3
+                / | \
+               6  5  4
+
+WARNING:  You cannot WARP through a star in your quadrant.  If you try, you 
+will lose the stardates and energy required for the WARP.
+
+When you successfully WARP into another quadrant the STATUS report 
+automatically appears on the screen.  If you fail to WARP successfully, you 
+will hear a loud buzz sound and the screen will remain unchanged (you tried to
+warp through a star).
+
+----
+10. Photon Torpedo
+
+Your PHOTON Torpedoes are one of two weapons you have to destroy Aliens.  The 
+other weapon is your PHASORS, explained in the next section.
+
+You start with nine torpedoes.  All nine torpedoes are automatically replaced 
+whenever you dock at a starbase.  See Section 14 - STARBASE DOCKING.
+
+There are eight different directions (COURSEs) you can fire PHOTON Torpedoes 
+(see Figure 7 [same as figure 5]).  Your ship must be directly in line (right,
+left, up, down, or diagonally) with an Alien to successfully hit it with a
+torpedo (see Figure 8 [screen shot ommitted]).  You cannot shoot through a 
+star or out of one quadrant and into another.
+
+How to Use:
+   1. Select the PHOTON command using you joystick.
+   2. Enter the COURSE (direction) number in the same manner you enter the WARP
+       COURSE number.
+   3. Press the red controller button to fire.
+
+Using your PHOTON Torpedoes requires no ENERGY or STARDATES.  The Alien is 
+always destroyed when hit by a PHOTON Torpedo.  Any undestroyed Aliens in the 
+quadrant will fire back after you use a PHOTON Torpedo.
+
+----
+11. Phasors
+
+Your PHASORS are an energy weapon.  A PHASOR blast can cause damage, or 
+destroy an Alien if strong enough. You must hit an Alien with more energy than
+he has to destroy him.  (All Aliens start with 99 units of energy, see Section 
+15 - ALIENS.)
+
+YOU DO NOT HAVE TO BE DIRECTLY IN LINE WITH AN ALIEN (AS WITH PROTONS), TO 
+DESTROY OR DAMAGE HIM WITH PHASORS.
+
+The power for your PHASORS comes from your ENERGY supply.  Think of your 
+PHASORS as a flashlight beam with great power close and less power further 
+away.  The close the enemy, the less power you need to destroy him.
+
+How to Use:
+   1. Select the PHASORS command using your Joystick.
+   2. Assign the energy (PHASOR UNITS TO FIRE?) using a three-digit number.  
+       You must enter three numbers for it to work.  The energy fired will be 
+       deducted from your ENERGY supply.
+   3. After entering the last (third) number by pressing the red controller 
+       button, the PHASORS will automatically fire.
+       You must fire once (press the red controller button) for each Alien in 
+       the quadrant.
+
+After firing your PHASORS you recieve a message saying ALIEN DESTROYED, or, 
+  1. How much energy hit the Alien (UNIT HIT).
+  2. The coordinates of the Alien that was hit.
+  3. How much energy the Alien has left.
+
+NOTE:  If more than one Alien is present, the energy will be divided between 
+  them.  Any undestroyed Aliens will fire back at you.
+
+HINT:  Use a note pad to calculate the minimum energy required to destroy 
+  Aliens.
+
+----
+12. Damage
+
+Aliens in your quadrant will fire on you only after they detect a maneuver on 
+your part.  Teir sensors are unable to detect when you use the STATUS or 
+GALAXY MAP, so these are the only "free" moves.  All other actions antagonize 
+the Aliens to return fire, which can damage one of five ship functions:
+  LAUNCHER
+  PHASORS
+  ENGINERS
+  SR SCAN
+  LR SCAN
+
+Your STATUS Report will show "OK" if a function is undamaged, a negative number
+will show how many STARDATES must be used up before that function is repaired.
+For example, if a ship function shows -3, then three STARDATES must be used up
+before you may use it again.
+
+Docking at a starbase repairs all damage to your ship, regardless of STARDATES.
+If you try to use a ship function, the computer will respnd with a buzz and 
+the command will not be entered.
+
+Your ENGINES are a special case when it comes to damage.
+  1. You cannot leave a quadrant with damaged ENGINES.
+  2. To fix damaged ENGINES, enter a WARP command for the same number of 
+      quadrants as STARDATES needed to repair the damage.
+  3. Instead of moving quadrants, your ship will move only the number of 
+      sectors entered for quadrants.
+  4. Although STARDATES and ENERGY will be deducted, your ENGINES will be 
+      repaired and you can leave the quadrant.
+
+----
+13. Status Report
+
+[table describing a typical status report ommitted. If you need help with this,
+ you probably will have trouble with the game anyway.]
+
+NOTE:  Calling up the STATUS Report does not use any ENERGY or STARDATES.
+
+----
+14. Starbase Docking
+
+Docking at a starbase repairs all damage to your ship.  This procedure provides
+you with a new supply of ENERGY(3000 units).  It also replaces all 9 of your 
+PHOTON Torpedoes.
+
+To dock at a starbase, WARP to the same quadrant and sector as the starbase.  
+This places you virtually on top of the starbase.
+
+There are always two starbases in the galaxy.  Starbases are randomly placed at
+the beginning of each mission.  They never move and are never destroyed.
+
+If your ship recieves damage while you are docked, you must back off the 
+starbase and then back on to it for repairs and refueling.
+
+----
+15. Aliens
+
+All Aliens start each mission with 99 units of energy.  If you leave an Alien 
+in a quadrant and then return later, he will be refueled to 99 units of energy
+(if damaged) and it is very likely the he will have moved.
+
+When you are in a quadrant with an Alien or Aliens*, you and the enemy take 
+turns:
+  1. You WARP into a quadrant containing an Alien, then you use your SR SCAN 
+       to find him -
+  2. The Alien will then fire at you.
+  3. You execute another command -
+  4. The Alien fires again.
+  5. You execute another command -
+  6. The Alien fires again, and so on.
+
+Each time an Alien fires at you, you recieve a report on how much of a hit you
+took as well as how much ENERGY you have left.
+
+*If there is more than one Alien in a quadrant with you, each Alien takes his 
+  turn before it becomes your turn.
+
+----
+16. Mission Summary
+
+You now have all the vital information necessary to begin your first missions 
+into space.  Remember that STARDATES are finite or limited for each mission.  
+If you run out of STARDATES without destroying all the Aliens, your mission 
+will be unsuccessful.
+
+Along the same line of thought, don't waste your WARPS.  They cost you 
+STARDATES, which are one of the most important miussion factors you have to 
+deal with.
+
+Check your STATUS Report and GALAXY MAP often.  They do not cost you any time 
+(STARDATES) or ENERGY, and they are important sources of information.
+
+Keep in mind where the starbases are and use them strategically as you journey
+through the galaxy.  Also, don't be in a hurry making your commands.  Careful 
+thought along with some minor calculations will be valuable assets in your 
+missions.  Good luck and see you in space.
+
+----
+17. Command Summary
+
+Ship Function              Cost
+------------            ----------
+GALAXY MAP                 FREE
+STATUS                     FREE
+PHOTON                     PHOTON & TURN
+PHASORS                    ENERGY & TURN
+WARP                       ENERGY, STARDATE(S) & TURN
+SR SCAN                    TURN
+LR SCAN                    TURN
+
+[course directions and screen colors ommitted]
+--------------------------------------------------------------------------------
+
+-------------------Atari 2600 Instructions Archive-------------------

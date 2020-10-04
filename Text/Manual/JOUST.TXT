@@ -1,0 +1,215 @@
+           An Exciting Medieval Battle From the Arcade Classic!
+                                 JOUST *
+
+* Joust is a trademark and (C) Williams 1982, manufactured under
+  license from Williams Electronics, Inc.
+
+
+NOTE: Always turn the console POWER switch OFF when inserting or removing
+an ATARI(R) Game Program(TM) cartridge. This will protect the electronic
+components and prolong the life of your ATARI Video Computer System(TM) game.
+
+
+KNIGHTS ON BIRDBACK!
+
+How on earth did you fall into this bizarre world? Look around you -- the
+sky is filled with knights astride enormous armored buzzards. These
+characters look mean, and the buzzards they ride don't look very friendly
+either.
+
+
+THE JOUST
+
+The objective of JOUST is to defend yourself and score points by unseating
+opponents in a joust. The winner of a joust is the rider whose mount is
+highest at the moment of contact. If the mounts are of equal height, the
+joust is a draw.
+
+Your opponents are the Buzzard Riders. There are three types, each more
+dangerous than the last: the Bounders (wearing red), the Hunters (wearing
+gray), and the Shadow Lords (wearing blue).
+
+When you unseat a Buzzard Rider in a joust, he and his mount turn into an
+egg and float ominously around the jousting arena. If you grab the egg,
+it will disappear and you'll score bonus points. If you don't grab the egg
+it will eventually hatch into an even more dangerous opponent.
+
+When you lose a joust, you'll materialize again on the bottom ledge -- if
+you have any lives remaining. Until you fully materialize, you're protected
+from attack. Once your bird is moved, however, you become fair game for a
+joust.
+
+
+THE FIRE PITS AND THE PTERODACTYL
+
+Fire pits are positioned on both sides of the lower ledge. After the second
+wave of game play the pits are uncovered, and any jouster who ventures too
+close may fall into the deadly lava.
+
+At certain times during the game, another menach -- the pterodactyl --
+appears. The pterodactyl will try to eat you, but if you hit it directly
+on its beak you'll destroy it and earn bonus points.
+
+
+SPECIAL WAVES
+
+When all Buzzard Riders have been unseated, a new wave of game play begins.
+The wave number is shown between rounds at the bottom of the screen. In
+some waves you can earn bonus points. These waves are:
+
+Survival Wave (one-player) or Team Wave (two-player) -- In the one-player
+version, you are awarded 3000 points if your player stays alive through
+the entire wave. In the two-player version, both players are awarded 3000
+points if neither player unseats the other.
+
+Gladiator Wave (two-player) -- The first player to unseat the other player
+is awarded 3000 points.
+
+Egg Wave -- All the Buzzard Riders begin this wave as eggs. Collect the
+eggs quickly before they hatch.
+
+Pterodactyl Wave -- The pterodactyl appears immediately on the screen in
+this wave.
+
+The upcoming wave is shown by a letter that appears at the lower right
+side of the screen: (S) Survival/Team Wave, (G) Gladiator Wave,
+(E) Egg Wave, and (P) Pterodactyl Wave.
+
+Each player's current score and number of lives left is shown at the
+bottom of the screen. You start the game with five lives and earn an
+additional life with every 20,000 points earned.
+
+
+SCORING
+
+Unseating a Buzzard Rider       Points
+Bounder                         500
+Hunter                          750
+Shadow Lord                     1500
+
+Collecting Eggs
+1st egg                         250
+2nd egg                         500
+3rd egg                         750
+4th egg and each                1000
+  egg thereafter:
+
+                                Points
+Losing a life                   50
+Unseating another               2000
+  player (two-player game)
+Survivng a Survival Wave        3000
+Cooperating in a Team Wave      3000
+Unseating another player        3000
+  in a Gladiator Wave
+Destroying a pterodactyl        1000
+
+
+USING THE CONTROLLERS
+
+Plug one controller into the LEFT CONTROLLER jack for one-player games;
+plug a second controller into the RIGHT CONTROLLER jack for two-player
+games. Hold the controller with the red fire button to your upper left,
+toward the television screen.
+
+Use your joystick to turn your bird right or left; use the red controller
+button to make your bird flap its wings. To make your bird fly, press the
+red button repeatedly.
+
+
+GAME VARIATIONS
+
+There are two game variations in Joust -- EASY and SKILLED. EASY game
+variations are identified by a teddy-bear symbol next to the score. In
+EASY game variations you face only one opponent at a time, and the
+Hunters, Shadow Lords, and pterodactyls do not appear.
+
+
+CONSOLE CONTROLS
+
+Use the GAME SELECT switch to choose the EASY or SKILLED skill level for
+one or two players.
+
+Press GAME RESET or the red button on your controller to restart the game.
+
+The DIFFICULTY SWITCHES have no function in this game.
+
+
+HELPFUL HINTS
+
+o  Play the EASY version first to learn how to control your bird. Try
+   keeping your flight steady and even, rather than bouncing off ledges.
+
+o  Learn the flight patterns of the Buzzard Riders. Try to predict when
+   an area should be avoided, or where to expect the next Rider.
+
+o  Clear the screen of opponents as soon as you can. If too much time
+   passes, the pterodactyl will appear.
+
+o  Collect eggs quickly. If you wait too long, they'll hatch into new
+   Buzzard Riders.
+
+o  Stay away from the sides of the jousting arena since a Buzzard Rider
+   or pterodactyl could appear unexpectedly.
+
+
+
+                                                           ATARI SERVICE
+                                              FACTORY AUTHORIZED NETWORK
+                                                          Call toll-free
+                                          (800) 672-1404 (in California)
+                                       (800) 538-8543 (Continental U.S.)
+
+
+   Atari welcomes your comments. Please address all correspondence to:
+
+                               Atari, Inc.
+                            Customer Relations
+                   1312 Crossman Avenue, P.O. Box 61657
+                       Sunnyvale, California 94086
+
+
+                GAME CARTRIDGE LIMITED NINETY DAY WARRANTY
+
+ATARI, INC. ("Atari") warrants to the original consumer purchaser that
+your ATARI(R) Game Program cartridge is free from defects in material or
+workmanship for a period of ninety days from the date of purchase. If
+any such defect is discovered within the warranty period, Atari's sole
+obligation will be to replace the cartridge free of charge on receipt
+of the cartridge (charges prepaid, if mailed or shipped) with proof of
+date of purchase at either the retail store where the cartridge was
+purchased or at one of the ATARI Regional Service Centers listed below.
+
+Atari, Inc.                   Atari, Inc.
+1312 Crossman Ave.            12 B World's Fair Dr.
+Sunnyvale, CA 94086           Somerset, NJ 08873
+
+This warranty shall not apply if the cartridge (i) has been misused or
+shows signs of excessive wear, (ii) has been damaged by being used with
+any products not supplied by ATARI, or (iii) has been damaged by being
+serviced of modified by anyone other than an ATARI Regional Service Center.
+
+ANY APPLICABLE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, ARE
+HEREBY LIMITED TO NINETY DAYS FROM THE DATE OF PURCHASE. CONSEQUENTIAL
+OR INCIDENTAL DAMAGES RESULTING FROM A BREACH OF ANY APPLICABLE EXPRESS
+OR IMPLIED WARRANTIES ARE HEREBY EXCLUDED.
+
+Some states do not allow limitations on how long an implied warranty lasts
+or do not allow the exclusions or limitations of incidental or consequential
+damages, so the above limitations or exclusions may not apply to you.
+
+This warranty gives you specific rights and you may also have other rights
+which vary from state to state.
+
+
+ATARI(R)
+A Warner Communications Company
+
+ATARI, INC., Consumer Division, 1312 Crossman Ave., P.O. Box 61657,
+Sunnyvale, CA 94086
+
+C019741-91 REV. A 2691
+
+(C) 1983 ATARI, INC. ALL RIGHTS RESERVED               Printed in U.S.A.
+
+-------------------Atari 2600 Instructions Archive-------------------

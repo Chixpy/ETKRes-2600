@@ -1,0 +1,307 @@
+<Picture>
+
+<Picture>Armor_Ambush.html<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+ARMOR AMBUSH
+
+INSTRUCTIONS
+
+
+
+
+
+
+
+
+(For two players)
+
+
+
+
+
+
+
+The object of the game is to knock out enemy tanks, while avoiding
+hits on your tanks. You ambush the enemy, swing into position and
+FIRE! 3 hits and your opponent's tank blows up. Each round in the
+battle takes place on a _different_ battlefield!. At the start both
+players have 25 tanks. Game's up when either player loses _all_ 25!
+
+
+
+
+
+For Your Atari* Video Game System
+
+
+
+
+
+(C) Mattel, Inc. 1982. Hawthorne, CA 90250. _PRINTED IN U.S.A._
+All Rights Reserved.
+
+
+
+
+
+*ATARI is a trademark of ATARI INC.
+
+
+
+
+
+
+                THE GAME
+
+
+
+
+
+You and your opponent are rival tank commanders! You each have two
+tanks per round, with a total of 25 in the game. _Switch_ command
+from tank to tank. Keep your opponent on the run. (Remember that your
+other tank is vulnerable while you are fighting [with] the second
+tank!) The battlefields you fight over will change again and again.
+Trees, buildings, water hazards -- will _all_ be in _different_
+positions every new round (after either player has lost both tanks
+to enemy fire!) Battle goes on until one side has lost _all 25 tanks_.
+
+
+
+
+
+                THE CONTROLLERS
+
+
+
+
+
+Use your joystick controllers with this game.    {drawing of hands
+Be sure the controller cables are securely        holding a joystick}
+plugged into the back of your game console.
+Each player holds the controller so that the
+red FIRING BUTTON is to the UPPER LEFT.
+
+
+
+
+
+
+                      (T)                       MOVING YOUR TANKS:
+                  MOVE FORWARD
+              __________________                Push Joystick FORWARD to move
+             |( )     ##        |               tank forward.
+             |( )     ##        |
+             |        ##        |               Push Joystick RIGHT to turn
+(L) TURN     |        ##        | (R) TURN      tank CLOCKWISE.
+COUNTER-     |##################| CLOCKWISE
+CLOCKWISE    |        ##        |               Push Joystick LEFT to turn
+             |        ##        |               tank COUNTER-CLOCKWISE.
+             |        ##        |
+             |________##________|               Push Joystick BACK to SWITCH
+                                                COMMANDS, fight [with] your
+                      (B)                       2ND TANK.
+                   SWITCH TO
+                  OTHER TANK
+
+
+
+
+
+
+IMPORTANT: Tanks WILL NOT BACK UP. They will merely slide around building
+and continue in a forward direction. To reverse direction, you must MOVE
+in a CIRCLE. (Push joystick RIGHT or LEFT.)
+
+
+
+
+
+                MANEUVER FOR FFIRING POSITION!
+
+
+
+
+
+Swing your tank around until your gun barrel points directly at the enemy
+tank. Move within RANGE. (Very long shots will NOT reach.)
+
+
+
+
+
+                PRESS FIRING BUTTON! ADJUST FOR RECOIL!
+
+
+
+
+
+Every time you fire, your own tank will recoil, knocking your aim off
+target. Maneuver for the next shot. Line up your gun barrel AGAIN!
+(Watch the path of your shots -- dots crossing the screen.)
+
+
+
+
+
+                DIFFICULTY SWITCHES
+
+
+
+
+
+{picture of back of 2600A, LEFT DIFFICULTY SWITCH highlighted in red}
+
+
+
+
+
+Only the LEFT Difficulty Switch makes any difference in game play. In
+"B" position your shots DO NOT bounce (ricochet) off buildings, trees,
+etc. In "B" position, a miss is juust a miss.
+
+
+
+
+
+In "A" position, shots DO bounce off. They MIGHT even boomerang right
+back and KNOCK OUT YOUR OWN TANK! In "A" position, you'll have to be
+_careful_ of your shots. A miss and an unlucky rebound could be trouble.
+
+
+
+
+
+                LET'S START THE ACTION!
+
+
+
+
+
+1. Depress RESET button.               {picture of opening/status screen;
+                                             BLACK: 25
+{drawing of GAME RESET switch}               BLUE: 25                    }
+
+
+
+
+
+
+{drawing of a screen: grass with       2. Bring up BATTLE MAP. Either
+road, buildings, water, trees,         player pushes red button to select
+2 black tanks, and 2 blue tanks.       map
+aka Battle Map}
+
+
+
+
+
+{drawing of hand holding joystick,     3. Both players WORK JOYSTICK [to]
+ RED FIRING BUTTON highlighted}        maneuver tanks, aim and FIRE! (Press
+                                       red FIRING BUTTON.)
+
+
+
+
+
+                                       To bring up NEW MAP, after one player
+                                       has lost both tanks, push RED BUTTON
+                                       down. New map and 4 new tanks will
+                                       appear. Begin next round.
+
+
+
+
+
+                WINNING TIPS
+
+
+
+
+
+1. WATCH YOUR TERRAIN. Tanks move FAST on roads. SLOWER through trees.
+SLOWEST through a water hazard. (Tanks will NOT go through BUILDINGS.
+Nor can you shoot through them!)
+
+
+
+
+
+2. PRACTICE YOUR AIM. Use gun barrel for sighting BEFORE you shoot.
+Remember, enemy tanks will not stand still. Adjust your aim. (Watch
+the DOTS... the path of your shots.)
+
+
+
+
+
+3. ADJUST FOR RECOIL. Your own tank will change direction every time
+you shoot. Hits on the enemy's tanks will also cause them to change
+direction.
+
+
+
+
+
+4. PRACTICE COORDINATING the JOYSTICK with the FIRE BUTTON. (Remember:
+your tank will _not_ turn like a swivel-hip halfback. It will turn in
+stages, deliberately. In other words, a tank will move like a tank!)
+
+
+
+
+
+5. SWITCH TANKS and cross up the other player! If things are getting a
+little too hot, pull back on the JOYSTICK and fight with your OTHER
+tank.
+
+
+
+
+
+6. GET IN THE FIRST HIT. Get the jump! Get into position FIRST. Start
+shooting FIRST. Surprise is a great ally!
+
+
+
+
+
+
+IMPORTANT: Be sure to turn your game unit off when not in use.
+
+
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
+
+

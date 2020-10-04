@@ -1,0 +1,299 @@
+SUPER BREAKOUT(R)
+ATARI(R) GAME PROGRAM(tm) INSTRUCTIONS
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION
+2. GENERAL DESCRIPTION/GAME OBJECTIVE
+3. USING THE CONTROLLERS
+4. CONSOLE CONTROLLERS
+5. GAME VARIATIONS AND SCORING
+6. HELPFUL HINTS
+7. GAME SELECT MATRIX
+
+1. INTRODUCTION
+
+Imagine you're in a one-man space shuttle travelling through the heavens at
+the speed of light.  you and your tiny ship are totally engulfed in darkness,
+except for the luminance of an occasional passing star.
+
+Suddenly, without warning, there's a brilliant flash straight ahead.  You
+check the radar screen.  Nothing.  Pretty soon there's another flash, and
+another.  Next thing you know the flashes have turned into one gigantic
+force field of some kind and it's dead ahead.  You check the radar screen
+again, still nothing.
+
+The colors in this mysterious force field are so bright, they're almost
+blinding.  And they seem to be in layers.  But the stranges thing is
+that nothing shows up on the radar screen.  What could that mean?  Is it
+possible to travel through this mysterious force field or will you crash
+and be destroyed?  And what about the layers?  If you make it through one,
+can you make it through the next, and the next? 
+
+It's decision time and there are only a few seconds to think about it.
+Turn back or blast ahead and try to make it through the layers of the
+brightly colored force field.  It's up to you.
+
+2. GENERAL DESCRIPTION/GAME OBJECTIVE
+
+SUPER BREAKOUT(R) contains the following game variations:
+
+BREAKOUT
+DOUBLE
+CAVITY
+PROGRESSIVE
+CHILDREN'S VERSIONS
+
+Each game variation may be played by one or two players, with the exception of
+PROGRESSIVE, which is for one player only.  A detailed description of each
+game is given in Section 5--GAME VARIATIONS.
+
+The object in all of the games is to keep the ball in play (as you knock out
+bricks) to score the highest amount of points possible, or to score more
+points than your opponent.
+
+Points are scored by using the Paddle Controller to hit the ball into the rows
+of bricks on the screen. (See Section 3--USING THE CONTROLLERS.)  The bricks
+disappear from the screen when hit, one at a time.  The point value of the
+bricks in all games (except PROGRESSIVE) is defined by the eight row numbers.
+(See Section 5--GAME VARIATIONS AND SCORING for a specific breakdown of
+scoring.)
+
+There are eight exciting new game sounds programmed into SUPER BREAKOUT.
+One of these eight sounds is randomly selected each time you begin a new game.
+(When you press game reset, you will hear a sample of the sound selected for
+that game.)
+
+3. USING THE CONTROLLERS
+
+Use one set of Paddle Controllers with this ATARI Game Program(tm) cartridge.
+Be sure to plug the controller cables firmly into the LEFT CONTROLLER jack at
+the back of your ATARI Video Computer System(tm) game.  Hold the controller
+with the red button to your upper left toward the television screen.
+
+See Section 3 of your Video Computer System Owner's Manual for further
+details.
+
+NOTE: If unsure about which controller to use, turn the knob on each Paddle
+Controller to see if the paddle moves on the screen.
+
+Push the button on the controller to serve the ball.  To make contact with the
+ball and keep it in play, turn the knob on the controller--the paddle will
+move horizontally back and forth across the bottom of the screen.  Turn the
+knob clockwise to move the paddle right, turn it counterclockwise to move it
+left.
+
+The angle the ball rebounds off the paddle depends on which part of the
+paddle it hits.
+
+The paddle is divided into four sections.  During the first eight hits, the
+ball will bounce off the paddle as shown in A, Figure 3.  After the eighth
+hit, the ball will react as shown in B.  The ball will appear to speed up
+slightly at this point.  Diagram C in Figure 3 shows how the ball reacts 
+after the 16th hit.  After the 48th hit, the ball will speed up again and
+bounce the way it is shown in D, except in the Children's Versions (Games 8
+and 9).
+
+The ball will also speed up after hitting any bricks in the last four rows
+(or the last eight rows in PROGRESSIVE).
+
+Whenever you break through the last row of bricks and the ball makes contact
+witht he boundary at the top of the playfield, the paddle is reduced to half 
+its original size(except in the Children's Versions).  In DOUBLE and CAVITY,
+both paddles are reduced in size.  The paddle or paddles return to normal
+size when a new turn begins.
+
+Each turn ends when the ball is missed and disappears off the bottom of the
+playfield.  In games with two or three balls in play, a turn ends when the
+ball is missed.
+
+4. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+Use the game select switch to choose the game you wish to play.  If you press
+and hold down this switch, the game numbers automatically change at the top,
+left side of the screen. (See Figure 4.)  There are 9 game numbers in total.
+For a breakdown of the GAME VARIATIONS, see Section 5.
+
+GAME RESET SWITCH
+
+After you have selected the game number you wish to play, depress the game
+reset switch to start the game.  This switch may also be used to reset a
+game at any time.  When you depress the game reset switch, you will hear
+a sample of the scoring sound to be used during the game.
+
+DIFFICULTY SWITCHES
+
+The difficulty switches control the size of the paddle in all games.  In the
+b or beginner position, the paddle is twice the size it is in the a position.
+The a position is for experienced SUPER BREAKOUT players.
+
+Use the left difficulty switch for one-player games.  For two-player games,
+the first player uses the left difficulty switch; the second player uses
+the right difficulty switch.
+
+NOTE: Remember that the paddle reduces to half its original size when the ball
+breaks through the last row of bricks and hits the boundary at the top of
+the playfield.
+
+TV TYPE SWITCH
+
+On a color television, the game will appear in color; on a black-and-white
+television, the game will be in black-and-white.  The tv type switch is not
+used.
+
+5. GAME VARIATIONS AND SCORING
+
+BREAKOUT(Games 1 and 2)
+
+Games 1 and 2 are regular BREAKOUT.  Game 1 is for one player, Game 2 is
+for two players.
+
+As in all two-player games, each player has his own wall of bricks(and
+corresponding score), which is displayed on the screen during that player's
+turn.
+
+Each wall of bricks contains eight rows.  Bricks in the first two rows are
+worth one point each.  The third and fourth row bricks are worth three points
+each.  The fifth and sixth row bricks are worth five points each, and the
+seventh and eighth row bricks are worth seven points each. (See Figure 5.)
+
+If you knock out all the bricks(within five turns), a new wall of bricks will
+appear on the screen.  Each wall of bricks is worth 416 points.
+
+There is no limit to the number of times a new wall of bricks can be reset 
+during a game.
+
+If a tie occurs in a two-player game, the player reaching that score in the
+fewest turns is the winner.  The maximum score for BREAKOUT is infinite since
+the wall of bricks will reset indefinitely.  However, since the screen display
+has room for only four digits, a player's score will reset to 0000 if it 
+exceeds 9999.
+
+DOUBLE(Games 3 and 4)
+
+Game 3 is DOUBLE BREAKOUT for one player.  Game 4 is DOUBLE BREAKOUT for two
+players.
+
+The playfield in DOUBLE is the same as the BREAKOUT playfield, except that
+there are two paddles and two balls served.  The paddles are stacked one on
+top of the other.  The point value of the bricks is essentially the same as
+BREAKOUT except when there are two balls in play.  When this occurs, each
+brick is worth twice its normal amount.
+
+If you miss the first ball served, it counts as a miss and goes against your
+allotted serves(turns) per game.  Otherwise, the second ball is served.  If
+you miss the second ball(after hitting the first ball), play continues until
+you miss the first ball.  After both balls are in play(have been hit at least
+once), one may be missed while the other remains in play.
+
+The wall of bricks will reset an infinite number of times after the firtt wall
+is knocked out.
+
+The maximum score for DOUBLE BREAKOUT is infinite.
+
+CAVITY(Games 5 and 6)
+
+Game 5 is CAVITY BREAKOUT for one player.  Game 6 is CAVITY BRAKOUT for two
+players.
+
+The CAVITY playfield contains slightly fewer bricks to make room for two
+"cavities", each of which contains a ball.  When the game begins, the balls
+bounce inside each cavity but are held captive for the time being while a
+third ball is served.  There are two paddles, the same as in DOUBLE.
+
+Point values of the bricks are the same as the other games(defined by rows)
+when one ball is in play.  When enough bricks are removed to release a 
+captive ball, each brick is then worth twice its normal amount when hit.
+If the third ball is freed, bricks are worth triple their normal amount
+when hit.
+
+If any one of the balls is missed, the scoring returns to double points.
+If the second ball is missed and only one ball remains in the playfield,
+the point value of the bricks returns to normal.
+
+The wall of bricks will reset an infinite number of times, therefore the
+maximum score possibility for CAVITY BREAKOUT is infinite.
+
+PROGRESSIVE(Game 7)
+
+Game 7 is PROGRESSIVE BREAKOUT for one player only.
+
+The playfield in PROGRESSIVE is set up somewhat differently than BREAKOUT.
+When the game begins, the playfield contains four rows of bricks at the top
+of the screen, followed by four blank rows, and then four more rows of bricks.
+The point value of the bricks is defined by row numbers, the same as in
+BREAKOUT.
+
+After game play begins, the brick walls "progress" toward the bottom of the
+screen.  As the bricks are knocked out and the walls progressively move down
+toward your paddle, new bricks enter the playfield at a progressively faster
+rate.  Four rows of bricks are always separated by four rows of blanks.  As
+the brick walls progress downward, their colors change, which gives them a
+new point value.
+
+The maximum score for PROGRESSIVE is infinite.
+
+Special PROGRESSIVE bonus: When a brick progresses to the last row at the 
+bottom of the screen(which places it very close to your paddle), it will
+stay there for a specified amount of time and then disappear.  If you hit
+such a brick squarely(in the center), before it disappears, you may
+receive special bonus points.
+
+CHILDREN'S VERSIONS(Games 8 and 9)
+
+Game 8 is a one-player Children's Version.  Game 9 is a two-player Children's
+Version.  Both games are regular BREAKOUT.
+
+The game play in these versions is programmed at a slower rate.  The ball
+does not speed up after hitting bricks in the last four rows.  Also, the
+paddle does not reduce to half its original size when the ball reaches the
+top boundary of the playfield.
+
+Scoring and other game play characteristics are the same as normal BREAKOUT.
+
+6. HELPFUL HINTS
+
+When playing any of the SUPER BRAKOUT games, your best bet is to break
+out through the right or left corner of the playfield.  The corners seem to
+be the easiesst points at which to establish a "groove".  Beginners should
+use the larger paddle size. (Set the appropriate difficulty switch to the b
+position.)
+
+Be prepared for the ball to return at a faster speed when it hits the bricks
+in the last four rows(or the upper rows of bricks in PROGRESSIVE).  You can
+miss a lot of shots simply by not being prepared.
+
+Don't panic when the ball reaches the top boundary of the playfield and your
+paddle reduces to half its original size.  All it takes at this point to keep
+the ball in play is a little more concentration, and a finer touch on the 
+Paddle Controller.  In time you'll have no trouble at all keeping the ball in
+play when your paddle is reduced in size.
+
+Learn to anticipate where the ball is going to be.  Anticipation can be a
+key factor, particularly when the ball bounces off one of the side boundaries
+near the bottom of the playfield.  When the ball is travelling at high speed,
+you won't always have time to react and move your paddle to the right
+position.  Your paddle will have to be in the correct position to advance.
+The only way to accomplish this is to anticipate where the ball will be.
+
+7. GAME SELECT MATRIX
+
+GAME NUMBER                  1 2 3 4 5 6 7 8 9
+----------------------------------------------
+One-Player                   X   X   X   X X
+Two-Player                     X   X   X     X
+Breakout                     X X
+Double                           X X
+Cavity                               X X
+Progressive                              X
+Children's Versions                        X X
+----------------------------------------------
+
+ATARI, INC., Consumer Division
+P.O. Box 427
+Sunnyvale, CA 94086
+ 
+
+-------------------Atari 2600 Instructions Archive-------------------

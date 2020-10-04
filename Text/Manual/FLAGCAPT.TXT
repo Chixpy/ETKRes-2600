@@ -1,0 +1,197 @@
+<Picture>
+
+<Picture>Flag_Capture<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+Flag Capture
+
+Use your Joystick Controllers with this Game Program. 
+Be sure the controllers are firmly connected to your Video Computer 
+System. See the Owner's Manual for details. Hold the controllers 
+with the red button to your upper left towards the television screen. 
+For one-player games, use the left controller.
+
+Note: To prolong the life of your Atari Video Computer System and protect 
+the electronic components, the console unit should be OFF when inserting 
+or removing a Game Program
+
+
+CONTROLLER ACTION
+Each player controls an explorer. Your object is to find the flag using 
+your explorer. The left controller player's explorer starts in the upper 
+left corner square; the right controller player's explorer starts in the 
+lower right corner square.
+
+Explorers can move from square to square. During your turn, you can move 
+your explorer to any square position. To move the explorer up or down the 
+maze, move the Joystick up or down. To move the explorer to the right or 
+left, move the Joystick to the right or left. Move the explorer to diagonal 
+squares by moving the Joystick in one of the four diagonal directions you 
+want.
+
+
+NOTE: Your explorer cannot move occupied by an opponent's explorer.
+
+When you are satisfied with the position of your explorer press the 
+red controller button. Any of the following objects will appear on 
+the square:
+
+A Direction Clue.
+An arrow may appear which will point to the direction of the flag. 
+Here are a few examples of Direction Arrows. 
+The shaded area refers to the location of the flag.
+
+A Number Clue.
+A number may appear which will refer to the distance between your 
+explorer and the flag. For example, if the Number 2 appears, the flag 
+is somewhere on the perimeter of a 2-square radius. Here are a few 
+examples of Number Clues. The shaded area refers to the possible 
+location of the flag.
+
+A Bomb.
+Curses! A trap has been set and
+you fall for it. A bomb explodes under your explorer. Now, begin again 
+at the starting square.
+
+The Flag.
+Good Show! You've found the flag.
+
+EXPLORING CONDITIONS
+Every game is not the same. Each features different variations. 
+For a description of these variations, continue reading.
+
+TWO PLAYER GAMES
+-   Free-For-All:
+Both players start moving their explorers across the maze simultaneously. 
+No need to take turns. Pay attention to your opponent's clues if you can. 
+The first player to find the flag scores a point.
+
+-  Double Two-Player:
+Each player takes a turn to move his explorer and uncover a clue. 
+The first player to find the flag scores one point.
+
+-Solo Two-Player:
+In these games, one player continues to take turns until the flag is 
+found.  Then it's the opponent's turn to find the flag. The object is 
+to score the lowest number of points. A player scores one point each 
+time he pushes the controller button and receives a clue.
+
+
+ONE PLAYER GAMES
+
+- One-Player Timed:
+The clock at the top of the screen times out at 75 seconds. 
+That's how much time you have to find the flag as many times as possible. 
+Once you find a flag, start over again.
+
+STATIONARY FLAG
+No surprises here. The location of the flag remains the same throughout 
+the game. Just study the clues carefully.
+
+MOVING FLAG
+Fast thinking and a little luck are the secrets to finding a Moving Flag. 
+Each time a player takes a turn without finding the flag, the flag moves 
+ONE square. The Flag continues to move in the SAME direction until a 
+player finds it. The flag moves in a vertical, horizontal or diagonal 
+straight line.  For example, after two turns are taken, the flag has 
+moved in a diagonal straight line from point A to point C (two squares).
+
+-WRAPAROUND-
+
+EXPLORERS 
+In all games the explorers can move off the maze and appear on the 
+opposite side. For example, move the explorer horizontally off the right 
+side, and it appears on the first square of the same row on the left side. 
+(See the following diagram). Note that the vertical and diagonal explorer 
+movement is the same as flag movement reviewed in the following section.
+
+Moving Flag
+The Wraparound features can also apply to the Moving Flag. Some games will 
+offer a Moving Flag with Wraparound. There are three ways the flag's 
+movement is controlled by Wraparound:
+
+Horizontal: 
+When the flag is moving in a horizontal straight Iine, it  may eventually 
+move off the screen. When this occurs, the flag reappears at the opposite 
+side of the screen in the same row.
+
+Vertical:  
+When the flag is moving in a vertical straight line, it may move off the 
+screen.   It will reappear at the opposite side in the same column of 
+squares.
+
+Diagonal: 
+The diagonal movement of the flag differs from the horizontal and vertical 
+Wraparounds. When the flag moves off the screen, imagine it moving one 
+more square up and over. Remember this concept and you will understand 
+the diagonal patterns of movement.
+
+Moves 1-3: 
+The flag moves VERTICALLY off the top side and reappears at position 4 
+on the bottom side. The flag has theoretically traveled one square up 
+and over.
+
+Moves 4-7: 
+The flag moves HORIZONTALLY off the right side and reappears at position 
+8 on the left side. The flag has theoretically traveled one square up and 
+over.
+
+WALL
+Games that feature Moving Flags can also feature a Wall. The Wall is an 
+invisible boundary around the maze. When a Moving Flag makes contact with 
+the Wall, it will "bounce" into another square. The Moving Flag bounces 
+at the same angle that it approached the Wall.
+
+SCORING
+A player scores one point for each flag he finds during Free-For-All 
+and Double Two-Player games. The first player to score 15 points wins 
+the game.
+During Two-Player Solo games, each player scores the number of turns 
+it takes to find the flag. For example, if a player needs six clues 
+or turns to find the flag, his score is six. The first player to score 
+75 points LOSES the game. In timed one-player games, the player scores 
+one point for each time he finds the flag. He races against the clock 
+to score as many points as possible in 75 seconds.
+
+Note:  In two-player games, the right player's score appears in the 
+upper right playfield corner. The left player's score appears in the 
+upper left corner.
+
+In one-player games, the time appears in the upper right corner of 
+the playfield. The player uses the left controller, and the score 
+appears in the upper left playfield corner.
+
+In Two-Player Solo games (games where players try to score the lowest 
+number of points), a player scores one point for each flag when the 
+Difficulty is in the "B" position. In the "A" position, a player scores 
+two points for each flag.
+
+In two-player Free-For-All games, the moving action of a player's 
+explorer is slowed down when the Difficulty Switch is in the "A" position.
+
+
+
+This document typed by Steve Reed, SteveR@ior.com.
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

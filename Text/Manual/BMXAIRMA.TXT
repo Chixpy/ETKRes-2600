@@ -1,0 +1,356 @@
+<Picture>
+
+<Picture>BMX_Air_Master.html<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+BMX Air Master
+
+Instruction Manual for the Atari 2600
+
+
+
+TNT Games
+
+
+
+
+
+Thank you for purchasing BMX Air Master.  Please read this instruction
+manual carefully so that you can fully enjoy this game.
+
+
+
+
+
+BMX Air Master is a one or two player game.
+The main goal is to perform as many ticks and combinations and score
+as many points as possible.  Your attempts for tricks per game are
+limited so you've got to be good.
+
+
+
+
+
+There are three different events to the game:
+
+
+
+
+
+1.  Half Pipe
+
+2.  Quarter Pipe
+
+3.  Ramp Jump and Landing.
+
+
+
+
+
+
+GETTING STARTED
+
+===============
+
+
+
+
+
+
+BMX Air Master has 4 modes:
+
+
+
+
+
+1.  Practice standard
+
+2.  Practice advanced
+
+3.  Arcade standard
+
+4.  Arcade advanced
+
+
+
+
+
+
+To select the mode, use the select button on the console or the left
+joystick.  To begin a game, use the reset button on the console of the
+fire button on the joystick.
+
+
+
+
+
+In a 2 player game, use the right difficulty switch to choose between
+using one or two joysticks (only one player may play at one time).
+
+
+
+
+
+Practice Mode
+
+-------------
+
+If you're going to be great, you've got to practice.  This mode allows
+you to switch and practice events.  After you have completed the
+selected event, the game will reset and allow you to try another
+event.  Press right on the joystick to select an event, then press the
+fire button to start.
+
+
+
+
+
+Arcade Mode
+
+-----------
+
+Now it's time to test your skill.
+
+
+
+
+
+The idea here is to survive through as many events as you can.  When
+your lives are gone, the game is over.  In each round after the ramp
+jump has been completed you will be awarded an extra man.  In the next
+round the difficulty will increase.  The number of lives is indicated
+at the bottom of the screen, L = Lives.
+
+
+
+
+
+GAME PLAY
+
+=========
+
+
+
+
+
+
+Half Pipe
+
+---------
+
+To start the stage press the fire button.  Pedal your bike by moving
+the joystick left and right.  You will need to pick up speed fast in
+order to get into the air.
+
+
+
+
+
+The bike cannot leave the ramp while backwards.  Use the fire button to
+turn the bike around.  While you're in the air:  Try to perform as many
+tricks as possible (see chart).  The time limit is 90 seconds; when
+time is running out a tone will warn you.
+
+
+
+
+
+Quarter Pipe
+
+------------
+
+This even is similar to the half pipe, but this time you have only 3
+attempts.  Use the ramp to gain speed and concentrate on a certain
+trick or combo.
+
+
+
+
+
+The Ramp Jump
+
+-------------
+
+This one's bigger than the fountain at Caesars!  You've got three
+chances to make the jump.  Again, the idea is to perform as many aerial
+tricks as possible for points. 500 bonus points will be awarded by
+landing on the ramp.
+
+
+
+
+
+SCORING:  Points are awarded each time a trick is performed.  More
+points are awarded the first time a trick is performed in each event.
+Combinations of tricks are possible and bonus points can be earned
+(see chart).
+
+
+
+
+
+SCORING
+
+=======
+
+
+
+
+
+
+Combinations
+
+------------
+
+
+
+
+
+                1        2       3     4       5       6       7        8
+
+------------------------------------------------------------------------
+
+Loops(*)      720+      180     360   720+    720+     0      720+     720+
+Rotate       Do not      1       3+  Do not     3+     3+    Do not      3+
+Flip         Do not   Do not     3+  Do not     3+     3+    Do not      3+
+Feet                  Must do        Must do        Must do           Must do
+Hands        Must do                 Must do        Must do  Must do  Must do
+Move Forward          Must do        Must do        Must do  Must do  Must do
+X-Up         Must do                 Must do        Must do           Must do
+Bounces                                 1                       3+       3+
+Points        1000     1000    1000   1000    1500   2000     2000     2000
+Next Time      500      500     500    500     700   1000     1000     1000
+
+------------------------------------------------------------------------
+
+(+ = or more)
+[(*) Typist's Note:  Loops are measured in degrees (i.e. 180 is 180 degrees).]
+
+
+
+
+
+
+
+
+Trick Points
+
+------------
+
+
+
+
+
+
+
+                      Next                                   Next
+                 1st  Time                              1st  Time
+---------------------------        -------------------------------
+Loop Backwards   500    20         Move Forward         500   200*
+Loop Forwards    500    20         X-Up                 500   200*
+Rotate           500   100         Bounce               200   200
+Flip             500   100         Ramp Joystick Up     500   500
+Feet             500   200*        Ramp Joystick Down   500   500
+Hands            500   200*        Land on Ramp         500   500
+---------------------------        (Jump Event)
+                                   -------------------------------
+*Per Second
+
+
+
+
+
+
+Bonus Points:  (Awarded at the end of an event.)
+1000 for each combination performed (8 maximum)
+100 for each type of trick performed (8 maximum)
+
+
+
+
+
+HINTS
+
+=====
+
+
+
+
+
+
+Remember that a safe landing is very important -- while in the air,
+prepare your bike by making sure the wheels land on the ramp and not
+your head.
+
+
+
+
+
+When leaving the half or quarter pipe ramp, hold the joystick up or
+down.  This will move your player left or right.  By doing this you can
+actually land on the top of the ramp.
+
+
+
+
+
+When the first 3 events are completed, round two will begin again with
+the half pipe.  This difficulty will increase.
+
+
+
+
+
+Harder Stages
+
+-------------
+
+As difficulty increases you must land on the ramps at the correct
+angle. make sure you land correctly.
+
+
+
+
+
+Also, the pedal force and gravity will increase so you must pedal
+harder to reach the highest areas.
+
+
+
+
+
+------------------------------------------------------------------------
+
+Converted to html by gchance@ecst.csuchico.edu.
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
+
+

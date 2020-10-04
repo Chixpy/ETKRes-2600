@@ -1,0 +1,206 @@
+<Picture>
+
+<Picture>Beany_Bopper<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+BEANY BOPPER: Game manual (for the 2600, by 20th Century Fox)
+-------------------------------------------------------------
+
+[cover photo:  A huge purple eyeball, which seems to have evolved arms
+and legs with big two-toed feet.  The eyeball has a raygun in each hand,
+and is blasting away at four flying red-and-white-striped beany hats
+that are scowling at him.  Whatever drugs they're on, boost the dosage.]
+
+BEANY BOPPER
+
+TO SET UP:
+
+Set up your video game system and left joystick controller as instructed
+in your manufacturer's manual.  Turn the power OFF and insert the
+Beany Bopper game cartridge.
+
+TO BEGIN:
+
+Turn the power ON and choose the play option you wish.  (The difficulty
+switches are not used in Beany Bopper.)  Press the joystick button or
+the Game Reset lever to leave the "Demo Mode" and get ready to start 
+Boppin'!
+
+THE OBJECTIVE:
+
+Your job is to capture Beanies, Bouncing Orange Eyes, and a crazy variety
+of Falling Objects.  Beanies are devious and deadly and must be 
+shot with the Bopper's stun gun before they can be captured.
+
+[screen shot:  Reserve Boppers are the purple eyeballs at the top of the
+screen.  Obstacles are the large blocks scrolling down the playfield. 
+The Bopper is a small purple eyeball, always looking in its direction of
+movement (as are the extras up top -- nice touch.)  The beany is a small
+pinkish hemisphere with a propeller and a frown.  Finally, the bomb dropping
+down the middle is a Bonus Object, and is safe to touch.]
+
+THE CONTROLS:
+
+Tilt the joystick to zoom your Bopper around the screen.  Press the
+joystick button to fire the Bopper's amazing stun gun.  Press once for
+a single long range blast or hold the button down for short range rapid fire.
+A hit from the stun gun will stun a mean Beany and allow him to be caught.
+To capture the stunned Beany, just zoom your Bopper over and touch it.
+None of the other objects have to be stunned to be caught, but a 
+hit from the stun gun will slow them down too!  You can pause and start
+the game at any time by pressing the Color - B/W lever.
+
+BOPPERS:
+
+Each game begins with four Boppers, one in play and three in reserve.
+The number of reserve Boppers is shown at the top of the screen.  If you
+bag four beanies in a row without losing a Bopper, you'll get a bonus
+Bopper!  You can never have more than three Boppers in reserve.  Your
+Bopper need not fear touching unstunned Objects or Orange Eyes, but
+contact with a moving Beany will disintegrate your Bopper.  The game ends
+when all of your Boppers are destroyed.
+
+[screen shot:  A Bopper has been hit, and is disintegrating into little
+purple dots at lower left.  The reserve Bopper counter is doing the same,
+and is about to decrease by one.  A Beany and a falling airplane are
+taking in the action to the right.]
+
+BEANIES, BOUNCING ORANGE EYES AND FALLING OBJECTS:
+
+You will always be boppin' two items at a time beginning with two
+Beanies.  Each time you capture a Beany, a Falling Object will drop from
+the top of the screen.  The first object to appear is a Bomb.  At the
+higher levels you'll be boppin' Airplanes, Parachuting People, People without
+parachutes and Faces.  
+
+When you have bopped four Beanies without losing a Bopper, a Bouncing Orange
+Eye will appear.  (You will receive a Bonus Bopper at the same time, providing
+you do not already have three in reserve.)  Each Falling Object or Orange Eye
+you can catch will be replaced with another Object or Orange Eye.  If a 
+stunned Object or Beany is allowed to drop off the bottom of the playing
+field, it will be replaced with a meany Beany.  If a Bouncing Orange Eye
+touches the bottom of the screen, it too will be replaced by a Beany.
+
+PLAY OPTIONS:
+
+Choice of Play Options determines how the Beanies move about the playing
+field.  Use the Game Select lever to go from one option to the other.  
+
+OPTION 1 = Beanies bounce off the obstacles.
+
+OPTION 2 = Beanies fly freely through the obstacles.  Option two is
+   indicated by a long bar which appears at the top of the screen.
+
+LEVELS OF CHALLENGE:
+
+There are seven Levels of Challenge in Beany Bopper which can only
+be reached by accumulating points.  As you progress, the stunned Beanies,
+Objects and Orange Eyes will drop off the screen at a faster rate.
+
+LEVEL 0 =  0-999 points
+LEVEL 1 =  1,000 - 2,999 points
+LEVEL 2 =  3,000 - 4,999 points
+LEVEL 3 =  5,000 - 9,999 points
+LEVEL 4 = 10,000 - 19,999 points 
+LEVEL 5 = 20,000 - 29,999 points
+LEVEL 6 = 30,000 - 49,999 points
+LEVEL 7 = 50,000 + points
+
+[Note: There's another surprise at 100,000 points, and perhaps more...  -JEC]
+
+[Screen shot:  A long orange bar is at the top of the screen, and the Beany
+is preparing to fly right through an obstacle; option 2 is active.
+The Bopper is about to blast a Bouncing Orange Eye.]
+
+SCORING:
+
+STUNNED ITEMS
+
+Beany = 20 points
+Falling Object = 20 points
+Bouncing Orange Eye = 100 points
+
+CAPTURED ITEMS
+
+Beany = 100 points plus the Challenge Level Number
+Falling Object = 100 to 490 points, Depending on the Challenge Level
+Bouncing Orange Eye = Twice the Value of an Object at that Level.
+
+The score is displayed at the bottom of the screen.  Be sure to record
+your best boppin' socres on the back of this booklet!
+
+HINTS FROM THE DESIGNER...
+
+You can shoot a longer distance if you don't hold the joystick button down.
+Keep an eye on your reserve boppers and don't be too greedy with points.
+You may have to let some objects fall off the screen in order to have the
+opportunity to sack four more Beanies and earn a bonus Bopper!
+
+
+SOON TO BE RELEASED BY FOX VIDEO GAMES:
+
+GAMES BASED ON HIT MOVIES!
+
+PORKY'S -- More Fun Than A Greased Pig!
+  A Mel Simon Production
+
+SIX PACK -- Fast Lane Fun!
+  A Lion Share Production
+
+9 TO 5 -- Take This Game And Play It!
+  A 20th Century Fox Film Corporation Production
+
+MEGAFORCE -- Where Action Speaks Louder Than Words!
+  A Raymond Chow Production
+
+MORE FAST ACTION ENTERTAINMENT!
+
+TURMOIL -- A Topsy-Turby Rapid Reflex Test!
+  Program And Audio-Visual @ 1982 Sirius
+
+
+BEST BOPPERS
+
+[grid for high scores]
+
+Programmed by Grady Ward
+Program and Audio Visual @ 1982 Sirius Software
+Packaging @ 1982 Fox Video Games
+
+Games Of The Century is a Trademark of Fox Video Games
+Sirius is a Trademark of Sirius Software
+
+Printed in Taiwan
+
+Fox Video Games, Inc., Saratoga, California 95071
+
+
+---
+typed up by Jeff Coleburn, vsp@netaxs.com
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

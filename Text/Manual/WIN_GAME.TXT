@@ -1,0 +1,205 @@
+INTRODUCTION
+
+WINTER GAMES is a series of seven exciting competitive events. Up to
+eight players can enter this international contest, each choosing a
+country for which to compete (no two players can choose the same
+nation to represent).
+
+The object is to see your country come out on top. You'll compete in
+pure speed events like skating and in speed-and-control events like
+slalom, biathlon, bobsled and luge. You'll test your skill against
+competitors in distance and style events like ski jumping and hot dog
+skiing. You'll win by scoring the fastest time or by earning the most
+points. And the nation that wins the most events takes home the gold
+medal!
+
+GETTING STARTED
+
+Set up your video game console and plug in the cartridge.
+
+Turn the power switch on.
+
+Be sure to set the left difficulty switch correctly as described
+below (see Switches).
+
+SWITCHES:
+The left difficulty switch controls the number of joysticks. Position
+A= two joysticks; B = one joystick. If you wish to play head-to-head
+with your opponent and have two joysticks, select position A
+otherwise flip the switch to B.
+
+Control single-player games (against the computer) with the left
+joystick.
+
+SELECT sends you into practice mode, allowing you to cycle between
+events. Practice in single joystick mode. You'll remain in an event
+until you press SELECT once more.
+
+SELECT also returns you to the country-select menu, from which you may
+start competing.
+
+RESET lets you restart a game from the middle, but transfers you into
+practice mode.
+
+Holding SELECT down and pressing RESET returns you to the
+country-select menu.
+
+The right DIFFICULTY and TV TYPE switches should be ignored.
+
+STARTING PLAY
+
+WINTER GAMES begins as the title screen appears. From the title
+screen you will move to the country-select menu by pressing the FIRE
+BUTTON or waiting for the music to end. The country-select menu is a
+list of eight eligible countries: the U.S.A., USSR, U.K., Japan,
+Canada, France, Norway, and Sweden.
+
+Highlight the country of your choice by moving the cursor up and down
+with the joystick. Press the FIRE BUTTON to select the highlighted
+country. If you change your mind after you've made your selection,
+rehighlight the country you selected and press the FIRE BUTTON again.
+You will then be able to select a new country name from the list.
+When you have selected your roster of competing countries, move the
+cursor to "Done" and press the FIRE BUTTON. The first event's title
+will appear on the screen.
+
+Events are announced on a screen showing the name of the competing
+countries and the event's name. Press the FIRE BUTTON to enter the
+event; press the FIRE BUTTON again to start the event. If you fault
+during play, the event will replay up to three times (you can only
+fault in certain events). When a country finishes an event, the event
+title screen returns with the name of the next nation to compete. When
+all competitors have completed an event, the next event begins. The
+order of competing nations stays the same throughout the series of
+events.
+
+THE GAMES
+
+SLALOM
+In SLALOM, the object is to make the best time down the course while
+skiing through the gates (marked by a pair of flags). The FIRE BUTTON
+sets your skier on his way. You control his motion by moving the
+joystick left or right. Turning will help you to slow down. There's a
+three-second penalty each time you miss one of the 36 gates on the
+course and a warning sound lets you know you missed. Avoid hitting
+any object or person on your way down the slope because they will
+slow you down considerably! Penalty seconds are added to your time
+when you complete the run.
+
+BOBSLED
+In the two-man bobsled event, the object is to finish in record time.
+Press the FIRE BUTTON to start. Try to complete the winding course as
+quickly as you can -- keeping the sled under control on the banked
+turns. Push the joystick left or right to control the bobsled's
+direction. Steer into the turns (try to stay off the walls or you'll
+lose speed and control of the sled). And remember there aren't any
+brakes on your sled! To speed up the sled, 'bob' the joystick up and
+down in rhythm, keeping in mind that high speed makes banking on the
+turns a real challenge. You can monitor sled speed by the speed
+indicator at the bottom of the screen (the wider the bar, the faster
+you are going). Each team is allowed three tries to finish this
+event. Good Luck!
+
+SKI JUMP
+This challenging distance event demands your fullest concentration.
+When you see your jumper at the gate, press the FIRE BUTTON and he'll
+begin his run down the slope. When he passes the yellow flag near the
+bottom of the take-off run, press the FIRE BUTTON to launch him. The
+longer you wait to press the FIRE BUTTON the farther you will go, but
+be careful not to press it too late!
+
+A split-screen will show your jumper's position and the hill below.
+You'll get the most distance by maintaining a stable diagonal
+position throughout the "flight." During flight: move the
+joystick forward to raise his ski tips, back to drop them. Push the
+joystick left and right to maintain your jumper's body position.
+Maintain control of both jumper and his skis to extend his flight --
+and to land him safely. Each jumper has three attempts to
+out-distance his opponents. Distance jumped will appear on the screen
+when he's landed safely.
+
+BIATHLON
+This combination skiing-and-shooting event begins with cross-country
+skiing down a hill. Press the FIRE BUTTON to start and move the
+joystick left and right in rhythm. Keep pace with the red heart at
+the bottom of the screen for fastest skiing. When you finish the
+skiing course, a shooting range replaces the ski slope. There are
+five targets in each set. Cock your rifle by moving the joystick
+down, then up. Sight your target and press the FIRE BUTTON to shoot.
+Remember you're participating in an event where time is important so
+shoot quickly, but carefully (there is a 5-second penalty for each
+target missed).
+
+When you are finished on the rifle range, the skiing screen returns
+and you must ski back up the course. At the top of the course you'll
+shoot again at the rifle range. Ski downhill again and return for a
+final try at the rifle range. Ski to the rifle range and shoot each
+target (three sets of five targets for a total of 15 targets) as
+quickly as possible. The competitor with the fewest number of misses
+wins the event.
+
+SPEED SKATING
+In this event, the first skater to reach the finish line will earn
+the best score. At the start you will have the READY/SET/GO sequence.
+Move the joystick left and right in rhythm to gain speed. Your time
+will be displayed in the center of the screen on the time indicators.
+
+Notes:
+SKATING has a computer opponent when played alone.
+The left joystick controls the top player and the right joystick
+controls the bottom player.
+
+HOT DOG
+In this ski acrobatics event, jumpers compete one at a time. The aim
+is to pile up points by performing as many tricks as possible in the
+time allotted. Press the FIRE BUTTON to start down the slope. Unlike
+the SKI JUMP event, you don't need to press the FIRE BUTTON again to
+jump. Choose your jumper's tricks by moving the joystick in one of the
+four possible directions: forward for a "daffy"; right for a forward
+flip; back for a "swan"; left for a backward flip. Press the FIRE
+BUTTON to turn your jumper around but remember to press the FIRE
+BUTTON again before landing. Each trick has its own point score,
+based on the degree of difficulty,* and the points accumulate as each
+trick is successfully performed. You also earn points, and a greater
+cumulative score, for each flip or turn (backward or forward) you
+perform while in flight.
+
+*SCORING
+TRICK      UNTURNED  BKWRD  UPSDE-DN  UPSDE-DN/BKWRD
+HALF FLIP  0.6       0.9    ---       ---
+DAFFY      1.0       1.5    2.0       3.5
+SWAN       0.6       0.9    1.2       2.1
+
+Your jumper must land facing forward, right side up -- or he crashes
+and faults. After landing, you may press the FIRE BUTTON upon passing
+the yellow flag -- and get 1.0 for a standing daffy (but you might
+not want to take the risk!). Each jumper has three tries to earn the
+best score.
+
+LUGE
+LUGE is similar to the BOBSLED event. The central difference in this
+speed event is that you won't have a partner to help you steer your
+sled down the chute. One man takes the luge down a special luge chute
+designed for speed. Zip along the track, braking as you go by
+pressing the FIRE BUTTON. (The "bobbing" option doesn't exist in
+luge.) Use the same left-right motions on the joystick as in the
+bobsled event to choose the direction of your turn. You will have
+three tries to make it quickly, and safely down the chute.
+
+SCORING
+
+Awards Ceremony
+After every event, the countries of the top three competitors are
+listed in the order they placed. The country name of the Gold Medal
+winner appears at the top of the screen.
+
+Champion Ceremony
+A Grand Champion of the games is selected based on the number of
+points awarded.
+Gold Medal = 5 points
+Silver Medal = 3 points
+Bronze Medal = 2 points
+The points are totaled after all events have been completed, and the
+player with the most points is honored as the Grand Champion. The
+ceremony takes place after the Awards Ceremony for the final event.
+-------------------Atari 2600 Instructions Archive-------------------

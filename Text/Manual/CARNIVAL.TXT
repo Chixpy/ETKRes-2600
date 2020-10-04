@@ -1,0 +1,216 @@
+**-** Front Page **-**
+
+     The Official                             Guide No. 78091
+       C A R N I V A L
+         by SEGA (R)
+
+
+   Cartridge Instructions
+
+     < Picture of a Bear holding a target >
+
+   * For one or two players    * For color or black-and-white TV
+
+                                                  C O L E C O
+
+**-** Page 2 **-**
+
+   G A M E  D E S C R I P T I O N
+
+    < Same picture of a Bear holding a target >
+
+Step right up and prove your skill at hitting targets in this
+challenging carnival shooting gallery.  Take aim to build up
+your score with careful choice of targets, but watch out for
+the bullet-eating ducks!
+
+  G E T T I N G  R E A D Y  T O  P L A Y
+
+* Make sure the Video Computer System(TM) is connected to
+  the TV, and the power supply is plugged in.
+
+* Be sure that you have plugged the controllers into the jacks
+  at the rear of the Video Computer System(TM)
+
+* Insert cartridge as shown, then turn On/Off switch to ON.
+  (ALWAYS TURN THE ON/OFF SWITCH TO OFF WHEN
+   INSERTING OR REMOVING A CARTRIDGE)
+
+**-** Page 3 **-**
+
+   ATARI(R) Video Computer System(TM)
+
+    <Picture of an Atari 2600 in front of a TV with a
+     couple joysticks.  Everything is labeled>
+
+    <Picture of the back of an Atari 2600 showing the
+     switches.  Everything is labeled>
+
+**-** Page 4 **-**
+
+  U S I N G  Y O U R  C O N T R O L S
+
+     <Picture of an Atari joystick with "control stick"
+      and "Red Button" labeled>
+
+1. CONTROL STICK: Push the Control Stick right or left to
+   move the gun.
+
+2. RED BUTTON: Press the red button to fire the gun.
+
+  H E R E ' S  H O W  T O  P L A Y
+
+STEP-BY-STEP INSTRUCTIONS
+
+NOTE: Set the Left and Right Difficulty Switches to Position A.
+
+STEP 1:  Getting Started
+
+After power is turned on, a demonstration of the game is
+shown on the screen.  Press the Red Button on the left controller
+or the Game Reset switch to start the one-player game.
+
+To select a two-player game, press the Game Select switch for
+two-player, then press Game Reset.
+
+STEP 2:  Fire away!
+
+Rack up points by firing bullets at the moving targets:
+
+   * Owls            * Ducks
+   * Rabbits         * Extra-Bullet Boxes
+
+But be careful how you aim.  Your bullet supply is limited.
+
+**-** Page 5 **-**
+
+   <Nice picture of the screen, here is my attempt using ascii>
+
+                         ------------------------------------------
+Players Score Indicator -|-------------> 0 0 0 0 0                |
+                         ------------------------------------------
+                 Pipes  -|------------->  #--I--#                 |
+     Plus-Minus Target  -|-> + 3 0 0       #####                  |
+                         |   -------              ----------------|
+                         | O     D                 O  R  R        |
+   Extra-Bullet Target  -|---> [8]                  D        O    |
+                         | R  R       D                 R         |
+           Flying Duck  -|-------------->  X                      |
+                         |                                        |
+                   Gun  -|--------------> L                       |
+                         ------------------------------------------
+Bullet Supply Indicator >|##############################          |
+                         ------------------------------------------
+
+  * The O's look like owls, the D's look like ducks, the R's look
+    like Rabbits.  The [8] is a box with an 8 in it.  The X looks
+    like a duck flying, and the L looks like a hand gun point up.
+
+                           S T R A T E G Y
+
+DUCKS BITE THE BULLETS
+
+What out! Ducks that you don't hit can fly down from the
+bottom row to eat ten of your bullets!
+
+Special Strategy: Make sure you use up at least eight bullets
+before hitting the Extra-Bullet target.  Your bullet supply can
+never show more than 40 bullets.
+
+PIPE DREAMS
+
+Eight on-target hits clear the pipes from the screen.  Hit the
+same color pipes with the two consecutive shots and you get four
+time the pipe score value.
+
+Special Strategy: Knock out the pipes early in the game, while
+avoiding the moving targets.  If the pipes remain in view while
+you are hitting moving targets, ducks, ducks and more
+ducks start coming out!
+
+**-** Page 6 **-**
+
+WIN SOME - LOSE SOME
+
+Score extra points or bullets by hitting the plus-minus target
+when the plus sign shows.  But look out!  If the minus-sign is
+showing when the target is hit, the points or bullets are sub-
+tracted from your score or bullet supply.
+
+THE END
+
+Clear the rack of all moving targets and pipes to move on to
+the next higher level of game play.  The game ends when the
+last bullet is fired.
+
+To replay the type of game you have playing, press the
+Game Reset switch.
+
+                              SCORING
+
+        Points scored for each target are listing according to
+        level of play:
+
+     TARGET           LEVEL:   1         2         3        4
+
+     Pipe                     200       200       200      200
+     Bottom Row                20        30        40       50
+     Middle Row                40        50        60       70
+     Top Row                   60        70        80       90
+     Extra Bullet               8         8         8        8
+
+Hit two pipes of the same color with two consecutive shots for
+a score of 200 points for the first pipe and 800 points for the
+second.
+
+After you clear the gallery, 50 points are added to your score
+for each bullet remaining at the bottom of the screen.  The
+maximum number of bullets you can have in the Bullet Supply
+is 40.
+
+       < Pictures of targets, Rabbit, Owl, Duck, Owl, Rabbit >
+
+**-** Page 7 **-**
+
+  T H E  F U N  O F  D I S C O V E R Y
+
+This instruction booklet will provide the basic information you
+need to get started playing CARNIVAL(R), but it is only the
+beginning!  You'll find that this cartridge is full of special fea-
+tures to make CARNIVAL(R) exciting every time you play.
+Experiment with different techniques - and enjoy the game!
+
+  9 0 - D A Y  L I M I T E D  W A R R A N T Y
+
+     <Legal stuff in fine print>
+
+**-** Back Cover **-**
+
+     <More Legal stuff in fine print>
+
+ All returns must be directed to:  Coleco Industries, Inc.
+                                   Consumer Electronics Department
+                                   P.O. Box 47
+                                   Amsterdam, New York 12010
+                                   Attention: Consumer Quality Manager
+
+
+                     C O L E C O
+
+CARNIVAL(R) and Sega(R) are trademarks of Sega Enterprises,
+Inc. (C) 1980 Sega Enterprises, Inc.
+
+Atari(R) and Video Computer Systems(TM) are trademarks of Atari,
+Inc.
+
+Sears Video Arcade(TM) is a trademark of Sears Roebuck & Co.
+
+Package, Program and Audiovisual (C) 1982 Coleco Indus-
+tries, Inc. Amsterdam, New York, 12010
+
+
+             Printed in U.S.A.
+
+**--** END of Instructions **-**
+
+

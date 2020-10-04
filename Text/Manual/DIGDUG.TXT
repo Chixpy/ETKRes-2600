@@ -1,0 +1,252 @@
+<Picture>
+
+<Picture>Dig_Dug<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+                              Dig Dug
+                 The Underground Smash Arcade Hit|
+
+NOTE: Always turn the console POWER switch OFF when inserting or removing an
+ATARI(r) Game Program(tm) cartridge. This will protect the electronic
+components and prolong the life of your ATARI 2600(tm) Video Computer
+System(tm) game.
+
+GAME OBJECTIVE and notes from the underground:
+
+You are Dig Dug, the underground miner. With your jet-powered shovel, you
+create intricate, subterranean mazes. Ever on the watch for vegetable prizes,
+you must also look out for the fierce Fygar(tm) and mean Pooka(tm) that lurk
+underground. Their touch kills| Worse, these two meanies can transform into
+spooky ghosts that will appear out of nowhere and haunt you to death.
+
+Use your Joystick Controller to dig through the earth in this one-player game.
+Your objective: Destroy the meanies who lurk below and uproot the prized
+produce. Destroy meanies by using the fire button on your controller to pump
+them up until they burst or by drooping boulders on them. To get the
+valuable vegetable, dig to it as soon as it appears and cover it completely
+by moving Dig Dug over it.
+
+Each round is completed when you destroy all the meanies or when the last
+one escapes. The game ends when you lose all your lives.
+
+GAME PLAY:
+
+Create your own tunnels and escape routes as you carve your way through the
+earth. You dig in the same direction as you move your Joystick.
+
+The meanies who chase you are: the fire-breathing Fygar, whose flames fry
+you, the balloon-like Pooka, and the ghosts of Fygar and Pooka. You lose a
+life when any meanie touches you.
+
+To blow up a meanie: Press the red fire button on your Joystick once or twice
+to stun the creature, then continue pressing the button to pump up the meanie
+until it bursts. (See USING THE CONTROLLER for details.)
+
+To drop a rock: Dig under the rock, then move away fast| The falling rock will
+crush any close-pursuing meanie(s) that it touches. It can crush you, too, if
+you don't get out of the way.
+
+When only one meanie is left, he will always try to escape, thus ending that
+round of the game.
+
+Your underground mine is composed of four layers of dirt. You receive more
+points for blowing up meanies in the bottom layers that in the top soil.
+
+A high-scoring prize, which is usually a vegetable, appears once per round
+at the same spot where you started digging. It appears for only a few seconds
+and you must get Dig Dug to completely cover the prize to score big points.
+So keep your eyes open and watch for it|
+
+You start the game with five lives. Remaining lives are displayed as squares
+at the lower left side of the screen. (See the Game Screen.) You can also earn
+bonus lives. You win your first bonus life at 20,000 points. After that, a
+bonus life is won at every multiple of 50,000 points up to 200,000 points.
+The maximum number of lives you can have at any one time is eight.
+
+Periodically, the game action speeds up. The musical tempo increases, the
+meanies move more quickly and turn into ghosts more often than usual.
+
+To keep the challenge hugh, you can restart a game at the same round you last
+played after you lose all your lives. To do this, simply press the red fire
+button on your controller after a game ends and while the title DIG DUG
+appears on the screen.
+
+USING THE CONTROLLER:
+
+Plug your Joystick Controller into the LEFT CONTROLLER jack at the back of
+your 2600(tm) Video Computer System(tm) console. Hold the Controller with the
+fire button to your upper left, toward the television screen. See your owner's
+manual for details.
+
+You can move Dig Dug up, down, right, or left on the screen. Just move your
+Joystick in the diretion you want him to go.
+
+Fire button: Press the red fire button to start the game. To restart the game
+at the same round you last played, press the fire button while the DIG DUG
+title screen is displayed. You will have approximately ten seconds after
+losing your last Dig Dug life to do this.
+
+During game play, press the red fire button once or twice to stun the meanies.
+Then hold the button down or use a multiple pumping action to pump up meanies
+until they explode.
+
+SCORING:
+
+Your score is displayed at the lower right side of the screen. You can score
+a total of 999,990 points before the score resets. In EASY play, the top
+score is 99,990. The table below gives point values for the DIG DUG game.
+
+    ACTIVITY     POINTS
+
+    Digging       10 points every
+                     two chunks
+
+    Dropping rocks on meanies
+
+    1 meanie             1,000
+    2 meanies at once    2,500
+    3 meanies at once    4,000
+    4 meanies at once    6,000
+    5 meanies at once    8,000
+    6 meanies at once   10,000
+    7 meanies at once   12,000
+
+    Round Number      Prize        Round Number     Prize
+
+      Round 1        Carrot       Rounds 10 & 11   Tomato
+     400 points                    4,000 points
+
+      Round 2        Turnip       Rounds 12 & 13    Onion
+     600 points                    5,000 points
+
+      Round 3       Mushroom      Rounds 14 & 15  Watermelon
+     800 points                    6,000 points
+
+    Rounds 4 & 5    Cucumber      Rounds 16 & 17   Galaxian
+    1,000 points                   7,000 points
+
+    Rounds 6 & 7    Eggplant       Rounds 18 on    Pineapple
+    2,000 points                   8,000 points
+
+    Rounds 8 & 9   Bell Pepper
+    3,000 points
+
+    Inflating Pooka; Inflating Fygar
+    from above or below
+
+    Top soil layer     200
+    2nd soil layer     300
+    3rd soil layer     400
+    Bottom soil layer  500
+
+    Inflating Fygar from the side
+
+    Top soil layer     400
+    2nd soil layer     600
+    3rd soil layer     800
+    Bottom soil layer 1000
+
+GAME VARIATIONS:
+
+DIG DIG contains two game variations: EASY play and NORMAL play.
+
+EASY: There is only one pattern of tunnels, rocks, and meanies. Each round
+is identical to the previous round, with only two meanies per round. The
+meanies never speed up and they never turn into ghosts. The prize is always
+a carrot worth 400 points. A teddy bear head indicated easy game play and
+appears in the top score digit throughout the EASY play.
+
+NORMAL: The pattern of tunnels, rocks, and meanies varies from round to round.
+Pooka and Fygar frequently turn into ghosts and the game action periodically
+speeds up. In higher rounds, as many as seven meanies can be on the screen at
+once. The prize changes and increases in value with higher rounds.
+
+CONSOLE CONTROLS:
+
+GAME SELECT: Use the GAME SELECT switch to choose a NORMAL or EASY game
+variation. The EASY game variation is indicated by a teddy bear head in the
+center of the title screen.
+
+GAME RESET: Press GAME RESET to start the game action or to restart a game at
+round one.
+
+DIFFICULTY SWITCHES: The DIFFICULTY switches have no function in DIG DUG.
+
+TV TYPE SWITCH: Set the TV TYPE switch to color to play the game on a color
+TV. Set it to B/W to play on a black and white TV.
+
+HELPFUL HINTS:
+
+- At higher rounds your priority should be to get the bonus vegetables because
+they're worth more points than destroying meanies.
+
+- The prize will not appear in a round until two boulders have fallen and there
+are fewer than seven meanies on the screen.
+
+- The last meanie on a screen will always try to escape, thus ending the round.
+So, if just one meanie remains and the prize hasn't appeared, you may want to
+stun that meanie long enough to allow the prize to appear.
+
+- Since the last meanie will always try to escape at the top left side of the
+screen, you can strategically position yourself above ground on the left and
+wait for the meanie to emerge then quickly blow him up.
+
+- You can't pump through the soil, so back off if a ghost is approaching
+through the dirt toward your tunnel. Wait until the ghost gets indise the
+tunnel then quickly turn and pump it up.
+
+- To crush a ghost, tunnel under a rock and wait (as long as you don't move,
+the rock won't fall). When a ghost covers the rock, quickly move out of the
+way and the ghost will be crushed.
+
+- A good way to trap and squash several creatures at once is to tunnel
+straight up under a rock and wait for the meanies to follow. When they get
+close, quickly move out of the way to the right or left. They will be trapped
+in the path of the falling rock.
+
+- If a meanie is pursuing you, try to get to a tunnel. Since you move more
+quickly in a tunnel than through soil, this gives you a better chance to
+escape.
+
+- Try to group meanies behind you by stunning them and then running. (You can
+run right through a stunned meanie.) When several are in pursuit, lead them
+toward a boulder and drop it on them for high points.
+
+Atari welcomes your comments. Please address all correspondence to:
+
+Atari, Inc.
+Customer Relations
+1312 Crossman Avenue, P.O. Box 61657
+Sunnyvale, California 94086
+
+(c)1983 Atari, Inc. All rights reserved.
+
+* DIG DUG is created and designed by Namco Ltd., manufactured under license
+by Atari, Inc. Trademark and (c)Namco 1982.
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

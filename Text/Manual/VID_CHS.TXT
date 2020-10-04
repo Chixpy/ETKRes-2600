@@ -1,0 +1,307 @@
+VIDEO CHESS (TM)
+Game Program (TM) Instructions
+
+Model CX-2645
+
+ATARI (R)
+A Warner Communications Company
+
+ATARI, INC., Consumer Division
+1195 Borregas Ave., Sunnyvale, CA  94086
+
+(c) 1979 ATARI, INC.
+
+
+SYSTEM SETUP
+============
+Use your Joystick Controller with the Game Program (TM).  Be sure to
+plug the controller cable firmly into the left jack at the rear of
+your Video Computer System (TM).  Hold the controller with the red
+button to your upper left toward the television screen.  See Section 3
+of your owners manual for further details.
+
+NOTE:  Turn the console off when inserting or removing a Game Program.
+This will protect the electronic components and prolong the life of
+your Atari (R) Video Computer System.
+
+
+HOW TO PLAY
+===========
+As one of man's oldest war games, chess is believed to have originated
+in India between 350 to 400 AD.  The first written record of the
+game was in 700 AD.  There are many variations of chess played
+throughout the world.
+
+In any chess game, the object is to capture the opponent's king.
+
+The computer sets up the pieces on the board in their proper order.
+Each player begins with 16 pieces: one king/one queen/two rooks/two
+bishops/two knights/eight pawns.  Each piece has a distinctive move
+which is peculiar to itself.
+
+      ##
+    ######
+##    ##    ##
+####  ##  ####
+##############
+##############
+
+KING:  Your most important piece for surviving the game.  The king is
+not very mobile since he may only move one square at a time.  He may
+however, move in any direction; on the rank (sideward), on the file
+(forward or backward), or diagonally.  All other pieces should be
+sacrificed when necessary, to save the king.  The computer will not
+allow the king to move to a square which is under attack by an enemy
+piece. 
+
+##  ##  ##  ##
+  ####  ####
+##############
+    ######
+    ######
+##############
+
+QUEEN:  The queen is the most mobile and versatile piece on the
+board, and therefore the most powerful.  She moves in any direction
+(on the rank, on the file, or diagonally), as many open squares as
+desired.  The queen combines the powers of the rook and bishop.
+
+  ##  ##  ##
+  ##  ##  ##
+  ##########
+  ##########
+  ##########
+  ##########
+
+ROOK:  The rook moves on the rank or file (forward, backward,
+sideward) as many open squares as desired.  The rook is usually
+considered next in importance to the king and queen.
+
+      ##
+    ######
+  ##########
+    ######
+    ######
+  ##########
+
+BISHOP:  The bishop moves back and forth in a diagonal line, and may
+be moved any number of open squares.  The two bishops on each side are
+set up so that one is tied to the light blue squares and one is tied to
+the dark blue squares throughout the game.  A bishop is considered
+slightly more important than a knight, depending on the it's board
+position. 
+
+    ######
+  ######  ##
+  ############
+  ####  ####
+  ########
+##############
+
+KNIGHT:  The knight moves not on a line but from point to point,
+following the "one up and two across" or "two up and one across"
+pattern shown in the diagram.  The knight is unique in that it can not
+be blocked, but can jump over other pieces provided it's destination
+is an open square, or one in which it can take and capture an
+opponent's piece.
+
+
+      ##
+    ######
+      ##
+    ######
+
+PAWN:  The pawn moves straight ahead one square at a time, and cannot
+move backward.  Only on it's initial move can the pawn advance two
+squares, if desired.  The pawn may capture opponent pieces by taking
+them on a diagonal move, which is the only time the pawn may move
+diagonally.  (With one exception, see DOUBLE MOVES - "en passant.")
+Although the pawn is sometimes considered the least important piece,
+it is the "foot soldier" of chess and can be vital in holding
+territory.
+
+Pawn Promotion:  If you advance a pawn safely to the last or eighth
+square (eighth rank) on the opposite side of the board, it may be
+"promoted" to any other piece except a king.  The computer will
+automatically promote your pawn to a queen since it is the most
+powerful piece.  However, by putting the left difficulty switch in the
+"a" position and pressing the red controller button, you can exchange
+your new queen for any other piece except a king.
+
+
+CAPTURING PIECES
+================
+Pieces (except pawns) capture in the same manner as they move.  If any
+square that a piece can move to is occupied by an enemy unit, that
+unit can be captured.  The captured piece is permanently removed from
+the board, and the capturing piece occupies that space.  Capturing is
+optional - you are not required to capture when able to.
+
+Pieces are not allowed to displace or capture pieces of their own
+color.  When capturing or moving, none of the pieces are allowed to
+jump over other units, except the knight.  Traditionally, the capture
+of the king is never actually carried out.  If the king is under
+attack but has room to escape, it is said to be in "check."  The Video
+Chess computer has a very distinct way to show when a king is in check
+which you will see during the course of a game.  If the king is
+attacked and there is no way to escape, it is said to be "checkmated,"
+and the game ends.
+
+
+USING THE CONTROLLERS
+=====================
+Use the Joystick Controller to move your pieces around the board.
+Move the cursor (the flashing X) to the piece you wish to move and
+push the red controller button.  That piece will begin to flash and
+you may then move it in any direction.  To release the piece, push the
+red controller button again.
+
+            MOVE UP
+               ^
+            \  |  /
+              \|/
+MOVE LEFT <---------> MOVE RIGHT
+              /|\
+ MOVE       /  |  \
+DIAGONALLY     v 
+           MOVE DOWN     
+
+IF YOUR ATTEMPT TO MAKE AN ILLEGAL MOVE, THE COMPUTER WILL MAKE A
+WARNING SOUND AND WILL DISALLOW THE MOVE.
+
+After you have made your move, the cursor will appear in the square
+from which you moved and the piece you moved will continue to flash for
+a moment until the computer starts to "think" its move.  When the
+computer shows its move, the cursor will be shown in the square from
+which the piece was moved.
+
+The computer always plays the pieces at the top of the screen, you
+always play the pieces at the bottom of the screen.  In some cases,
+the computer will play the white pieces (from the top of the screen)
+and will move first (see CONSOLE CONTROLS).
+
+
+CONSOLE CONTROLS
+================
+Difficulty Switches
+right difficulty switch:  In the a position the computer plays the
+white pieces, and moves first.  In the b position you play the white
+pieces and move first.  The color of the number at the top of the
+playfield (also denoting skill level) will tell you which color you're
+playing.  If it is white for example, you're playing the white pieces.
+
+left difficulty switch:  In the a position this switch allows you to
+set up the board any way you want for a particular problem or
+situation.  Move the cursor to the square where you wish to place a
+particular piece.  Each time you press the red controller button, the
+computer puts a different piece on that square, starting with the
+computer's king and cycling through the player's pawn.  When you have
+placed the piece you want on the board, move the cursor to the next
+position and repeat the process.
+
+To remove a piece from the board, place the cursor over that piece and
+cycle through past the player's pawn.  An X will appear and that piece
+will be removed from the board.  When you have the board set up the
+way you want it, set the left difficulty switch in the b position and
+begin play.  At this point you must move first, whether or not the
+right difficulty switch is in the a or b position.
+
+Game Select Switch
+Depress the game select switch to choose the level of difficulty you
+wish to play.  Level 8 is a learning level and is for the beginning
+player.  It is the least difficult and is good practice for beginners.
+After practicing at level 8, beginning players should move to level 1.
+Levels 1 through 7 become progressively more difficult with level 7
+being the most difficult.  (See SKILL LEVELS)
+
+You may change the level of difficulty anytime during a game by
+depressing the game select switch.
+
+Game Reset Switch
+Depress the game reset switch to start or restart a game.  If the
+computer is playing the red(black) pieces, it is not necessary to
+depress this switch when turning the game on.  If the computer is
+playing the white pieces, you must depress the game reset switch
+before the computer will make its first move.
+
+
+DOUBLE MOVES
+============
+There are two "double moves" allowed in the game of chess.  One is
+known as "castling," the other is known as "en passant."  The Video
+Chess computer may use either or both during the course of a game, and
+you can also.
+
+Castling
+Castling can be an offensive or defensive move.  To castle, the
+squares between the king and one of the rooks must be clear.  The king
+or the rook may not have been moved previously.  This move protects
+the king and moves the rook to the center of the board where it can be
+more effective.
+
+When you have set up the board as described, move your king two spaces
+to the right or left (depending on which way you are castling), and
+push the red controller button.  The computer will automatically bring
+the rook around the king, thereby completing your castling move.  The
+computer will then think its next move.
+
+If you move the king toward the rook on its side of the board it is
+called "castling to the king's side."  If the king is moved toward the
+queen's side, it is called "castling to the queen's side."
+
+A player may not use the castling move when the king is in check.  Nor
+may a player castle to the king's side if any of the squares between
+the king and the rook are threatened.  The former example is called
+"castling out of check"; the later example is known as "castling
+across check."
+
+NOTE:  If, after setting up a chess problem, your initial move is to
+castle, the computer may not accept it as a legal move.
+
+En passant (in passing)
+This move is used to counteract the enemy pawn's initial double move on
+a adjacent file.  To carry out the en passant you must advance your
+pawn to the fifth rank.  Your opponent then has the option of moving
+his or her pawn one square (where it would be under attack) or two
+squares.  If you opponent elects to move two squares, the en passant
+move allows you to take that pawn by diagonally moving your pawn to
+the square that was skipped over.
+
+NOTE:  There may be some occasions where the computer will not allow
+you to use en passant to move out of check.  If this should occur, use
+the set-up move to complete the move.
+
+The en passant capture must be made immediately, meaning when the
+opportunity is first available, or not at all.  It cannot be executed
+at a later turn.
+
+
+SKILL LEVELS
+============
+There are seven progressively more difficult skill levels (Levels 1
+through 7) in Video Chess and one level for beginners (Level 8).  As
+the levels increase from 1 to 7, the computer will take longer to
+compute its next move.  The times listed below for each Skill Level
+are an average, since the length of time will depend on the complexity
+of the board and the level chosen.  Level 8 is an excellent game for
+beginners to learn the moves, as well as some of the strategies of the
+game. 
+
+Level 1 - 15 seconds             Level 5 - 3 min., 15 sec.
+Level 2 - 30 seconds             Level 6 - 12 minutes
+Level 3 - 45 seconds             Level 7 - 10 hours
+Level 4 - 2 min., 45 sec.        Level 8 - 10 seconds
+
+NOTE: Length of time on some of the above Skill Levels may vary.
+
+As a closing note it should be pointed out that there are various
+books which give more detailed descriptions of the game of chess.
+Such books may give you more insight into the game's wide range of
+strategies.  We suggest going to your local library or book store if
+you wish to study the game further.
+
+
+Printed in USA                                 C011402-45  Rev. 2
+
+
+-------------------Atari 2600 Instructions Archive-------------------

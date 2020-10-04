@@ -1,0 +1,132 @@
+Spectravideo
+Video Game Cartridge
+
+BUMPER BASH
+
+Single Player Only
+
+for the Atari and Sears 
+Video Game System
+Instruction Manual
+
+
+
+THE GAME
+
+Great news for pinball fans! Now you may possess
+your own pinball machine and enjoy your game
+leisurely at any time! Although you might lose
+the thrill of cheating the machine by shaking it, you can
+have a fair play. It is a genuine test of your response,
+your eyesight, and your judgement through
+manipulating a set of flippers.
+
+CONTENTS			PAGE
+
+- GETTING STARTED		2
+
+- PLAYING THE GAME
+
+- SCORING			4
+
+
+THE GAME
+
+Great news for pinball fans! Now you may possess
+your own pinball machine and enjoy your game
+leisurely at any time! Although you might lose
+the thrill of cheating the machine by shaking it, you can
+have a fair play. It is a genuine test of your response,
+your eyesight, and your judgement through
+manipulating a set of flippers.
+
+GETTING STARTED
+
+1. Hook up game console.
+2. Plug a set of Game Paddles into the left controller jack.
+3. Turn the power off and insert the cartridge into the slot.
+4. turn the power on. Use the Reset switch or either paddle
+button to start/restart the game.
+
+PLAYING THE GAME
+
+1. Familiarize yourself with your pinball machine first.
+2. Adjust the plunger position by pressing either paddle button.
+3. Fire the ball by pressing both buttons simultaneously
+4. Once a ball is launched, these buttons become your vital
+weapons: the flipper controls.
+
+Just like the pinball game, you are given 5 balls per
+game. Keep this in the playfield. Avoid the side drains
+as well as the gap between 2 flippers. Of course, you
+have got to score marks. Here are more useful tips:
+
+- Rollovers
+As a ball passes through a rollover, an alphabet will
+be displayed right on the spot. If you get three
+alphabets, then 2 ball kickers will be generated, and
+your ball will be saved from draing down the side.
+If these alphabets are lit a second time with same ball,
+you win an extra ball.
+
+- Drop Targets
+If you hit all three top drop targets, the score of
+the bumper pair increases. The second time, the
+score of the top bumper is increased. The third
+time, bonus will be granted once the rollover buttons 
+are hit. After this, completing the targets 
+spots the left rollover alphabet. Targets are reset
+on each new ball with any feature gained remains
+till game is over.
+Completing the bottom targets advances the bonus
+multiplier. Once the multiplier reaches 5, completing 
+the targets spots the right rollover alphabet. The bonus
+value and targets reset after each ball.
+
+-Spinner
+The spinner rotates the target value from 1 to 9.
+Hitting the rail bumpers causes the flashing switch
+between the sets of targets. falshing targets score a 
+bonus point.
+
+
+<screen shot with numbered items>
+
+1. Rollover Button
+2. Rollover
+3. Game Score
+4. Top Bumper
+5. Bumper Pair
+6. Bottom Drop Targets
+7. Rail Bumper
+8. Flipper
+9. Bonus
+10. Multiplier
+11. Ball Kikcers
+12. Plunger with a pinball sitting on top
+13. Rollover Button
+14. Top Drop Targets
+15. Spinner
+
+
+Once You Bash		Then You Score
+-------------------		--------------------
+Top Rollover		100
+Rollover Button		10
+Top Bumper		50 or 500 when flashing
+Bumper Pair		10 or 100 when flashing
+Spinner			10
+Drop Target		100 x Drop Target Value
+Rail Bumper		5
+
+Bonus
+
+The following advances the bonus value:
+
+- top rollovers
+- button rollovers after the top targets have been
+completed 3 times
+- flashing drop targets
+
+Each bonus point worths 1,000 points in your
+final game score.

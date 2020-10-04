@@ -1,0 +1,161 @@
+POLE POSITION
+
+*POLE POSITION is engineered and designed by Namco Ltd.
+manufactured under license by Atari, Inc. Trademark and (c)
+Namco 1982.
+
+NOTE: Always turn the console POWER switch OFF when inserting
+or removing an ATARI Game Program cartridge. This will protect
+the electronic components and prolong the life of your ATARI
+2600 Video Computer System game.
+
+GAME SUMMARY
+
+POLE POSITION consists of two races: the Qualifying Lap and
+the Grand Prix. In both races you're racing against time and
+other cars. The longer you race and the more cars you pass,
+the more points you score. You earn 10,000 points for
+completing a lap and 50 bonus points for each car you pass. A
+lap is one complete circuit of the race course (see diagram).
+
+The Qualifying Lap is 90 seconds long, but you must complete
+it in 73 seconds (L/73"00) or less to qualify for a position
+in the Grand Prix.
+
+If you don't qualify, you can continue racing until the Race
+Timer counts down to zero. Then your car stops, a bonus for
+the number of cars passed is added to your score, and the game
+ends.
+
+If you qualify, your car is positioned for the Grand Prix and
+a bonus for qualifying is added to the 10,000 points you
+scored for completing the lap. The faster your lap time, the
+better your position and the bigger your qualifying bonus (see
+SCORING). Go for POLE POSITION, the number one starting spot.
+It's worth 4000 bonus points.
+
+In the Grand Prix, your object is to finish the race in the
+shortest possible time. At the end of the last lap, a time
+bonus for each second left on the Race Timer is added to your
+score, in addition to a bonus for the number of cars passed.
+
+The race is four laps long. Complete each lap before the Race
+Timer runs out to earn "extended play" time and go on racing.
+If the timer runs out before you finish a lap, your car stops,
+your passing bonus is added to your score, and the game ends.
+
+Your score, the gear you're in (LO or HI), the Race Time (T),
+the Lap Timer (L), and the Speed Line (0 to 200 mph) appear at
+the top of the screen.
+
+Press the red button on your Joystick Controller or GAME RESET
+to start the Qualifying Lap. See CAR CONTROLS for steering,
+shifting, and braking instructions.
+                  ##  Start
+     ______________|__________________
+    /                                 \
+   /             .-,      ____________/
+  |             /  |    .'             |
+   \           / | |  .'               |
+    \._______./  | `-'                 |
+   |             |    |         First Corner
+   |             |    |
+ Final Corner    |   0.1 Km Radius Turn                     
+            Hairpin Turn          
+
+GAME PLAY
+
+QUALIFYING LAP. Fanfare music signals the start of the
+Qualifying Lap. Your car starts automatically in low gear.
+When the red Speed Line is about halfway to 200 mph, shift
+down into high gear. Now all you have to do is finish the
+Qualifying Lap in 73 seconds or less and pass cars without
+crashing into them.
+
+GRAND PRIX. Get set when you hear the three low warning tones
+and GO on the high pitched tone.
+
+Chequered flags flash in the score counter when you're close
+to the end of a lap. When you finish a lap, four short notes
+sound, your car flashes, and extended play time is added to
+the Race Timer. Check the Race Timer at the start of each new
+lap so you'll know how much time you have to complete the lap.
+
+REMEMBER! If you fail to beat the Race Timer on any lap, your
+car stops, your passing bonus is added to your score, and the
+game ends.
+
+After the fourth lap, your time bonus (200 points for each
+second remaining on the Race Timer) and passing bonus are
+added to your score. Then your total time for the race (in
+seconds) flashes alternately with your final score.
+
+CRASHING. Crashes aren't fatal, but they slow you down, and
+lost time means lost points. Cars can switch lanes, so watch
+out!
+
+RUNNING OFF THE TRACK. Running on the red-and-white shoulder
+slows you down a lot, but sometimes it's the only way to avoid
+a crash.
+
+CONSOLE CONTROLS
+
+Hold the Controller with the red button to your upper left,
+toward the television screen.
+
+Press the red controller button or GAME RESET to start the
+Qualifying Lap. Press GAME RESET to interrupt a race and
+return to the Qualifying Lap. GAME SELECT and the two
+DIFFICULTY switches have no function in this game.
+
+CAR CONTROLS
+STARTING. Your car starts automatically in low gear.
+
+SHIFTING GEARS. Move your Joystick up for low gear, down for
+high gear. Top speeds are 100 mph in low, 200 mph in high.
+
+STEERING. Move your Joystick right to steer right, left to
+steer left.
+
+BRAKING. Press the red controller button.
+
+SCORING
+
+*    Passing Bonus: 50 points for each car passed.
+
+*    Time Bonus: 200 points for every second left on the Race
+     Timer at the end of the last lap of the Grand Prix.
+
+*    Qualifying Bonus:
+
+          Position            Lap Time       Points
+                              (seconds)
+
+          POLE POSITION       58"50          4000
+          2nd                 60"00          2000
+          3rd                 62"00          1400
+          4th                 64"00          1000
+          5th                 66"00           800
+          6th                 68"00           600
+          7th                 70"00           400
+          8th                 73"00           200
+
+HELPFUL HINTS
+
+*    Shift into low gear after crashing. It will take you less
+     time to get back up to speed.
+
+*    Go flat out on straights. This is where you can make
+     time.
+
+*    Stay in the centre on straights so you can easily pass to
+     the left or right of other cars.
+
+*    Take the inside lane on curves whenever possible. If you
+     have to pass, it's easier to shift from the inside lane
+     to the outside lane than the other way around.
+
+*    Try to keep your car as straight as possible to avoid
+     skids. Skids slow you down.
+
+-------------------Atari 2600 Instructions Archive-------------------

@@ -1,0 +1,211 @@
+                             ACTIVISION
+                               SKIING    
+                            INSTRUCTIONS
+
+Now you can ski all year long without worrying about tight boots, cold hands,
+long lift lines--or whether it snows!  Skiing by ACTIVISION challenges you with
+a wide variety of slalom and downhill runs, designed for everyone from amateur
+to pro.  Even if you've never been on a pair of skiis, you can be a champion
+skier with Skiing by AACTIVISION.  Read these instructions to find out how to
+make record-breaking runs without getting wrapped around a tree or crashing 
+into a gate.
+
+-------------------------------SKIING BASICS-----------------------------------
+1.  Hook up your video game system.  Follow manufacturer's instructions.
+
+2.  With power OFF, plug in game cartridge.
+
+3.  Turn power ON.  If no picture appears, check connection of your game system
+    to TV, then try steps 1-3 again.
+
+4.  Plug in left Joystick Controller (it's the only one you'll need).  Hold it
+    with the button at upper left.
+
+5.  Set both difficulty switches to b (down) to begin.
+
+6.  Select run with game select switch:
+
+          Slalom Runs
+          Game 1:  20 gates, Novice run
+          Game 2:  40 gates, Intermediate run
+          Game 3:  30 gates, Expert run
+          Game 4:  50 gates, Olympic run
+          Game 5:  30 gates, a new Expert run every time you select Game 5
+
+          Downhill Runs
+          Game 6:  200 meters, Novice hill
+          Game 7:  300 meters, Intermediate hill
+          Game 8:  500 meters, Expert hill
+          Game 9:  900 meters, Olympic hill
+          Game 10: A new 900-meter Olympic hill every time you select Game 10
+
+    NOTE:  The hills and courses for Games 1-4 and 6-9 are permanently set.
+    Each tree, gate and mogul is in the same place every time you ski these 
+    runs.  Whenever you select Game 5 or 10, however, you get a new course
+    each time.  The course will remain the same for as many runs as you want
+    to take until you select another game or turn the power off.  When you
+    return to Game 5 or 10 again, you'll face a new run and a new challenge.
+
+7.  Press game reset to place skier at the top of the hill.  The timer will
+    reset to 0.
+
+8.  To start skier, move Joystick to any position (or just tap it).
+
+9.  Your Joystick controls the position of your skis.  Push it to the left and
+    your ski tips will move to the left;  push it to the right and your ski
+    tips will move to the right.  The longer you hold the Joystick in either
+    direction, the farther your skiis will go, until they reach horizontal
+    (you can't ski uphill!).  Your skier will go in the direction your skis are
+    pointed and will reach maximum downhill speed when the skis are pointed
+    directly downhill.  (See diagram of ski positions.)
+
+-------------------------------------------------------------------------------
+
+
+
+-----------------------SPECIAL FEATURES OF SLALOM RACING-----------------------
+Object:    To run through all gates (between the poles) in the fastes time.
+
+Scoring:   Elapsed time on timer.  You are penalized five seconds for each gate
+           you miss.  At the end of each run, the number of gates you missed 
+           and your total time (including penalties, if any) are shown on the
+           screen.
+
+If you hit a gate or a tree, do not lose heart:  You skier will jump back up 
+and keep going.  But you do lose time, so be careful!
+
+The red button on your Joystick is not used in slalom racing, but can be used
+instead of the game reset switch to reset your skier at the top of the course.
+Don't push it unless you want to start over.
+
+To make a run tougher, push your right difficulty switch up to a.  Now trees
+will appear on the slalom course in front of the gates (not just off to the
+side), so you'll really have to be quick to dodge them and still make all the
+gates.
+-------------------------------------------------------------------------------
+
+
+
+----------------------SPECIAL FEATURES OF DOWNHILL RACING----------------------
+Object:    To reach the bottom of the hill in the fastes time.
+
+Scoring:   Elapsed time at the end of the run.  During the run, the number of
+           meters remaining is shown above the elapsed time.
+
+Penalties: None.  But if you hit a tree or fall on a mogul (see below), you'll
+           lose time.
+
+The red button on your Joystick is only used when your right difficulty switch
+is up or at a.  Then you must push the button to make your skier jump any 
+moguls in your path (they are the grey patches in the snow).  The timing of 
+your jumps is critical;  if you're off, your skier will hit the mogul and fall
+on his face.  If trying to dodge trees and jump moguls gets a bit too tricky,
+just push your right difficulty switch down to b and your skier will jump each
+mogul automatically.  
+
+Note:  You must push the game reset to start at the top of the hill on downhill
+runs.
+-------------------------------------------------------------------------------
+
+
+
+                       ABOUT THE LEFT DIFFICULTY SWITCH
+ 
+With the left difficulty switch in the down or b position, the ski run passes
+by vertically but does not change horizontally, so your skier cannot ski off
+the course.  When he reaches the edge, he stops moving horizontally.
+
+With the left difficulty switch in the up or a position, you can direct your 
+skier off the trail and through the woods--even ski all the way around the
+mountain, if you wish.  We suggest you try this option on downhill runs only
+(Games 6-10), as an interesting and creative variation on the normal ski run.
+
+[Note to owners of Sears Tele-Game:  On your Sears system, difficulty switches
+are called skill left (or right) player and a (or up) is expert and b (or down)
+is novice.]
+
+
+
+
+-----------------------------GETTING THE FEEL OF-------------------------------
+                            SKIING BY ACTIVISION
+
+Once you know the basics of Skiing, we suggest you get the feel of your
+controls by skiing on the slow slopes first (Games 1, 2 and 6).  Start with
+both difficulty switches at b (or down) while you're learning.  Move your 
+Joystick right and left gradually to move slowly across and down the hill,
+through the trees and gates.  See how your skis respond to your Joystick
+movements and how changing ski positions changes your skier's direction and
+speed.  You will go fastest when your skis are pointed straight downhill and
+you'll slow down when you are moving at an angle.  You can stop your skier in
+mid-hill by moving your skis all the way horizontal.
+
+When you're ready for more advanced challenges, try the faster runs.  You'll
+get faster times, but watch out!  The slope is steeper and the gates, trees
+and moguls come flying at you.  And when you're really a hot shot, push your
+right difficulty switch up to a to push your skills to the limit.
+-------------------------------------------------------------------------------
+
+
+
+                       HOW TO BECOME AND EXPERT AT SKIING
+                                BY ACTIVISION
+                  Tips from Bob Whitehead, designer of Skiing
+
+     Bob Whitehead, well known for his fast-action, excitement-packed 
+     video games, also designed Boxing by ACTIVISION.
+
+"The keys to success in Skiing by ACTIVISION, just as in real skiing, are 
+learning to control the tips of your skis and anticipating and avoiding
+trouble.
+
+"Keep your skis pointed as straight down the hill as possible.  The less you
+traverse across the slope, the faster you'll make it to the bottom.
+
+"Pick your line through the trees and gates by constantly looking ahead of your
+position toward the bottom of the screen.  When you see the next set of trees
+and/or gates, point your skis to miss the trees or pass through the gates.  Of
+course, the more you ski any particular hill, the more familiar with it you
+will become.  To get the fastest times, you must memorize the run and ski the
+shortest possible route down the hill or through the gates.
+
+"When you want to maneuver, I suggest you tap your Joystick lightly to the
+right or left to move your skis or change direction, rather than push heavily
+on the stick.  There are 8 different positions for your skis (see my diagram
+below) and 15 different directions you can go (downhill plus two possible
+angles for each left or right ski position).
+
+"We're organizing an Activision Ski Team.  To qualify, you must run slalom
+course 3 (Game 3) in under 28.2 seconds.  If you break that time, send us a
+picture of the screen and we will enroll you as a member.  And if you break
+28 seconds, consider yourself Olympic caliber.
+
+"Of course, not everyone wants to ski down a hill in record time.  Some of you
+may just like to ski back and forth and down the hill at your own pace.  Go
+ahead, if you wish.
+
+"I really had a great time working on Skiing by ACTIVISION.  I hope you enjoy
+playing it as much as I enjoyed designing it.  Have fun and God bless!"
+
+[Bob Whitehead]
+
+THE EIGHT SKI POSITIONS
+
+ 1   2   3   4   5   6   7   8
+--> --_  \   |   |   /  _-- <--
+          V  V   V  V
+
+
+
+
+     Look for more ACTIVISION video game cartridges wherever you buy video
+     game cartridges.  Drop us a note and we'll add you to our mailing list
+     and keep you posted on new ACTIVISION game cartridges as they become
+     available.
+
+                               ACTIVISION
+      Activision, Inc., 3255-2 Scott Blvd., Santa Clara, CA  95051
+
+(c) 1980 Activision AG-005-03 Rev. 2
+
+-------------------Atari 2600 Instructions Archive-------------------

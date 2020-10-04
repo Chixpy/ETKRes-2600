@@ -1,0 +1,230 @@
+OTHELLO*
+GAME PROGRAM(TM) INSTRUCTIONS
+
+* OTHELLO is a registered trademark of CBS, Inc. for its strategy disc game and
+equipment.
+
+Atari(R)
+A Warner Communications Company
+
+ATARI, INC.
+Consumer Division
+P.O. Box 427
+Sunnyvale, CA 94086
+
+(C) 1981 ATARI, INC.
+
+Use your Joystick Controllers with this ATARI(R) Game Program(TM).  Be sure
+the controllers are firmly plugged into the LEFT and RIGHT CONTROLLER jacks
+at the rear of your ATARI Video Computer System(TM).  Hold the controller with
+the red button to your upper left toward the television screen.
+
+Use the Joystick plugged into the LEFT CONTROLLER jack for one-player games.
+See Section 3 of your Video Computer System Owner's Manual for further details.
+
+NOTE: Always turn the console power switch off when inserting or removing a
+Game Program.  This will protect the electronic components and prolong the life
+of your ATARI Video Computer System.
+
+GAME PLAY AND OBJECTIVE
+
+{ Note: for this ASCII doc, I won't type the entire board, but for displaying
+  certain diagrams, "W" will mean white, and "B" will mean black.  - gchance }
+
+You'll need strategy, foresight and cunning to be a success at this game.
+
+The field is made up of a grid containing 64 squares.  Each player is
+designated by a color(white or black) and takes turns trying to capture as
+many squares as possible.  When you capture a square, it becomes your square
+and changes to your color.  Your corresponding score is displayed at the top
+of the screen.
+
+To capture a square, you must OUTFLANK your opponent.  To do this, you must
+position your squares on the grid so that one or more of your opponent's
+squares is in a row which is bordered on each end by one of your squares.
+
+For example, your white square (a) was already in position on the grid, as
+shown in the diagram.  During your turn, you position or place a piece on the
+white square(b) to outflank your opponent's row.  The results are:
+
+* You capture three of your opponent's squares (squares 1, 2, and 3 in the
+  diagram) --
+
+* You capture one new square (b) --
+
+* You score four points --
+
+* Your opponent loses three squares and three points.
+
+a 1 2 3 b       W W W W W
+
+You may also outflank your opponent in more than one direction(horizontal,
+vertical, or diagonal) at one time.  For example, a new move to square a (see
+the following diagram), allows you to outflank your opponent in two 
+directions--horizontally and vertically.  So you score six points and capture
+five opposing squares.
+
+b
+B           W
+B           W
+a B B B c   W W W W W 
+
+If you have no available moves to outflank and capture at least one square, the
+cursor changes to your opponent's color after one second and you forfeit your
+turn.
+
+If neither player can make a move the game is over.  This can occur when one
+player has no pieces left on the board.  It is also possible to end a game when
+there are blank squares on the board and both players have pieces left but
+there are no legal moves.  For a serious challenge, try defeating the computer
+64 to 0 in Game 1.
+
+USING THE CONTROLLER
+
+To move the cursor: Move the Joystick right, left, forward, backward, or 
+diagonally to move the cursor in the same direction on the grid.  When you move
+the cursor off one edge of the grid it will "wrap around" the playfield and
+come in on the opposite side.
+
+To position your move: Move the cursor to the desired square and press your
+red controller button.  The square then becomes yours and changes to your
+color(white or black).
+
+CONSOLE CONTROLS
+
+game select switch:
+
+Use this switch to select the game number you wish to play.  The game number
+appears at the upper left corner of the screen. (See Game Skill Levels.)
+
+game reset switch:
+
+Use this switch to start game play or to reset a game at any time.  If the game
+number is on the screen when the game reset switch is depressed, the game 
+number will disappear to make room for the player's scores.
+
+left difficulty switch:
+
+In the a position, this switch causes the game to go into a setup mode in which
+either players' Joystick can be used to position squares on the grid.  To do 
+this, place the curser in the desired square using the Joystick.  As you press
+and release the red controller button, the square will alternate between white,
+black, and blank(green).
+
+Use the setup mode to work out specific problems or to work on experimental
+situations.  The scores at the top of the screen will change as you position
+squares around the grid.
+
+Put the left difficulty switch in the b position for normal game play.
+
+right difficulty switch:
+
+In the a position, the black player moves first; in the b position, the white
+player moves first.  The color of the cursor indicates which player is up.
+
+NOTE: The official tournament rules for OTHELLO* require that the black player
+always moves first.  This version of the game from ATARI includes the option
+of allowing the white player to move first, thus providing an advantage over
+the computer.
+
+GAME SKILL LEVELS
+
+There are four OTHELLO games in this Game Program.  Each game number signifies
+a particular skill level(except for Game 4, which is for two players).
+
+Game 1
+Beginner Level.  One player opposes the computer; the computer plays with the
+skill of a novice player.
+
+Game 2
+Intermediate Level.  One player opposes the computer; the computer plays with
+average skill.
+
+Game 3
+Expert Level.  One player opposes the computer; the computer plays with expert
+skill.
+
+Game 4
+Two players oppose each other.
+
+* OTHELLO(R) is a registered trademark of CBS, INC. for its strategy disc game
+and equipment.
+
+SCORING
+
+Each square you capture is worth one point.  You lose points when your opponent
+captures your squares.  The left controller player's score is displayed in the
+upper left corner of the screen; the right controller player's score is at
+the upper right.
+
+All game start with two black and two white squares in the center of the grid.
+At the game's end the television changes colors every few seconds.  The player
+with the highest score wins the game.
+
+Illegal moves:
+You must always outflank an opponent's square or row of squares to make a legal
+move.  The computer will not accept illegal moves and will react to them with 
+a "razz" sound.  You do not lose a turn for attempting to make an illegal move.
+
+STRATEGY
+
+The following strategy is included to help the beginning player.  If you are an
+advanced player, you may choose to use more complicated strategy, or strategy
+to help you develop yourself.
+
+A corner square can be extremely valuable since it cannot be outflanked and
+since it serves as a permanent end in three directions(horizontally,
+vertically, and diagonally).  Try to capture corner squares whenever possible.
+
+Squares which make up rows on the outside edges of the grid are also valuable.
+They can only be outflanked in one direction along the edge and they can serve
+as an outside "end" for three directions (2 diagonals and perpendicular to the
+edge).
+
+Be careful when approaching the row next to the outside row.  When you capture
+one of the squares in these rows you become a possible bridge (for your 
+opponent) to a corner or end position.
+
+A solid block of one color is often the key to a winning game.  Another key
+to winning is dominating the corners of the grid.
+
+See the following diagrams for graphic examples of how to play OTHELLO
+successfully.
+
+B       B            The four corner squares are very good to occupy.
+                     They cannot be captured.
+
+
+
+
+
+B       B   
+
+ 
+ B    B              Be careful occupying these squares.  Your opponent
+                     can maneuver to get the corner squares.
+
+
+
+ B    B 
+
+  BBBB               Playing in these squares makes it easier for your
+ B    B              opponent to get the "edge" or outside squares.  Avoid
+ B    B              playing in these squares whenever possible.
+ B    B
+ B    B
+  BBBB  
+
+ BBBBBB              Try to get the "edge" squares.  They can only be captured
+B      B             along the edge, from one direction.
+B      B
+B      B
+B      B
+B      B
+B      B
+ BBBBBB  
+
+Printed in U.S.A.  C011402-39 Rev.2
+
+This document was typed and converted to html by gchance@ecst.csuchico.edu.
+          

@@ -1,0 +1,182 @@
+STAR VOYAGER
+
+GAME PROGRAM INSTRUCTIONS
+
+Returning from a secret diplomatic mission, the Astro-Cruiser Star Voyager
+receives an urgent stellar communication: "Zakor has betrayed new treaty.
+Capital Starport under siege. Relief imperative. Return immediately.
+Caution: Zakoran enemy ships patrol the seven star portals. Energy supplies
+limited: Refuel at each star portal. Hurry!"
+
+OBJECTIVE
+
+Pilot Star Voyager through treacherous space. As you look out from the
+Command Bridge, stars rush past. Penetrate the seven star portals and save
+the Capital Starport. Destroy enemy ships with photon torpedoes or lasers,
+or evade them to maintain your precious energy supply.
+
+Keep track of energy levels on the instrument panel. Use your radar screen
+to locate opponents and approaching star portals. Only passing through a
+star portal restores your energy reserves. But be warned! Crashing into a
+star portal will destroy you!
+
+GAME PLAY
+
+   * Your viewer displays the hostile space you navigate.
+   * Sights at the center of the viewer show where your 2 lines of fire
+     meet.
+   * Weapon fire originates under wings located on either side of the
+     Command Bridge. Lasers use more energy than photon torpedoes but have
+     a wider, more effective range. Both destroy anything in their paths.
+   * Enemy ships and star portals first appear as small distant dots, then
+     advance. Enemy pulsar bombs flash white hot on your viewer. Each hit
+     costs you energy as enemy ships and their fire crash into Star Voyager
+     defense shields.
+
+Destroy enemy ships, maintain energy levels, eclipse star portals--you'll
+earn field promotions. (See Scoring.)
+
+   * Your instrument panel helps. The reading on the left indicates the
+     number of enemy ships you've blasted. Energy still in reserve appears
+     on the right.
+   * The radar screen in the middle of the panel shows both the nearest
+     enemy (solid dot) and star portal (flashing blip.)
+   * Audio signals alert you to approaching foes and star portals. Four
+     beeps indicate an alien presence. A musical overture sounds when a
+     star portal is near.
+
+Listen for star portal opportunities. When signaled, maneuver the flashing
+blip to dead center of the radar screen with your joystick controller.
+Quickly! It will appear on your viewer. Line the star portal up between
+your sights and flash through!
+
+HAND CONTROLS
+
+   * Your joystick responds like pilot controls. To navigate: pull stick
+     toward you to climb. Push forward to dive. Rotate to the right and
+     veer right; to the left, veer left. Position joystick so that the red
+     button is at the upper left hand corner.
+   * To fire laser or photon torpedoes: press red button.
+   * 1-player versions: use left hand controller.
+
+CONSOLE UNIT
+
+   * Flip Game Select Lever to choose a Star Voyager game.
+   * Game number appears in lower left of screen.
+   * Hit Game Reset Lever to begin action. Game begins again whenever Reset
+     Lever is tapped.
+   * Fire button on left hand controller will reset game when previous game
+     ends.
+
+SPEED
+
+The Left Difficulty Lever controls the pace of enemy attack and star portal
+appearance.
+
+   * Normal mode: A
+   * Accelerated action: B
+
+WEAPONS
+
+Select weapons with the Right Difficulty Lever:
+
+   * Lasers: position A
+   * Photon Torpedoes: position B
+
+GAME VARIATIONS
+
+1 player opposes a computer-controlled foe. Use left hand controller.
+
+2 player
+
+   * Team up as Pilot and Weapons Officer. Select game number 1. The pilot
+     uses the left hand controller. The right joystick controls weapon
+     fire.
+   * For a combative challenge, play game number 2. The left joystick
+     operates Star Voyager. The right maneuvers enemy ships and controls
+     pulsar bomb fire.
+
+SCORING
+
+   * Multiply your tally of enemy casualties by 5.
+   * Add 10 points for each star portal penetrated. Determine the number of
+     star portals crossed by the color of the viewer border:
+
+       Blue--Grey--Yel--Or--Grn--Viol--Pink--Blue
+         0     1    2    3   4     5     6     7
+
+
+     (Color tone varies depending on TV screen)
+
+Your score earns you field promotions:
+
+  0-15     AWOL
+ 16-47     (one Chevron)
+ 48-79     (two Chevrons)
+ 80-111    (three Chevrons)
+112-143    (four Chevrons)
+144-175    Lieutenant
+176-207    Captain
+208-       Admiral
+
+Rankings appear at game's end.
+
+TACTICAL TIPS
+
+   * Practice Star Voyager by playing a 2-player version alone.
+   * Plug in both joysticks.
+   * Use the left controller.
+   * Move left Difficulty Lever to B. Star portals will appear at center
+     screen.
+   * Learn to recognize enemy ships, control your fire, and read the radar
+     scope.
+
+WARRANTY
+
+IMAGIC VIDEO GAME CARTRIDGE TWO YEAR LIMITED WARRANTY
+
+Imagic, Inc. warrants to the original consumer purchaser of this Imagic
+video game cartridge that it will be free from defects in materials and
+workmanship for TWO YEARS from the date of purchase. If this cartridge is
+discovered to be defective within the warranty period, Imagic, at its
+option, will either repair or replace this cartridge free of charge, upon
+receipt of the cartridge, postage prepaid, with proof of date of purchase,
+at the following location:
+IMAGIC, INC.
+Customer Services
+20665 Fourth Street
+Saratoga, CA 95070
+
+This warranty is limited to electronic and mechanical parts contained
+within the cartridge. It is not applicable to normal wear and tear and is
+not applicable and shall be void if the defect has arisen through, or the
+cartridge shows signs of, misuse, excessive wear, modifications, or
+tampering.
+
+THIS WARRANTY IS IN LIEU OF ALL OTHER EXPRESS WARRANTIES OR
+REPRESENTATIONS. ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES OF
+MERCHANTABILITY AND FITNESS, ARE LIMITED TO A PERIOD OF TWO YEARS FROM THE
+DATE OF PURCHASE. IMAGIC IS NOT LIABLE FOR ANY SPECIAL, INCIDENTAL, OR
+CONSEQUENTIAL DAMAGES RESULTING FROM BREACH OF ANY EXPRESS OR IMPLIED
+WARRANTIES ON THIS CARTRIDGE.
+
+Some states do not allow limitations on how long an implied warranty lasts
+or the exclusion or limitation of incidental or consequential damages, so
+the limitations or exclusions set forth above may not apply to you. This
+warranty gives you specific legal rights, and you may also have other
+rights which vary from state to state.
+
+STAR VOYAGER
+
+Imagic wants you to be as pleased in playing our games as we are in
+providing them. Your playing pleasure is our chief concern, so let us know
+how we can best serve you. Please write to:
+
+IMAGIC, INC.
+Consumer Affairs
+20665 Fourth Street
+Saratoga, CA 95070
+
+© 1982 IMAGIC INCORPORATED
+Printed in USA ---------- Cut Here ---------- -- Marc G. Frank
+mgfrank@erebus.com

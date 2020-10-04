@@ -1,0 +1,342 @@
+TRICK SHOT
+GAME PROGRAM INSTRUCTIONS
+
+Name your game: Pool, English Billiards, or Trickshot
+combinations test your poise and accuracy, while 9 Practice Shots
+allow you to refine your skills even further. Line up with your
+joystick-controlled cue. Decide how powerful an impact to apply
+and use just the right amount of "English." One or two players
+compete for the winner's trophy, striving all the while to
+perfect each shot.
+
+TABLE OF CONTENTS
+
+General information on How to Play
+     * Console Unit
+     * Hand Controls
+
+Trickshot 1 and 2 Player
+
+Pool 1 and 2 Player
+
+English Billiards
+
+Trickshot Practice Modes
+
+
+GAME PROGRAM INSTRUCTIONS
+
+To select one of the 14 Trick Shot variations, flip Game Select
+lever. The game notation appears right of centre on the blue
+strip at the bottom of your screen.
+
+Game Notation            Game Variation
+     1T                  1-Player Trickshot
+     2T                  2-Player Trickshot
+     1P                  1-Player Pool
+     2P                  2-Player Pool
+     2B                  2-Player English Billiards
+   1,2...9               Trickshot Practice Modes
+
+Instructions for playing each game appear in that section of this
+manual.
+
+To begin the selected game, tap Game Reset lever.
+*    Once Reset is tapped, a white dot appears next to the cue
+     ball. This is your cue.
+*    In 2-player games, the game indicator (2T,2P, etc.)
+     disappears when Reset is tapped, replaced by the scoreboard
+     for the player holding the right joystick controller. (See
+     Scoreboard.)
+
+Left and Right Difficulty levers control cue ball scratch
+options. See Pool section for instructions.
+
+HAND CONTROLS
+
+With your joystick controller you determine cue placement, shot
+impact and the amount of "English" applied in each turn.
+
+Cue Placement
+*    Move joystick left or right to rotate cue around cue ball.
+*    32 possible cue positions.
+
+Shot Impact
+*    Press red joystick button.
+*    The longer you hold the red button down, the harder the cue
+     hits the cue ball. For a light touch, press and release
+     button immediately. For maximum impact, hold button down
+     for 5 seconds.
+
+"English"
+In addition to cue placement, you control the angle of your shot
+by putting "English" (a spin) on the cue ball. To use "English":
+*    Position cue.
+*    Press red button and hold it down.
+*    Lean joystick in the direction you want the cue ball to
+     spin. (See Joystick illustration.) Remember: "English"
+     moves in relation to the table as it appears on your
+     screen. You are not behind the cue as you shoot; you view
+     the table from above. Determine directional spin
+     accordingly.
+*    The longer you hold the joystick, the more "English" you
+     apply. For maximum "English", hold in position for 7
+     seconds.
+*    When the cue ball strikes another ball or the table
+     cushion, it spins in the direction you've determined.
+*    Be Careful! Too much forward or reverse "English" on a shot
+     rips the felt table covering. A ripping sound results. No
+     penalty results.
+
+Scoreboard
+Scores appear on the blue strip at the bottom of the screen.
+*    The black ball at the centre of the strip indicates which
+     player's turn it is. At the end of a turn in a 2-player
+     game, the ball shifts to the other player's score.
+*    At the end of every game, a trophy appears in the place of
+     the black ball. The high scorer wins.
+*    In all 1-player games or in 2-player Trickshot games ending
+     in a tie, the trophy automatically appears next to the left
+     hand score.
+
+TRICKSHOT
+
+Objective
+Hone your sharpshooting skills on these 9 Trickshot combinations.
+Find the exact mixture of cue placement and touch necessary to
+sink all the object balls in each shot. Try for a perfect score
+of 37.
+
+Game Play
+*    Study the shot. Decide where to place your cue around the
+     cue ball.
+*    Determine how much force you want to use.
+*    Automatically advances to the next Trickshot combination at
+     the close of each shot. To work on individual combinations,
+     see Practice Modes.
+
+Scoring
+*    Earn 1 point for each object ball sunk.
+*    Earn a 2 point bonus for sinking all object balls in a
+     particular shot.
+*    No scoring penalty for a scratch. If you pocket an object
+     ball or balls and the cue ball, you still score the same
+     number of points.
+*    Perfect score: 37.
+*    A trophy appears at the bottom centre of the screen beside
+     winner's score.
+*    In a tie, the trophy appears left of centre.
+
+Trickshot Game Variations
+1-Player Trickshot
+*    Use left joystick.
+*    Try to beat your highest previous score.
+2-Player Trickshot
+*    Player holding the left joystick shoots first.
+*    When the first player's attempt is completed, the trickshot
+     is automatically reset for the other player.
+
+POOL
+
+Objective
+Sink object balls and win. It only sounds easy!
+
+Game play
+*    A game consists of 5 racks of 3 balls each:
+     15 object balls in all.
+
+"The break"
+*    Game opens with the cue ball centred on the lag line. On a
+     break shot, the cue ball cannot be moved up or down the lag
+     line.
+*    Cue may be position around the cue ball.
+*    Player holding the left joystick breaks first.
+
+Regular Play
+*    Control impact of the shot and "English" on cue ball with
+     the joystick controller. (See Hand Controls.)
+*    Player retains turn as long as an object ball or balls is
+     sunk with each shot.
+*    If a player fails to sink a ball, or scratches, the next
+     shot goes to the opposing player.
+*    When the last ball in one rack is pocketed, another rack
+     appears on the spot. After the first rack of the game, the
+     cue ball remains where it came to rest at the end of the
+     previous shot.
+*    If the cue ball occupies a space where a new rack of object
+     balls must be spotted, the cue ball will be re-spotted on
+     the lag line to the right.
+
+Scratch
+*    If a player pockets the cue ball (scratches), the turn goes
+     to his opponent.
+*    After a scratch, the cue ball is re-spotted to the lag
+     line.
+*    If a player sinks an object ball and scratches, credit for
+     the shot is nevertheless added to his score. The opposing
+     player takes the next shot.
+
+Scoring
+*    1 point per object ball.
+*    2 point bonus for sinking the last ball in a rack.
+*    Maximum score: 25.
+
+Game Variations
+1-Player Pool
+*    Use left joystick controller.
+*    Play to 25.
+2-Player Pool
+*    First player to 25 wins. Trophy awarded at end of game.
+     Listen for the bells!
+
+ENGLISH BILLIARDS
+
+Objective
+Imagic has streamlined English Billiards so that you can play it
+without spending large sums for the right equipment. Obscure
+rules and penalties (too many taps with your cue, letting both
+feet leave the floor as you make a shot, playing out of turn...)
+have been altered or ignored.
+
+In English Billiards, strategy pays in points. Using only 3
+balls, a variety of scoring opportunities are possible. Expert
+manipulation of your cue, "English" and cue impact results in an
+exciting battle of wits.
+
+Game Play
+*    You only need 3 balls: 2 cue balls and a red ball. Use your
+     cue to strike the cue balls. The red ball is hit by
+     knocking the cue balls against it.
+*    The red ball appears on the spot at the left of the table.
+*    The striker's cue ball lies centred on the lag line at the
+     right of the table.
+*    You cannot control cue ball positioning along the lag line.
+*    The player holding the left joystick controller begins the
+     game.
+*    When the first player's turn ends, the second player's cue
+     ball comes into play.
+
+Regular Play
+*    Each time a player sinks a ball and scores, that player
+     earns another shot.
+*    After 5 consecutive scores, the opposing player gets the
+     turn.
+*    If a player fails to score on his shot, the opponent takes
+     the next shot.
+*    If the striker sinks his opponent's cue ball, that ball
+     remains off the table until the turn ends.
+*    When the pocketed cue ball comes back into play, it is
+     centred on the lag line.
+*    When the red ball is pocketed, it is immediately re-spotted
+     on the spot.
+
+
+Scoring
+*    The striker scores for winning hazards, losing hazards, and
+     cannons.
+*    The first player to reach 50 points wins.
+*    Winning Hazards
+     *    2 points for sinking your opponent's cue ball.
+     *    3 points for pocketing the red ball.
+*    Losing Hazards
+     *    2 points for sinking your cue ball (scratching) off
+          your opponent's cue ball.
+     *    3 points if you pocket your cue ball in off the red
+          ball.
+*    Cannons
+     *    2 points if your cue ball strikes both other balls.
+     *    2 points for scratching your cue ball after hitting
+          your opponent's cue ball first, then the red ball.
+     *    3 points awarded if you strike the red ball first and
+          then hit the cue ball and scratch.
+*     Additional points possible
+     *    3 points for your opponent if you scratch your cue
+          ball without striking another ball.
+     *    1 point for your opponent if, in shooting, you fail to
+          hit another ball.
+
+Note
+*    When resetting a pocketed red ball, a cue ball occupying
+     the spot is reset to the centre of the lag line.
+*    Similarly, a cue ball being centred on the lag line
+     displaces another ball situated there.
+
+TRICKSHOT PRACTICE MODES
+
+Objective
+Perfect your performance in 1 or 2 player Trickshot by practising
+individual shots.
+
+To Play
+*    Flip Game Select until the desired shot appears on your
+     screen.
+*    Its number in the sequence of 9 shots shows up right of
+     centre on the blue strip at the bottom of your screen.
+*    Use the left joystick controller.
+*    As you complete each attempt, a score for those balls sunk
+     flashes on the scoreboard before the shot is set up again.
+     *    1 point for each object ball pocketed.
+     *    2 point bonus for sinking all object balls in a shot.
+*    Experiment with cue impact and "English" until you master
+     these challenging problem shots.
+
+A note about your screen: It is possible to leave any Trickshot
+game in progress and come back later. If enough time has passed
+(15 minutes or more), the screen automatically shifts to reduced
+luminance. To restore the game screen to full luminance, tap the
+joystick controller.
+
+Trickshot Audio Signals
+*    Balls thud against cushions.
+*    Balls click as they collide.
+*    A rip rumbles as the felt tears when too much "English" has
+     been applied to a shot.
+*    A loud blast, most disagreeable, greets a scratch.
+*    A blip signals a change in turns.
+*    A pleasant ping plays as you sink an object ball.
+*    Bells sound for the winner!
+
+GLOSSARY OF TERMS
+
+break, breaking the rack: 
+     The opening shot in a game of pool or English Billiards.
+cannon:  
+     A way of scoring in English Billiards involving striking
+     both other balls in play, or hitting both balls and
+     scratching the cue ball.
+cue: The white dot which strikes the cue ball. Position the cue
+     by manipulating the joystick controller. (See Hand
+     Controls.)
+felt: 
+     The green table covering.
+hazard: 
+     Ways of scoring in English Billiards. A winning hazard is
+     a shot which sinks the opponent's cue ball, or red ball. A
+     losing hazard involves the striker's sinking the cue ball
+     off the opponent's cue ball or off the red ball.
+lag line:
+     An invisible line across the right third of the table.
+object balls: 
+     In Trickshot and Pool, any balls other than the cue ball.
+rack:
+     The triangular formation of 3 object balls centred on the
+     spot at the opening of pool. Object balls are re-racked
+     when the last of a rack is sunk.
+re-spotted:
+     When a red ball in English Billiards is placed on the spot.
+scratch:
+     Pocketing your cue ball on a shot. No penalty results in
+     Pool; scoring possibilities result in English Billiards.
+     See individual game sections for particulars. Also see Pool
+     for "cue ball scratch options": where the cue ball is or
+     can be placed along the lag line when reset after a
+     scratch.
+spot:
+     An invisible point at the centre of the left third of the
+     table. Racks in Pool line up on one spot; the red ball in
+     English Billiards is spotted a bit lower.
+striker:
+     The player whose turn it is. The player "strikes" the cue
+     ball to make a shot.
+
+-------------------Atari 2600 Instructions Archive-------------------

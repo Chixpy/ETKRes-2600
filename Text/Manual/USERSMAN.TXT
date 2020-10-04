@@ -1,0 +1,744 @@
+<Picture>
+
+<Picture>Atari_2600_Users_Manual.html<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+Video Computer System(tm)
+
+Owner's Manual
+
+Model CX2600A
+
+
+
+
+1. UNPACK GAME
+
+
+
+
+
+When you remove your ATARI(R) Video Computer System(tm) from the box, you
+should have:
+
+
+
+
+
+
+
+
+•ATARI Video Computer System Console Unit
+
+•Combat Game Program(tm) Packet(with Game Instruction Booklet)
+
+•2 Joystick Controllers
+
+•Paddle Controller (Set of 2)
+
+•AC Power Supply
+
+•TV/Game Switch Box (with twin-lead wires)
+
+
+
+Your ATARI Video Computer System is engineered not to show a phosphor memory
+of the playfield or score digits.  We suggest, however, to protect your 
+television:
+
+
+
+
+
+
+
+1. When playing the games, turn down the contrast of your television.
+
+
+
+
+
+2. Turn the ATARI Video Computer System OFF when not in use.
+
+
+
+
+
+2. INSTALL SWITCH BOX
+
+
+
+
+
+Your TV/Game Switch Box attaches easily to your TV's VHF antenna screws.  Find
+the picture that looks the most like the back of your TV set and follow those
+instructions.  A flat screwdriver is required.
+
+
+
+
+
+If your television has four screws only:
+
+
+
+
+
+A. Disconnect the twin-lead wire from your television and attach it to the
+   "Antenna" screw terminals on the TV/Game Switch Box.
+
+
+
+
+
+B. Connect the twin-lead wire from the TV/Game Switch Box to the VHF antenna
+   terminals on your television set.
+
+
+
+
+
+In each of these two cases, you may need to buy an "impedance matching
+transformer"(also called a "balun coil").  The transformer is necessary only
+if you do NOT have a flat twin-lead antenna wire.  It is availabel at a 
+nominal cost from your local TV and hifi stores.
+
+
+
+
+
+If your television has a "U" shaped slider or slide switch:
+
+
+
+
+
+A. Move the "U" shaped slider to make connection between the two screws.
+
+
+
+
+
+                               OR
+
+
+
+
+
+
+Push the slide switch to the side marked "300 ohm" or "300 U".
+
+
+
+
+
+B. If you have a round antenna cable:
+
+
+
+
+
+
+
+•Disconnect the cable from your television.
+
+•Screw the cable intot he impedance-matching transformer.
+
+•Attach the impedance-matching transformer to the "Antenna" screw 
+     terminals on the TV/Game Switch box.
+
+                               OR
+
+
+If you have a flat twin-lead antenna wire:
+
+•Disconnect it from the television and attach it to the "Antenna" screw
+     terminals on the TV/Game Switch Box.
+
+
+
+C. Connect the short twin-lead wire from the TV/Game Switch Box to the VHF
+   antenna terminals on your television set.
+
+
+
+
+
+
+
+If your television has a short round cable:
+
+
+
+
+
+A. If you have a round antenna cable,
+
+
+
+
+
+
+
+•Disconnect the cable from your television.
+
+•Screw the cable into the impedance-matching transformer.
+
+•Attach the impedance-matching transformer to the "Antenna" screw
+     terminals on the TV/Game Switch Box.
+
+                               OR
+
+
+   If you have a flat twin-lead antenna wire:
+
+•Disconnect it from the television and attach it to the "Antenna" screw
+     terminals on the TV/Game Switch Box.
+
+
+
+B. Attach the television's short loose-hanging cable to the connector next
+   to it on your television set.
+
+
+
+
+
+
+
+C. Connect the twin-lead wire from the TV/Game Switch Box to the VHF antenna
+   terminals on your television set.
+
+
+
+
+
+If your television is connected to Cable TV:
+
+
+
+
+
+A. Disconnect the cable from the back of your television set.  Note: Your Cable
+   TV company may have already supplied you with an impedence-matching
+   transformer.
+
+
+
+
+
+B. Attach the twin leads from the impedance-matching transformer to the
+   "Antenna" screw terminals on your TV/Game Switch Box.
+
+
+
+
+
+C. Screw the cable into the impedance-matching transformer.
+
+
+
+
+
+Plug the Game Cable from your ATARI Video Computer system into the TV/Game
+Switch Box at the "Game" connector.
+
+
+
+
+
+The TV/Game Switch Box may remain attached to your television antenna without
+bothering your television program reception.
+
+
+
+
+
+The TV/Game Switch Box can be attached permanently to the back of your
+television set.
+
+
+
+
+
+
+
+•Peel off the protective paper on the back of the TV/Game Switch Box.
+
+•Press the exposed sticky surface onto any clear area on the back of your
+  television near the antenna terminals.
+
+By attaching a TV/Game Switch Box to each television in your home, you can
+easily move your ATARI Video Computer System from room to room.  Extra
+TV/Game Switch Boxes, part number CA010325, are available from ATARI, INC.
+See Section 9 for ordering information.
+
+Federal Communications Commission regulations require that you:
+
+•Avoid using any more than twin-lead wires from the TV/Game Switch Box to
+  your television than are supplied with the TV/Game Switch Box.
+
+•Avoid connecting the twin-lead wire from the TV/Game Switch Box to any
+  television antenna or cable TV outlet.
+
+•Avoid attaching loose wires to your television antenna terminals when using
+  your ATARI Video Computer System.
+
+
+
+Any of the above may cause interference to nearby television sets and is
+against Federal Communications Commission (FCC) regulations.
+
+
+
+
+
+
+
+3. ASSEMBLE CONSOLE
+
+
+
+
+
+
+
+•Attach the controllers by plugging them into the terminals on the back of
+  the console.  The controller jacks are designed to fit only one way, so do
+  not try to force them into the terminals.
+
+
+
+NOTE: The COMBAT Game Program supplied with your ATARI Video Computer System
+uses the Joystick Controllers.
+
+
+
+
+
+
+
+
+
+•Insert the jack of the AC Power Supply into the back of your ATARI Video
+  Computer System Console unit.
+
+•Check to see that the POWER switch on the console is OFF.
+
+•Plug the AC Power Supply into any convenient 120-volt electrical outlet.
+
+
+
+NOTE: Using any AC Power Supply other than that designed for your ATARI
+Video Computer System can damage the unit.
+
+
+
+
+
+
+
+POWER REQUIREMENT: 9-volts DC, 500ma.
+
+
+
+
+
+
+
+•On the TV/Game Switch Box that you have attached to your television set's
+  antenna terminals, push the TV/Game switch to GAME.
+
+•Turn on your television.
+
+•Set the volume control of your television at minimum loudness.
+
+•If your television has an automatic fine-tuning control, turn it OFF and
+  manually fine-tune for the best picture.
+
+  (Note: If your television will receive color only when the automatic 
+  fine-tuning is on, keep the automatic fine-tuning on.)
+
+•Set the channel selector of your television to channel 3.
+
+
+
+The Video Computer System is factory-set to operate on Channel 3.  However,
+if Channel 3 is broadcasting in your area, you may receive interference.  In
+that case, change your television and Channel Switch to Channel 2.  The
+Channel Switch is located on the back panel of the Console unit.
+
+
+
+
+
+
+
+4. INSERT GAME PROGRAM
+
+
+
+
+
+
+
+•Check to see that the POWER switch on the ATARI Video Computer Console unit
+  is OFF.
+
+IMPORTANT: To prolong the life of your ATARI Video Computer System and protect
+the electronic components, the Console unit should be OFF when inserting or
+removing an ATARI Game Program.
+
+•Hold the ATARI Game Program so that the name on the end is towards you and
+  read s right side up.
+
+•Insert the ATARI Game Program CAREFULLY intot he slot in the center of the
+  Console unit switch panel.  Be sure the Game Program is firmly seated, but
+  do NOT TRY TO FORCE IT.
+
+When removing the ATARI Game Program, pull it straight out of the Console.
+Check to see that the POWER switch to the Console is OFF.
+
+
+
+5. TO START PLAY
+
+
+
+
+
+
+
+
+
+•If your ATARI Video Computer System is attached to a color television,
+  slide the TV TYPE switch to the COLOR position.  This will allow you to 
+  play the games in vivid color.
+
+  If your television is black and white, slide the TV TYPE switch to B&W.
+  The ATARI Video Computer System will automatically adjust the contrast of
+  your television so you can get full enjoyment of the games on your B&W
+  television.
+
+•Slide the POWER switch to ON.  A game playfield will appear on your 
+  television screen.
+
+
+
+IMPORTANT: If no playfield appears, which can happen if you have inserted the
+ATARI Game Program while the Console unit is turned ON, slide the POWER
+switch to OFF and then back to ON.
+
+
+
+
+
+
+
+To prolong the life of your ATARI Video Computer System and protect the
+electronic components, the console unit should be OFF when inserting an ATARI
+Game Program.
+
+
+
+
+
+
+
+•Adjust the volume control of your television set to a comfortable level.
+  The action game sounds will be coming from your television speaker.
+
+•Generally the GAME SELECT switch is used to select the game or game variation
+  of the ATARI Game Program you wish to play.  Refer to the GAME PROGRAM
+  INSTRUCTION booklet for your particular ATARI Game Program for details.
+
+•For most ATARI Game Programs, depressing the GAME RESET switch will begin
+  game play.  Some ATARI Game Programs may use this switch differently.
+  Refer to the GAME PROGRAM INSTRUCTION booklet for details.
+
+•In most cases, the ELFT and RIGHT DIFFICULTY switches are used to handicap
+  more skillful players.  Generally, Position A is more difficult than
+  Position B.  Some ATARI Game Programs may use these two switches for other
+  functions.  See the GAME PROGRAM INSTRUCTION booklet for details.
+
+
+
+6. CHANGE TV BACK TO REGULAR PROGRAMMING
+
+
+
+
+
+
+
+
+
+•Slide the POWER switch on the Console unit to OFF.
+
+•On the TV/Game Switch Box attached to the back of your television set,
+  slide the TV/Game switch to "TV".
+
+
+
+7. MAINTENANCE
+
+
+
+
+
+
+
+Your ATARI Video Computer System should bring many years of enjoyment.  In
+order to keep your system in good working condition, please remember the
+following points:
+
+
+
+
+
+
+
+•Always turn the POWER switch on the Console unit OFF before inserting an
+  ATARI Game Program.
+
+•Don't try to force the Game Program into the Console.
+
+•Your ATARI Game Programs are protected from normal wear and tear as they
+  are fully enclosed.  However, care should be taken not to spill liquids
+  on them.
+
+•Don't pour liquids into the Game Program Slot of the Console.
+
+•Lifting the Console unit or the controllers by the connecting wires can
+  bend or crimp them, breaking the internal insulation of the wire.
+
+•Care should be taken not to drop the Console, Controllers, or ATARI Game
+  Programs on any hard surface.
+
+•Do not expose the Console, Controllers, or ATARI Game Programs to excessive
+  or extreme heat.
+
+•Remember to turn the ATARI Video Computer System OFF when not in use.
+
+•Use of any AC Power Suppy other than that designed for use with your
+  ATARI Video Computer System can damage the electronic parts of the system.
+
+
+
+8. TROUBLESHOOTING CHECKLIST
+
+
+
+
+
+
+
+Symptom: No playfield image on television screen or whitish gray screen.
+
+Probable Cause and Remedy: * Switch Box set at "TV", change to "GAME".
+                         
+                           * Game Cable not properly plugged into Switch Box.
+
+                           * Twin-lead wire not properly attached to VHF
+                             antenna terminals on rear of television
+ 
+                           * Console unit POWER switch not turned ON.
+
+                           * Game Program inserted into Console while POWER
+                             switch was ON.  Slide switch to OFF and back to
+                             ON.
+
+                           * A particularly strong television station may be
+                             broadcasting on channel 3 in your area (or on
+                             Cable TV).  Remove the antenna wire or cable from
+                             the ANTENNA connection at the TV/Game Switch Box.
+
+Symptom: Left (or right) controller does not function correctly.
+
+Probable Cause and Remedy: * Check to see that controller is firmly seated in
+                             Console unit controller jack.
+
+                           * Move malfunctioning controller to opposite Console
+                             controller jack.  If controller still does not
+                             function correctly, it is faulty.
+
+Symptom: No regular TV programs.
+
+Probable Cause and Remedy: * Switch Box set at GAME.  Change to TV.
+ 
+                           * Twin-lead wire not properly attached to VHF
+                             antenna terminals on rear of TV.
+
+                           * Antenna wire not properly attached at "300 OHM"
+                             screws on Switch Box.
+
+Symptom: Playfield fuzzy, like weak TV station signal.
+
+Probable Cause and Remedy: * Poor connections at antenna terminals of
+                             television set or Switch Box.
+
+                           * Television set not fine-tuned for best picture.
+                             Make sure automatic fine-tuning is OFF and 
+                             manually fine-tune for best picture. (Note: If
+                             your television will receive color only when
+                             the automatic fine-tuning is on, keep the 
+                             automatic fine-tuning on.)
+
+                           * A particularly strong television station may be
+                             broadcasting on channel 3 in your area (or on
+                             Cable TV).  Remove the antenna wire or cable
+                             from the ANTENNA connection on the TV/Game Switch
+                             Box.
+
+Symptom: Playfield unsharp, unsteady, or no color.
+
+Probable Cause and Remedy: * TV TYPE switch on Console set at "B&W" position.
+                             Move to COLOR.
+
+                           * Television set not fine-tuned for best picture.
+                             Make sure automatic fine-tuning is OFF and
+                             manually fine-tune for best picture. (Note: If
+                             your television will receive color only when the
+                             automatic fine-tuning is on, keep the automatic
+                             fine-tuning on.)
+
+                           * A particularly strong television station may be
+                             broadcasting on channel 3 in your area (or on
+                             Cable TV).  Remove the antenna wire or cable
+                             from the ANTENNA connection on the TV/Game Switch
+                             Box.
+
+Symptom: Playfield unsharp, unsteady, or unable to tell differences between
+         playing pieces and/or playfield. (B&W TV)
+
+Probable Cause and Remedy: * TV TYPE switch on Console set at COLOR position.
+                             Move to "B&W".
+
+                           * A particularly strong television station may be
+                             broadcasting on channel 3 in your area (or on
+                             Cable TV).  Remove the antenna wire or cable
+                             from the ANTENNA connection on the TV/Game Switch
+                             Box.
+ 
+Symptom: Sound buzzes or is distorted.
+
+Probable Cause and Remedy: * Television set not fine-tuned.  Adjust television
+                             set fine-tuning controls until both picture and
+                             sound are clear.
+
+                           * A particularly strong television station may be
+                             broadcasting on channel 3 in your area (or on
+                             Cable TV).  Remove the antenna wire or cable
+                             from the ANTENNA connection on the TV/Game Switch
+                             Box.
+
+Symptom: No game sounds.
+
+Probable Cause and Remedy: * Television set volume not turned up.  Adjust 
+                             television set volume to desired level.
+
+
+
+
+
+
+
+As a rule of thumb, if no playfield appears when you turn ON your Video
+Computer Console, turn the unit OFF, wait 10 seconds, and then turn the unit
+ON.
+
+
+
+
+
+On some color televisions it may be necessary to leave the automatic fine
+tuning control ON during game play.
+
+
+
+
+
+9. PARTS LIST
+
+
+
+
+
+The replacement parts listed below should be ordered directly from ATARI, INC.
+Consumer Division, Parts Department, 1346 Bordeaux Drive, Sunnyvale, CA
+94086.  When ordering repair parts, always include the following information:
+
+
+
+
+
+* Part Number                  * Name of Game
+* Model Number                 * Part Name
+
+
+
+
+
+
+The Model Number of your ATARI Video Computer System is located at the bottom
+of the Console unit.  Always mention the Model Number when requesting service
+or repair parts.
+
+
+
+
+
+PART NAME                   PART NUMBER
+---------------------------------------
+Joystick Controller         CA012994-03
+Paddle Controller(set of 2) CA012760-06
+TV/Game Switch Box          CA014120
+AC Power Supply             CA014034
+Rubber Foot                 88-1004
+Owner's Manual              CO15394
+---------------------------------------
+
+
+
+
+
+
+(C)1980 ATARI, INC.
+
+PO Box 427
+
+Sunnyvale, CA 94086
+
+
+
+
+
+
+This document converted to html by gchance@ecst.csuchico.edu.
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
+
+

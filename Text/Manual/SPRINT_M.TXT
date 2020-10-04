@@ -1,0 +1,120 @@
+ATARI 2600 TM Game Manual
+
+Sprint Master
+
+
+Ready, Set, Go!
+
+
+     Speed into the Sprint Master hall of fame! Choose your
+track, from practice-caliber squares to the curvaceous
+championship courses. Rev up at the starting line, and take off!
+
+     Keep a good grip on the controls. You'll need a delicate
+touch and a cool head to avoid sliding into the wall on those
+arcing curves.
+
+     Watch your time. Take advantage of the bonus speed and
+traction boxes at the necessary moments. Grab the lead on the
+first lap, or let your challenger outpace you and then make him
+eat dust in the final laps.
+
+     Outrace an opponent, or go at it again to beat your own
+time. Sprint to the finish and win!
+
+
+Getting Started
+
+1.   With your Atari 2600 or 7800 set up, insert the Sprint
+     Master cartridge into the console.
+
+2.   Use the left difficulty switch on your console to change
+     your steering. Move the switch to the "A" or left position
+     for more difficult control (less traction). Move it to the
+     "B" or right position for easier control (more traction).
+
+3.   Plug a joystick into the left controller port for one
+     player. Plug a second joystick into the right controller
+     port for two players.
+
+4.   Turn on your television or monitor and press the [Power]
+     key to turn on your console. The Sprint Master title screen
+     appears.
+
+5.   Press [Select] or push the joystick handle in any direction
+     to choose a one-player or two-player game. (In a one-player
+     game, you race against the computer.) When the choice you
+     want is flashing, press [Reset] or the joystick button.
+     Then do the same to choose whether the cars will bounce or
+     crash when they collide with something and how many laps
+     (up to 50) the cars will run.
+
+6.   Press [Reset] or the joystick button to get to the raceway.
+     The currently selected track appears, with a grid of all
+     track selections above it.
+
+7.   Press [Select] or push the joystick handle in any direction
+     to see each track selection. When the track you want is on
+     screen, press [Reset] or the joystick button.
+8.   Press [Select] or push the joystick handle in any direction
+     to choose a blacktop, dirt, or ice track.
+
+9.   Press [Reset] or the joystick button to begin.
+
+
+Playing the Game
+
+     Both cars are positioned at the starting line. Then it's
+ready, set, go! Accelerate with your joystick button and steer
+with your joystick handle. Push the handle left or right to turn
+in that direction. Pull the handle back for an emergency brake.
+Release the joystick button to slow down.
+
+     Laps and times appear at the top of the screen.
+
+     Drive over the blue box on the track to gain traction. Drive
+over the red box for a spurt of speed. Hitting an unpredictable
+tar slick makes you speed up or slow down. Colliding into a wall
+costs you time, so move back into position and get going! The
+race car that completes the required laps in the fastest time
+wins!
+
+     After a game, press [Reset] or player 1's joystick button
+to run the same race again. Press [Select] or move player l's
+joystick handle in any direction to return to the title screen.
+
+
+Racing Tips
+
+     Pick up momentum in the straightaways. Keep to the inside
+track on curves.
+
+     On blacktop, make for the red boxes to gain as much speed
+as you can.
+
+     On ice, head for the blue boxes for extra traction.
+
+     Stay on the track. You can take shortcuts across the grass,
+but you may bump into invisible barriers and lose valuable time.
+
+     Watch the track. Some tracks have barriers that appear and
+disappear and could cost you time. You can also use these gates
+for shortcuts, but you need to make sure you get through before
+the gate closes.
+
+
+
+ATARI
+
+Atari Corporation is unable to guarantee the accuracy of printed
+material after the date of publication and disclaims liability
+for changes, errors, or omissions. Reproduction of this document
+or any portion of its contents is not allowed without the
+specific written consent of Atari Corporation.
+
+Atari, the Atari logo, Sprint Master, 2600, and 7800 are
+trademarks or registered trademarks of Atari Corporation.
+Copyright (c) 1980, Atari Corporation. Sunnyvale, CA 94089. All
+rights reserved.
+
+G. C. 4. 1992               C300016-155 Rev. A 

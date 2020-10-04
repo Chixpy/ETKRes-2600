@@ -1,0 +1,339 @@
+The Demons to Diamonds manual is 12 pages
+
+Page I (front cover)
+
+DEMONS TO DIAMONDS(tm)
+ATARI(R) GAME PROGRAM(tm) INSTRUCTIONS
+
+ATARI(R)
+A Warner Communications Company                        CX2615
+
+COMPLETE                 HELPFUL                       FOR ONE OR
+GAME PLAY                HINTS                         TWO PLAYERS
+INSTRUCTIONS        Section 7
+
+Page II
+
+NOTE:  Although DEMONS TO DIAMONDS(tm) was primarily designed for
+children in the 6 to 12 age range, we find that people of all ages enjoy
+this engaging game.
+
+NOTE:  Always turn othe console POWER switch OFF when inserting or
+removing an ATARI(R) Game Program(tm) cartridge.  This will protect the
+electronic components and prolong the life of your ATARI Video Computer
+System(tm) game.
+(C) 1982, ATARI, INC.  ALL RIGHTS RESERVED
+
+Page III
+
+Transcriber's note:  pages III through 8 have the words ATARI(R) GAME
+PROGRAM(tm) INSTRUCTIONS centered at the top of each page.
+
+TABLE OF CONTENTS
+
+1.  SATURDAY AT THE COSMIC CARNIVAL          1
+2.  GAME PLAY                                2
+3.  USING THE CONTROLLERS                    4
+4.  CONSOLE CONTROLS                         4
+5.  GAME VARIATIONS                          5
+6.  SCORING                                  6
+7.  HELPFUL HINTS                            7
+8.  GAME SELECT MATRIX                       8
+
+Page 1
+
+ATARI(R) GAME PROGRAM(tm) INSTRUCTIONS
+1. SATURDAY AT THE COSMIC CARNIVAL
+
+You and your best friend are spending a super Saturday at the Cosmic
+Carnival.  So far you've done all the usual things.  Now you're
+restlessly looking around for a new thrill--something exciting and
+different, some competitive skill sport.  Suddenly you hear a taunting
+voice coming from the vicinity of Target Skill Gallery.
+
+"Whoa, let's see what that's about!" you say as you make a sharp left
+and jog off in the direction of the high pitched speech.
+
+The non-stop voice belongs to a squat, two-food tall demon parading back
+and forth in front of a huge, vertical shooting range.
+
+"Hey you!" squeaks the demon, pointing directly at you.  "Would you like
+to command a laser base?  Like to hit targets and score points?  Are you
+looking for fun, excitement--a game in which you must dodge danger?  We
+are the demons and we dare you to try your laser-sharpshooting skills on
+us!  We're full of surprises.  We sidestep all over the shooting range.
+We yak at you until you shut us up.  We change into new target forms--
+precious diamonds or deadly skulls.  Hit a diamond and you'll score a
+small fortune in bonus points.  But beware of skulls!
+
+"So come on, reach for your laser, exercise your trigger finger on us.
+Put us through our paces and we'll dazzle you with demonic tricks!"
+
+2. GAME PLAY
+
+Your objective in DEMONS TO DIAMONDS is to score as many points as
+possible while losing as few lives as possible.  You start the game with
+5 lives; 4 of your lives are displayed on your side of the screen in the
+far right corner.  They look like white triangles, as shown in Figure 1.
+
+(Figure 1 is a game screen illustration indicating the scores in the top
+and bottom center of the screen and lives remaining in the top and
+bottom right.)
+
+Use your Paddle Controller to move your laser back and forth across the
+top or bottom of the playfield.  Press the red button to fire at demons.
+The longer you hold in the red button, the farther your laser will
+extend up or down the screen.  The laser disappears when it hits a
+demon, a skull, or any object on the screen.
+
+Hit demons the same color as your laser base to score points.  Demons
+will first appear in the middle two rows (rows 4 and 5).  When you hit a
+demon of your color, it eventually changes into a pulsating diamond.  If
+you or your opponent can hit this diamond before it disappears, the one
+who hits it scores bonus points.  When you hit a demon of your
+opponent's color, it transforms into a skull that shoots in both
+directions.  Watch out for these skulls; you lose a life every time you
+are struck by a skull's bullet.  In some game variations, you also lose
+a life when your laser base is hit by your opponent.  (See Section 5--
+GAME VARIATIONS, for details.)
+
+Page 3
+
+Skulls disappear after a while.  Figure 2 shows you a typical DEMONS TO
+DIAMONDS game playfield, with demons, skulls, and bonus diamonds.
+
+(Figure 2 is a game screen indicating a bonus diamond, a demon, a laser
+base and a skull.)
+
+Demons move back and forth across the screen.  They change color when
+they bump into either wall.  They can also move up or down the screen
+into new rows when they hit the side walls.  Each time you shoot all the
+demons on the screen, you get a new wave of the little devils to shoot
+at.
+
+The screen flashes briefly to signal the end of one wave and the start
+of another.  At first, the demons move slowly and the skulls are
+stationary.  As the game progresses, the demons pick up speed and the
+skulls move about.  By the fifth wave in all two-player versions and
+immediately in one-player games, the skulls spontaneously appear.  At
+first skulls do not move, but by wave 3 in one-player games and wave 7
+in two-player games, they move up and down the screen, making it hard to
+dodge their deadly fire.
+
+When a skull's bullet hits you, you will know.  A deep, reechoing doom
+bong sounds and everything on the screen momentarily stops.
+
+In two-player games, you score bonus points for lives that remain after
+your opponent has lost all his lives.  A high, bell-like sound rings off
+each remaining life as your bonus points are added.  (For more about
+SCOREING, see Section 6.)
+
+Page 4
+
+3.  USING THE CONTROLLERS
+
+Use one set of Paddle Controllers with this ATARI(R) Game Program(tm)
+cartridge.  Be sure to plug the controller cables firmly into the LEFT
+CONTROLLER jack at the back of your Video Computer System(tm) game.
+Hold the controller with the red button to your upper left toward the
+television screen.  See your owner's manual for further details.
+
+NOTE:  If unsure about which controller to use, turn the knob on either
+controller.  The paddle will move horizontally across the top or bottom
+of the screen.  Turn the knob clockwise to move the paddle right; turn
+it counterclockwise to move it left.  Press the red button to fire your
+laser.  The longer you hold in the button, the farther your laser will
+go up or down the screen.
+
+(Transcriber's note:  This section is illustrated with a line drawing of
+standard Atari paddle controllers.)
+
+4.  CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+Use the GAME SELECT switch to choose the game you wish to play.  If you
+press and hold down this switch, the game number automatically changes
+at the top center of the screen, while the number of players for that
+game appears at the top right, as shown in figure 3.
+
+There are 6 game numbers in total.  For a breakdown of GAME VARIATIONS,
+see Section 6.
+
+(Figure 3 shows a game screen showing a Game Number where the top score
+would be, and the number of players indicated with the bars which
+indicate the number of lives remaining.)
+
+Page 5
+
+GAME RESET SWITCH
+
+Once you have selected the game number you wish to play, press down the
+GAME RESET switch to start the game.  In two-player versions, scores
+then appear at the top and bottom center of the screen; lives remaining
+will appear at the top and bottom right side of the screen.  (See Figure
+1.)  In one-player games, your score is displayed at the bottom center,
+your lives at bottom right.
+
+DIFFICULTY SWITCHES
+
+DIFFICULTY switches control the speed of the skull's bullets in all
+games.  In the A position, the bullets fire almost twice as fast as in
+the B position.
+
+Use the LEFT DIFFICULTY switch for one-player games.  For two-player
+games, the bottom player uses the LEFT DIFFICULTY switch and the top
+player uses the RIGHT DIFFICULTY switch.
+
+TV TYPE SWITCH
+
+On a color television, the game will appear in color.  On a black and
+white set, the demons are black and white, the top player's laser base
+is white, and the bottom player's base is black.  The TV TYPE switch is
+not used in this game.
+
+5.  GAME VARIATIONS
+
+DEMONS TO DIAMONDS contains 6 game variations.  Games 1 through 3 are
+standard versions, while Games 4 through 6 are easier versions suitable
+for beginners.  Here is a breakdown of your game choices:
+
+GAME 1:  A one-player DEMONS TO DIAMONDS game in which the skulls fire
+bullets at normal speed, shoot often, and move quickly up and down the
+screen.
+
+GAME 2:  A two-player version of Game 1.
+
+GAME 3:  A two-player version of Game 1, except that you or your
+opponent lose a life each time you hit the other's laser base.
+
+GAME 4:  An easy one-player game in which the skulls fire more slowly
+than in standard games, don't fire as often, and take longer to move up
+and down the screen.
+
+GAME 5:  A two-player game exactly like Game 4.
+
+GAME 6:  A two-player easy game like Game 4, except you and your
+opponent can lose lives by hitting each other's laser base.
+
+6.  SCORING
+
+DEMONS
+
+Every time you hit a demon of your own color, you receive 1 to 8 points,
+depending upon which row the demon occupies.  For example, a demonin the
+row nearest your laser base is worth 1 point, while a demon in the third
+row from your laser is worth 3 points.  For a breakdown of point value
+per row, see Figure 4.
+
+DIAMONDS
+
+Each pulsating diamond is worth 10 to 80 points, or 10 times the value
+of the row it occupies (see Figure 4).
+
+(Figure 4 is pretty useless, since the scoring system is described well
+enough in the text.)
+
+Page 7
+
+BONUS LIVES
+
+Lives that you have remaining after an opponent has lost all 5 lives are
+credited to your score.  The value of a bonus life increases with each
+wave, as shown in Figure 5-Bonus Life Scoring Table.
+
+Figure 5:
+Wave Number              1    2    3    4    5    6    7    8    9
+Points Per Life Left     10   20   30   50   100  150  200  250  300
+
+Wave Number              10   11   12   13   14   15   16
+Points Per Life Left     350  400  500  750  1000 1500 2000
+
+7.  HELPFUL HINTS
+
+Create skulls as far as possible from your laser base; these are more
+likely to hit your opponent than you.
+
+Aim at demons of your own color that are as far away as possible; they
+are worth more points than the close ones.  But beware of your opponent
+hitting your bonus diamond.  He gets those points, too.
+
+Try to hit the diamonds whenever you can.  They are worth a lot of
+points and, if you can hit them consistently, your score will rise
+quickly.
+
+Spontaneous skulls usually appear at the edge of the rows.  Don't spend
+too much time in this vicinity.  The safest position is just to the
+right or left of the center, as shown in Figure 6.
+
+(Figure 6 shows a base a bit to the right of center.)
+
+Take care when firing into the center of the screen.  This is where
+demons first appear, and you can inadvertently hit an opponent while
+aiming at your own color.  The same thing can happen when you try to hit
+your own color at the edge of the screen.  Since demons change color
+when they bump into the right and left sides, you can usually end up
+hitting an opponent and making a skull there.
+
+8.  GAME SELECT MATRIX
+
+Game Number              1    2    3    4    5    6
+Number of Players        1    2    2    1    2    2
+Slow Skull Bullets                      X    X    X
+Fast Skull Bullets       X    X    X
+Can Shoot Opponent                 X              X
+Cannon Shoot Opponent    X    X         X    X
+
+Page 9 (back cover)
+
+GAME PROGRAM(tm) CARTRIDGE
+LIMITED NINETY DAY WARRANTY
+
+ATARI, INC. ("Atari") warrants to the original consumer purchaser that
+your ATARI(R) Game Program cartridge is free from any defects in
+material or workmanship for a period of ninety days from the date of
+purchase.  If any such defect is discovered within the warranty period,
+Atari's sole obligation will be to replace the cartridge free of charge
+on receipt of the cartridge (charges prepaid, if mailed or shipped) with
+proof of date of purchase at either the retail store where the cartridge
+was purchased or at one of the ATARI Regional Service Centers listed
+below:
+
+     Atari, Inc.                             Atari, Inc.
+     1312 Crossman Ave.                      43 Belmont Dr.
+     Sunnyvale, CA 94086                     Somerset, NJ 08873
+
+     Atari, Inc.                             Atari, Inc.
+     5400 Newport Dr.                        2109 East Division St.
+     Suite 1                                 Arlington, TX 76001
+     Rolling Meadows, IL 60008
+
+This warranty shall not apply if the cartridge (i) has been misused or
+shows signs of excessive wear; (ii) has been damaged by being used with
+any products not supplied by ATARI, or (iii) has been damaged by being
+serviced or modified by anyone other than an ATARI Regional Service
+Center.
+
+ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES OF
+MERCHANTABILITY AND FITNESS, ARE HEREBY LIMITED TO NINETY DAYS FROM THE
+DATE OF PURCHASE.  CONSEQUENTIAL OR INCIDENTAL DAMAGES RESULTING FROM A
+BREACH OF ANY APPLICABLE EXPESS OR IMPLIED WARRANTIES ARE HEREBY
+EXCLUDED.
+
+Some states do not allow limitations on how long an implied warranty
+lasts or do not allow the exclusion or limitations of incidental or
+consequential damages, so the above limitations or exclusions may not
+apply to you.
+
+This warranty gives you specific legal rights and you may also have
+other rights which vary from state to state.
+
+ATARI(R)
+A Warner Communications Company
+
+ATARI, INC., Consumer Division
+P.O. Box 427, Sunnyvale, CA 94086
+
+CO16943-15 REV. 1 (C)1982 ATARI, INC. ALL RIGHTS RESERVED Printed in USA
+
+-------------------Atari 2600 Instructions Archive-------------------

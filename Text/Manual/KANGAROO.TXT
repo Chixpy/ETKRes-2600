@@ -1,0 +1,170 @@
+KANGAROO
+typed by HOWiE
+
+NOTE: Always turn the console POWER switch OFF when inserting or
+removing an ATARI Game Program cartridge.  This will protect the
+electronic components and prolong the life of your ATARI Video
+Computer System (tm) game.
+
+GAME OBJECTIVE:
+The object of the game is to score as many points as you can while
+helping Mother Kangaroo rescue her precious baby.  Use your joystick
+controller to guide Mother Kangaroo.  You star the game with three
+lives.
+
+During this rescue mission, Mother Kangaroo encounters many obstacles.
+Push your joystick up to help her climb ladders, hop over logs, and
+jump over apples; pull the joystick down to help her duck under
+apples.  Help her pick bonus fruit, and ring the bell at the top of
+the screen by making her hop up to touch the fruit and bell.  Push
+the joystick diagonally right and left to help Mother Kangaroo take
+Super Leaps across broken logs.  Press the red fire button to make
+Mother Kangaroo throw punches at monkeys and apples.
+
+GAME PLAY:
+KANGAROO has two skill levels: novice and advance for one or two
+players (see GAME VARIATIONS).  Game play will progress by level
+with both skill levels.  Each level has three screens.  A screen
+is completed when Mother Kangaroo reaches her baby.  When all three
+screens are completed, the screen flashes, and you begin a more
+difficult round of the same three screens.
+
+Screen 1 - This is the easiest screen.  To capture her baby, Mother
+Kangaroo must hop along tree branches and climb up ladders while
+avoiding monkeys and apples.
+
+Screen 2 - This is the most difficult screen because Mother Kangaroo
+must take Super Leaps across several broken logs to reach her baby.
+
+Screen 3 - The third screen is similar to both screen one and screen
+two.  Mother Kangaroo encounters more logs and branches and ladders
+for an increased challenge during her rescue mission.
+
+To score points, Mother Kangaroo picks fruit, punches monkeys and
+apples, and rescues Baby Kangaroo.
+
+Mother Kangaroo earns extra points for picking even more fruit.  She
+can ring the bell (up to three times in one screen) to replenish the
+fruit.  Then she can climb up and down the screen to pick all the
+fruit.
+
+USING THE CONTROLLERS
+Use one or two Joystick Controllers with this ATARI game program
+cartridge.  For one-player games, plug the controller into the LEFT
+CONTROLLER jack.  For two-player games, plug the second controller
+into the RIGHT CONTROLLER jack.  In two-player games, the player
+using the LEFT CONTROLLER starts the game.  Hold the controller with
+the fire button to your upper left, toward the television screen. 
+(See your owners manual for further details.)
+
+Hop - Move the joystick right or left to make Mother Kangaroo hop
+right or left.
+
+Jump - Push the Joystick up away from you to make Mother Kangaroo
+jump.
+
+Duck - Pull the joystick down toward to you to make Mother Kangaroo
+duck.
+
+Super Leap - Push the Joystick up diagonally to the right to Super
+Leap right; push it up diagonally to the left to Super Leap left. 
+Continue to hold the joystick in the diagonal position for a higher
+leap.
+
+Punch - Press the red fire button and Mother Kangaroo throws a punch.
+
+CONSOLE CONTROLS
+GAME SELECT/GAME RESET SWITCHES
+Press GAME SELECT to choose the game variation you want to play. 
+Press GAME RESET to start a game.  You can also press the red fire
+button to start or restart a new game upon completion of the previous
+game.
+
+In the novice version, four monkeys chase and throw apples at Mother
+Kangaroo.  The advanced version starts at the second level with
+monkeys throwing more apples at a faster speed.
+
+DIFFICULTY SWITCHS - the RIGHT and LEFT DIFFICULTY switches are not
+used in this game.
+
+TV TYPE SWITCH - Set this switch to COLOR if you're playing on a
+color television.  Set it to B-W to play the game on a black and
+white television.
+
+GAME VARIATIONS
+Press GAME SELECT to chose a game variation
+
+One Baby Kangaroo
+--------------------
+One-Player Novice
+
+One Baby Kangaroo 
+and One Monkey
+--------------------
+One-Player Advanced
+
+Two Baby Kangaroos
+--------------------
+Two-Player Novice
+
+Two Baby Kangaroos 
+and Two Monkeys
+--------------------
+Two-Player Advanced
+
+SCORING
+During your turn, your score is displayed at the lower right side of
+the screen.  The number of lives remaining is indicated with boxes at
+the lower left side of the screen.
+
+Monkeys - Punch a monkey and score 200 points.  However if a monkey
+touches Mother Kangaroo, you lose a life.
+
+Apples - Apples are dropped and thrown at Mother Kangaroo.  Punch a
+falling apple and score 200 points;  Punch a thrown apple and score
+100 points.  If an apple touches Mother Kangaroo, you lose a life.
+
+Fruit - The game begins with three strawberries, each worth 100 
+points.  Mother Kangaroo can score bonus points by jumping up and
+picking the fruit.  When she jumps up and rings the bell, the fruit
+she has picked is replaced with more valuable fruit.
+
+     Strawberries   100 Points
+     Tomatoes       200 Points
+     Cherries       400 Points
+     Pineapples     800 Points
+
+One bonus life is earned every 20,000 points.
+
+Bonus Timer - The number at the lower center of the screen is the
+Bonus Timer.  It starts at 2000 points at the beginning of each turn.
+The longer it takes Mother Kangaroo to rescue her baby, the more 
+bonus points you lose.  After Baby Kangaroo is rescued, the remaining
+bonus points are added to your score.  If the Bonus Timer runs down 
+to zero, you lose a life.
+
+HELPFUL HINTS
+When a monkey moves toward you, ready to throw an apple, watch the
+direction of its throwing arm.  If it winds back underhand, the apple
+will be thrown low, so jump over it.  If it winds up overhand, the 
+apple will be thrown high, so duck under it.  As you progress to 
+higher levels, apples will be thrown mid-level, so either punch them
+or jump over them.
+
+Time your ladder climbing carefully so you can be out of the firing
+range of falling apples.
+
+Monkeys are usually most dangerous when you move away from them, so 
+try to move toward them so you can punch them before they can throw 
+apples.
+
+Time your jumps carefully.  Mother Kangaroo can leap from the edge of
+a branch or log, but she must land flat on her feet.  When preparing
+for a Super Leap, make Mother Kangaroo walk to the end of the log 
+with her toes hanging over the edge.  Then pull the joystick back and 
+immediately push it up in the direction of her leap.
+
+For a high score, climb up and down each screen until every type of
+fruit is picked.
+
+

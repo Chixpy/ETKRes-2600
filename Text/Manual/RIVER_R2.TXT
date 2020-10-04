@@ -1,0 +1,254 @@
+RIVER RAID II
+
+For the Atari 2600 and the Atari 7800 in 2600 mode
+
+ACTIVISION
+
+
+
+River Raid II was designed by Dan Kitchen and programmed by Imagineering,
+Inc. This game is based on River Raid, which was designed by Carol Shaw.
+
+Produced by Sherry Whiteley.
+
+Product management by John Crompton.
+
+Product testing by Kelly Zmak, Stew Perkins, and Steve Imes.
+
+River Raid II guide by Liz Armstrong. Editorial management by Laura Singer.
+Production by Scriptomation.
+
+For a recorded message about our newest software, call 415-329-7699. For
+technical help, call Technical Support between 9:00 a.m. and 4:30 p.m.
+Pacific time, Monday through Friday: 415-329-7699.
+
+For information about our products, write to:
+
+        Product Information
+        Activision
+        P.O. Box 3048
+        Menlo Park, CA  94025-3048
+
+For the best service, be sure to note the subject of your inquiry on the
+outside of the envelope.
+
+
+        Copying Prohibited
+
+This software product is copyrighted and all rights are reserved by the
+copyright holder. The distribution and sale of this product are intended
+for the use of the original purchaser only and for use only on the computer
+system specified. Copying, duplicating, selling, or otherwise distributing
+this product without the expressed written permission of the copyright
+holder are violations of U.S. Copyright Law and are hereby expressly
+forbidden.
+
+(C) 1988 Activision. All rights reserved.
+
+
+Operation River Raid
+
+Alone in your F-14 assault jet, you're about to understake the most
+explosive mission of your celebrated flying career.
+
+After taking off from a sea-based carrier, you'll tear through the skies
+above the ocean and streak toward a river delta, where you must destroy
+an enemy bridge. Once past the delta, you must navigate back to the carrier
+and safely land. Without stopping for handshakes all around, you'll then
+set off on a new, more dangerous mission.
+
+This is no contest for amateurs. Once airborne, you'll have to refuel in
+midair while outmaneuvering enemy fire. If you manage to outfuel these
+fearless devils by blasting them with missiles or torpedoes, you'll also
+win points.
+
+If you don't make it, two backup planes will come to your rescue. Your
+missions will continue until your squadron's name is history.
+
+
+Getting Started
+
+1. With the TV turned off, hook up your video game system to your TV.
+
+2. Plug in your joysticks. In a one-player game, you use the left joystick.
+
+3. Turn on the TV, insert the River Raid II cartridge into the game console,
+   and then turn on the game console.
+
+4. Press the game SELECT button to choose a one- or two-player game.
+
+5. Set the DIFFICULTY switch to A or B. Switch A, the Expert Position,
+   allows unguided missiles and torpedoes to shoot straight ahead only.
+   Switch B, the Novice Position, lets you guide your missiles and
+   torpedoes with the joystick controller after firing.
+
+
+Overhead View of River Channel
+
+{screenshot of a river scene pointing out: Enemy Helicopter, Enemy
+Destroyer, Fuel Buoy, Your Assault Jet, RADAR Screen, Altimeter, Fuel
+Guage, Speedometer, and Backup Plane}
+
+1. To begin the game, press the joystick button or RESET. In a two-player
+   game, Player One starts the game and takes off first.
+
+2. To take off, press the joystick button again, holding it down to
+   accelerate down the carrier runway. As you reach the end of the runway,
+   quickly pull back on the joystick until you're airborne.
+
+3. Once you're airborne, your Thrust bar will be replaced by an altimeter.
+   To increase altitude, pull back on the joystick. To decrease altitude,
+   push forward on the joystick. Increasing your altitude will slow you
+   down; decreasing your altitude will speed you up.
+
+   Watch your altimeter. If you fly too low, you'll crash. The altimeter bar
+   flashes red when you're dangerously low. If you fly over land when the
+   altimeter bar is flashing, you'll crash.
+
+   The RADAR screen pinpoints your position throughout your mission and will
+   identify the mission target as a flashing blip.
+
+4. To bank right or left, move the joystick in the direction you want to go.
+
+
+Refueling in Midair
+
+To refuel, fly over the gold refueling planes that are flying in your
+direction. These planes appear only over the ocean, so watch your fuel
+guage. At the river, you can refuel by flying at low altitude and picking
+up the gold buoys floating in the water. A warning sound will tell you
+when your fuel level is dangerously low. If you run out of fuel, you'll
+crash.
+
+
+Conquering the Enemy
+
+Avoid collisions with enemy helicopters, fighter jets, and flak bursts,
+or you'll be today's headline.
+
+To fire missiles at helicopters and jets, press the joystick button. To
+drop torpedoes on enemy sea vessels, tanks, water towers, landing strips,
+buildings, or bridges, press the joystick button while pulling back on the
+joystick.
+
+You cannot destroy enemy flak bursts. Just stay our of their way!
+
+
+Landing
+
+When calm seas appear below, your aircraft carrier is close by. The RADAR
+screen will display your altitude and proximity to the ship.
+
+1. Pull the joystick back  to maintain your altitude.
+
+2. Hold down the joystick button. The Thrust bar replaces the altimeter.
+   Increase your thrust until you reach the aircraft carrier.
+
+3. As soon as you're over the carrier, release the joystick button and
+   quickly push the joystick forward to land.
+
+
+Your F-14 Assault Jet Squadron
+
+The backup jets in your squadron will take over if you crash, run out of
+fuel, or are hit by the enemy. Whenever a new plane steps in, it will
+continue the mission at the position where the last plane was destroyed.
+Backup planes always begin with a full fuel tank and at the highest
+altitude.
+
+
+The End of the Mission
+
+The game ends if you lose all three planes or you successfully destroy
+the enemy target and land on the aircraft carrier. At this point you can
+start a new game or continue the game with a new, more difficult mission.
+Each new game or mission begins back on the carrier.
+
+
+River Raid II Flying Tips
+
+Try to enter the river channel with a full tank of fuel. Fuel is tough to
+come by at the river scene.
+
+Maintain a low altitude when flying over the river. It's easier to swoop
+down and pick up fuel buoys.
+
+Keep a close eye on your RADAR to locate your mission target.
+
+
+Scoring
+
+In a two-player game, Player One's score is displayed in white and
+Player Two's score is in black.
+
+         Enemy Object            Point Value
+         ------------            -----------
+         Fighter Jet                  100
+         Helicopter                   150
+         Destroyer                    200
+         Carrier                      250
+         Water Tower                  300
+         Building                     400
+         Landing Strip                500
+         Tank                         600
+         Bridge                      2500
+
+
+                ACTIVISION LIMITED 90-DAY WARRANTY
+
+Activision warrants to the original consumer purchaser of this computer
+software product that the recording medium on which the software programs
+are recorded will be free from defects in the material and workmanship
+for 90 days from the date of purchase. If the recording medium is found
+defective within 90 days of original purchase, Activision agrees to
+replace, free of charge, any product discovered to be defective within
+such period upon receipt at its Factory Service Center of the product,
+postage paid, with proof of date of purchase.
+
+This warranty is limited to the recording medium containing the software
+program originally provided by Activision and is not applicable to normal
+wear and tear. This warranty shall not be applicable and shall be void
+if the defect has arisen through abuse, mistreatment, or neglect. Any
+implied warranties applicable to this product are limited to the 90-day
+period described above. EXCEPT AS SET FORTH ABOVE, THIS WARRANTY IS IN
+LIEU OF ALL OTHER WARRANTIES, WHETHER ORAL OR WRITTEN, EXPRESS OR IMPLIED,
+INCLUDING ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE, AND NO OTHER REPRESENTATION OR CLAIMS OF ANY NATURE SHALL BE
+BINDING ON OR OBLIGATE ACTIVISION. IN NO EVENT WILL ACTIVISION BE LIABLE
+FOR SPECIAL, INCIDENTAL CONSEQUENTIAL DAMAGE RESULTING FROM POSSESSION,
+USE, OR MALFUNCTION OF THIS PRODUCT, INCLUDING DAMAGE TO PROPERTY AND, TO
+THE EXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURY, EVEN IF
+ACTIVISION HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+SOME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS
+AND/OR THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES,
+SO THE ABOVE LIMITATIONS AND/OR EXCLUSION OR LIMITATION OF LIABILITY MAY
+NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU
+MAY HAVE OTHER RIGHTS WHICH VARY FROM STATE TO STATE.
+
+
+                RETURNS
+
+Registered mail is recommended for returns. For the best service, please
+be sure to --
+
+1. Send the cartridge and sales receipt.
+
+2. Write the name of the product and and the type of game system you have
+   on the front of the package.
+
+3. Enclose your return address, typed or printed clearly, inside the
+   package.
+
+Send to:
+
+        WARRANTY REPLACEMENTS
+        Activision
+        P.O. Box 3047
+        Menlo Park, CA  94025-3047
+
+
+ACTIVISION
+AK-048-03
+
+-------------------Atari 2600 Instructions Archive-------------------

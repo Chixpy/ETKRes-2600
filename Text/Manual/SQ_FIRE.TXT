@@ -1,0 +1,188 @@
+ATARI 2600
+SWORDQUEST FIREWORLD
+
+NOTE: Always turn the console POWER switch OFF before inserting or removing 
+and ATARI Game Program cartridge.  This will protect the electronic 
+components and prolong the life of your ATARI 2600 Video Computer System game.
+
+copyright 1982 ATARI, INC ALL RIGHTS RESERVED
+
+1. FIREWORLD
+Welcome to FireWorld.  You may have already travelled through EarthWorld and 
+succeeded in solving the EarthWorld puzzle.  FireWorld is the second in a 
+series of four worlds that you must pass through on your quest for the Sword 
+of Ultimate Sorcery.
+
+You enter FireWorld as a mighty warrior.  Your skill and courage will be 
+tested with dangerous trials and obstacles.  The object of the game is to 
+solve the puzzle.
+
+The FireWorld puzzle is based on the Tree of Life, with ten rooms linked 
+together by ten rooms with doorways.  FireWorld has ten treasure chest rooms, 
+some containing different magical objects.  These objects will help you on 
+your journey through FireWorld.  Carrying particular objects will help you 
+find clues.  Before you can explore these rooms, you'll be called on to 
+demonstrate certain skills, just as Torr and Tarra are tested in the FireWorld 
+comic book.  As a warrior, your skills are important to conquering FireWorld.  
+To help you on your quest, you will be armed with the FireWorld comic book 
+which contains additional clues.  Some clues will come from a combination of 
+both the comic book and the Game Program cartridge.  These clues will refer 
+back to the enclosed comic book and hint at the solution to the FireWorld 
+puzzle.
+
+You have just leaped into the blazing flames of FireWorld - see if you can 
+survive and triumph!
+
+
+2. GAME PLAY
+As a warrior, you'll need courage and skill, but you'll also need to be a 
+detective and an explorer to find the hidden clues and solve the FireWorld 
+puzzle.
+
+Remember, this game is a puzzle.  These instructions will not tell you how to 
+solve the puzzle, but together with the comic book, will help you find the 
+necessary clues to solve the puzzle.  You will have to use trial and error 
+methods to obtain the information needed to solve the FireWorld puzzle.
+
+In Fireworld, you will encounter ten different rooms.  There are 16 objects 
+randomly located throughout these rooms, but you can only take six objects at 
+a time.  As you leave the right objects(s) in the correct room(s), you will 
+reveal clues that will help you solve the puzzle.  FIGURE 1 shows what each 
+object looks like.  These are some of the magical objects which help Torr and 
+Tarra in their quest for the Sword of Ultimate Sorcery.
+
+(Figure 1: Inventory of Magical Objects)
+Oil Lamp, Water, Rope, Talisman of Passage, Amulet, Ring, Chalice,
+Leather Armor, Cloak of Invisibility, Warrior's Sword, Shoes of Stealth, 
+Grappling Hook, Dagger, Short Sword, Shield, Food
+
+The most important object you will seek is the chalice.  Without it, you will 
+be barred from entering a secret room.  This secret room is at the center of 
+the tree of life.  The magical chalice contains water to cool and protect Torr 
+and Tarra from the intense heat of FireWorld.  When you find it, magic doors 
+will open for you.
+
+If you leave the right object(s) in the appropriate room(s), you will receive 
+a clue display.  In the center of the display is your clue, for it is your key 
+to solving the puzzle.  (See FIGURE 2 for sample clue display.)
+
+(Figure 2: Clue Display)
+Each clue will refer back to the comic book.  For example, then numeral 05 
+could mean: Look on page 5 for a clue to the FireWorld puzzle.  By trial and 
+error, you will learn how to interpret each clue.
+
+Before you can enter the ten treasure chest rooms in FireWorld, you will be 
+expected to perform a skill and action sequence.  For example, you might be 
+required to catch razor-sharp knives, dodge flaming fire-birds, or even kill 
+venomous snakes.  Torr and Tarra must also survive some dangerous stunts.
+
+After completing the skill and action sequences, you, like Torr and Tarra, 
+shall gain wisdom, mercy, power, understanding, and perhaps valuable prizes 
+as well.  (See FIGURES 3-8 for sample skill and action sequences.)
+
+(Figure 3: Deadly Snakes)
+A real test of courage. You must pass through a deadly pit of venomous snakes.
+
+
+NOTE: Some skill and action sequences might appear to be repeated, but will 
+lead you to different treasure chest rooms.
+
+(Figure 4: Flaming Firebirds)
+Dodge the flaming firebirds, for if you touch them, they become wild.  
+However, if tamed, these birds could lead you to a treasure chest of magical 
+objects.
+
+(Figure 5: Flying Fire Goblins)
+You must catch and place these fire goblins in a box.
+
+(Figure 6: Flaming Hot Knives)
+Protect yourself from hot knives that fall from the ceiling by guiding the 
+knives into a stationary pit.
+
+(Figure 7: Fire-Breathing Dragons)
+Use your arrows to shoot down flying fire-breathing dragons, but watch out 
+for their hot flames.
+
+(Figure 8: Jawing Salamanders)
+What appear to be innocent snakes could turn out to be huge jawing 
+salamanders.  You must dodge the salamanders to stay alive.
+
+You must complete each skill before you can enter a room in which to leave or 
+retrieve your objects.  When you encounter a skill and action sequence, 
+experiment with the Joystick and the red controller button.  Some sequences 
+require the use of the Joystick; some the red controller button.
+
+
+3. USING THE CONTROLLER
+Use your Joystick Controller with the Atari Game Program cartridge.  Be sure 
+to plug the controller cable firmly into the LEFT CONTROLLER jack at the back 
+of your ATARI 2600 Video Computer System game.  Hold the controller with the 
+red button to your upper left, toward the television screen.
+(See your Owner's Manual for further details.)
+
+CONTROLLER ACTION
+To start the game, press the red controller button.  Use the Joystick to move 
+your warrior up, down, right, or left through the maze of rooms.
+
+To pick up an object, position the cursor directly over the object and press 
+the red controller button.  The object will then appear at the bottom of the 
+screen and will continue to move with you until you decide to leave it in a 
+room.  To leave an object in a room, move to the bottom of the screen, 
+position the cursor directly over the object, and press the red controller 
+button.  The object will stay in the room until you pick it up again.
+
+To move from room to room, position your warrior in a doorway, (see FIGURE 9) 
+and walk through the exit and down the hallway into another room 
+(see FIGURE 10).
+
+NOTE: Some doors are locked, which means they are invisible.  
+However, certain objects will allow you to unlock these doors.
+
+(Figure 9: Room with Doorways) 
+
+(Figure 10: Hallway)
+
+If you press the red button while in a room with doorways, you will move into 
+a skill and action sequence.  After you have completed the skill, the program 
+automatically moves you into another room with doorways or into a treasure 
+chest room with objects.  If you find yourself in a treasure chest room 
+(see FIGURE 11), you may pick up or drop off any object.  Remember, you can 
+only carry six objects at a time.  To leave a treasure chest room, move the 
+cursor to the small open door in the lower left corner of the room, and press 
+the red controller button (see FIGURE 11).
+
+(Figure 11: Treasure Chest Room)
+Cursor, Open Doorway, Objects
+
+
+4. CONSOLE CONTROLS
+GAME SELECT SWITCH
+GAME SELECT is not used in FireWorld.
+
+GAME RESET SWITCH
+Press GAME RESET during the game play to return to the first display and start 
+the game over.
+
+DIFFICULT SWITCHES
+The RIGHT and LEFT DIFFICULTY switches are not used in FireWorld.
+
+TV TYPE SWITCH
+Set this switch to COLOR if you're playing on a color television set.  
+Set it to B-W to play the game in black and white.
+
+
+5. HELPFUL HINTS
+1. Use paper and pencil while playing FireWorld.  Write down clues, and keep a 
+log of different moves for reference during game play.
+
+2. Just because you use an object to obtain one clue, doesn't mean the same 
+object can't help you again.
+
+
+6. REFERENCE LOG
+
+Lafe Travis
+I'm a Yosemite Sam Fan, that's what I am!
+Star Wars, Doctor Who, Epic Pinball, Horror Films, Bears, FRUA
+
+

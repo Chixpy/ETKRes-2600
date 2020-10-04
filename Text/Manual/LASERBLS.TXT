@@ -1,0 +1,266 @@
+<Picture>
+
+<Picture>Laser_Blast<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+The Laser Blast manual is a six page fold-out, accompanied by the
+warranty statement on a separate sheet of paper.
+
+Page 1 (Front Cover)
+
+Activision
+LASER BLAST(tm)
+INSTRUCTIONS
+
+Get set for the battle of your life.  With Laser Blast by ACTIVISION,
+you're up against enemy attackers in a space shoot-out that defies
+description.  But please, take time out to read these instructions.
+They're full of helpful hints on how to handle some very relentless
+adversaries.  Good luck and good shooting!
+
+ACTIVISION(tm)
+
+Page 2
+
+LASER BLAST(tm) BASICS
+
+1.  Hook up your video game system.  Follow manufacturer's instructions.
+
+2.  With power OFF, plug in game cartridge.
+
+3.  Turn power ON.  If no picture appears, check connection of your game
+    system to TV, then repeat steps 1-3.
+
+4.  Plug in left Joystick Controller (it's the only one you'll need).
+    When playing, hold the Controller with red button at upper left.
+
+5.  Difficulty switches (skill levels on Sears Tele-Game Video Arcade
+    system) have no effect in Laser Blast by ACTIVISION.
+
+6.  Select game with game select switch.
+
+     Game 1:  Cadet Level          Game 3:  Captain Level
+     Game 2:  Lieutenant Level     Game 4:  Commander Level
+
+     NOTE:  The difference between games is how rapidly the speed and
+     firing rate of the enemy ground attackers improves as the game
+     progresses.  The relative difficulty of an attack group is
+     calculated by multiplying the speed times the firing rate for that
+     group.
+
+                              DIFFICULTY OF GROUND ATTACK GROUPS
+
+     GAMES               GROUP  GROUP GROUP  GROUP GROUP  GROUP
+                          ONE    TWO  THREE   FOUR  FIVE   SIX or more
+     CADET LEVEL         1         2    4      8     8      8
+     LIEUTENANT LEVEL    1         2    4      8    16      16
+     CAPTAIN LEVEL       1         2    4      8    16      32
+     COMMANDER LEVEL     1         32   32    32    32      32
+
+     The chart above shows how the difficulty of each attack group
+     changes during play of each game.  For example, at Captain and
+     Commander Levels, the most difficult attack groups are 32 times as
+     difficult as the easiest.
+
+7.  To begin play.  Push your Joystick up to begin play.  To start a new
+     game, press game reset or push your Joystick up again.
+
+8.  Piloting.  Your Joystick is used to pilot your spacecraft.  You can
+     only pilot one ship at a time.  Pull the Joystick toward you to
+     lower your ship and push it away to raise your ship.  Move your
+     Joystick left or right to move your ship left or right.  When your
+     Joystick is in the center, your ship will hover, spinning in a
+     fixed position (not recommended!).
+
+9.  Aiming and Firing.  The red button on your Joystick is used to fire
+     the ship's laser blaster.  Press this button to project the blaster
+     from the bottom of your ship; release the button to fire.  The
+     laser blaser can be aimed by holding the button down and moving the
+     Joystick left or right.  But remember, the blaster will not fire
+     until the button is released.
+
+Page 3
+
+10.  Scoring.  Your score is kept in the upper left hand corner of the
+     screen.  You are awarded points for each attacker you destroy.  As
+     you progress through the game, attackers are worth more points, but
+     they're also tougher to destroy.
+
+11.  Reinforcements.  For each 1,000 points you gain, you're given a
+     reinforcement ship.  You can receive an unlimited number of
+     reinforcements during the game.  But, you can only have six
+     reinforcement ships on the screen at one time.  No matter how many
+     points you score, you must have less than six reinforcement ships
+     before the computer will add to your fleet.
+
+SPECIAL FEATURES OF LASER BLAST(tm)
+BY ACTIVISION(tm)
+
+ENEMY RADAR AND FORCE SHIELDS
+
+The ground attack forces are equipped with radar detection systems which
+help them aim their lasers at your ships.  If you allow your ship to
+hover in one place too long, the enemy will quickly line up your ship in
+its sights, leading to disastrous results.  By flying low to the ground,
+you can keep your craft under their radar.
+
+However, as the battle progresses, each new wave of enemy attackers has
+a stronger force field, which gradually forces your ship farther away
+from the ground, making it an easier target for the attackers' radar to
+spot.  Your ship will be pushed higher and higher into space until you
+can't go any lower than the very top level  This is when you must be
+very quick to avoid enemy fire.
+
+(Transcriber's Note:  This is accompanied by a picture of screen from
+the game, pointing out the Score, Reserve fleet, Lead ship and Enemy
+forces.  There is also a line drawing of a standard Atari joystick.)
+
+Page 4
+
+WHEN YOUR SHIP TAKES A DIRECT HIT
+
+Don't give up!  Even though your shipt will quickly lose altitude after
+you are hit, you can control the decent of your crippled ship and try to
+land on an attacker.  This accomplishes two objectives:  first, it
+destroys that attacker, and second it adds the value of the destroyed
+attacker to your point total  After your spaceship has been destroyed,
+it will be replaced by one of the remaining ships from your fleet (if
+any).  When you're out of ships, the game is over.
+
+GETTING THE FEEL OF LASER BLAST(tm)
+BY ACTIVISION(tm)
+
+This isn't an easy game.  It takes quick reflexes, concentration and
+stamina to succeed.  We suggest you start out by taking some
+"reconnaissance" runs quickly over the attackers.  Test and see their
+reactions before you stop and fire back at them.  After you've gotten a
+feel for things, try and master Game 1 before moving on to the much
+tougher games.
+
+The objective is to "fire and fly" and rack up as many points as
+possible, to add reinforcements to your fleet and to stay in the fight
+as long as you can.
+
+THE ACTIVISION FEDERATION OF LASER BLASTERS
+
+If you succeed in scoring 100,000 points or more, send us a picture of
+the television screen along with your name and address, and you'll be
+admitted to the Activision Federation of Laser Blasters.  Score the
+maximum 1 million, and all points on the screen will be replaced with
+exclamation points.  If you score the ultimate, please send us a photo!
+Such an achievement will certainly place you as one of the all time best
+video game competitors.
+
+Page 5
+
+HOW TO BECOME AN ACE AT LASER BLAST(tm)
+BY ACTIVISION(tm)
+
+Tips from David Crane, designer of Laser Blast
+
+*David Crane is also the designer of Dragster(tm) and Fishing Derby(tm)
+by ACTIVISION.  He prides himself in taking on some of the most
+challenging game assignments possible.*
+
+
+"As you will quickly discover, Laser Blast is a game not only of skill
+but also of *endurance*.  There's really no time for taking breathers.
+
+"And that brings me to my most important tip.  Always keep your ship in
+motion and fire quickly!  A *moving* object is much harder to hit than
+one standing still.  Since the attackers are continuously aiming and
+firing, you much be quick enough to dodge their fire, move into attack
+position and destroy their forces.  Then quickly move on.
+
+"It is possible to stay in one place and fire quickly enough to destroy
+your attackers before they zero in on you.  But this is a very tough
+strategy to execute and demands superior skill and concentration.
+
+"The game can get a little frustrating at times.  But keep at it and
+you'll soon be eligible for membership in the Activision Federation of
+Laser Blasters.  And take time out from your space battles to drop me a
+line.  I'd love to hear from you."
+
+David Crane
+
+(Transcriber's note:  This section is accompanied by a picture of Mr.
+Crane.)
+
+Page 6 (back cover)
+
+Look for more Activision video games wherever you buy video game
+cartidges.  Drop us a note and we'll gladly add your name to our mailing
+list and keep you posted on new Activision game cartridges as the become
+available.
+
+ACTIVISION(tm)
+
+Activision, Inc., 3255-2 Scott Blvd., Santa Clara, CA 95051
+
+(C) 1981 Activision AG-008-03 Rev. 3     Printed in U.S.A.
+
+-----------
+Enclosed with the manual is a separate sheet containing the warranty.
+
+ACTIVISION(tm)
+VIDEO GAME CARTRIDGE LIMITED ONE YEAR WARRANTY
+
+Activision, Inc. warrants to the original consumer purchaser of this
+Activision video game cartridge that it will be free from defects in
+materials and workmanship for a period of one (1) year from the date of
+purchase.  Activision agrees to either repair or replace, at its option,
+free of charge, any cartridge discovered to be defective within the
+warranty period upon receipt of the cartridge, postage paid, with proof
+of date of purchase, at its Factory Service Center.
+
+This warranty is limited to the electronic circuitry and mechanical
+parts originally provided by Activision and is not applicable to normal
+wear and tear.  This warranty shall not be applicable and shall be void
+if the defect in the cartridge has arisen through abuse, unreasonable
+use, mistreatment or neglect.  This warranty is in lieu of all other
+express warranties and no other representation or claims of any nature
+shall be binding on or obligate Activision.  Any implied warranties
+applicable to this cartridge are limited to the one (1) year period
+described above.  In no event will Activision be liable for any special,
+incidental, or consequential damage resulting from possession, use or
+malfunction of this cartridge.
+
+Some states do not allow limitations on how long an implied warranty
+lasts and/or the exclustion or limitation of incidental or consequential
+damages so the above limitations may not apply to you.  This warranty
+gives you specific legal rights, and you may also have other rights
+which vary from state to state.
+
+Factory Repair:
+
+Activision, Inc.
+Service Center
+240 S. Milpitas Blvd.
+Milpitas, CA 95035
+
+AG-940-00    12/81 REV. 3
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

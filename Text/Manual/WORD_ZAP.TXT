@@ -1,0 +1,206 @@
+USG (R)   vidtec (TM)                        VC 1003
+
+word
+zapper (TM)
+
+INSTRUCTIONS
+
+U.S. Games Corporation
+A Subsidiary of The Quaker Oats Company
+1515 Wyatt Drive
+Santa Clara, California 95054
+
+
+WORD ZAPPER
+
+Word Zapper is a one or two-player, full color, action game with 24
+variations, designed to be played on the ATARI (R) Video Computer
+System (TM) or Sears Video Arcade.
+
+The Joystick Controller links you with a most profound vehicle of
+amusement, the rotary wing Word Zapper. It is armed with vertical and
+horizontal firing lasers and capable of incredible maneuverability.
+
+Opposing you is the Scroll -- a diabolic device designed to wear out
+the wrist an boggle the mind. The Scroll parades the alphabet across
+the screen, taunting you to duplicate a word or scrambled letters
+flashed at the bottom of the screen.
+
+You must shoot each letter in perfect order, and you must match three
+words or letter combinations within 99 seconds.
+
+Sounds easy? Wait until you meet the Scroll's friend, the Asteroids.
+
+{screenshot, pointing out: Word Zapper, Score, Game Number, Timer,
+Scroll, Freebie (on Scroll, weird symbol), and asteroids: Doomsday
+(orange arrow-head), Scroller (brown football shape), Bonker (3
+squares), and Zonker (4 squares)}
+
+
+INSTRUCTIONS
+
+1.  Connect the ATARI Video Computer System or Sears Video Arcade
+    following the manufacturer's instructions.
+2.  Install the Left Joystick for one player games or both Joystick
+    controls for two player games.
+3.  Insert the cartridge, making certain that the POWER switch is OFF.
+4.  Move the POWER switch to ON.
+5.  Select the game of your choice.
+6.  Select a one or two player game with the TYPE switch.
+7.  Turn the Doomsday and Scroller Asteroids on or off with the Left and
+    Right Difficulty Switches. (See Game Selection.)
+8.  Push the Red Fire Button on the Joystick to begin the game.
+
+
+GAME SELECTION
+
+1.  In order to activate the game SELECT switch, push the game RESET
+    switch at any time during game play or while the score is displayed.
+2.  Push the game SELECT switch to select the game of your choice. See
+    game chart.
+3.  Select one or two player game with the TV TYPE switch.
+      COLOR = 1 PLAYER GAME
+      B&W   = 2 PLAYER GAME
+    Changing this switch will not harm your ATARI Video Computer System
+    or your TV.
+4.  Select DOOMSDAY and SCROLLER meteors.
+    LEFT DIFFICULTY SWITCH/SCROLLER CONTROL
+      A (Expert) = ON
+      B (Novice) = OFF
+    RIGHT DIFFICULTY SWITCH/DOOMSDAY CONTROL
+      A (Expert) = ON
+      B (Novice) = OFF
+5. Push Red Fire Button to begin game.
+
+NOTE: If the ATARI Video Computer System is not used for four minutes,
+      then the screen will go blank to protect your TV set. To restore
+      the game, just move the Joystick.
+
+
+GAME VARIATIONS
+(See Game Chart)
+
+1.  METEOR DENSITY
+      SPARSE    --Fewer meteors on screen
+      DENSE     --Many meteors on screen
+2.  METEOR SPEED
+      SINGLE    --All meteors travel at slow speeds.
+      MULTIPLE  --Meteors travel at fast and slow speeds.
+3.  MATCH
+      WORDS     --Try to spell English words.
+      LETTERS   --Try to spell scrambled letters (This must be an
+                  alien language.)
+4.  SCROLL SPEED
+    (Speed of scrolling letters)
+      SLOW      --For beginners.
+      MEDIUM    --Good for people with Honorary Rank of Zapper.
+      FAST      --Don't blink your eyes!
+
+
+SCORING
+
+The game ends when (a) you shoot down all three words, or (b) you are
+struck by a Doomsday asteroid, or (c) you run out of time. When any of
+these occurs, the Zapper will land and your score will be displayed.
+The level you obtain will be based on how many words you shoot down.
+
+        NUMBER OF WORDS         LEVEL
+               0                Rookie
+               1                Champ
+               2                Ace
+               3                Zapper (Honorary Rank)
+
+Of course, the time remaining will be zero unless you are able to get
+all three words in less than 99 seconds (thus obtaining the Honorary
+Rank of Zapper).
+
+When playing a two-player game, Player One uses the Left Joystick
+control and plays until his game ends. Player Two then plays using the
+Right Joystick control until his game ends. Both scores and levels will
+then be displayed.
+
+
+PLAYING THE GAME
+
+1.  When the game begins, a word or scrambled letters appear at the
+    bottom of the screen. You MUST remember them! They will disappear in
+    four seconds. When they disappear, the Zapper will be activated and
+    the alphabet will begin to scroll across the top of the screen. You
+    must shoot scrolling letters in the exact order found in the word or
+    scrambled letters.
+2.  To shoot the scrolling letters, depress the Red Fire Button on the
+    Joystick. This fires the letter laser.
+3.  There are four different types of asteroids that may hit the Zapper.
+    When the power is turned on, all four will parade across the screen.
+    From top to bottom, these are:
+
+      DOOMSDAY  --If a Doomsday asteroid hits the Zapper, the game is
+                  all over. You can identify this asteroid by the
+                  distinctively dangerous noise it makes as it approaches
+                  the Zapper. For an easier game, this asteroid may be
+                  turned off with the Right Difficulty Switch. (See Game
+                  Selection.)
+      SCROLLER  --If a Scroller asteroid hits the Zapper, the scrolling
+                  letters are mixed up for five seconds. For an easier
+                  game, this asteroid may be turned off with the Left
+                  Difficulty Switch. (See Game Selection.)
+      BONKER    --If a Bonker asteroid hits the Zapper, it BONKS it to
+                  the side.
+      ZONKER    --If a Zonker asteroid hits the Zapper, it ZONKS it to
+                  the side.
+
+4.  The Zapper can also shoot asteroids. Holding down the Red Fire Button
+    while moving the Joystick to either side causes the Zapper to fire in
+    that direction.
+5.  If you shoot down five asteroids, you get a "Freebie." A Freebie can
+    substitute for any letter, but if you use it you must shoot five more
+    asteroids. A "Freebie" MUST be shot to complete a word and advance
+    to a new word.
+
+
+WORD ZAPPER GAME VARIATIONS
+ _________________________________________________________
+|       |             |           |METEOR|METEOR  |GIFT   |
+|       |SCROLL SPEED |   MATCH   |SPEED |DENSITY |OF     |
+|_______|_____________|___________|______|________|1st    |
+|GAME NO|Slow|Med|Fast|Words|Lett.|S | M |Sprs|Dns|FREEBIE|
+|_______|____|___|____|_____|_____|__|___|____|___|_______|
+|   1   |XXXX|   |    |XXXXX|     |XX|   |XXXX|   |XXXXXXX|
+|   2   |XXXX|   |    |XXXXX|     |XX|   |    |XXX|       |
+|   3   |XXXX|   |    |XXXXX|     |  |XXX|XXXX|   |       |
+|   4   |XXXX|   |    |XXXXX|     |  |XXX|    |XXX|       |
+|   5   |XXXX|   |    |     |XXXXX|XX|   |XXXX|   |       |
+|   6   |XXXX|   |    |     |XXXXX|XX|   |    |XXX|       |
+|   7   |XXXX|   |    |     |XXXXX|  |XXX|XXXX|   |       |
+|   8   |XXXX|   |    |     |XXXXX|  |XXX|    |XXX|       |
+|   9   |    |XXX|    |XXXXX|     |XX|   |XXXX|   |XXXXXXX|
+|  10   |    |XXX|    |XXXXX|     |XX|   |    |XXX|       |
+|  11   |    |XXX|    |XXXXX|     |  |XXX|XXXX|   |       |
+|  12   |    |XXX|    |XXXXX|     |  |XXX|    |XXX|       |
+|  13   |    |XXX|    |     |XXXXX|XX|   |XXXX|   |       |
+|  14   |    |XXX|    |     |XXXXX|XX|   |    |XXX|       |
+|  15   |    |XXX|    |     |XXXXX|  |XXX|XXXX|   |       |
+|  16   |    |XXX|    |     |XXXXX|  |XXX|    |XXX|       |
+|  17   |    |   |XXXX|XXXXX|     |XX|   |XXXX|   |XXXXXXX|
+|  18   |    |   |XXXX|XXXXX|     |XX|   |    |XXX|       |
+|  19   |    |   |XXXX|XXXXX|     |  |XXX|XXXX|   |       |
+|  20   |    |   |XXXX|XXXXX|     |  |XXX|    |XXX|       |
+|  21   |    |   |XXXX|     |XXXXX|XX|   |XXXX|   |       |
+|  22   |    |   |XXXX|     |XXXXX|XX|   |    |XXX|       |
+|  23   |    |   |XXXX|     |XXXXX|  |XXX|XXXX|   |       |
+|  24   |    |   |XXXX|     |XXXXX|  |XXX|    |XXX|       |
+|_______|____|___|____|_____|_____|__|___|____|___|_______|
+
+
+Look for more Vidtec (TM) video games wherever you buy game cartridges.
+Drop us a note and we'll be glad to add your name to our mailing list
+and keep you posted on new Vidtec game cartridges when they become
+available.
+
+ATARI (R) and Video Computer System (TM) are trademarks of ATARI, Inc.
+
+VC 1003         (C) 1982 U.S. Games Corporation.        Printed in Taiwan
+
+
+
+

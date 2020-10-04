@@ -1,0 +1,176 @@
+Mr. Do!  by UNIVERSAL
+
+        For use with the GEMINI, Atari 2600 VCS and
+        other compatible game systems.
+
+GAME DESCRIPTION
+
+        Guide Mr. Do as he tries to harvest his orchard before the evil Badguys
+can catch him.  Quick!  Mow a path to the cherries and start picking!  But 
+watch out - here comes a Badguy!  Throw your Power Ball to squelch him.  But
+another one is on the way, so run until your Power Ball comes back.
+
+        You're not completely defenseless, though.  You can push apples on top
+of the Badguys to quash their pursuit.  Sometimes when you're not looking, a
+Badguy changes into an Alphamonster.  Don't let it near Mr. Do!  Eliminate all
+five Alphamonsters to spell E-X-T-R-A and win an extra Mr. Do!
+
+GETTING READY TO PLAY
+
+        ALWAYS MAKE SURE THE GAME SYSTEM IS OFF BEFORE 
+        INSERTING OR REMOVING A CARTRIDGE.
+
+        Choose your Challenge.
+
+        Insert the cartridge, then turn your game system on.  Press GAME RESET.
+        The Title Screen for MR. DO will appear on your TV.
+
+
+        If you would like to play a game at the easiest level (Skill 1) right
+        away, press the Play/Action Button on your hand controller.
+
+        If you would like to select a harder level, press GAME SELECT until the
+        number of the skill level you want apppears in the center of the 
+        screen.  Then press the Play/Action Button.
+
+           Skill 1:  The easiest level, suitable for play by beginners.  Your
+                     opponents move slowly and track you poorly. 
+
+           Skill 2:  The action is harder, but not as demanding as the arcade
+                     version of the game.  The opponents move more quickly and
+                     track you a little more accurately.
+
+           Skill 3:  The action approximates the difficutly of the arcade
+                     version of MR. DO!
+
+           Skill 4:  The game is the toughest challenge of all!
+
+        Player 1 uses the left controller.
+
+        Be sure the B-W/Color switch is set to the "Color" position on your
+        game system if you have a color TV.
+
+USING YOUR CONTROLS
+
+        1.  Left Controller:  Hold the left controller with the Play/Action
+            Button to your upper left (toward the TV).
+
+        2.  Control Stick:  Push the Control Stick up (away from you), down
+            (toward you), left or right to move Mr. Do in that direction.
+
+        3.  Play/Action Button:  Press the Play/Action Button to start each new
+            screen, and to make Mr. Do throw his Power Ball.  Mr. Do must face
+            an opponent to eliminate it successfully this way.
+
+HERE'S HOW TO PLAY
+
+        Getting started.
+
+        To start a game immediately after turning on your console, just press
+        the Play/Action Button on your hand controller.  The game comes up in
+        Skill 1.  To start another game, press GAME RESET.
+
+        Harvest time!
+
+        Mr. Do begins at the bottom center of the screen, ready to harvest his
+        cherry orchard.  Use the Control Stick to move him toward a row of
+        ripe-red cherries.  Mr. Do mows as he goes!  But watch out:  the mowed
+        paths leave him open to trouble.
+
+        Here come the Badguys.
+
+        Soon after game start, evil Badguys begin to appear at the Badguy spot,
+        then set out hunting for Mr. Do.  They can't mow, but they can follow
+        Mr. Do's open paths.  Don't let them get too close!  If a Badguy
+        contacts Mr. Do, Mr. Do is eliminated.
+
+        Mr. Do fights back.
+
+        If a Badguy gets too close for comfort, Mr. Do can throw his Power
+        Ball.  Use the Control Stick to turn Mr. Do toward his opponent.  Then
+        press the Play/Action Button to throw the Power Ball.  Kapow!  The
+        Badguy is eliminated and you earn points.  But be careful.  Mr. Do must
+        get his Power Ball back before he can throw it again.  Sometimes it 
+        returns quickly, but sometimes it takes its sweet time.
+
+        How do you like them apples?
+
+        Mr. Do can bonk a Badguy - even more than one - with an apple.  Mow a
+        path up toward either side of an apple, but not directly beneath it.
+        Then cut across under the apple and move on for a bit.  The apple falls
+        into your path and blocks the pursuers.  Now turn around and push the 
+        apple on top of the Badguys.  The more Badguys you squash, the more 
+        points you earn!  Careful, though.  If you mow a path all the way up 
+        and directly beneath an apple, the apple will fall on Mr. Do and he
+        will be eliminated!
+
+        They can dig it.
+
+        Badguys are not all that defenseless.  They can transform into Blue
+        Chompers if they want to get at Mr. Do in a hurry.  Watch for the
+        change.  Then keep an eye on the Blue Chomper as it digs through the
+        grass.  If it gets too close, hit it with the Power Ball or an apple.
+        Be careful, though.  Early in the game, sometimes a Badguy will change
+        into a Blu Chomper as you push an apple against it.  If this happens, 
+        retreat from the apple for a second.  The Blue Chomper starts digging
+        down.  When it does, quickly push the apple over it.  Crunch!  But 
+        you're only safe for the moment!
+
+        Spelling Wins!
+
+        Alphamonsters can be deadly, too.  An Alphamonster can sometimes appear
+        in the paths when:
+
+           1.  your score reaches a multiple of 1000 points, and
+           2.  the Alphamonster in the E-X-T-R-A Mr. Do Register is over a 
+               letter you haven't won yet.
+
+        Hit the Alphamonter with a Power Ball or bonk it with an apple to earn
+        the letter on its chest.  Be quick!  If the Alphamonster starts to
+        change into a Badguy, you might not get credit for earning the letter.
+        When you spell E-X-T-R-A, you win an extra Mr. Do!  But be careful.
+        If an Alphamonster touches Mr. Do, Mr. Do is eliminated!
+
+        Completing a screen.
+
+        There are three ways to complete a screen and go on to the next:
+
+           1.  Pick all cherries in the orchard.
+           2.  Eliminate all enemies on the screen.
+           3.  Eliminate all Alphamonsters to spell E-X-T-R-A.
+
+        Completing any one of these three take you to a new orchard and a
+        chance to boost your score.
+
+        Starting Over.
+
+        The adventure ends when all your Mr. Do's have been eliminated.  Press
+        GAME RESET or the Play/Action Button to replay the game option that
+        you've just played.  Press GAME SELECT to select another challenge.
+
+                                _________
+         ______________________| SCORING |________________________       
+        |                      |_________|                        |
+        |   ACTION COMPLETED                      POINTS EARNED   | 
+        |                                                         |
+        |   Each cherry picked...............................50   |
+        |   Group of 6 cherries in succession...50 each cherry,   |
+        |                                       plus 500 bonus    |
+        |   Each Enemy hit by Power Ball....................500   |
+        |   Each enemy crushed by an apple.................1000   |
+        |_________________________________________________________|
+
+        Hit an Alphamonster with the Power Ball or bonk it with an apple for
+        500 points.
+
+        Each player begins with five Mr. Do's in Skill 1 games and three 
+        Mr. Do's in all games played at other skills.  The plalyer earns 
+        an extra Mr. Do for each spelling of E-X-T-R-A.
+
+THE FUN OF DISCOVERY
+
+        This instruction booklet provides the basic information you need to 
+        start playing MR. DO, but it is only the beginning!  You will find that 
+        this cartridge is full of special features to make MR. DO exciting
+        every time you play.  Experiment with different techniques - and
+        enjoy the game!

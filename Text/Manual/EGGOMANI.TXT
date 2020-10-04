@@ -1,0 +1,167 @@
+<Picture>
+
+<Picture>Eggomania<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+U.S. Games(TM)
+
+VC2003
+
+EGGOMANIA
+
+U.S. Games Corporation
+A Subsidiary of The Quaker Oats Company
+1515 Wyatt Drive
+Santa Clara, California 95054
+
+Eggomania
+
+  Eggomania is a one to four player, full color game designed to be played on the 
+Atari(R) Video Computer System(TM) or the Sears Video Arcade(R).
+ A strangely colored, feathered fowl is bent on bombing your bedeviled blue bear 
+with dozens of even stranger colored eggs. Your only defense is catching those 
+falling orbs in your hat before they break and cause a real mess! If you succeed in 
+catching an entire wave, you get the delightful opportunity to get even and fire 
+them back at that turkey ! You'll be dazzled by his reaction. So go after that bird -- if 
+you can "bear" the pressure. Otherwise, the yolks on you !!
+
+Set-Up Instructions:
+
+1. Connect the Atari(R) Video Computer System(TM) or   Sears Video Arcade(R) 
+following the manufacturer's instructions.
+
+2. Install the left paddle controllers for single player or two player game, and both 
+left and right sets of controllers for a three or four player game.
+
+3. Insert the cartridge -- making certain that the power is OFF.
+
+4. Move the POWER switch to ON. 
+
+5. Select the game of your choice.
+
+6. Press the red fire button on the Player One paddle to start the game.
+
+7. Push RESET switch at any time to start a new game.
+
+8. After the game is over, a new game may be started by pressing the fire button on
+the joystick.
+
+9. DIFFICULTY SWITCHES: The difficulty switches select between large catcher 
+hat and small catcher hat as follows:
+
+Position A=small hat
+Position B=large hat
+
+In multi-player games, each player may choose the hat corresponding to his/her 
+skill level. To do this, use the difficulty switches as follows:
+
+One Player Game-- Use only the left difficulty switch;
+
+Two Player Game - Use the left difficulty switch for player one and the right
+		  difficulty switch for player two; 
+
+Three or Four - Use the left difficulty switch for  players one and two.
+Player Game	  Use the right difficulty switch for players three and four.
+
+Note that difficulty levels may only be altered when in the GAME SELECT mode. 
+No mid-game changes are allowed.
+
+Controls:
+
+* Use left paddle controllers for single or two player  games. Both left and right 
+sets for three to four player games.
+
+* Move bear back and forth with paddle knob.
+
+*  Fire eggs back at the bird with the red fire button.
+
+Game Variations:
+
+Game 1 Single player
+Game 2 Two player
+Game 3 Three player
+Game 4 Four player
+
+Scoring:
+
+Each egg successfully caught equals 14 to 50 points (see chart).
+
+Each time the bird is shot with an egg, equals 100 points; plus, if you have egg
+on the floor, some of it gets cleaned up.
+
+Eggs are dropped in ten difficulty levels as follows:
+
+-------------------------------------------------------------------------------------------
+             Number             Points                 Number                    Points
+               of                Per                     of                       Per
+Level         Eggs      Speed    Egg        Level       Eggs        Speed         Egg
+-------------------------------------------------------------------------------------------
+  1             20        1       14          6          60           3            34
+  2             40        1       18          7          80           3            38
+  3             60        1       22          8          80           4            42
+  4             40        2       26          9          80           5            46   
+  5             80        2       30         10          80           6            50
+
+Playing Hints:
+
+Catching:
+
+* Move your harried bear back and forth across the  screen as little as possible; if 
+eggs are falling close  to each other (in a vertical column), position your  hat under 
+them and adjust only slightly to either side.
+
+* Any excessive or inefficient movement and you'll wind up with egg on your face! 
+(Feet, paws, and body too!)
+
+* Try to recognize a pattern of the eggs as they fall.  This will help you anticipate 
+where to make your next move -- -- -- -- ooops ! !
+
+Throwing:
+
+* Position the bear somewhere near the center of the screen and wait for that 
+turkey to pass by -- don't follow him!
+
+* Timing and accuracy on shooting the turkey during  the Eggomania waltz is 
+critical. Try to anticipate his next move and lead his direction a little while
+shooting only when necessary -- constant firing throws off timing and seems to make
+that turkey dance even more.
+
+* Once you have accomplished this task, you can sit back and enjoy bonus points 
+and a flustered, embarrassed turkey!
+
+Look for more U.S. Games(TM) video games wherever you buy game cartridges. 
+Drop us a note and we'll be glad to add your name to our mailing list and keep you 
+posted on new game cartridges when they become available.
+
+This cartridge is manufactured for the ATARI Video Computer System Model 2600 
+by U.S. Games. ATARI, Video Computer System, and 2600 are trademarks of Atari, 
+Inc. U.S. Games is not affiliated with Atari, Inc. Video Arcade(R) is a trademark of 
+Sears, Roebuck & Co.
+
+VC2003       (C)1982 U.S Games Corporation,       Printed in Taiwan.
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

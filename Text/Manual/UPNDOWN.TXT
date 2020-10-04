@@ -1,0 +1,197 @@
+                            Bally/Midway (TM)
+                                Up 'n Down
+
+                           Official Arcade Game
+                               By Sega (R)
+
+                   Atari (R) 2600 (TM) and Compatibles
+
+You're racing your BAJA BUGGER over a dangerous, treacherous road.  But 
+your opponents aren't just trying to win the race, they're trying to make 
+it the last race you run.  To stay alive, jump your BAJA BUGGER and land 
+on top of your opponents.
+
+Earn points by collecting flags, balloons and other prizes along the 
+course.  Watch out for PICK-UP TRUCKS and WEDGE CARS.  They'll try to 
+collide with you...and if they do, you're dead.
+
+Fasten your seat belt and get ready for the wildest strip of road you've 
+ever been crazy enough to drive.
+
+(Editor's note: the cover artwork of the BAJA BUGGER looks like a crazed 
+Volkswagon Beetle [or Bug].  Please note its similarity to Hanna-Barbera's 
+"Speed Buggy.")
+
+
+USING YOUR CONTROLS
+
+1. Insert the game cartridge while power is OFF.
+
+2. Turn the power ON and you'll see the UP 'N DOWN title screen.
+
+3. Use GAME SELECT switch to select ONE or TWO players.  If no
+   selection is made, you are automatically in the one-player mode.
+   When two are playing, the players take turns, Player 1 using the
+   LEFT joystick and Player 2 using the RIGHT joystick.  The game
+   will continue as a two-player game until the power is turned off.
+
+4. Game Settings
+   Choose the EASY game (which gives you five lives) or the HARD game
+   (which gives you only three lives).
+
+   Left Difficulty Switch:  (B) or NOVICE chooses EASY JUMPS
+                            (A) or EXPERT chooses HARD JUMPS
+
+   Right Difficulty Switch: (B) or NOVICE chooses 5 game lives
+                            (A) or EXPERT chooses 3 game lives
+
+   EASY JUMPS: The jumps from road to road are very forgiving until
+   Round 4; i.e., the game makes up for incomplete jumps from one road
+   to another.  From Round 4 on, the jumps from road to road must be
+   exact.
+
+   HARD JUMPS: These jumps must be exact from the start.
+
+5. Press ACTION button on the left joystick to start the game.  If no
+   game is started after one minute of turning the game on, the play
+   will automatically begin.
+
+6. Use your four-way joystick to maneuver your BAJA BUGGER over the
+   race course.
+
+                              Increase speed
+                                    /^\
+                                     |
+                     Turn Left  <--     -->  Turn Right
+                                     |
+                                    \./
+                              Decrease speed
+
+7. Press the ACTION button to make your BAJA BUGGER jump.  You can
+   jump from one road to another, or from point to point on the same
+   road.
+
+   NOTE: The BAJA BUGGER can only jump while moving forward and can
+   only jump straight up.  If you pull back on the joystick control
+   while jumping, the BAJA BUGGER will accelerate backwards until the
+   jump "action" is complete.  This is important because you may want
+   to move backwards to collect flags and other prizes.
+
+8. After the game is finished, you may use the ACTION button to start
+   another game.
+
+
+HOW TO PLAY
+
+Screen and Game Play
+--------------------
+The screen shows a race track which scrolls from the top of the screen to 
+the bottom.  (Ed. note: a picture of the game is placed here; however, it 
+looks somewhat different than the actual game.  I believe it is an 
+artists' conception of the final product.)  A flag display at the top of 
+your screen indicates the number of flags you've collected.  The flags in 
+the display turn white as you collect them.  Flags are simply collected by 
+driving over them with your BAJA BUGGER.
+
+The course has at least two lanes which zig-zag across the screen and will 
+intersect along the way.  Some roads might lead to maps which let you jump 
+across stretches of broken road.
+
+If you jump and land off the road at any point you lose one of your cars.  
+In the EASY game, after you lose your fifth BAJA BUGGER, the game is over. 
+ In the HARDER game, after your third BAJA BUGGER is destroyed, the game 
+is over.
+
+(There is a picture of BAJA BUGGER jumping on top of a car.)
+
+The number of BAJA BUGGERS you have remaining is indicated by the little 
+car token shapes in the lower left corner of the screen.
+
+The courses become more difficult to survive as you progress from one road 
+to the next, up to road nine.  When all eight flags have been collected, 
+you advance to the next, more difficult round.
+
+As your BAJA BUGGER travels along the track, you'll encounter various 
+opponents along the way.  They may come from behind or may be moving in 
+front of you at a slower speed.  You earn points for successfully jumping 
+on top of them.  If you collide with any of these opponents or jump up and 
+off the track, you lose one of your BAJA BUGGERS.
+
+(There is a picture of BAJA BUGGER crossing over the grassy field to go 
+from one road to another.)
+
+
+SCORING
+
+The score for the current player is displayed in the upper left hand 
+corner of the screen.  The score for Player 1 is shown in RED color.  The 
+score for Player 2 is shown in BLUE color.
+
+Each round you advance will bring new opponents to the track.  You'll have 
+to be more aware not to collide with them.  Be ready to jump them for 
+added points.
+
+Here's how you earn points:
+
+  Collect Flag..........................75 Points
+  Collect Cherry........................50 Points
+  Collect Balloon.......................65 Points
+  Collect Lollypop......................70 Points
+  Collect Ice Cream Cone................75 Points
+  Jump on Pick-up Truck................100 Points
+  Jump on Flag Carrier.................125 Points
+  Jump on Camaro.......................150 Points
+  Jump on truck........................175 Points
+
+#7001-00901
+
+(Ed. note: I have included the following section, Sega's advertisements 
+for their other video games.  Due to time constraints, I will be listing 
+the games only with any other pertinent information.)
+
+MORE GREAT ARCADE GAMES FOR THE HOME
+
+Buck Rogers: Planet Of Zoom (Sega, Official Arcade Version)
+Star Trek: Strategic Operations Simulator (Sega, Official Arcade Version)
+Congo Bongo (Sega, Official Arcade Version)
+Spy Hunter (Bally/Midway, Official Arcade Version)
+Tapper (Bally/Midway, Official Arcade Version)
+
+
+Published by Sega (R) Enterprises, Inc.
+
+Manufactured under license from Sega Enterprises, Ltd., Japan.
+
+UP 'N DOWN is a trademark of Sega Enterprises, Ltd.  Video game copyright 
+(C) 1983 Sega Enterprises, Ltd.
+
+BALLY/MIDWAY is a trademark of Bally Midway Mfg. Co.  Atari and 2600 are 
+trademarks of Atari, Inc.
+
+Package and program copyright (C) 1984 Sega Enterprises, Inc.
+
+STAR TREK is a trademark of Paramount Pictures Corporation.
+
+CONGO BONGO is a trademark of Sega Enterprises, Inc.
+
+BUCK ROGERS is a trademark of The Dille Family Trust.
+
+TAPPER and SPY HUNTER are trademarks of Bally Midway Mfg. Co.
+
+
+This 2600 video game manual has been reproduced electronically due to the 
+extreme rareness of finding the game, less than finding it with the 
+manual.  The intent behind reproducing this document is having it 
+available for non-profit use.  This document has been stored so others who 
+find UP 'N DOWN cartridges can be able to play and enjoy the game as well.
+
+
+
+--
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+                    Norman G. Sippel  sippelng@muohio.edu
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+    Fan of Video Games, Spumco Inc., Freehead, Card Games, and Animation
+   I collect and trade SNES, GB, Colecovision, and Atari 2600/7800 games.
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+

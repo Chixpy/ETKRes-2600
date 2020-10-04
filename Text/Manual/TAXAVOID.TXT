@@ -1,0 +1,173 @@
+Tax
+Avoiders
+(c) Copyright 1982
+
+INSTRUCTION BOOK
+
+--
+
+INSTRUCTIONS
+------------
+
+OBJECT:
+The goal of the player is to become a millionaire, after taxes, in one
+year.  As in real life, there are obstructions to your progress,
+bureaucratic levels to go through and obstacles to overcome such as
+governmental red tape, bad investments that lose money, taxes and IRS
+audits.
+
+
+THE CHARACTERS:
+
+         ####
+         ^^^     John Q - The Overtaxed Player
+         ^^^^
+         ^^^
+          ^
+       %%%%%                                 
+       % %%%| _
+      |% %%%%%%
+         ###
+         #####
+         #   #
+        #    #
+       #     ##
+     ##      #                       
+      #                          
+
+       .######
+      #########  Eggie
+        #### #   The IRS Agent
+        #####
+        ######   Waggie
+      .#######.# The CPA
+      #'#######'
+        ######   Toodles
+        ######.  The Investment Advisor
+      ###     #
+      #       ##
+
+These identities are all parts of the same character.  Their movements are
+not controlled by the player.  He is constantly persuing John Q.
+
+John Q. is controlled by the joy stick and moves in all directions; left,
+right, up and down.  The Fire Button causes him to jump over or through
+adversaries.
+
+
+THE SYMBOLS
+
+     # #       1) Income $.
+   #######        You must obtain the dollars to earn income.
+ ##  # #  #
+ ##  # #
+   #######
+     # #  #
+ ##  # #  #
+  ########
+     # #
+
+     .#####    2) Governmental Red Tape.
+    ____   #      Failure to avoid the red tape during the income screen
+   #    ###       costs you $2,000 each time.
+    #####  #
+          ##
+ ##     ###
+  #######
+
+     #####     3) Portfolio.
+     #   #        (screen 2)
+ #############    You must put investments into your portfolio to shelter
+ #############    income and obtain any capital gain.
+ #############
+ #############
+ #############
+
+
+GENERAL PLAY
+
+The year is divided into 635 days, 12 months and 4 seasons.  During each
+season there are two screens, an income screen and an investment/shelter
+screen.  During the income screen, you must accumulate as much income "$"
+as possible while avoiding the costly governmental red tape.  To reach the
+various bureaucratic levels, you must catch the elevator in the center of
+the screen.  This takes you to the various levels, slowly like normal
+governmental action.
+
+Approximately half way through the season, you are switched to the second
+screen which allows you to obtain varoius Tax Sheltered Investments.  Here,
+you are being pursued by a character who is consistently moving into and
+out of the private enterprise system and governmental employment.  This is
+symbolized by color changes; black, pink and green.
+
+In the black mode he is Eggie, an IRS Revenue Agent trying to chatch you
+for audit.  When caught, you are audited and ALWAYS lose.  You are then
+taxed at the maximum rate of 50% and sent back to work in the income
+screen.  There are no appeals to tax court.
+
+In the pink mode he is Waggie, a CPA who is soliciting your business.  If
+he catches you, or you go to him, he charges you $1,000.  You will find his
+fee, though expensive, is worth paying because he will always provide a
+more valuable Tax Sheltered Investment than the one previously available.
+
+In the green mode he is Toodles, a Registered Investment Advisor who can
+help you maximize your income by providing the best Tax Sheltered
+Investment available.  When green, it is to your benefit to catch him. 
+Depending on the amount of time left before your taxes are due (the end of
+the season) it may or may not be beneficial to wait for the IRS Agent to
+become the Investment Advisor.
+
+At the end of the season your taxes are collected through automatic
+quarterly withholding.  The amount of tax collected depends on which Tax
+Sheltered Investment you have in your portfolio.  You are then sent back to
+work (screen 1) to earn more income.
+
+
+INVESTMENTS
+
+There are seven different investments and each has different tax shelter
+benefits.  Some also provide you with capital gains while others do not. 
+There is a 50/50 chance that any investment will make or lose money.  Good
+investments earn $1,000 per day in addition to any capital gain.  Bad
+investments lose $1,000 per day but still can provide the capital gain. 
+This is separate from and does not affect their ability to shelter income
+at the end of the season.
+
+The Tax Sheltered Investments Are:
+
+
+#########  OIL DERRICK
+##.   .##  Oil And Gas Development
+#  ###  #
+##'   '##
+#########
+##.   .##
+#  ###  #
+##'   '##
+#########
+##.   .##
+#  ###  #
+
+#   #   #  SUN
+ #  #  #   Solar Energy
+  # # # 
+   ###
+#########
+   ###
+  # # #
+ #  #  #
+#   #   #
+
+     #####   TRAIN CABOOSE
+###########  Railroad Containers
+#    #    #
+###########
+ #### ####
+
+     %%%%     GLASS FLASK
+      %%      Research & Development
+      %%
+      %%
+     
+
+-------------------Atari 2600 Instructions Archive-------------------

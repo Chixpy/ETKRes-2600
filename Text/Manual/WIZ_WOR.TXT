@@ -1,0 +1,176 @@
+		WIZARD OF WOR
+Video game cartridge for the Atari Video Computer System and Sears Video Arcade.
+		GAME PLAY INSTRUCTIONS
+copyright 1982 Gabriel Industries, a division of CBS Inc.
+Wizard of Wor copyright 1981 Bally Midway Mfg. Co. All Rights Reserved
+
+
+SETTING UP YOUR VIDEO CONSOLE
+
+1. Hook up your video game system, following the manufacturer's instructions.
+
+2. With the power OFF, plug in the video game cartridge.
+
+3. Turn power ON.  If no image appears, check the connections of your game
+system to the TV, then
+    repeat steps 1-3.
+
+4. Plug the Joystick Controllers firmly into the jacks of your video system.
+   Use the RIGHT controller jack for one-player games.
+
+5. Set the DIFFICULTY switches to B for beginner level.  Setting the
+switches to A will result
+   in extra sneaky Worlings.
+
+6. Use the GAME SELECT switch to select either the one-player or two-player
+version.  The version
+   you select will be indicated by the number of score boards appearing
+above the dungeon.
+
+7. To start the game, press GAME RESET.  The beginning of the game is
+announced by the playing
+   of the National Anthem of Wor, after which you may enter the dungeon by
+pushing up on your
+   Joystick Controller.
+
+Note: Never remove your video game cartridge from the console unless the
+power is turned OFF.
+
+
+Welcome to the mystical kingdom of Wor!  You have been placed in command of
+an elite squadron
+of Worriors assigned the task of outwitting the sinister Wizard of Wor!  As
+you descend into his
+diabolical dungeons, you will encounter deadly Worlings and maybe even the
+Wizard himself!
+Your only weapons are your trusty laser, your radar scanner, and your
+ability and cunning.
+You will need them all as you attempt to beat the Wizard and earn the title
+of Worlord!
+Prepare now, and then let the battle begin!
+
+OBJECT OF THE GAME
+The object of WIZARD OF WOR is to accumulate points by destroying the
+Worlings you encounter as
+you pass through numerous dungeon mazes.  In the two-player version you can
+work with or compete
+against another Worrior commander.
+
+WORRIORS  &  LASER BLASTERS
+You begin each game with a squadron of three Worriors.  Only one Worrior may
+enter and move about a dungeon at a time.  Push up on your Joystck and a
+Worrior will move into the dungeon from the entrance below.
+
+Use your joystick to maneuver the Worrior through the dungeon maze.  To fire
+the laser, press down on the red firing button.  A laser will fire only in
+the direction that your Worrior is facing.  You have an unlimited supply of
+ammunition.  However, after a Worrior fires a shot, he cannot reshoot until
+that bullet makes contact with either a Worling or a wall.
+
+At 10,000 points you will be awarded one extra Worrior.
+
+
+DUNGEONS & WORLINGS
+Each dungeon is filled with different kinds of Worlings.  The Worlings' one
+purpose in life is to destroy your Worrior.  They will try to shoot him down
+or devour him.  As each dungeon is cleared, a new dungeon takes its place,
+filled with faster, nastier and craftier Worlings.  The species of Worlings are:
+
+BURWORS
+Six of these blue meanies appear at the beginning of each dungeon.
+
+GARWORS
+These yellow beasties are invisible, but will materialize for a few seconds
+from time to time.
+
+THORWORS
+These red devils are particularly nasty.  They're not invisible most of the
+time, but they're extra fast and tricky.
+
+In the first dungeon, Garwors and Thorwors will appear only after all six
+Burwors are destroyed.  In following dungeons, Garwors and Thorwors appear
+earlier on.  As you advance into more and more dungeons, you may be faced
+with any combination of Worlings scampering about the maze at the same time.
+
+WORLUK
+Starting in the second dungeon, Worluck - the Wizard's winged beast -
+appears after the last Worling is shot.  Worluk will try to devour you
+before he escapes from the dungeon.  Shooting Worluk doubles the point
+values for all Worlings shot in the next dungeon.
+
+THE WIZARD OF WOR
+After Worluk escapes or is shot, the Wizard himself may engage you in
+battle.  This is a fight to the finish, with the Wizard teleporting from one
+position to another, hurling lightning bolts in your direction.  If you're
+sharp enough to stay alive, consider yourself a Worlord!
+
+
+SPECIAL FEATURES
+[Diagram of a dungeon maze, pointing out the Escape Door, a Worling Cluster,
+the Radar Scanner, and the opposite Escape Door.]
+
+RADAR SCANNER
+The radar scanner located below each dungeon depicts the location and
+movement of all beings in that dungeon except for your Worrior.  This holds
+true for both visible and invisible Worlings, as well as Worluk and the
+Wizard.  The radar scanner is invaluable in keeping track of fast moving
+Worlings.
+
+ESCAPE DOORS
+There are escape doors located on opposite sides of each dungeon.  Simply
+stepping into one will automatically beam your Worrior to the other side.
+The doors open and close every three seconds.  Be careful, though.  Worlings
+have a habit of using them, too, especially when they're invisible.
+
+WORLING CLUSTERS
+Occassionally, two Worlings will travel together as a cluster, giving the
+appearance of only one Worling.  They might randomly split up and reunite
+throughout a particular dungeon.  When they travel in this manner, a single
+shot will destroy both of them.  But don't get too confident.   Depending on
+how advanced the dungeon is, a cluster might be replaced by two separately
+traveling Garwors or Thorwors.
+
+
+END OF GAME
+The game ends when your last Worrior succumbs to the supreme power of the
+Wizard's forces and is destroyed.
+
+
+TWO-PLAYER VERSION 
+Two players may travel through each dungeon at the same time.  Both Joystick
+Controllers are used in this version.  The right one controls the Yellow
+Worriors and the left one controls the Blue Worriors.  Players may work
+together to destroy Worlings or they may fight against each other.  Each
+Worrior destroyed by an opposing Worrior is worth 1,000 points to the survivor.
+
+
+SCORING
+Your score is displayed at the top of the screen throughout the battle.
+
+Point values:
+Blue Burwors			100 points
+Yellow Garwors			200 points
+Red Thorwors			500 points
+Worluk				1000 points plus double score in the next dungeon
+Wizard of Wor			2500 points
+Worriors    (Two-player version)	1000 points
+
+
+STRATEGY HINTS
+
+1. Pick a safe moment and put your Worrior into play as soon as possible.
+Otherwise, after 20 seconds he'll be ejected into the dungeon which may
+leave him in a bad position.
+
+2. Learn to use your radar scanner and rely on it to locate invisible
+Worlings and track their movements.
+
+3. Don't shoot without having a plan to hit something.  Otherwise, you may
+not be able to shoot when you have to.
+
+
+CBS Video Games
+Video Game Cartridge Limited Ninety Day Warranty
+
+Gabriel Industries, a division of CBS Inc.  Hagerstown MD 21740
+

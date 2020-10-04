@@ -1,0 +1,138 @@
+Zaxxon
+SEGA
+
+For use with the Atari 2600 Video Computer System and Sears Video Arcade.
+
+- For one or two players
+- For color or black and white TV
+- Select from four skill levels
+
+        Game Description
+Coleco's ZAXXON is a stunning 3-D space game that takes you across alien
+asteroid fortresses on a special mission.  The evil robot ZAXXON and its
+fierce armies have conquered an asteroid belt.  You must stop them before
+they enslave the entire galaxy!  Pass the barrier on the first asteroid,
+then dive to the enemy surface.  Evade fire from gun turrets and mobots as
+you search for the Robot Warrior.  Once you successfully cross the asteroid
+fortress, you must fly through deep space.  Avoid the enemy squadron combing
+the galaxy in search of your fighter!  Can you defeat the evil Zaxxon?
+
+        Getting Ready To Play
+-       Make sure the Video Computer System is connected to the TV, and the power
+supply is plugged in.
+-       Be sure that you have plugged the controllers into the jacks at the rear
+of the Video Computer System.
+-       Insert cartridge as shown, then turn On/Off switch to On. (ALWAYS TURN THE
+ON/OFF SWITCH TO OFF WHEN INSERTING OR REMOVING A CARTRIDGE.)
+
+[Diagram of proper connection of an Atari VCS to a television set.]
+
+        Using Your Controls
+For a one-player game, use the left controller.  For a two-player game,
+Player 1 uses the left controller; Player 2 uses the right controller.
+Always hold controller with the Red Button to your upper left (toward the TV).
+
+1. CONTROL STICK: Push the Control Stick away from you to make your fighter
+move down.  Pull the Control Stick toward you to make your fighter move up.
+Push the Control Stick away from you and to the right or left to move your
+fighter down-right or down-left.  Pull the Control Stick toward you and to
+the right or left to make your fighter move up-right or up-left.  Push the
+Control Stick left or right to make your fighter move left or right.
+
+2. RED BUTTON: Press the Red Button to make your fighter fire an energy blast.
+
+Note: The left and right Difficulty Switches are not used for ZAXXON.
+
+        Here's How To Play
+
+STEP 1: Choose Your game.
+Press Game Select until the Game Option number you want appears at the top
+of the screen, according to the following:
+1 = Skill 1 / One Player
+2 = Skill 2 / One Player
+3 = Skill 3 / One Player
+4 = Skill 4 / One Player
+5 = Skill 1 / Two Players
+6 = Skill 2 / Two Players
+7 = Skill 3 / Two Players
+8 = Skill 4 / Two Players
+
+Then press Game Reset to begin the first phase.
+
+[Fortress Screen Diagram: Score Indicator top centre, Altitude Indicator bar
+on side left, Fuel Remaining Indicator bottom centre, Fighters Remaining
+Indicator - the number beside Fuel Remaining, Fighter, Barrier, Gun Turret,
+Fuel Tank, Mobot and Radar Tower.]
+
+STEP 2: To battle!
+Your fighter approaches Zaxxon's first asteroid base.  Fly high to avoid
+crashing into the first wall!  Then swoop down to attack enemy targets.
+Watch out for return fire from turrets and dodger guns.
+
+STEP 3: Running out of fuel.
+Careful!  Your fighter guzzles fuel as you zoom over Zaxxon's territory.
+Keep an eye on your fuel gauge.  Fire at fuel tanks to fill up.  Then slip
+over the gap in the wall at the end of the asteroid base and prepare for a
+battle in space.
+
+[Space Battle Screen Diagram: Enemy Planes, Enemy Blast, Fighter and Fighter
+Blast.]
+
+STEP 4: Attack in space.
+You've made it past Zaxxon's first ground force.  Now try your skill against
+Zaxxon's planes in space.  They can dive at you from above, below or hit you
+head on.  Eliminate as many planes as you can in this sudden attack.
+
+STEP 5: More asteroid action.
+You're heading toward another asteroid.  In games played at skills 2-4, some
+targets are protected by electronic barriers.  Slip through gaps in the
+barriers to avoid the deadly electronic beams.
+
+[Zaxxon Confrontation Screen Diagram: Robot Zaxxon, Robot Missile and your
+Fighter.]
+
+STEP 6: Meet the robot Zaxxon.
+Pass the final barrier and your fighter no longer moves forward.  A deadly
+force holds it back!  But fortunately, you can still move up, down and
+sideways.  Suddenly, the robot Zaxxon approaches.  Only one spot on Zaxxon
+is vulnerable - the missile under its arm.  To eliminate Zaxxon, you must
+shoot its missile repeatedly before it fires.  If you fail, you still have a
+chance to hit the speeding missile and proceed to the next round of play.
+If you don't eliminate the missile, your fighter will be eliminated.
+
+It takes several hits to eliminate Zaxxon's missile:
+Skill Level 1........3 hits
+Skill Level 2........4 hits
+Skill Level 3........5 hits
+Skill Level 4........6 hits
+
+STEP 7: Onward through the galaxy!
+Once you've gone past the robot Zaxxon, another asteroid challenges your
+skill and coordination.  Then it's back into deep space to confront another
+wave of enemy fighters.
+
+STEP 8: Starting over.
+Keep defending the universe until you run out of fighters.  To replay the
+Game Option that you have been playing, press Reset.  To select another Game
+Option, press Game Select, then press Reset.
+
+        SCORING
+ENEMY TARGETS                   POINTS
+Enemy Plane                     200 points
+Fuel Tank                               300 points
+Gun Turret                      400 points
+Mobot                           400 points
+Dodger Gun                      500 points
+Radar Tower                     1000 points
+Robot Zaxxon's Missile  1000 points
+Robot Zaxxon                    5000 points
+
+Each player receives five fighters per game.  You receive a bonus fighter if
+your score reaches 10,000 points.
+
+        The Fun of Discovery
+This instruction booklet will provide the basic information you need to get
+started playing ZAXXON, but it is only the beginning!  You will find that
+this cartridge is full of special features to make ZAXXON exciting every
+time you play.  Experiment with different techniques - and enjoy the game!
+

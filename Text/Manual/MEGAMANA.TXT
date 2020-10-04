@@ -1,0 +1,215 @@
+                               ACTIVISION
+                                MEGAMANIA
+                              INSTRUCTIONS
+
+If you think MegaMania is just another space game, you're dreaming.  And that
+dream will become a nightmare.  A space nightmare.  So, prepare yourself for
+one of the most unreal experiences you'll ever encounter.  Read these 
+instructions before you begin.  Give yourself a fighting chance.
+
+-----------------------------MEGAMANIA BASICS----------------------------------
+You control a fleet of mobile blasters at the bottom of the screen, under 
+constant attack by wave after wave of outrageous objects.  Your goal is to
+accumulate points by knocking our as many enemy objects as possible, before 
+your fleet is destroyed.  Here's how to start:
+
+1.  Hook up your video game system.  Follow manufacturer's instructions.
+
+2.  With power OFF, plug in game cartridge.
+
+3.  Turn power ON.  If no picture appears, check connection of your game system
+    to TV, then repeat steps 1-3.
+
+4.  Plug in Joystick Controller/s.  Solo player uses left Joystick.
+
+5.  Set both difficulty switches to b to begin.
+
+6.  Select game with the game select switch.
+
+         GUIDED MISSILES                         STRAIGHT MISSILES
+         Game 1: one player                      Game 3: one player
+         Game 2: two players                     Game 4: two players
+                 taking turns                            taking turns 
+
+    In games 1 and 2, you can control the direction of your missile after it
+    has been fired by "steering" it with your Joystick Controller.  Also, you
+    can fire continuously by holding the red button down on your Joystick.  In
+    Games 3 and 4, fired missiles streak straight up and your blaster will 
+    fire single shots only.
+
+7.  Use of Joystick Controller.  Hold Joystick Controller with the red button
+    in the upper left position.  Fire missiles by depressing red button.  Move
+    your mobile blaster left or right across the screen by moving your Joystick
+    left or right.
+
+8.  To begin or start a new game.  Press game reset.  Your energy bar will
+    charge completely.  Once it is charged, the enemy attack will begin.
+
+9.  Difficulty Switches.  Difficulty switches affect the speed of the missiles
+    only.  With switches in the b position, missiles travel at high speed.  In
+    the a position, missiles travel at slow speed.
+
+[Note to owners of Sears Tele-Games Video Arcade:  Difficulty is called skill,
+left (or right) player, and a is expert, b is novice]
+
+10. Reinforcements.  You begin each game with three blasters in reserve.  For
+    each 10,000 points you score, you're given an additional blaster.  You can
+    only have up to six reserve blasters on the screen at one time.
+
+11. Scoring.  Each time you destroy an attacking object, you score points.
+    The point values for each object are listed below:
+
+                      MegaMania Point System
+                                        Point Value of Each Attacker
+       Attacking Object                 (First Cycle Only)
+       ----------------                 ----------------------------
+   -----
+===========
+##  ###  ##      Hamburgers                   20
+===========
+   -----
+
+
+-----------
+##  ###  ##
+===========      Cookies                      30
+##  ###  ##
+-----------
+
+
+##  ##  ##
+==========       Bugs                         40
+##  ##  ##
+
+
+
+===-----===
+---=---=---      Radial Tires                 50
+---=---=---
+===-----===
+
+    #####
+  #########
+###       ###    Diamonds                     60
+  #########
+    #####
+
+
+ #_________#
+ ##_______##     Steam Irons                  70
+|   |   |   |
+`---^---^---'
+
+
+
+  #\    /#
+  ###\/###       Bow Ties                     80
+  ###/\###
+  #/    \#
+
+  
+   /#\
+ /###  \
+ \####/##        Space Dice                   90
+  /##\### /
+ |  ###\/
+
+
+    These point values apply for the first attack cycle only.  After the first
+    cycle, each object is worth 90 points.  Each attack cycle consists of all 
+    eight waves of objects (see "MegaCycle" under "Special Features").
+
+    Bonus Points. You receive bonus points for each energy unit you have
+    remaining at the moment you destroy the last object in an enemy wave.
+    Each energy unit is worth the point value of each attacker in bonus
+    points. For example, in the first wave, if you have 30 energy units
+    left after destroying all the attacking hamburgers, you will be awarded
+    600 bonus points. There are 80 total energy units in your energy bar
+    in the beginning of each wave.
+
+SPECIAL FEATURES OF MEGAMANIA BY ACTIVISION
+
+The Energy Bar. Always keep an eye on your energy bar. It indicates
+the expenditure of energy with the passage of time. If the energy bar
+reaches zero, and you still haven't wiped out an attacking wave, you
+lose your blaster. But, when you completely wipe out a wave, the
+energy bar will recharge and the next wave will appear.
+
+MegaCycle. When you have destroyed all of the objects in all eight of
+the enemy waves, you're just beginning. All eight of the waves will
+return for a rematch. And the better you get, the better they get. The
+shapes will be the same, but the colors will be different and the
+objects will take on more sophisticated motion patterns and evasive
+actions with each new cycle.
+
+MegaSphere. Each of the enemy objects travels in an orbital path. When
+an object disappears off the bottom of the screen, it will return at
+the top of the screen. If an object goes off screen on the right
+side, it will be back to get you from the left.
+
+GETTING THE FEEL OF MAGAMANIA BY ACTIVISION
+
+To learn to play this game successfully, you'll have to develop a
+sense of rhythm and anticipation. You do this by becoming expert at
+the tactics of "Hit and Run."
+
+Always be aware of your position in relation to enemy fire. It takes
+only a subtle move to dodge enemy disintegrators, but you must move,
+or you're fried.
+
+Also, if an attacker touches your mobile blaster, you lose that
+blaster. But, DON'T PANIC! Even though the enemy gets very close, you
+can still destroy them.
+
+Once you have wiped out an entire wave, you have a brief rest while
+the energy bar recharges. Try and recall the next wave, anticipate
+and prepare your attack strategy.
+
+HOW TO JOIN THE ACTIVISION "MEGAMANIACS"
+
+If you reach a scare of 45,000 points or more, you are eligible to
+become an official MegaManiac. Simply send us a picture of your TV
+screen showing your score along with your name and address, and we'll
+send you an official MegaManiac emblem.
+
+HOW TO BECOME A MEGAMANIAC
+Tips from Steve Cartwright, designer of MegaMania
+
+Steve Cartwright is a Senior Designer at Activision. His first
+release, Barnstorming set a new standard for brilliant graphics in
+the video game industry
+
+"I hope you enjoy my latest work, MegaMania. Here are a few pointers
+that I'd like to share with all of my fellow MegaManiacs.
+
+"I recommend that you try to stay in the center of the screen. This
+keeps you from getting trapped in a corner and also gives you the
+side-to-side flexibility necessary to guide your missiles
+effectively.
+
+"And here's a piece of advanced strategy to really help boost your
+scores: bonus points are awarded depending an your energy remaining
+at the time you destroy the last object in a wave. So, if you have
+built up your reserve ships, and you're nearing the end of a wave, go
+ahead and sacrifice a ship. Your energy will be fully recharged, and,
+if you can quickly destroy the last attacker in a wave, you'll pick
+up maximum bonus points.
+
+"It's really wild out there, but please take a couple of minutes and
+let me know how you're doing. Remember, all of us MegaManiacs are in
+this thing together!"
+
+Steve Cartwright
+
+ACTIVISION(R)
+
+Activision, Inc., Drawer No. 7287, Mountain View, CA  94042
+
+Atari(R) and Video Computer System(TM) are trademarks of Atari, Inc.
+Tele-Games(R) and Video Arcade(TM) are trademarks of Sears, Roebuck
+and Co.
+
+
+(c)1982 Activision AX-017-03                         Printed in U.S.A.
+
+-------------------Atari 2600 Instructions Archive-------------------

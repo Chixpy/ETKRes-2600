@@ -1,0 +1,286 @@
+<Picture>
+
+<Picture>Crystal_Castles<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+VIDEO GAME CARTRIDGE FOR THE ATARI 2600 VCS			ATARI 2600 VCS
+
+CRYSTAL CASTLES
+The A-maze-ing Adventures of Bentley Bear
+
+
+A BEARABLE TALE
+
+Once upon a time, Bentley Bear was rambling through the woods,
+daydreaming about poached salmon.  He stopped to take a nap in his
+favorite hollow tree trunk.  But when he awoke, he found himself inside
+a huge castle glittering with diamonds, emeralds, and pearls.
+
+Though Bentley didn't know it at the time, he was trapped in Crystal
+Castles, home of Berthilda the Witch and her evil cronies.  To escape
+their spell, he must harvest the gems in the castles before Berthilda
+and her malicious gang send him into permanent hibernation.
+
+
+FOLLOW THE TRACKS
+
+How to Play Crystal Castles
+
+o Insert the CRYSTAL CASTLES game program cartridge in your ATARI 2600
+  VCS as explained in your owner's guide, and turn on the POWER switch.
+
+o Plug a joystick into the LEFT CONTROLLER.
+
+o Press GAME SELECT to choose a starting game level - 1 through 8.
+
+o Press your joystick button to begin the game.
+
+o Use your joystick to guide Bentley through each castle.  He picks up
+  magic gems simply by running over them.
+
+o He must also avoid the deadly touch of the evil inhabitants of the
+  castles by jumping over them.  Press the red joystick button, and
+  Bentley jumps in the direction the joystick is pointing.
+
+o Press GAME SELECT to return to the title screen; press GAME RESET or
+  your joystick button to start the game again.
+
+o Set the left difficulty switch to 'a' to play the hard version; push
+  the switch to 'b' to play the easy version.
+
+o The TV type switch has no function in this game.
+
+
+THE BEAR ESSENTIALS
+
+Game Play
+
+You begin CRYSTAL CASTLES at level 1 through 8, but Bentley can trample
+through level after level, as long as he survives his enemies.  Each
+level has four castles.  Bentley has five lives and must outmaneuver a
+maximum of seven creatures, depending on the castle.  At every 20,000
+points, he wins an extra life.
+
+The Magic Hat
+
+Bentley can make himself temporarily invincible if he dons the magic
+hat by running or jumping over it.  Wherever a witch appears, so does
+the magic hat.  No enemy can pass through this headgear.  At game level
+4 and above, the hat bounces up and down; at game level 9 and above, it
+turns into a crystal ball if Bentley doesn't grab it immediately.
+
+The Inhabitants of Crystal Castles
+
+XXXXXX  XXXXXX
+    XXXXXX
+OOOO  OO  OOOO
+OO    OO    OO
+OOOOOO  OOOOOO          Gem Eaters compete with Bentley for gems.  As long as
+    OOOOOO              Bentley isn't wearing the hat, he can turn them into
+  OOOOOOOOOO            dust by running over them just as they swallow their
+  OOOOOOOOOO            lunch.
+  OOOOOOOOOO
+    OOOOOO
+    OOOOOO
+  OOOOOOOOOO
+  OOOOOOOOOO
+  OOOOOOOOOO
+    OOOOOO
+    OOOOOO
+  OOOOOOOOOO
+  OOOOOOOOOO
+  OOOOOOOOOO
+    OOOOOO
+  OOOOOOOOOO
+OOOO  OO  OOOO
+OOOO  OO  OOOO
+
+
+    OOOOOO
+  OOOOOOOOOO
+  OOOOOOOOOOOO
+  OOOOOOOO  OOOO
+OOOO  OOOOOO  OO
+OO  OOOOOOOO  OO        Nasty Trees make a beeline for Bentley as they gobble
+OO  OO  OO  OO          up gems.  He can avoid these woody monsters by
+  OO  OO  OOOO          trapping them behind a wall or in a corner.
+  OOOO  OOOO
+        OO
+  XX  XXXX  XX
+  XXXXXXXXXXXX
+  XXXXXXXXXXXX
+    XXXX
+      XXXX
+      XXXX
+    XX  XXXX
+    XX  XXXX
+
+
+    OOOOOOOOOO
+  OOOOOOOOOOOOOO
+OOOO  OOOOOO  OOOO
+OOOO  OOOOOO  OOOO      Crystal Balls also eat gems.  They chase Bentley just
+OOOO  OOOOOO  OOOO      like Nasty Trees, but with a rolling motion.
+OOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOO
+OOOOO        OOOOO
+  OOOOOOOOOOOOOO
+    OOOOOOOOOO
+
+
+    OOOOOOOO
+  OOOO  OO  OO
+OOOOOO  OO  OOOO       A Pot of Honey helps Bentley win extra points in
+OOOOOO      OOOO       several castles.  Bentley should take a honey break as
+OOOOOO  OO  OOOO       soon as possible or ...
+  OOOO  OO  OO
+    OOOOOOOO
+  OOOOOOOOOOOO
+
+
+      OO
+  OO    OO  OO
+    OO
+
+OO                     ... A Swarm of Bees flies down to protect the pot.  If
+OOOO    OO  OOOO       Bentley waits too long, the swarm returns again and
+OO        OOOO         again to track him down.  If he takes too much time
+  OO    OO  OOOO       harvesting gems, the bees find him, whether or not the
+OOOO  OO  OOOO         castle has a honey pot.
+  OOOO  OOOO  OO
+  OO  OOOOOOOO
+    OOOO  OOOO
+      OOOOOO
+
+
+  OOOOOOOOOO
+  OO  OO  OO
+  OOOO  OOOO           OOOOOO
+    OOOOOO           OO  OO  OO
+    OOOOOO           OO  OO  OO          Ghosts and Skeletons move randomly,
+    OOOOOO       OO  OOOOOOOOOO          slowly, and over short distances.
+      OO         OOOOOOOO  OOOO
+  OOOO  OOOO       OOOOOO  OOOOOO
+  OO  OO  OO         OOOOOOOOOOOO
+  OOOO  OO  OO         OOOOOO
+  OO  OO    OO         OOOOOO
+OO  OO  OO  OO           OOOO
+OO  OOOOOO               OOOO
+    OO  OO             OOOO
+    OO  OO
+    OO  OO
+  OO      OO
+
+
+  OOOOOOOOOOOO
+  OOOOOOOOOOOO
+    OOOOOOOO
+    OOOOOOOO
+  OOOOOOOOOOOO
+  OOOOOOOOOOOO
+OOOOOO  OO  OOOO        The Witch's Cauldron turns Bentley into bear stew if
+OOOOOO  OO  OOOO        he touches it.  He can avoid this deadly pot by
+OOOOOOOO  OOOOOO        jumping over it.
+OOOOOOOO  OOOOOO
+OOOOOO  OO  OOOO
+OOOOOO  OO  OOOO
+  OOOOOOOOOOOO
+  OOOOOOOOOOOO
+  XXXX  XX  XX
+  XXXX  XX  XX
+      XXXXXX
+      XXXXXX
+
+
+        OO
+        OOOO
+        OOOO
+          OOOOOO
+          OOOOOO
+        OOOO
+        OOOOOO
+        OOOOOO
+      OO  OOOOOO        Berthilda the Witch has a touch that's fatal.  But
+OOOO      OOOO          Bentley can smash her if he's wearing the magic hat.
+  OOOO  OOOOOO          The only thing predictable about her is her favorite
+OOOOOOOOOOOO            snack - large furry mammals, served witha bear-naise
+OOOOOOOOOOOOOOOO        sauce.
+OOOOOOOOOOOOOOOO
+  OOOOOOOOOO  OO
+  OOOOOOOOOO  OO
+  OOOOOOOOOO
+  OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+  OOOOOO
+
+
+SCORING
+
+Harvest a Gem: 1 point for the first gem, 2 points for the second gem,
+and so on up to 99 points per gem
+
+Harvest the Last Gem in the Castle: 1000 points for the first castle,
+increasing 100 points in every castle thereafter
+
+Don the Magic Hat: 500 points
+
+Eat the honey: 1000 points
+
+Crush a Gem Eater: 500 points
+
+Smash Berthilda the Witch: 3000 points
+
+BONUS LIFE: At every 20,000 points, Bentley wins an extra life.
+
+
+PAWS FOR SOME STRATEGY TIPS
+
+o If Bentley harvests the last gem in the castles, he wins extra points.
+
+O Elevators make perfect escape routes.  However, they only operate one
+at a time.
+
+o Bentley is invincible while he's jumping.
+
+o Bentley can temporarily stun Nasty Trees and Gem Eaters by jumping
+over them.  But this maneuver won't work if he's wearing the magic hat,
+or while the Gem Eaters are swallowing gems.
+
+o When floating scores appear on the scene, creatures can't move
+through them; nor can the creatures move through each other.
+
+ATARI                          Reproduction in whole or part is forbidden
+(C) 1987 Atari, Corp.          without the written permission of Atari, Corp.,
+All rights reserved            Sunnyvale, CA 94086
+Printed in Hong Kong
+                               CO19741-110/A Rev. A  WA-TA 1987 . 8
+
+Designed by Peter C. Niday  Computer Graphics by Michael Kosaka
+Audio by Robert Vieira  Arcade Game by Franz Lanzinger
+
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

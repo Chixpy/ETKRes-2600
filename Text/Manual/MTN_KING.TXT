@@ -1,0 +1,312 @@
+ ___ __    ___   _   _  ____   _____   ___   _  ____
+|   '  \  / _ \ | | | ||  _ \ |_   _| / _ \ | ||  _ \
+| || || || | | || | | || | | |  | |  | | | || || | | |
+| || || || | | || | | || | | |  | |  | |_| || || | | |
+| || || || |_| || |_| || | | |  | |  |  _  || || | | |
+|_||_||_| \___/  \___/ |_| |_|  |_|  |_| |_||_||_| |_|
+ _   _  _  ____    ____
+| | / || ||  _ \  / ___|   For the Atari 2600
+| |/ / | || | | || | __    For one player.
+|   |  | || | | || ||  |
+| |\ \ | || | | || |_| |   GAME PLAY INSTRUCTIONS      CBS Electronics
+|_| \_||_||_| |_| \___/ ______________________________________________
+
+Program Copyright 1983 E.F.Dreyer, Inc.  Program created by Robert
+Matson and programmed for CBS Electronics by VSS Inc., Dallas, Texas.
+
+
+SETTING UP YOUR VIDEO CONSOLE
+1. Hook up your video game system, following the manufacturer's
+   instructions.
+2. With the power OFF, plug in the video game cartridge.
+3. Turn your power ON.  If no image appears, check the connections of
+   your game system to the TV, then repeat steps 1-3.
+4. Plug in Joystick Controller _firmly_ into the LEFT CONTROLLER jack
+   of your video system.
+5. Use the GAME SELECT switch to select Skill Level.  Skill Level
+   distinctions are detailed in the back of this manual.
+6. To start the game, press GAME RESET after which you may begin to
+   maneuver your intrepid Explorer throughout the mountain in his
+   quest to become MOUNTAIN KING!
+
+STRATEGY HINTS are located on the back cover of this manual.
+
+Note: Never remove your video game cartridge from the console unless
+      the power is turned OFF.
+
+
+ ____
+|  _ \eep inside a long-lost diamond mine is the secret Temple Chamber
+| | | |  of a forgotten civilization.  There, a priceless Golden Crown
+| |_| |  sits high on a pedestal, vulnerable to plundering explorers
+|____/   seeking to control its power.  but this treasure is jealously
+         guarded by the denizens of the mountain, and whoever has the
+daring and courage to challenge them, seize the Crown, and escape to
+the mountaintop with it will become MOUNTAIN KING!
+
+OBJECT OF THE GAME
+The object of MOUNTAIN KING is to capture the Golden Crown of the
+Temple and carry it safely to the top of the mountain before your
+time expires and/or you are destroyed.
+
+
+ ...............  THE EXPLORER
+ .......#.......
+ ......#.#......  In MOUNTAIN KING you play the part of the Intrepid
+ .......#.......  Explorer.  Use your Joystick Controller to maneuver
+ .....######....  him throughout the mountain, making him run to the
+ ...#####..#....  left or right and jump from plateau to plateau.  To
+ ......###......  jump, push the joystick away from you at a 45-degree
+ .....##.##.....  angle to the left or right; the Explorer will leap
+ .....##..##....  in the respective direction.  If you jump or fall to
+ ....###.##.....  a lower plateau, you won't be hurt.  But if you fall
+                  too far, you'll be momentarily stunned and unable to
+proceed for a few seconds.  To climb ladders, push the Joystick away
+from you.  Pull towards you to go down ladders or to kneel.
+
+You must kneel in order to claim the Flame Spirit, open Treasure
+Chests and gain entry to the Temple.
+
+Your Explorer is equipped with a flashlight used to find Treasure
+Chests and to confirm the location of the Flame Spirit.  to activate
+the flashlight, press down on the red button on your Joystick
+Controller.  The flashlight may only shine in the direction in which
+your Explorer is headed.  It cannot shine up or down.
+
+ ...............  DIAMONDS & THE FLAME SPIRIT
+ .......#.......
+ ......##.......  In order to gain entry to the Temple, you must first
+ ....######.....  be in possession of the Flame Spirit.  To qualify
+ ..#########....  for possession you must collect over 1,000 points
+ ..###.....##...  worth of diamonds.  Diamonds are embedded in the
+ ..##...........  cavern walls throughout the mountain.  Merely pass
+                  over them to pick them up.  Each cluster of five
+diamonds is worth 25 points.
+
+Once you have earned over 1,000 diamonds points, you score at the
+bottom of your screen will turn from green to yellow, indicating that
+the Flame Spirit is now available for capture.
+
+LOOK FOR: a very brief flame flicker.  This marks the location of the
+Flame Spirit.  _The Flame Spirit itself is only fully visible with the
+flashlight on it._
+
+LISTEN FOR: the theme music.  The louder the music, the closer you are
+to the Flame Spirit.  On Level 1, you'll have an unlimited amount of
+time to capture the Flame Spirit.  On Levels 2 through 8, the theme
+music will only play through a few verses.  If you fail to capture the
+Flame Spirit before the music ends, it will disappear. before it comes
+available again, you'll have to collect at least another 1,000 points
+worth of diamonds.
+
+The Flame Spirit is randomly hidden within the mountain and is not
+likely to pop up in the same position more than once.
+
+ .................  Once you have successfully located the Flame
+ ...##...#...##...  Spirit, position your Explorer directly on top of
+ .##....#.#....##.  it and pull the Joystick towards you to kneel down
+ ...##...#...##...  and pick it up.  The Explorer will then be
+ .##..#######..##.  surrounded by a glittering halo and you'll score
+ ...#.#.###.#.#...  bonus points.  The faster you get the Flame
+ .##....###....##.  Spirit, the larger the bonus.  You'll also earn an
+ ...##.#####.##...  additional minute of playing time every time you
+ .##...##.##...##.  gain possession of the Flame Spirit
+ ...#.###.###.#...  
+                    Note: Some players may find locating the Flame
+Spirit to be the hardest part of the game.  For them we have prepared
+some notes designed to ease the frustration of this quest.  These
+notes are located in the back of this manual.
+
+ ...........  CAVE BATS
+ .....###...
+ ....###....  Gray Cave Bars inhabit the caves of the mountain,
+ ...###.....  serving to protect both the Temple and its Golden Crown.
+ ...##......  On Levels 2 through 8, Cave Bats will try to steal the
+ ...#.......  Flame Spirit from you before you make it into the
+              Temple.  On all levels, they'll try to steal back the
+Golden Crown before you're able to get it to the mountaintop.
+
+ ...........................  THE GIANT SPIDER
+ ........##.......###.......
+ ......######...######......  Lurking at the bottom of the mine is a
+ .....########.########.....  Giant Spider waiting to wind your
+ ...####.#.#############....  Explorer in its web.  If you get caught,
+ ...#.#...################..  you'll be able to escape the web by
+ ..#.#...##.#########.#..##.  rapidly moving the Joystick forward and
+ .#.....##..####...###.#..#.  back.  You must do this quickly; if the
+ .....##.....##..###.#..#...  Spider returns to find you struggling,
+ .....#.........#....#..#...  he will eat you and end the game.  The
+                              Spider will also steal back the Golden
+Crown should you possess it when caught and will take back the Flame
+Spirit as well.  You may escape the Spider all together by leaping over
+him or jumping to a ladder or higher plateau.
+
+ ...............  TREASURE CHESTS
+ .....#####.....
+ ....##...##....  Randomly hidden throughout the depths of the
+ ...#########...  mountain are Treasure Chests, visible only with the
+ ...#########...  flashlight.  Each one is loaded with diamonds and
+ ...#########...  should you open one, a short fanfare will sound and
+ ...#########...  250 diamond points will be awarded to your point
+                  total. 
+To open a Treasure Chest, position the Explorer directly on top of it
+and pull the Joystick towards you.  A new Treasure Chest will always
+be hidden for every one opened.
+
+ ...............  THE SKULL SPIRIT
+ ..###########..
+ ..###########..  Guarding the entrance to the Temple is the ominous
+ ..###########..  Skull Spirit, visible only with the flashlight.
+ ..###########..  Offer him the Flame Spirit and he will grant you
+ .#############.  entrance to the Temple.  To do this position your
+ ...#...#...#...  Explorer directly under the Temple entranceway and
+ ...#...#...#...  pull the Joystick towards you.  The Skull Spirit
+ ...#########...  will take the Flame Spirit and become visible only
+ ...####.####...  long enough for you to dash into the Temple.  Be
+ ....#######....  fast; if the Skull Spirit disappears before you
+ .....#...#.....  enter, you'll have to bring him the Flame Spirit
+ .....#####.....  again.
+
+ ...............  THE GOLDEN CROWN
+ ..###.....###..
+ ..###.###.###..  Once inside the Temple, you must scale the walls to
+ ..###########..  get to the Golden Crown.  Position your Explorer
+ ..###########..  directly under the golden Crown.  Move the Joystick
+                  forward to place it on your head and then pull it
+towards you to remove both you and the Crown from the pedestal. You'll
+recieve 5,000 bonus points for obtaining the Crown.
+
+
+ESCAPING
+Once the Golden Crown is on your head, the MOUNTAIN KING theme music
+will begin to play, indicating that it's time to make tracks.  Drop
+to the floor of the Temple and back out into the mine.  Your challenge
+is now to get to the top of the mountain where the Perpetual Flame
+burns before time runs out or before the Cave Bats steal the Crown
+from you.  If you make it to the mountaintop, you'll receive 9,000
+bonus points and play will then continue on the next highest level.
+
+                                                       [ screen shot ]
+
+SPECIAL FEATURES
+_Ladders_
+Use these to go up and down.  Your Explorer cannot jump from the top
+of a ladder.
+
+_Flashlight_
+Your flashlight has inexhaustible power.  Use it to see the Flame
+Spirit, Skull Spirit and Treasure Chests.  You cannot use it and pick
+up diamonds at the same time, nor will it work when you are being
+chased by the Spider or are in possession of the Flame Spirit or
+Golden Crown.
+
+_Temple_Force_Field_
+Woven around the outside of the Temple is an invisible force field
+guarding it against illegal entry.  Trying to enter or exit the
+Temple from any plateau other than the entrance will momentarily stun
+your Explorer.  Remember: you may only enter the Temple by offering
+the Flame Spirit to the Skull Spirit at the Temple entrance!
+
+_Scoring_Display_
+The score display at the bottom of your screen indicated your current
+score and, below that, the amount of time remaining in the game.
+
+
+MUSIC & SOUNDS                                          [ short tune ]
+Music is one of the most critical and exciting elements of MOUNTAIN
+KING.  Listen carefully to the theme music when the Flame Spirit
+becomes available.  The closer you are to the Flame Spirit, the louder
+the music will be.  Once you get the Golden Crown, you'll hear the
+theme music again.  As you attempt to escape, the music will play for
+a period of time based on the Skill Level you're playing.  If you've
+failed to get to the mountaintop when the music stops, the Crown will
+immediately disappear from atop your head and you'll have to begin
+your quest anew.
+
+Among the assorted sounds heard throughout the game, one to remember
+is the sound of the oncoming Giant Spider.  If you stay alert to this
+sound, you just may have enough time to get out of the way before the
+Spider snares you.
+
+
+TIME
+Time is another critical element.  Depending on the level you're
+playing, you have a limited amount of time to complete your mission.
+With only 59 seconds left to play, the time display below your score
+will turn red, alerting you to the fact that you and better get a
+move on if you expect to become MOUNTAIN KING.
+
+
+END OF GAME
+The game ends when your intrepid Explorer runs out of time of becomes
+lunch for the Giant Spider.  To restart the game on the same level,
+simply press down on the red button on your Joystick Controller or
+use the GAME RESET switch.
+
+
+SKILL LEVEL DISTINCTIONS
+ _______ _______ ___________________ ______________ _______________
+|       |       |                   |              |               |
+|       |       |  Point range of   |              |               |
+|       | Total | bonus for finding | Time to find | Time to reach |
+| Level | Time  |   Flame Spirit    | Flame Spirit |  mountaintop  |
+|-------|-------|-------------------|--------------|---------------|
+|   1   |  8:00 |     3000/50       |  Unlimited   |     1:30      |
+|   2   |  6:00 |     3500/1500     |     1:20     |     1:20      |
+|   3   |  5:00 |     4000/2250     |     1:10     |     1:00      |
+|   4   |  4:00 |     4500/3000     |     1:00     |     1:00      |
+|   5   |  3:00 |     5000/3750     |     0:50     |     1:00      |
+|   6   |  3:00 |     5000/4400     |     0:44     |     1:00      |
+|   7   |  3:00 |     6000/4900     |     0:44     |     1:00      |
+|   8   |  3:00 |     6500/5500     |     0:40     |     1:00      |
+|_______|_______|___________________|______________|_______________|
+
+
+MOUNTAIN KING SKILL CLINIC
+_Finding_the_Flame_Spirit_
+While the object of MOUNTAIN KING is to capture the Golden Crown and
+get it to the top of the mountain, new players find that the most
+challenging and, at times, frustrating element of the game is finding
+the Flame Spirit.  The following additional hints and reminders have
+been prepared to assist you in this quest.
+
+a. Remember that once you've collected over 1,000 diamonds points,
+   your score will change color from green to yellow.  This indicates
+   that the Flame Spirit is available for capture.
+
+b. The key to success in finding the Flame Spirit is in using the
+   musical score as your guide to it's location.  When you come to the
+   point where you feel the melody is loudest, STOP!  Look around the
+   screen and _then_ concentrate on finding a flash of golden light.
+   That flash is the flickering Flame Spirit and as you become more
+   experienced with the game, you'll have an easier time spotting it.
+   If you move up to it and shine your flashlight on it, you'll see it
+   more readily.
+
+c.  Once you have located the Flame Spirit, you must position your
+    Explorer directly on top of it and pull the Joystick towards you
+    to gain possession of it.
+
+                [ CBS Electronics warranty statement... your cart is
+                  likely to be waaaaaaay past the 90-day period. =^) ]
+
+
+STRATEGY HINTS
+1. Practice maneuvering the Explorer to become familiar with the way
+   he moves and how he jumps.  You'll need to be both fast and agile
+   when you're trying to escape with the Crown.
+
+2. Listen carefully to the sounds and the music.  They let you know
+   when the Spider is approaching, how close you are to the Flame
+   Spirit and how much time you have left to reach the mountaintop.
+
+3. Keep track of where Treasure Chests are located and wait until
+   later in the game to open them up.  You'll soon discover your
+   dependence on them as you begin to deplete the mountain's supply
+   of diamonds.
+
+
+          CBS Toys, A Division of CBS Inc., Newark, NJ 07105
+____________________________ 4L-2641-0000 ____________________________
+   manual typed by Galen Komatsu  gkomatsu@hawaii.edu  [1996.5.14]
+

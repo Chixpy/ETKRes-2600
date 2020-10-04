@@ -1,0 +1,158 @@
+                      ATARI (R) 2600 (R) Game Manual
+
+                            Off The Wall (TM)
+                                     by ATARI
+
+Blazing Brickbats and Blackbirds!
+
+Far away in the Mysterious East on the other side of the world, there lived
+an adventurous lad named Kung Fu Lu. Lu's grand longing was to crush the
+ancient, evil wall that plagued his friendly neighbors.
+
+Guarding the wall was a mystical dragon and a cunning blackbird. The dragon
+would cast balls at brave Lu. If Lu successfully deflected them with his
+staff, he gained good fortune and special powers. If he missed a ball, it
+cost him one of his five lives he was granted as a child. The frightful
+blackbird tried to prevent Kung Fu Lu from destroying the wall, but Lu
+remained undaunted and continued on until he smashed the last remaining
+brick.
+
+Getting Started
+
+1.  Insert the Off The Wall cartridge into your Atari 2600 (or 7800) System
+    as explained in your owner's manual.
+
+2.  Plug a controller into the left controller port.
+
+3.  Switch on your television, then press [Power] to switch on your system.
+    The Off The Wall title screen appears.
+
+4.  Press [Select] to select the skill level (Peasant, Student, or Master)
+    and number of players (one or two) for the game.
+
+5.  Change the difficulty switch to increase or decrease Kung Fu Lu's
+    speed. He moves faster when the switch is set on A than when the switch
+    is set on B.
+
+6.  Press the fire button to begin.
+
+7.  Press [Reset] to start a new game.
+
+Off The Wall
+
+The objective in Off The Wall is to score the highest number of points.
+Play against another player or try to beat your best score. Score points by
+using the ball to knock bricks out of the wall, hitting the dragon beyond
+the bricks, or catching the Mystery Token for bonus points. When the player
+clears four brick waves, he automatically advanced to the next skill level.
+
+Game Description
+
+Using the controller, the player must position Lu in the path of the
+falling ball. Lu uses his staff to deflect the ball back to the brick wall
+to break out bricks. If Lu misses a ball, he loses a life.
+
+In each game the player starts with five lives. The number of lives
+remaining displays in the upper left hand corner of the screen, with one
+square for each remaining life. If you break out all the bricks, or hit the
+dragon six times, the wave finishes and you receive another life. Each time
+you hit the dragon, the background behind the bricks becomes lighter.
+
+Two-Player Game
+
+In a two-player game, each player takes a turn. The first player begins
+breaking out bricks until he misses a ball and loses a life. The second
+player continues with the same brick field, knocking out bricks until he
+misses. The game continues, moving into higher skill levels until each
+player runs out of lives.
+
+Blackbird
+
+After the first wave on the Peasant level, a Blackbird appears. The bird
+tries to fly between the bricks and the ball. If the ball hits the bird,
+the bird deflects the ball back to Lu.
+
+Special Power Tokens
+
+After you hit the ball the first time, different tokens begin dropping at
+random. If Lu catches a token, he receives special powers. Each token has
+its own special power. Lu keeps these special powers until he misses a
+ball or the token timer (a bar graph in the upper right corner) runs out.
+
+Zig Zag (Z)
+
+This token makes the ball travel in a zig zag pattern after being hit by
+Lu. On the way down, the ball travels in a normal, straight path.
+
+Mystery Token (?)
+
+This token can have any one of four effects. Three help Lu while one is a
+disadvantage. The token may grant Lu an additional life, add 50, 75, or 100
+bonus points depending on the current skill level, or stop the Blackbird.
+Or, this token may hinder Lu by speeding up the ball, making the ball
+harder to hit.
+
+Magnetic Paddle (M)
+
+With this token, Lu's staff becomes a magnet which draws the ball. For
+example, if the ball is to Lu's left the ball moves toward him. After
+hitting the ball, moving Lu to the left moves the ball in the same
+direction. Because this powerful token makes the player almost invincible,
+the token timer runs at twice the normal speed.
+
+Nuke Ball (bomb)
+
+This token causes the ball to break out a much larger chunk of bricks when
+the ball hits the wall.
+
+Mega Paddle (flame)
+
+With this token Lu carries a much larger staff. The larger staff makes it
+easier to hit the ball.
+
+Level of Difficulty
+
+There are three different skill levels which you can select at the
+beginning of a game -- Peasant, Student, and Master. Each of these levels
+has four different waves of playing action. Each skill level and each wave
+is a little harder than the one before. If a player starts on Peasant level
+and finishes all four waves, the game automatically advances to the next
+skill level.
+
+Playing Tips
+
+If you hit the ball at an angle into the brick field, it bounces off the
+inside bricks and knocks out far more bricks than a direct hit.
+
+Be careful not to move Lu too fast or you could overshoot the ball.
+
+Use your tokens strategically.
+
+Try to use the Blackbird to your advantage.
+
+The M token is great for killing the dragon.
+
+Scoring
+
+Points are scored by knocking out bricks, hitting the dragon, and catching
+the Mystery tokens.
+
+Bricks                                  1 to 5 points each
+Catching Mystery token, Peasant level       50 points
+Catching Mystery token, Student level       75 points
+Catching Mystery token, Master level       100 points
+Hitting the dragon                         100 points
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors,
+or omissions. Reproduction of this document or any portion of its contents
+is not allowed without the specific written permission of Atari Corporation.
+
+Atari, the Atari logo, 2600, 7800 and Off The Wall are trademarks or
+registered trademarks of Atari Corporation.
+
+Copyright (C) 1989, Atari Corporation, Sunnyvale, CA 94086. All rights
+reserved.
+
+Printed in Hong Kong            B.T.8.1989            C300016-168 Rev. A
+

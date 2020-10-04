@@ -1,0 +1,121 @@
+ATARI(R) 2600(R) Game Manual
+ROAD RUNNER (TM)
+
+Beep Beep(TM)!
+
+   Just another day zipping around the desert, pecking at seeds and dodging the
+occasional truck.  Suddenly, who should appear on the horizon but your old
+adversary Wile E. Coyote(TM)!  He may not be the shrewdest predator you've
+ever dealt with, but he is certainly the most persistent.
+   Wile E. will try just about anything to catch you.  Despite your speed,
+you're not completely impervious to his devious tricks, nor to the hazards
+of the desert highway.  You'll need to watch out for oncoming trucks, dodge
+cannonballs and falling rocks, and leap over lethal land mines and cliffs.
+   So rev up your engine, and get on your mark.  The race is about to begin!
+
+Getting Started
+
+1. With your television turned on, insert the Road Runner(TM) cartridge into
+your Atari 2600 (or 7800) as explained in your Owner's Manual.
+
+2. Plug a controller into the left port for one player.  Plug another
+controller into the right port for two players.
+
+3. Then push the console's [Power] switch to the ON position.  The Road Runner
+title screen appears.
+
+4. Press [Select] or move the controller in any direction to choose a 
+one-player or two-player game.
+
+5. Press [Reset] or the left fire button to begin the game.
+
+6. During play, press [Reset] to restart the game.
+
+Playing the Game
+
+   The object of the game is to outrun the coyote while avoiding the hazards
+of the desert.  There are 8 levels in the game, each level more difficult
+than the last.
+   Move the controller in the direction you want the Road Runner to run.
+Press the fire button to make the Road Runner jump.  (In a two-player game,
+the players take turns controlling the Road Runner.)
+   You begin the game with three lives.  You lose a life when Wile E. Coyote
+catches you, picks you up in a rocket, or shoots you with a cannon.  You also
+lose a life when a truck hits you, you hit a land mine, you fall off a cliff,
+or you get hit by a falling rock.
+   You score points by eating seeds along the road, eating steel shot, and
+destroying the coyote.
+
+Hazards
+
+[Picture of filled rectangle] Watch out for the land mines planted along the
+road.  Hit one of these, and you're a goner!
+
+[Picture of a truck] Fast-moving trucks rule the road out here.   They don't
+even slow down, let alone stop, for the indigenous desert population.  If
+one of these hits you, you lose a life!
+
+[Picture of two offset rectangles firing a square]  Wile E. Coyote has a few
+cannons in his arsenal.  Dodge those cannonballs or pay the price!
+
+[Picture of Wile E. on a rectangle with wheels, and of Wile E. on a rocket]
+Watch out for Wile E.'s other tricks.  Be particularly careful when he shows
+up on rocket skates or riding a rocket.
+
+[Picture of two filled circles]  Falling rocks make it just that much more
+difficult to concentrate on your escape.  These monstrous boulders are just
+as deadly as they look!
+
+[Picture of many offset flat rectangles, some filled, on top of a square]
+When you reach the cliffs, you'll have to use your agile leaping skills to
+avoid the deep crevices between them.
+
+[Picture of tiny black and red diamonds]  As the Road Runner races down the
+highway, piles of birdseed are found on the roadway.  Eat each pile of
+birdseed to gain points.
+
+[Picture of flat, unfilled rectangles with pointed ends]  Although you
+score points by eating steel shot found along the road, this also makes you
+more vulnerable.  Wile E. is armed with a magnet, making it temporarily
+harder to escape once you have swallowed the shot.
+
+Strategy
+
+   You must keep running to the left to avoid the coyote, while watching out
+for the other hazards along the desert highway.  If you double back, you can
+catch Wile E. off guard.
+   Time your jumps carefully, and use them strategically to avoid Wile E. and
+the other dangers of the road.
+   Use the mines and trucks to your advantage.
+
+Scoring
+
+Eating a pile of birdseed.....................................100 points
+Eating steel shot.............................................100 points
+Getting Wile E. hit bby a mine (cannonball, rock, etc.).......200 points
+Getting Wile E. hit by a truck...............................1000 points
+
+Note: The first pile of birdseed the Road Runner eats is worth 100 points.
+The point value of each successive pile of birdseed eaten thereafter 
+increases by 100 points, up to a maximum of 1000 points per pile of birdseed.
+But if you miss eating a pile of birdseed, the point value of the next pile
+of birdseed the Road Runner does eat is 100 points.
+
+Atari Corporation is unable to guarantee the accuracy of printed matter after
+the date of publication oand disclaims liability for changes, errors, or
+omissions.  Reproduction of this document or of any portion of its contents
+is not allowed without the specific written consent of Atari Corporation.
+
+Atari, the Atari logo, 2600, and 7800 are trademarks or registered trademarks
+of Atari Corporation.  Road Runner, Wile E. Coyote, and "Beep Beep" are
+trademarks of Warner Bros. Inc.
+
+Copyright (C) 1989, Warner Bros. Inc.
+
+Copyright (C) 1989, Atari Corporation, Sunnyvale, CA  94086.  All rights
+reserved.
+
+Printed in Hong Kong.  C300016-063 Rev. A    B. T. 8. 1989   ATARI(R)
+
+
+

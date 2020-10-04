@@ -1,0 +1,164 @@
+US GAMES VC 1009
+
+towering
+inferno
+INSTRUCTIONS
+
+U.S. Games Corporation
+A Subsidiary of the Quaker Oats Company
+1515 Wyatt Drive
+Santa Clara, California 95054
+
+Code Red!  Emergency!
+
+The downtown skyscraper has burst into flames, and only you can rescue the
+helpless hundreds trapped within.  Quickly, you helicopter to the scene, and
+dispatch your men to battle the deadly flames.  How many survivors can you save?
+Play TOWERING INFERNO and find out!
+
+towering inferno
+
+is a one or two player, full color, action-packed game designed for play on the
+Atari(R) Computer System(TM) or Sears Video Arcade.
+
+The Basics
+
+1. Insert the cartridge, making sure the POWER switch is OFF.
+
+2. Move the POWER switch to ON.
+
+3. Select the game variation of your choice.
+
+4. Press the RESET button to begin play.
+
+THE GAME PLAY
+
+1. Your mission is to rescue as many people as possible from the TOWERING
+INFERNO in order to score as many points as possible.  There are 9 buildings
+with 9 floors, each with a different floor plan, so you have lots of work to
+do!
+
+2. Four survivors are trapped on every floor; as the clock ticks, they dwindle
+to 3, then 2, then 1, until no one is left to save.  Each survivor is worth
+25 points.
+
+3. You also score points by extinguishing the flames (1 point is scored for
+each flame).  The flames, however, are deadly and must be avoided at all
+costs.  If a flame touches one of your firemen, he perishes, and is replaced
+by another fireman, if any remain.  You are given 4 firemen per floor.
+
+4. If you successfully complete a floor, you and your survivors will helicopter
+to safety and the computer automatically advances you to the next floor,
+until the entire building is saved.
+
+5. When you complete a building, the computer will advance you to the first 
+floor of the next inferno until all 9 buildings are saved.  But beware; its
+going to take lots of practice to get through all 9 buildings!
+
+To Put Out the Flames 1 point each
+
+1. Simply take aim and depress the red "fire" button.  Your supply of water is
+limitless, so don't be stingy!  Some flames are harder to douse than others,
+and you'll find they need an extra squirt before they go out.
+
+2. There are two kinds of flames: a Flameoid and a Wall of Fire.  A Wall of
+Fire is especially tricky because, when squirted, it breaks into smaller
+flameoids which still have to be extinguished before safe passage is possible.
+
+To Rescue the Survivors 25 points each
+
+1. When you begin a floor, there are 4 survivors hiding behind the white window
+at the top of the screen.
+
+2. To save the survivors, maneuver your firemen from the bottom of the screen to
+the white window at the top, depress your "fire" button to make the pick-up,
+then flee as quickly as you can throught he right passageway at the bottom of
+the screen.
+
+3. A helicopter will automatically return you and your passengers to the ground,
+where they safely disembark.
+
+4. If your fireman comes into contact with a flame and perishes, the next one
+automatically appears on the bottom of the screen, ready to do battle. (You'll
+also notice that the escape passage is always blocked until you've picked up
+the survivors--there's no coward's way out in TOWERING INFERNO.)
+
+There's always a catch:
+
+As time passes, fewer and fewer survivors remain.  Just before each one
+perishes, the survivor display at the top of the screen begins to blink.  When
+the last survivor is about to go, he lets you know with a loud, obnoxious
+warning beep.  This is your signal to escape as fast as possible befoire all is
+lost!
+
+You've Successfully Completed a Floor When:
+
+1. You've escaped with one or more survivors.
+
+2. You've doused all the flames on the floor.  In this case, the clock stops
+running, and no more survivors perish.  Escape at your leisure!
+
+Upon successful completion of a floor, you and your survivors helicopter to
+safety and the computer automatically advances you to the next level.
+
+Set the Difficulty Switch:
+
+Position A (hard): Flames are invisible within the walls, so you never know
+where they might be hiding.
+
+Position B (easy): Flames are visible through the walls, so you can anticipate
+this movement.
+
+Note: It is impossible to extinguish a flame, visible or not, if it appears
+within a wall.
+
+There Are 7 Game Variations:
+
+Game 1 (one player) Game ends on any floor when there are no survivors left or
+when all 4 firemen are lost.
+
+Game 2 (one player) Game ends as in variation #1; however, pushing the reset
+starts a new game at the same floor and score where the last game left off.
+
+Game 3 (one player - continuous play) A practice game where the player repeats
+each lost floor.
+
+Game 4 (two players) Players alternate turns on each floor.  The game ends for
+either player when he misses a floor.
+
+Game 5 (two players - continuous play) Players alternate turns by floor.  Any
+player missing a floor is restarted on floor 1 of the first building.
+
+Game 6 (two players - continuous play) Players alternate turns by floor.  Any
+player missing a floor repeats that floor.
+
+Game 7 (two players - continuous play) Players alternate turns by floor.  If
+either player completes a floor, both players advance another floor.
+
+The Screen
+
+When you have successfully completed a floor, the helicopter returns you to
+the ground, where your survivors safely disembark. (See Front Cover Screen.)
+
+U.S. GAMES(TM)
+
+towering inferno(TM)
+
+Look for more U.S. Games(TM) video games wherever you buy game cartridges.
+Drop us a note and we'll be glad to add your name to our mailing list and
+keep you posted on new U.S. Games game cartridges when they become available.
+
+Space Jockey(TM)
+Sneak 'n Peek(TM)
+Towering Inferno(TM)
+Word Zapper(TM)
+Commando Raid(TM)
+
+Towering Inferno(TM) Trademark owned by TWENTIETH CENTURY-FOX CORPORATION and
+used by U.S. Games Corporation under authorization.
+
+ATARI(R) and Video Computer System(TM) are trademarks of ATARI, INC.
+
+VC1009 (C) 1982 U.S. Games Corporation Printed in Taiwan      H
+
+This document typed and converted to html by gchance@ecst.csuchico.edu. 

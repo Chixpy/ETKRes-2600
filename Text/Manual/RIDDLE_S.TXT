@@ -1,0 +1,573 @@
+[General notes:  All of the text is here.  There weren't really any
+"picture" oriented instructions, except for the pictures of the objects,
+which I hope I described well enough.  The words in <> describe
+pictures.  The beginning/end of pages are marked by a "---------"
+Excuse the crummy formatting]
+ 
+ 
+                                     IMAGIC
+                           RIDDLE OF THE SPHINX (TM)
+                           GAME PROGRAM INSTRUCTIONS
+ 
+                    <Picture of some pyramids & the Sphinx>
+ 
+>> Hieroglyphics on an ancient obelisk tell a strange tale:
+ 
+     These are dark times.  Death's long shadow rests across the Valley of the
+Kings.  Anubis, jackal-headed god of the dead, has cast his curse over all  of
+Pharaoh's kingdom.  A plague of scorpions and hordes of thieves lie thick upon
+the  land.  O hear the thin whine of despair! 
+     Sing  of  Pharaoh's Son, all hail the Prince of Egypt!  Deliver  us  from
+this  curse!  Brave the dangers of the desert.  Seek the answer to the  Riddle
+of  the Sphinx.  Pay Anubis' ransom with your treasures, O cunning  Prince  of
+Wiles.   Reach the Temple of Ra, source of light and life. 
+     Pharaoh's heir--be wise, be wily--and beware!
+ 
+--------
+             <hieroglyphics line the top of all the inner pages>
+ 
+                             <drawing of Prince>
+ 
+                          TRAVEL BACK TO ANCIENT EGYPT
+ 
+>>    Pharaoh's kingdom languishes under a vile curse.  his son, Egypt's heir,
+travels  across the Valley of the Kings.  To lift the curse he must reach  the
+Temple  of  Ra  with priceless treasures.  He must solve  the  Riddle  of  the
+Sphinx.
+>>    He barters with nomad traders.  Some give him gifts and artifacts useful
+to him on his journey.  Some steal.
+>>   Armed  only  with a sling and rocks, the Son of Egypt  combats  marauding
+thieves  and  deadly scorpions.  His trials earn him  inner  strength.   Oases
+refresh his thirst.  Time heals his wounds.
+>>   Approaching  sacred monuments--Pyramids, the Temples of Isis and  Anubis,
+the  inscrutable Sphinx--Pharaoh's Prince seeks to make the correct  offering.
+if he fails to do so, he may not be able to move further or receive  priceless
+objects  in exchange.  If he pleases the gods, his inner strength points  grow
+greater  and his store of treasures increases.  He advances toward the  Temple
+of Ra, source of light and life.
+>>   Once there, he hopes to possess the treasure that will open the Temple to
+him, liberating Egypt of Anubis' fierce curse.
+>>   These things weigh on the young Prince.  He reviews his purpose:  to lift
+the curse and prove himself a worthy successor to Pharaoh, he must:
+ 
+     > gain as many inner strength points as possible
+     > complete his quest as rapidly as he can
+     > collect all the treasures he can find
+     > reach the Temple of Ra
+     
+>>   The Son of Pharaoh girds his loins.  He prepares to confront his fate  on
+the timeless sands that are Egypt.     
+ 
+----------
+ 
+                <picture of game screen, no ID'ing of objects>
+ 
+CONSOLE CONTROLS
+ 
+>> Insert cartridge in console, label up.  Turn power switch to on.
+>> Flip  Game Select Lever to choose one of the three Riddle  of  the  Sphinx
+games.
+>> Game number appears in a black box at bottom of screen, left of center.
+>> Hit  Game Reset Lever to begin action.  Game begins again  whenever  Reset
+Lever is tapped.
+ 
+NOTE:   Black and White/Color lever does not affect the color display on  your
+television set.
+     >> To see how much time has elapsed during a game:           
+           > set Black-White/Color Lever to Color;                
+           > set Right Difficulty Lever to position A.            
+     >> To find out the Prince's inner strength score:            
+           > set Black-White/Color Lever to Color;                
+           > set Right Difficulty Lever to position B.            
+     >> To find out Prince's wound and thirst scores:             
+           > set Black-White/Color Lever to Black-White.          
+     >> To slow action, set Left Difficulty Lever to position B.  
+ 
+----------
+ 
+THE JOURNEY BEGINS
+ 
+<Screen Picture of Prince>
+ 
+>> The Prince appears at the bottom of the game screen, above
+the score.
+>> The Prince's progress is controlled with the left joystick.
+   > To move ahead:  press joystick away from you.
+   > To move back:  pull joystick toward you.
+   > To move right:  lean joystick right.
+   > To move left:  lean joystick left.
+   > To move at an angle:  angle joystick in that direction.
+                                                                 
+<Screen pictures of camel, palm tree, and obelisk>                         
+ 
+The prince of Egypt sees many camels, palm trees and obelisks on his trek.
+ 
+   > The Prince must move around these obstacles.
+   > He sometimes darts behind them to avoid enemies, or to surprise them.
+   > Neither the Prince's nor a thief's rocks can usually penetrate  a  solid
+     object.
+ 
+OF ARMS AND A PRINCE
+ 
+The Son of Pharaoh embarks on his quest armed only with a sling from which  he
+can throw an unlimited supply of rocks.
+   > To throw a rock:  press left joystick button.
+   > When wounded or thirsty, he cannot throw them as far.
+   > He can only sling rocks forward (that is, up, toward top of screen).
+   > When moving back, he is defenseless until enemies move past him.
+ 
+----------
+ 
+THIRST
+ 
+<Screen picture of prince drinking at oasis>
+ 
+>>  One foe of the Son of Egypt travels with him always:  thirst.  The  longer
+he  goes without refreshment, the greater his thirst grows.  As it  increases,
+he  slows down.  he cannot throw rocks as far.  He must seek water  or  become
+easy prey to thieves, scorpions and the dread god Anubis!
+ 
+Pharaoh's Son seeks release from his ragged thirst.  Six oases offer him  just
+that.  No mirage, they float forward.  he must stop.  he must drink.  To drink
+at an oasis, the Prince:
+ 
+   > approaches from below
+   > heads directly toward the water at the center of the oasis
+   > drinks deeply.  When he has satisfied his thirst, a bell sounds.
+   > He regains vitality--moving well and throwing far.
+ 
+To  find  out the Prince's thirst level, set Black and  White/Color  Lever  to
+Black  and White.  The number representing the Prince's thirst appears on  the
+right.  Certain objects and treasures also quench thirst.  Read on!
+ 
+WOUNDS
+ 
+Wounds, like thirst, slow the Prince of Egypt down and make rocks difficult to
+throw.  The Prince sustains wounds when he is:
+ 
+   > robbed by a thief         1 wound
+   > struck by a thief's rock  1 or 2 wounds (depending on level of 
+                                              difficulty)
+   > stung by a scorpion       2 wounds
+   > touched by the evil god   3 wounds
+     Anubis
+ 
+--------
+ 
+>> If he sustains enough wounds, the Prince dies.  The game ends.
+>> Time, we know, heals wounds.  As long as the Prince can avoid  an  enemy's
+   assaults, his injuries will heal.  
+   > The number of the Prince's wounds appears when the Black and  White/Color
+   Lever is set to Black and White.  The number of wounds appears on the left.
+   > Certain  objects and treasures protect Pharaoh's Prince from  a  thief's
+   rocks.  other cure wounds he has received.  (See Useful Objects,  Treasures
+   and Artifacts.)
+   > The goddess Isis can also gently cure the Son of Pharaoh.
+Who  are they who wound, heal, barter and sometimes betray the persistent  son
+of Pharaoh?  Whom should he attack, and whom avoid? What gifts does he receive
+and which find?  In what way, and towards what end, does he use them?  Proceed
+and be enlightened.  Ancient Egypt's ways will yet be known to you.
+ 
+DENIZENS OF THE DESERT
+ 
+Son of Pharaoh must practice caution.  Among those he meets on his journey:
+ 
+<Screen picture of a thief, has a brick>
+ 
+Thieves:   They  pelt  the  royal heir with rocks and  attempt  to  steal  his
+possessions.   Should  the  Prince come in contact with a thief,  one  of  his
+treasures or artifacts will disappear.  The Prince attacks or avoids thieves.
+   > Prince hits thief with a rock: he gains 60 inner strength points.
+   > Thief hits Prince with a rock:  Prince receives 1 or 2 wounds,  depending
+     on level of difficulty.
+   > Thief touches Prince:  Prince receives 1 wound.
+ 
+---------
+ 
+<Screen picture of scorpion>
+ 
+Scorpions  pursue the Prince.  They can seriously wound him should he come  in
+contact with them.  He attacks or avoids them.
+ 
+   > Prince hits scorpion with rock:  he gains 60 inner strength points.
+   > Scorpion  touches Prince:  Prince receives 2 wounds and loses  20  inner
+     strength points.  
+ 
+<Screen picture of a Nomad Trader>
+ 
+Nomad  traders  give--or  steal--objects useful to the  Son  of  Pharaoh.   he
+barters with them when his possessions are few, and thinks twice about dealing
+with  them  when he carries many precious items.  To trade with a  nomad,  the
+Prince  approaches  from  below  and  touches him.   A  noise  sounds  when  a
+transaction occurs.
+   > Prince  accidentally injures a nomad trader with a rock:   he  loses  80
+     inner strength points.
+For many fast-moving thieves and scorpions:  set Left Difficulty Lever to A.
+For  fewer and slower-moving thieves and scorpions: set Left Difficulty  Lever
+to B.
+ 
+DESERT DEITIES
+ 
+The prince also meets--or avoids--two desert deities:
+ 
+       <Screen picture of Prince meeting Isis, who is dressed in blue>
+ 
+Isis,  goddess  of fertility and motherhood, seeks to comfort  the  Prince  by
+quenching  his thirst and healing his wounds.  She sometimes bestows  precious
+treasures on the young Son of Pharaoh.  To meet Isis, the Prince
+   > approaches from below
+   > kisses her feet to show his grateful respect.
+When  he succeeds in pleasing Isis (and this is not always the case),  a  bell
+sounds.  The Prince's wounds are healed, his thirst quenched.  When he pleases
+her and he is not wounded or thirsty, she might then bequeath him a gift.
+ 
+--------
+ 
+<Screen picture of the evil god Anubis, has a weird head & a staff>
+ 
+Anubis,  god  of  the land of the dead, faithful guardian of  tombs,  must  be
+avoided  or  he  will  seriously wound the son of  Egypt.   The  merest  touch
+results in a wound.  Anubis touches Prince:
+   > Prince loses 20 inner strength points.
+   > Prince receives 3 wounds.
+The Son of Pharaoh must be careful not to hurl rocks at Isis or Anubis.   This
+act constitutes excessive pride, and his inner strength score suffers for it.
+   >  Prince strikes Isis or Anubis with a rock:  he loses 77  inner  strength
+points.
+ 
+USEFUL OBJECTS, TREASURES AND ARTIFACTS
+ 
+But what of all these gifts, these treasures?  The royal heir begins his  trek
+with  nearly  nothing.  He must collect as much treasure and  as  many  useful
+objects  as he can.  The treasures and objects serve many functions.  He  must
+use them wisely.
+ 
+HOW TO USE OBJECTS, TREASURES AND ARTIFACTS.
+ 
+The  Prince's  use of his new-found possessions is controlled with  the  right
+joystick.
+>> Treasures, objects and artifacts come to appear in 2 rows across the bottom
+of the screen.  A black box also appears.
+>> Before a treasure, object or artifact can be used, the black box must cover
+it.  
+   > The right joystick controls movement of the black box.
+   > To move the black box right:  lean joystick right.
+   > To move the black box left:  lean joystick left.
+   > Stop leaning on joystick when the black box comes to rest over the object
+     you wish to use.
+   > Objects are only in use as long as the black box covers them.
+ 
+--------
+ 
+Once the black box covers an item, that item responds in the following way:
+ 
+<Screen picture of a shield>
+ 
+Shield:   Protects the Prince from a thief's rocks.  After  absorbing  several
+hits, the shield disappears.
+ 
+<Screen picture of a staff>
+ 
+Staff:  Though a traveler's common support, this staff retains magical powers.
+The Prince tries always to keep it from being stolen once he finds it.
+ 
+<Screen picture of a jug>
+ 
+Jug:   Quenches thirst.  Press red button on right joystick  for  refreshment.
+Jug is used and disappears.
+ 
+<Screen picture of a tannis leaf>
+ 
+Tannis Leaf:  An herb with uncanny healing properties,  the tannis leaf  heals
+all  wounds, however serious.  Press red button on right joystick  and  tannis
+leaf heals Prince and disappears.  
+ 
+<Screen picture of a spade, looks like an upside down sledgehammer>
+ 
+Spade:  The space allows Pharaoh's Son to search for treasures as he  travels.
+As a result, it operates differently.  The Prince digs in the desert with  the
+spade.   He  tries to find objects and treasures that will speed  him  on  his
+journey.  often he must dig long and far.  To use spade:
+   > Cover spade with black box.
+   > Press and hold button on right joystick to use spade.
+   > Prince may move while digging.  To move and dig, lean on  left  joystick
+     while pressing right joystick button.
+   > When he finds an object or treasure, the spade disappears and is replaced
+     by the newly-discovered item.
+Pharaoh's Prince must practice caution, for while he digs he is vulnerable  to
+attack.  
+ 
+--------
+ 
+TREASURES
+ 
+Treasures  are  valuable  and magical.  The Prince receives  them  from  nomad
+traders and the goddess Isis, or he finds them while digging.  Treasures  only
+need to be covered by the black box in order to be used.
+ 
+<Screen picture of Disk of Ra>
+ 
+Disk of Ra:  Heals wounds.  When used, it is not consumed.  It can be stolen.
+ 
+<Screen picture of Goblet>
+ 
+Goblet:  Quenches thirst.  Though it cannot be consumed, it can be stolen.
+ 
+<Screen picture of Necklace>
+ 
+Necklace:   Shields Prince from rocks and scorpions.  It cannot  be  consumed,
+but can be stolen.
+ 
+<Screen picture of Scepter>
+ 
+Scepter:  Acts as a chariot in speeding Pharaoh's Prince on his way.  With it,
+neither thirst nor wounds can slow the Son of Egypt.  He can hold the  scepter
+indefinitely--unless it is stolen.
+ 
+MYSTERIOUS TREASURES AND ARTIFACTS
+ 
+Still  other  treasures appear.  Their specific uses remain  unclear,  thought
+they  appear to be valuable.  These the wise Prince of Egypt decides to  save,
+hoping  to offer them at sacred monuments and temples in exchange for  passage
+or for other, infinitely more valuable, gifts.
+ 
+<Screen pictures, of Scroll, Crown, Ankh, Key, and 3 tablets.  Each tablet
+has an animal on it.  It looks like a bird, a lion, and a turtle.>
+ 
+If you wish to drop an object from your collection:
+ 
+>> Select it for use by covering it with the black box.
+ 
+---------
+ 
+>> Pull the right joystick toward you.
+>> Press button on right joystick.
+>> The item will disappear.  Magic!
+ 
+THE JOURNEY CONTINUES
+ 
+Despite  setbacks, the young Prince perseveres.  So much to remember, so  many
+things to do!  But he is strong, and growing stronger.  All Egypt looks to him
+for  relief from Anubis' curse.  He must solve the riddle of the  Sphinx.   he
+must reach the Temple of Ra.  Before leaving his father's palace on the  Nile,
+Pharaoh's  Prince received advice from the Royal Astrologer.   The  Astrologer
+instructed the Prince concerning ceremonious offerings.  
+    "Son of Pharaoh, avoid youthful folly.  Make offerings at sacred  places--
+Pyramids,  the  Phoenix, the Temples of Isis and Anubis, the  Sphinx  and  the
+Temple of Ra."
+ 
+When making an offering:
+>> Cover offering with black box before reaching a sacred monument or temple.
+>> Approach reverently, from below.
+>> Touch the bottom center of each sacred place.
+ >> Present an incorrect offering:  the Prince loses 20 inner strength points.
+ >> Present a correct offering:
+    > Prince received 500 inner strength points.
+    > The offering will disappear.
+    > Often, a worthier treasure appears in place of the offering.
+ 
+--------
+ 
+The  Royal Astrologer also gave the Prince curious lessons to study.  The  Son
+of Pharaoh puzzles over the Seer's strange words.  He is certain they  contain
+veiled clues as to which offering he should make at the many sacred  monuments
+and temples he encounters.  The Son of Egypt consults the cryptic messages  as
+he  reaches each sacred place.  These wondrous monuments and temples fill  the
+Prince with awe.  Of them the Astrologer has written:
+ 
+<Screen picture of a pyramid>
+ 
+Pyramids:   "Rare  gifts  awaits he who unlocks the  age-old  mystery  of  the
+Pyramids."
+ 
+<Screen picture of a Phoenix, who is red>
+ 
+Phoenix:  "The fire bird, newly risen from its ancient ashes, can provide  you
+with a key to the riddle you seek to solve.  You will know what gift to  offer
+if you unroll and read the writing on your heart."
+ 
+<Screen picture of Temple of Isis, a blue temple>
+ 
+Temple of Isis:  "Gentle Isis, goddess of all that is good.  her Temple in the
+desert is as a precious jewel in Egypt's crown.  Offer her a gift worthy of an
+empress."
+ 
+<Screen picture of Temple of Anubis, a brownish building>
+ 
+Temple of Anubis:  "Temple like a tomb, vaulted home of Death.  You will  have
+found  its  key in the circle that does not end, the sign  of  life's  eternal
+rebirth."
+ 
+<Screen picture of Sphinx>
+ 
+Sphinx:   "Inscrutable marvel!  Find the offering it seeks and you  will  have
+solved  its riddle.  A bird can fly over, a scarab crawl past or a lion  stalk
+by--Son of Egypt, turn to these!  It is written as on stone."
+ 
+---------
+ 
+Once  the Prince passes these grand obstacles, he strives to reach the  Temple
+of Ra, revered by all Egypt as the source of light and life.
+ 
+<Screen picture of Temple of Ra, a light blue & yellow building>
+ 
+Temple  of Ra:  Upon reaching the Temple of Ra, Son of Pharaoh offers  all  of
+his  treasures.  Ra sometimes accepts willingly.  he rewards the  Prince  with
+great  stores  of inner strength.  Often, though, Ra insists  on  an  offering
+before  consenting  to  accept  the Prince's  treasures.   his  quest  remains
+unfinished.   All  Egypt remains accursed.  The Prince  loses  inner  strength
+points  should  he  offer  the wrong object.   The  Prince  examines  all  his
+possessions  for the correct offering.  He searches tirelessly in  pursuit  of
+this  simple  object.  What is it?  Where can it lie hidden?  Son  of  Pharaoh
+thirsts for the answer to this quandary.  Pharaoh's Astrologer has written:
+ 
+     "Ra  has  all.   What need has Ra of wealth?  Offer  instead  that  which
+stands  yet  cannot  stand;  that which journeys far yet  has  no  legs;  that
+companion you rely and lean upon, yet never think to call friend."
+ 
+>> Prince makes incorrect offering:  he loses 20 inner strength points.
+   > Prince  makes  correct offering to the Temple of Ra:   earns  500  inner
+     strength points.
+   > For each treasure presents to the Temple of Ra:  Prince earns 700  inner
+     strength points.
+ 
+THE JOURNEY ENDS
+ 
+The game ends when the Prince either:
+>> reaches the Temple of Ra, makes the correct offering (if necessary) and his
+treasures are accepted
+ 
+or
+ 
+>> Pharaoh's Prince dies of wounds received on his journey.
+ 
+--------
+ 
+GAME VARIATIONS
+ 
+Game 1:  Son of Egypt tries to get through Pharaoh's kingdom.
+   > as quickly as he can
+   > holding as much treasure he can find.
+Ra  accepts  the Prince's treasures without asking for an  offering.   Son  of
+Egypt begins he long trek holding a shield.
+ 
+Game 2:  The journey grows more difficult.
+   > The Sphinx won't let the Prince pass.
+   > The  Prince  must make the correct offering, worth  500  inner  strength
+     points.
+   > The Temple of Ra requires an offering.
+   > With the offering, no treasures will be accepted.
+The Heir to Egypt's throne starts his journey holding a shield.
+ 
+Game 3:  The supreme challenge.
+The Son of Pharaoh must make 2 offerings at each of these sacred places.
+   > Phoenix
+   > Temple of Isis
+   > Temple of Anubis
+Of these offerings, this must is known:
+   > a certain treasure or object will satisfy the gods and earn  the  prince
+     500 inner strength points.  (See Astrologer's clues.)
+   > a  certain object will lift the spell blocking the Prince's  passage  at
+     each of the three sacred places.  The Astrologer has provided the  Prince
+     with this clue:
+ 
+"The  first is rooted in relief; The next you'll find well-found; The last  of
+three is a cloak you wield when enemies abound."
+ 
+For  making  the  correct selection, the Prince receives  500  inner  strength
+points at each sacred place.  The Son of Egypt must also make a single correct
+offering at:
+ 
+>> Sphinx
+   500 inner strength points.  Lifts spell blocking his passage.
+ 
+---------
+ 
+>> Temple of Ra
+   500 inner strength points.  Offer satisfies Ra.  Ra accepts treasures.
+ 
+Pharaoh's Prince embarks on this quest carrying a spade.
+ 
+TIPS TO THE WISE WANDERER
+ 
+>> Keep  track of which treasures are appropriate offerings at  each  of  the
+sacred monuments and temples.  
+>> When the Prince reaches a sacred monument or temple, he will want to  make
+sure he defeats any thieves in the area before making an offering.  If thieves
+disturb the ceremony, the Prince's offering may not be accepted, even if it is
+correct.  
+>> Study  the  Astrologer's messages.  They can lead  the  Prince  to  making
+correct offerings and locating the special item necessary to the Temple of Ra.
+>> When backtracking across the valley of the Kings, the Prince may  want  to
+keep  to  the extreme left or right.  The Prince will then be  surprised  less
+often by thieves, scorpions and the vile god Anubis.
+>> The Prince will want to become familiar with his entire kingdom.  he  will
+want to visit every area and explore even the most mundane locale.
+>>  Though unnecessary in Game 1, the Prince may still wish to make  offerings
+at all sacred monument and temples.  He will receive inner strength points  as
+a result of the consideration he has shown.
+ 
+(The following in gray)
+ 
+The Royal Astrologers clues, as they have been revealed here, tell the  Prince
+all he needs to know--if he is clever and patient.  Even so, shortly after the
+Son of Pharaoh embarked on his quest, the Astrologer when into a deep  trance.
+he began to mumble.  An otherwise witless scribe took notes.  These  priceless
+notes  contain  all the answers necessary to the Prince:  which  offerings  to
+make at what temples--even where to seek the object that satisfies the  Temple
+of  Ra.  If you despair of divining these answers yourself, or simply  wish to
+possess so rare a treasure, write to:  Son of Thoth
+                                       981 University Ave.
+                                       Los Gatos, CA  95030
+ 
+---------
+ 
+                         IMAGIC VIDEO GAME CARTRIDGE
+                          TWO YEAR LIMITED WARRANTY
+ 
+     Imagic  warrants to the original consumer purchaser of this Imagic  video
+game cartridge that it will be free from defects in materials and  workmanship
+for  TWO YEARS from the date of purchase.  If this cartridge is discovered  to
+be  defective  within the warranty period, Imagic, at is option,  will  either
+repair  or  replace  this  cartridge  free of  charge,  upon  receipt  of  the
+cartridge,  postage prepaid, with proof of date of purchase, at the  following
+location:
+ 
+                                    IMAGIC
+                               Customer Services
+                              1875 Dobbin Drive
+                             San Jose, CA  95133
+ 
+     This  warranty  is limited to electronic and mechanical  parts  contained
+within the cartridge.  It is not applicable to normal wear and tear and is not
+applicable  and  shall  be  void if the defect  has  arisen  through,  or  the
+cartridge shows signs of, misuse, excessive wear, modifications, or tampering.
+     THIS   WARRANTY   IS  IN LIEU  OF  ALL  OTHER  EXPRESS   WARRANTIES   OR
+REPRESENTATIONS.   ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES  OF
+MERCHANTABILITY  AND  FITNESS, ARE LIMITED TO A PERIOD OF TWO YEARS  FORM  THE
+DATE  OF  PURCHASE.   IMAGIC IS NOT LIABLE FOR  AND  SPECIAL,  INCIDENTAL,  OR
+CONSEQUENTIAL  DAMAGES  RESULTING  FROM  BREACH  OF  ANY  EXPRESS  OR  IMPLIED
+WARRANTIES ON THIS CARTRIDGE.
+     Some  states  do not allow limitations on how long  an  implied  warranty
+lasts  or the exclusion or limitation of incidental or consequential  damages,
+so  the limitations or exclusions set forth above may not apply to you.   This
+warranty  gives you specific legal rights, and you may also have other  rights
+which vary from state to state.
+ 
+                            Designed by Bob Smith
+ 
+                                    IMAGIC
+Customer Services
+Kathleen Boothe
+P.O. Box 2055
+Saratoga, CA  95070
+ 
+<Proof of Purchase>
+ 
+(C) 1982 IMAGIC                                   Printed in USA
+All Rights Reserved                               700606-1 Rev. A
+
+										
+
+
+-------------------Atari 2600 Instructions Archive-------------------

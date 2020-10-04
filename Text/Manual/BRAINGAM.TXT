@@ -1,0 +1,835 @@
+<Picture>
+
+<Picture>Brain_Games.html<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+BRAIN GAMES
+
+
+
+
+
+
+
+ATARI (R)
+
+
+
+
+
+A Warner Communications Company                         CX2664
+
+
+
+
+
+Use your Keyboard Controllers with this ATARI (R) Game Program
+TM cartridge. Be sure the Controllers are firmly plugged into
+the LEFT and RIGHT CONTROLLER jacks at the rear of your ATARI
+Video Computer System TM game.
+
+
+
+
+
+Use a Keyboard plugged into the LEFT CONTROLLER jack for one-
+player games.
+See Section 3 of your Owner's Manual for further details.
+
+
+
+
+
+NOTE: Always turn the console power switch off when inserting
+or removing an ATARI Game Program cartridge. This will protect
+the electronic components and prolong the life of your ATARI
+Video Computer System game.
+
+
+
+
+
+TOUCH ME TM Games 1 to 4
+
+
+
+
+
+The computer plays a "sequence of tones" which you must match,
+starting with one tone and adding a new tone to the sequence
+each time you enter correctly.
+
+
+
+
+
+As the computer is playing the sequence, the word WAIT will
+appear at the top of the screen. When the computer says GO, it
+is your turn to match the tone sequence. If you miss the
+sequence, the computer will say WAIT, repeat the sequence, and
+credit you with a "miss". Four "misses" (or correctly
+following a sequence of 32 tones) completes the game.
+
+
+
+
+
+The number in the box at the top of the screen is the number
+of tones that have been correctly played.
+
+
+
+
+
+In two-player games, the players alternate. As one player
+enters the sequence correctly, a new tone will be added for
+the other player. The computer will say GO underneath the
+score of the player whose turn it is. The game ends when
+either player reaches four "misses", or if both players
+correctly complete a 32-tone sequence.
+
+
+
+
+
+
+                    .------------,
+       4            |            |
+                    |     5      |
+                    |            |
+                    `------------'
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|     GO     |      |            |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+
+
+
+
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|            |      |            |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|            |      |            |      |   TOUCH    |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+                         Figure 1
+
+
+
+
+
+
+USING THE KEYBOARD CONTROLLER
+
+
+
+
+
+As shown in Figure 1, the six boxes at the bottom of the
+screen correspond to the numbers 1 to 6 on your controller. In
+the 9-tone games, Figure 2, the nine boxes at the bottom of
+the screen correspond to the numbers 1 to 9 on your
+controller.
+
+
+
+
+
+DIFFICULTY SWITCHES
+
+
+
+
+
+In the a position, the player will not hear the entire tone
+sequence, but only the new tone that is added. If a miss is
+made, the computer will then play the entire sequence. In b
+position, the tone sequence is repeated each time, with the
+new tone added.
+
+
+
+
+
+                    .------------,
+        3           |            |            2
+                    |     4      |
+                    |            |
+                    `------------'
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|            |      |    WAIT    |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+
+
+
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|   TOUCH    |      |            |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|            |      |            |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|            |      |            |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+                      Figure 2
+
+
+
+
+
+
+COUNT ME TM Games 5 to 8
+
+
+
+
+
+Play this game like TOUCH ME TM. The computer will play a
+sequence of digits to be matched in order. The computer adds a
+new digit to the sequence when you correctly follow the
+sequence.
+
+
+
+
+
+When the computer shows you the sequence in the box at the
+center of the screen, the word WAIT will appear. When the
+computer says GO, it is your turn to match the sequence. If
+you miss, the computer will say WAIT, repeat the sequence, and
+credit you with a "miss". Four "misses", or correctly
+following a sequence of 32 digits completes the game.
+
+
+
+
+
+The number in the box at the top of the screen shows the
+number of digits in the sequence that you have correctly
+followed.
+
+
+
+
+
+Players alternate for two-player games. As one player
+correctly identifies the sequence, a new digit is added for
+the next player. The computer will say GO underneath the score
+of the player whose turn it is. The game ends when either
+player scores four "misses" or if both players correctly
+complete a sequence of 32 digits.
+
+
+
+
+
+                    .------------,
+        1           |            |
+                    |     7      |
+                    |            |
+                    `------------'
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|     GO     |      |            |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+
+
+                    .------------,
+                    |            |
+                    |     6      |
+                    |            |
+                    `------------'
+                         Figure 3
+
+
+
+
+
+
+USING THE KEYBOARD CONTROLLER
+
+
+
+
+
+As the computer generates the sequence, enter the digits, in
+order, by pushing the corresponding number on your Keyboard
+controller.
+
+
+
+
+
+DIFFICULTY SWITCHES
+
+
+
+
+
+When you difficulty switch is in the b position, the computer
+will show you the complete sequence of digits to be followed.
+In the a position, the computer will not show the entire
+sequence, but only the digit that has been added. if a "miss"
+is made, the computer will then refresh your memory by showing
+the entire sequence.
+
+
+
+
+
+PICTURE ME TM Games 9 and 10
+
+
+
+
+
+In these one-player  games, the computer will display a set of
+four objects in the center column. While the computer makes a
+distracting noise, try to memorize the order of the objects
+from top to bottom. the computer then scrambles the order,
+moves them to the left hand column, and gives you twenty
+seconds to remember their original order.
+
+
+
+
+
+In game 9, you have four seconds to memorize the original
+order of the objects, in game 10 you have 1 1/2 seconds.
+
+
+
+
+
+If your guess is incorrect or the time runs out, the computer
+will show you the correct answer in the left hand column,
+before showing you the next set of objects.
+
+
+
+
+
+You get one point for each object placed in the correct
+position and a bonus score based on the time taken to remember
+all the objects. Five sets of objects are a game.
+
+
+
+
+
+USING THE KEYBOARD CONTROLLER
+
+
+
+
+
+Each row of numbers on your controller corresponds with one of
+the boxes on the screen. For example, row one (numbers 1-2-3)
+corresponds with the top box; row two (numbers 4-5-6)
+corresponds with the second box, etc. If the first object in
+the center column was scrambled to the second box in the left
+column, push a button in row two of your Keyboard (number 4,
+5, or 6). That object will appear in the right hand column in
+the first box. Continue making selections in this way.
+
+
+
+
+
+Each object can be selected only once.
+
+
+
+
+
+                    .------------,
+        12          |            |
+                    |     3      |
+                    |            |
+                    `------------'
+
+
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|     @      |      |     []     |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|     []     |      |     P]     |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|     0      |      |     0      |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|     P]     |      |     @      |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+
+                         Figure 4
+
+
+
+
+
+
+DIFFICULTY SWITCHES
+
+
+
+
+
+In these games, the left difficulty switch affects the Bonus
+Scoring. In the a position, the Bonus Score added to your
+correct guesses is one half of the timer value. In the b
+position, the Bonus Score is equal to the timer value. The
+right difficulty switch has no effect.
+
+
+
+
+
+The best possible score in the a position is 45; in the b
+position, the best possible score is 70.
+
+
+
+
+
+FIND ME TM Games 11 to 14
+
+
+
+
+
+The computer generates a set of four objects on the screen.
+All, except one, are identical. Your score is based on the
+time taken to find the one dissimilar object.
+
+
+
+
+
+You can continue to enter guesses until the timer runs out.
+The correct answer will show in the box at the top of the
+screen. There are five sets of objects per game. In Games 11
+and 13 you have 20 seconds to find the dissimilar object; in
+Games 12 and 14 you only have 5 seconds.
+
+
+
+
+
+In the one-player games, using the left-player controller, try
+to improve your score with each game. In two-player games,
+each player is competing to find the same dissimilar object
+and score first.
+
+
+
+
+
+USING THE KEYBOARD CONTROLLER
+
+
+
+
+
+Each row of numbers on your controller corresponds with one of
+the boxes on the screen. For example, row one (numbers 1-2-3)
+corresponds with the top box; row two (numbers 4-5-6)
+corresponds with the second box, etc. If the dissimilar object
+is in the fourth box, press a button in row four (*-0-#) of
+your controller. The correct solution to the above diagram is
+3.
+
+
+
+
+
+                    .------------,
+        24          |            |
+                    |     3      |
+                    |            |
+                    `------------'
+
+
+
+
+                    .------------,
+                    |            |
+                    |    [[]     |
+                    |            |
+                    `------------'
+
+                    .------------,
+                    |            |
+                    |    [[]     |
+                    |            |
+                    `------------'
+
+                    .------------,
+                    |            |
+                    |    []]     |
+                    |            |
+                    `------------'
+
+                    .------------,
+                    |            |
+                    |    [[]     |
+                    |            |
+                    `------------'
+
+                         Figure 5
+
+
+
+
+
+
+DIFFICULTY SWITCHES
+
+
+
+
+
+The scoring is affected by the difficulty switches. In the b
+position, the player gets the full value of the timer added to
+this score. In the a position, the player gets one-half the
+timer value added to his score. Best possible score for
+position a is 25, position b is 50.
+
+
+
+
+
+ADD ME TM Games 15 to 18
+
+
+
+
+
+A set of digits is generated by the computer. You score by
+adding the digits and entering the sum before the timer runs
+out. The correct answer will appear in the box at the top of
+the screen. There are five sets of digits per game.
+
+
+
+
+
+With the left-player controller continue to practice on the
+one-player games. In the two-player games, each player is
+trying to enter the sum of the same set of digits and score
+first.
+
+
+
+
+
+Games 15 and 17 give you twenty seconds to find the sum of
+four digits. Games 16 and 18 give you five seconds to find the
+sum of five digits.
+
+
+
+
+
+                    .------------,
+        10          |            |
+                    |     26     |
+                    |            |
+                    `------------'
+
+
+
+
+                    .------------,
+                    |            |
+                    |     5      |
+                    |            |
+                    `------------'
+
+                    .------------,
+                    |            |
+                    |     9      |
+                    |            |
+                    `------------'
+
+                    .------------,
+                    |            |
+                    |     6      |
+                    |            |
+                    `------------'
+
+                    .------------,
+                    |            |
+                    |     1      |
+                    |            |
+                    `------------'
+
+                    .------------,
+                    |            |
+                    |     5      |
+                    |            |
+                    `------------'
+
+                         Figure 6
+
+
+
+
+
+
+USING THE KEYBOARD CONTROLLER
+
+
+
+
+
+Enter your answer just as you would with a calculator. If the
+sum of the digits is a single unit (4 to 9), you must enter it
+as a zero-sum (04, 05, etc.).
+DIFFICULTY SWITCHES
+
+
+
+
+
+The player using the a position on the difficulty switches
+will receive one-half the timer value added to his score. In
+the b position, the full value of the timer is added to the
+score. Best possible score for b position is 50; best possible
+score for a position is 25.
+
+
+
+
+
+PLAY ME TM Game 19
+
+
+
+
+
+                    .------------,
+                    |            |
+                    |     0      |
+                    |            |
+                    `------------'
+
+.------------,      .------------,      .------------,
+|            |      |            |      |            |
+|            |      |            |      |            |
+|            |      |            |      |            |
+`------------'      `------------'      `------------'
+
+
+
+                    .------------,
+                    |            |
+                    |            |
+                    |            |
+                    `------------'
+
+                         Figure 7
+
+
+
+
+
+
+Your Keyboard Controllers become musical instruments. Each
+button on the controller will generate a different musical
+note, allowing you to play songs. If both controllers are
+used, duets can be played on your ATARI Video Computer System
+game. The difficulty switches have no effect on this game.
+
+
+
+
+
+PLAY ME TM SONG BOOK
+
+
+
+
+
+Press the number on your Keyboard Controller in order. Numbers
+that are underlined should be held for that count.
+
+
+
+
+
+Happy Birthday
+
+
+
+
+
+9-9-8-9-6-7-7-7/9-9-8-9-5-6-6/
+          -----           ---
+9-9-2-4-6-7-8/3-3-4-6-5-6-6.
+                        ---
+
+Twinkle Twinkle Little Star
+
+9-9-5-5-4-4-5-5/6-6-7-7-8-8-9-9/
+            ---             ---
+5-5-6-6-7-7-8-8/5-5-6-6-7-7-8-8/
+            ---             ---
+9-9-5-5-4-4-5-5/6-6-7-7-8-8-9-9.
+            ---             ---
+
+Three Blind Mice
+
+7-7-8-8-9-9-9-9/7-7-8-8-9-9-9-9/
+--- --- ------- --- --- -------
+5-5-6-6-7-7-7-7/5-5-6-6-7-7-7-7/
+---     ------- ---     -------
+5-2-3-4-3-2-5-5/5-2-3-4-2-3-5-5/
+
+7-7-8-8-9-9-9-9/7-7-8-8-9-9-9-9.
+--- --- ------- --- --- -------
+
+For two people to play duets, right-player controller plays
+the first line, the left-player controller plays the second
+line.
+
+Row Your Boat (round song)
+
+9-9-9-9-8-7-7-7/7-8-7-6-5-5-5-5/
+---       -----         -------
+nothing        /nothing
+
+2-2-2-2-5-5-5-5/7-7-7-7-9-9-9-9/
+    ---     ---     ---     ---
+9-9-9-9-9-9-9-9/9-9-8-8-7-7-7-7/
+------- ------- --- --- -------
+
+5-6-7-8-9-9-9-9/9-9-9-9-9-9-9-9/
+        ------- ------- -------
+7-8-7-6-5-5-5-5/2-2-2-2-5-5-5-5/
+        -------     ---     ---
+
+9-9-8-8-7-7-7-7/7-8-7-6-5-5-5-5.
+--- --- -------         -------
+7-7-7-7-9-9-9-9/5-6-7-8-9-9-9-9.
+    ---     ---         -------
+
+
+
+
+
+
+BRAIN GAMES
+
+                           ATARI (R)
+                A Warner Communications Company
+
+
+
+
+
+
+ATARI, INC., Consumer Division, P.O. Box 427, Sunnyvale,
+CA 94086, U.S.A.
+
+
+
+
+
+Manual, Program and Audiovisual (c) 1978 Atari, Inc.
+
+
+
+
+
+C016973-64 REV. 1                           PRINTED IN U.S.A. 
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document converted to html by gchance@ecst.csuchico.edu.
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
+
+
+
+
+
+
+
+
+

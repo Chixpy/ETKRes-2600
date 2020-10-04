@@ -1,0 +1,244 @@
+AIR-SEA BATTLE
+
+GAME PROGRAM TM INSTRUCTIONS
+
+Model CX-2602 
+
+ATARI
+A Warner Communications Company
+ATARI, INC., Consumer Division
+P.O. Box 427, Sunnyvale, CA 94086
+
+(c) 1977 ATARI, INC. C011402-02 
+
+AIR-SEA BATTLE 
+
+NOTE: Use your Joystick Controllers with this Game Program. Be sure the Controllers are firmly connected
+to your Console unit. If, after inserting this Game Program into your Video Computer System and turning it on,
+no playfield appears on your television scree, turn the Console unit OFF, wait ten seconds, and then turn it
+ON again. 
+
+CONTROLLER ACTION 
+
+Controller action varies depending on the game being played. Details for Joystick Controller action can be
+found under each game heading. In all cases, hold the controller with the red button to your upper left towards
+the television screen. 
+
+SCORING 
+
+All games end after 2 minutes, 16 seconds of play, or when either player scores 99 points. During the last 16
+seconds, the score will flash to show that the game is nearing the end. Point scoring for each game is noted in
+that game's instruction. 
+
+DIFFICULTY The Difficulty switches on your Atari Video Computer System console control the size of the
+missile. In Position "A" the missile is one-fourth the size of position "B". 
+
+ANTI-AIRCRAFT(TM) GAMES 
+
+      #
+     ##        Joystick
+   ###         Forward
+  ###
+ ##
+########
+########
+
+  30 degrees
+
+   ###
+   ###
+  ###
+  ###          Joystick 
+ ###           Center
+ ###
+#######
+#######      
+
+  60 degrees
+
+
+ ##
+ ##
+ ##            Joystick 
+ ##            Back
+ ##
+ ##
+#######
+#######
+
+  90 degrees
+
+Gun Position 
+
+Your Joystick Controller changes the angle of your "Anti-Aircraft Gun" and also the angle of the missile flight in
+Guided Missile Games. Forward = 30 degree; center or rest = 60 degrees; back = 90 degrees (straight up). 
+
+In the Anti-Aircraft games, from one to six flying objects will move together across the playfield in a set. All
+objects in the set must be hit before a new set will appear. Each object scores one point. 
+
+GAME 1
+This is the Anti-Aircraft game described above. Your missile travels at the same angle your "Anti-Aircraft gun"
+was in at the time you fire. 
+
+GAME 2
+In this game, you and your opponent have "guided" missiles. After firing, you control the angle of flight of your
+missile by moving your Joystick Controller from front to back. 
+
+GAME 3
+The left "gun" is fired continuously by the computer. Using the right Joystick Controller, try to out score the
+computer. 
+
+ANTI-AIRCRAFT(TM) GAMES 
+
+# #####
+#   #
+########
+########
+    #
+  #####
+
+4 POINTS
+
+##
+##            ####
+#####################
+#####################
+     #########
+     ######
+
+3 POINTS
+
+   #####
+#    #
+##  ####
+ ##### #
+    ## #
+    ####
+
+2 POINTS
+
+##
+####
+#################
+         ###########
+      ######
+   ######
+
+1 POINT
+
+  ############
+####        ####
+####  ####  ####
+####        ####
+####  ####  ####
+  ############
+      ####
+
+NO POINTS
+
+This set of Anti-Aircraft games adds a challenge to your marksmanship. There are various flying objects on the
+playfield travelling at different speeds and directions. Each object has a different score value; Small Jet = 4
+points; Large Jet = 3 points; Helicopter = 2 points; 747 = 1 points. The "Observation Blimps" flying randomly
+across the bottom of the playfield score no points, and act as an obstruction to your line of fire. 
+
+GAME 4
+In this game your missile travels at the same angle as your "gun" was in at the time you fired. 
+
+GAME 5
+Using "guided" missiles try to outscore your opponent. After firing, you control the angle of flight of your missile
+by moving your Joystick Controller from front to back. 
+
+GAME 6
+Here's another chance to beat the computer. The right Joystick Controller is your "gun", while the computer
+fires the left "gun" continuously. 
+
+TORPEDO(TM) GAMES 
+
+
+          NO EFFECT
+              ^^
+           \  ||  /
+     LEFT <--STOP--> RIGHT
+           /  ||  \
+              vv
+          NO EFFECT
+
+Controller Action
+You are a submarine captain firing torpedoes at ships moving
+above you. By pushing your Joystick Controller to the left,
+you move your submarine to the left. Moving it to the right
+moves your submarine to the right.
+
+You control half the playfield, your opponent controls the
+other half. From one to six ships move across the playfield in
+a set. When one set disappears from the playfield, a new set
+appears. Each ship scores one point.
+
+GAME 7
+
+After firing, your torpedo travels straight up from where it
+was fired.
+
+GAME 8
+
+In this game, you can "guide" your torpedo after firing. By
+pushing your Joystick Controller to the left, you guide your
+torpedo to the left. Moving the Joystick to the right guides
+the torpedo to the right.
+
+GAME 9
+
+With non-guided torpedoes try to sink more ships that the
+computer. You control the right submarine, the computer will
+fire continuously from the left.
+
+TORPEDO(TM) GAMES
+   #
+ # # #
+ #######
+#######
+######
+  ####
+  
+4 POINTS
+
+        ##
+      ######
+######################
+###################
+   ################
+
+3 POINTS
+
+  # #
+  # #
+# # # ##
+########
+ ######
+ #####
+
+2 POINTS
+
+       ##
+       ##
+    #####  ####
+##################
+  #############
+    #########
+
+1 POINT
+
+   ##  ##  ##
+     ######
+     ######
+   ##  ##  ##
+       ##
+   ####
+###
+
+NO POINTS
+
+In this group of Torpedo games, mines travel randomly across
+the bottom of the playfield, and act as obstructions to your
+line of fire. The ships move at different speed and
+directions. Each ship has a different point value: PT Boat = 4

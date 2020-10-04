@@ -1,0 +1,158 @@
+--------------------------------------------------------------------------------
+ CANYON BOMBER game program instructions    	Model CX-2607 (c)1979 ATARI,INC
+--------------------------------------------------------------------------------
+CANYON BOMBER
+	Use your Standard Paddle Controllers with this ATARI Game Program.  Be
+	sure the Controller cable is firmly plugged into the jack at the rear 
+	of your ATARI Video Computer System.
+
+	For one and two player games, plug the Paddle Controllers into the LEFT
+	CONTROLLER jack.
+
+	For three and four player games, you will need an additional set of
+	Paddle Controllers.
+
+	Note: Always turn the console power switch OFF when inserting or
+	removing an ATARI Game Program.  This will protect the electronic 
+	components and prolong the life of your ATARI Video Computer System.
+
+USING THE CONTROLLER
+	For Canyon Bomber games, press the red button on the Paddle Controller
+	to drop your bombs from the plan into the canyon.  The knob on the 
+	Controller is inoperable during Canyon Bomber games.
+
+	For Sea Bomber games, turn the knob on the Controller to move the
+	dashed depth indicator up and down the playfield.  This sets the depth
+	at which the charge explodes.  Press the red button on the Controller
+	to release the bomb.
+
+TO BEGIN PLAY
+	To choose the game you wish to play depress the Game Select switch. 
+	The number for each game is displayed in the upper left corner of the
+	screen.
+
+	To start a game depress the Game Reset switch.
+
+HANDICAP (Difficulty Switch)
+	When the Difficulty Switch is in position "a" you must wait until a
+	bomb runs its course before firing again.  Slide the switch to position
+	"b" and suddenly you are allowed to recover and refire your bomb by
+	pressing the red fire button.  This enables you to reshoot a bad shot,
+	or to fire at a different target, if the original target is hit by your
+	opponent.  There is no limit to the number of times you can recover and
+	refire a bomb while your plane in making one run across the screen.
+
+	Also, in the "b" position, the computer plays on a more skillful level,
+	and therefore will be more difficult to beat.
+
+CANYON BOMBER SCORING
+	In one-player Canyon Bomber games you compete against the computer for
+	a higher score.  A miss is recorded each time you fail to hit a target
+	in the canyon.  A miss is also recorded if your plan travels across the
+	canyon without dropping a bomb.
+
+	There are eight bars of bricks which extend acroos the canyon.  Each
+	brick in the first two bars is worth one point each.  The bricks in the
+	third and fourth bars are worth two points each.  In the fifth and
+	sixth bars the bricks are worth three points each, and the bricks in
+	the last or bottom two bars are worth four points each.
+
+	In one-player games, play continues until:
+	  * Six misses are recorded against you, or -
+	  * You or the computer score 1000 points in a game with unlimited
+	    bombs.
+
+	In two-player Canyon Bomber games, play continues until:
+	  * Both players miss six times in games with limited bombs.
+	  * One player scores 1000 points in games with unlimited bombs.
+
+	If all of the bricks in the canyon are eliminated, a new canyon
+	appears on the screen and play continues.
+
+SEA BOMBER SCORING
+	In both Sea Bomber games play ends when you, another player, or the
+	computer score 1000 points.  There are five levels at which you score
+	points when blowing up ships.  The lower the ship on the screen, the
+	more points you score.  Point values for the five levels are 20, 30,
+	40, 50, and 60 points.
+
+	IN ALL GAMES IN THE GAME PROGRAM, THE OBJECT IS TO SCORE 1000 POINTS,
+	OR TO HAVE THE HIGHEST SCORE WHEN THE GAME ENDS. (AFTER SIX MISSES ARE
+	RECORDED.)
+
+CANYON BOMBER GAMES
+	GAME 1
+	Canyon Bomber (One-Player)
+
+	Test your skill against the computer.  It's not an easy task.  You've
+	got six misses in which to match wits eith the computer for a higher 
+	score.  Each time the bricks in the canyon are hit, the remaining
+	bricks "fall" to a lower level (rather than remaining stationary in
+	their original position).  Bricks that fall to a lower level are worth
+	the points designated for that level.
+	Keep an eye on the solid bar beneath your score on the upper right side
+	of the screen.  It is a "miss indicator" and gradually decreases in
+	length each time you miss until six misses are recorded and the game 
+	ends.  The bar is also color-coordinated with your planes and your
+	score.
+	Set your sights for 1000 points.  Although the game will not end if you
+	reach the 1000 point mark, it's an excellent goal to set for yourself
+	since it will be very difficult to obtain.
+
+	GAME 2
+	Canyon Bomber (Two-Player)
+
+	This game differs from Game 1 only in that you are competing against
+	another player rather than the computer.  Play ends when six misses are
+	recorded against both players.  the player with the highest score wins. 
+	Don't forget to keep an eye on your opponent's "miss indicator" as well
+	as your own.  Bombs away!
+
+	GAME 3
+	Canyon Bomber (One-Player)
+
+	This one's the same as Game 1 with one exception.  Rather than falling
+	to a lower level, the bricks in the canyon stay "suspended" in their
+	original position when the surrounding bricks are hit.
+
+	GAME 4
+	Canyon Bomber (Two-Player)
+
+	You compete with another player the same as in Game 2.  This time
+	however, the brick remain suspended instead of falling to a lower
+	level.
+
+	GAME 5
+	Canyon Bomber (Two-Player)
+
+	Get set for a test of your endurance and concentration.  The first
+	player to score 1000 points wins.  No time limit and no limit to the
+	number of bombs or misses.  Falling, rather than suspended bricks are
+	programed into this game.
+
+	No "miss indicator" will appear on the screen in games with unlimited
+	bombs.
+
+	GAME 6
+	Canyon Bomber (Two-Player)
+	
+	This game program is identical to Game 5, except that the bricks stay
+	suspended.
+
+SEA BOMBER GAMES
+	GAME 7
+	Sea Bomber (One-Player)
+
+	You're playing against the computer.  Set the level, release the bomb,
+	and boom, you're ready for action.  Sounds easy, but the computer's a
+	real steady competitor.  If you score 1000 points before the computer 
+	does, you're a winner!
+
+	GAME 8
+	Sea Bomber (Two-Player)
+
+	This time you're competing against another player in a race to the 1000
+	point mark.
+--------------------------------------------------------------------------------
+
+-------------------Atari 2600 Instructions Archive-------------------

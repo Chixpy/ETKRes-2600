@@ -1,0 +1,315 @@
+*** Street Racer (1-4 Players) ***
+
+Street Racer
+
+Game Program Instructions
+
+Atari Inc. Consumer Division
+1195 Borregas Ave., Sunnyvale, CA 94086
+
+(c) 1977 Atari Inc.   C011402-12
+
+
+
+Use your standard Paddle Controllers with this game program.  Be sure to
+plug in the Controller cable firmly into the jacks on the rear of your
+Computer System.  See your Owner's Manual for details.  You will need another
+set of Standard Paddle Controllers for three or four players for Street Racer.
+During one or two-player games, plug your controller into the left side of the
+Console.
+
+CONTROLLER ACTION
+
+In all the racing games, use the knob on the top of the Controller to steer the
+vehicle on the playfield.  The red button on the side of the Controller is your
+accelerator in Street Racer (tm) Slalom (tm), Scoop Ball (tm), and Number
+Cruncher (tm).  Use the red button as a forward thrust in Dodgem (tm) and to
+fire bullets in Jet Shooter (tm)
+
+DIFFICULTY
+
+Slide the difficulty switch from "B" to "A" position and you lose one point for
+each collision that occurs during the game you are playing.
+
+SCORING
+
+In one-player games you race against the clock as you try to make points within
+2 minutes and 16 seconds.  During two, three and four player games, you
+compete against opponents to score the most points within 2 minutes and 16
+seconds.  Your score will flash on and off the screen during the final 16
+seconds of game time.
+
+STREET RACER
+
+Avoid collisions and score points!  One, 2, 3 or 4 players each control one
+car on the track playfield.  In one and two-player games, each player uses a
+separate vertical track.  In three and four-player games, two players share one
+track.
+
+Each player tests his skill against computer cars.  Use the knob on the
+Controller to steer your car around the oncoming cars heading straight for you!
+Press the red Controller buton to increase your speed.
+
+Score one point for every car you pass.  Your car is color coordinated with
+your score that appears at the top of the playfield.
+
+Each game is completed after 2 minutes and 16 seconds or when a player or team
+scores 99 points.  Your score will flash on and off during the final 16 seconds
+of game time.
+
+You'll hear the hum of the motors, CRASHES, and BEEPS when you score.
+
+GAME 1
+
+One player steers a car on a moving vertical track avoiding collisions and
+racing against the computer car.
+
+GAME 2
+
+Two players each steer a car on separate moving tracks avoiding collision with
+computer cars that appear on the track one at a time.
+
+GAME 3
+
+Each of the three players controls one car and avoid collisions with computer
+cars that appear on the track one at a time.  Two players share the right track
+and compete against one player on the left track.
+
+GAME 4
+
+Four players compete to avoid collisions with cars that appear one at a time.
+Two players are on each driving team and share one track.
+
+GAME 5
+
+Two players each steer a car down separate tracks while steering around
+computer cars that appear two at a time.
+
+GAME 6
+
+Four players compete to avoid collisions.  Two computer cars head down the
+track at one time.  There are two players on each driving team that shares one
+track.
+
+SLALOM
+
+Put on your skis and get ready for the treacherous slopes.  One, 2, 3 or 4
+players each control one set of skis.  In one and two-player games, each
+player skis on his own private ski run.  In three and four-player games, two
+players share a ski run.
+
+Use the knob on the Controller to steer your skis through gates.  Press the
+red Controller button when you want to increase the speed down the run.
+
+Score one point for every gate you pass.  When you crash with the gate, you've
+only lost time, not points.
+
+NOTE:  Slide the Difficulty to "A" position and you lose one point upon
+collision.  The gates also become narrower.
+
+Your skis are color coordinated with the score that appears at the top of the
+playfield.  A game of Slalom is completed when one player scores 99 points or
+after 2 minutes and 16 seconds.  The scores will flash on and off during the
+last 16 game seconds.
+
+You'll hear the SWISH and the BEEPS when you pass through a gate and score one
+point.  You'll also hear the CRASHES.
+
+GAME 7
+
+One player skis down the right slope and passes through gates that appear one
+at a time on the ski run.  The left skier is your computer opponent.
+
+GAME 8
+
+Two players each have separate but identical runs.  Gates appear one at a time.
+
+GAME 9
+
+The ski gates appear one at a time for three players who compete for points.
+Two players share the right ski run and compete against one player on the
+left run.
+
+GAME 10
+
+Four players race down the slope and through the gates to make points.  Gates
+appear on ski run one at a time.  Two players are on each ski team and share a
+run.
+
+GAME 11
+
+Two players compete for points by passing through gates that appear two at a
+time on the ski run.
+
+GAME 12
+
+Four players compete for points by passing through gates that appear two at a
+time on the ski run.  Two players are on each ski team and share a run.
+
+DODGEM
+
+Sharpen your driving reflexes and make points when you avoid oncoming
+obstacles.  One or two players each control one car.  In these one and two-
+player games, each player has a private vertical straightaway track.
+
+Use the Controller knob to steer your car.  Press the red Controller button
+when you want to accelerate the car; release the button and the car gradually
+falls backwards to the bottom of the track.
+
+Your object is to move the car from the bottom of the track to the top while
+dodging oncoming obstacles.  Score one point each time you complete the
+straightaway.  Your car automatically returns to the bottom starting line when
+you complete the track.
+
+The score at the top of the playfield is color coordinated with your car.  A
+game of Dodgem is complete when one player scores 99 points or after 2 minutes
+and 16 seconds.  The score will flash on and off during the last 16 seconds of
+the game.  You'll hear the motors hum, cars CRASH, and scores "BEEP."
+
+GAME 13
+
+One player races against the clock and tries to complete the track as many
+times as possible within 2 minutes and 16 seconds.
+
+GAME 14
+
+Two opposing players compete for points on separate vertical tracks while
+oncoming obstacles appear on the track one at a time.
+
+GAME 15
+
+One player races against the clock and tries to complete the track as many
+times as possible.  Oncoming obstacles appear on the track two at a time.
+
+GAME 16
+
+Two opposing players compete for points on separate vertical tracks while
+oncoming obstacles appear on the track two at a time.
+
+JET SHOOTER
+
+You're a fighter pilot in this game.  One or two players each control one
+fighter jet equipped with missiles.  In these games, each player has a separate
+air space.
+
+Use the Controller knob to steer your jet through the sky.  Press the red
+Controlelr button when you want to fire missiles and destroy enemy aircraft
+approaching you from the opposite direction.
+
+Score one point for each enemy aircraft you destroy.  Put the Difficulty switch
+in the "B" position and you lose only time, not points, when an enemy jet
+collides with you.  With the Difficulty switch in the "A" position you lose one
+point for each collision.
+
+A game is completed when one pilot scores 99 points or after 2 minutes and 16
+seconds.  The score will flash on and off during the final 16 seconds of game
+time.  You'll hear the missiles fire, crashes and the hum of the engines.
+
+GAME 17
+
+One player guides the right jet through the skies and attempts to shoot down
+enemy jets that appear one at a time.  The left jet is your computer opponent.
+
+GAME 18
+
+Two Players each stter a jet in a private sky.  Oncoming enemy jets appear one
+at a time.
+
+GAME 19
+
+One player steers the jet through the sky as enemy jets appear two at a time.
+
+GAME 20
+
+Two players each steer a jet as enemy jets appear in the sky two at a time.
+
+NUMBER CRUNCHER
+
+Got an appetite for Numbers?  One, two, three and four players each control
+one Motorcyle that CRUNCHES numbers on the track.
+
+In one and two-player games, each player drives up a private vertical track.
+In three and four-player games, two players make up a motorcycle team and share
+the right track.  Two players use one track in four-player games.
+
+Use the Controller knob to steer your chopper down the track.  Press the red
+Controller button when you want to accelerate the speed.
+
+Your object is to run over the numbers on the track (2,4,6).  You score the
+face value for each number you squash.  For example, score six points when you
+CRUNCH a number 6.  Be sure to directly run over the numbers with the nose of
+your chopper.  Sloppy aims can result in number collisions instead of points.
+
+Your motorcycle is color coordinated with the score at the top of the track.
+Number Cruncher games are completed when a player scores 99 points or after
+2 minutes and 16 seconds.  During the final 16 seconds, your score will flash
+on and off the scoreboard.
+
+You'll hear the whine of the chopper engines and the CRUNCH and CRASH of the
+numbers.
+
+GAME 21
+
+One player steers his motorcycle to CRUNCH numbers that appear on the track one
+at a time.
+
+GAME 22
+
+Two players rumble down the tracks looking for numbers that appear two at a
+time.
+
+GAME 23
+
+Three players take a thrilling ride up the track as numbers appear two at a
+time.  Two players are on one motorcycle team and oppose one player.
+
+GAME 24
+
+Four players become a Number Cruncher Motorcycle Gang looking for numbers to
+squash on the track.  Two players are on each motorcycle team and share one
+track.  Numbers appear two at a time.
+
+SCOOP BALL
+
+Your object?  To catch balls and deposit them into a Computer Scooper.  To
+catch the balls you have a giant moving Scooper.  Two, three or four players
+each control one Scooper.  In two-player games, each player moves along a
+private track.  Two players share the right track in three-player games;
+during four-player games, two players are on each track.
+
+Use the Controller knob to steer the Scooper up the track.  Press the red
+Controller button to accelerate the Scooper.
+
+You score one point each time you catch a ball (+)  Continue to catch balls
+until a Computer Scooper appears on the screen. When you steer your Scooper
+into the Computer Scooper, you score three points and deposit the ball or
+balls you've collected.  If you CRASH before depositing, you lose your chance
+to deposit the balls and score.
+
+NOTE:  Your Scooper changes shape after you catch the first ball.  After you
+deposit the balls, your Scooper returns to its original shape.
+
+Your Scooper is color coordinated with the score at the top of the track. 
+Games are completed when a player scores 99 points or after 2 minutes and 16
+seconds.  During the final 16 game seconds, your score flashes on and off the
+scoreboard.
+
+You'll hear CRASHES, the Scooper motors, the scoop and deposit.
+
+GAME 25
+
+Two opposing players compete for balls and Computer Scoopers that appear on the
+track two at a time.
+
+GAME 26
+
+Three players compete for points.  Two players are on one Scooper team and
+share the right track.
+
+GAME 27
+
+Four players compete for points.  Two players are on each Scooper team as balls
+and Computer Scoopers appear two at a time.
+
+
+-------------------Atari 2600 Instructions Archive-------------------

@@ -1,0 +1,273 @@
+<Picture>
+
+<Picture>Communist_Mutants<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+How to Play
+COMMUNIST MUTANTS FROM SPACE
+ARCADIA CORPORATION
+
+How to Supercharge your Video Game System
+
+[Pages have a picutre of a TV with CMFS on the screen, an Atari 2600 with
+a Supercharger attached, an extremely old looking cassette player, and 2
+Atari 2600 Joysticks.  Apart from the connecting cable between the 2600
+and the cassette player, the normal rat's nest of cables that this setup would
+involve are not to be seen.  There is also a picture of Supercharger on
+the same page, with a label that does not have any of the Starpath stuff
+on it.]
+
+* Set up your Atari(R) Video Computer System(TM) (or just about any game
+system that takes Video Computer System(TM) game cartridges) according to
+manufacturer instructions.
+
+* Make sure the power switch is OFF, and insert the Arcadia(TM) 
+Supercharger(TM) with label up.  Be careful not to force it or insert
+crookedly.
+
+* Connect the plug on the end of the Supercharger(TM) cable to the earphone
+jack of any cassette recorder/player.  The earphone jack may also be
+labeled "monitor," "mon.," "ear," or "output."*
+   * If you use a large cassette deck with a "phone" type earphone plug, you
+     may purchase an adaptor at most electronics specialty stores.
+
+* Turn the power switch of the game system ON.  The TV screen should read
+"REWIND TAPE, PRESS PLAY."  If not, turn the power off and check to make sure
+the system is properly hooked up and the Supercharger(TM) fully inserted.
+
+* Insert the COMMUNIST MUTANTS FROM SPACE(TM) cassette, label side up, into
+the cassette player.  Turn the volume and tone controls about halfway up.
+
+* Press REWIND and wait until the tape stops moving.  Now press PLAY.
+
+* In a few moments, you will hear the sounds of the game loading and see
+colored panels fill the screen.  A moment later "STOP TAPE" will appear,
+and you'll be ready to play COMMUNIST MUTANTS FROM SPACE.(TM)
+
+If you have trouble...
+* If the tape player makes a screeching noise, you have not plugged the
+Supercharger(TM) cable into the "earphone" jack.
+
+* If the tape doesn't move, the batteries in the cassette player may be
+too weak.
+
+* You may have forgotten to rewind the tape completely.
+
+* If everything else seems OK, try turning up the TONE and VOLUME controls
+on the cassette player.  If the screen remains unchanged, remove the cassette,
+turn it over (label side down), rewind it, and press PLAY.
+
+Communist Mutants from Space (TM)
+
+Your mission: Vaporize the mutant warriors before they overrun your home
+planet.
+
+About the enemy: The evil ruler of the planet Rooskee has launched a diabolical
+attack.  A cunning Mother Creature, filled with irradiated vodka, transforms
+helpless slaves captured on peaceful planets into bloodthirsty COMMUNIST
+MUTANTS.
+   The Commie Mutants attack like crazy!  Wipe out wave after wave of them,
+and they keep on coming.  And the more you vaporize, the nastier they get.
+You've got trouble.
+
+Game Options
+Press GAME SELECT and your options "menu" will appear on the screen.  You
+can customize your own variation of COMMUNIST MUTANTS FROM SPACE(TM) by
+choosing options from the menu.
+   Move the joystick up or down to place the highlight over the feature you
+wish to select.  Move the joystick right or left, or push the "fire" button,
+to select options and number of players.
+
+Note: if you leave the "menu" on the screen for a few moments, the game will
+begin "self play."  You'll see the game play by itself, and you'll see the 
+current high score displayed.  To get back to the "menu," simply tug on the
+joystick or press GAME SELECT
+
+PLAY    Starts the game action.
+PL 1    Selects the number of players (1 to 4)
+DIF 1   Selects the difficulty level (1 = easy to 9 = hard)
+SH NO   Allows you to activate SHIELDS during the game.
+TW NO   Allows you to activate TIME WARP during the game.
+PF NO   Gives you PENETRATING FIRE
+GF NO   Gives you GUIDED FIRE
+
+[Screen shot shows options menu screen]
+
+The Mutant Attack
+
+As soon as play begins, you'll be under attack.  The Mother Creature will
+constantly try to create more COMMUNIST MUTANT attackers.  The attackers
+start as mutant eggs and soon hatch into nasty creatures.
+   Some of the mutant eggs appear not to hatch.  Don't be fooled.  They
+are actually shield-penetrating bombs in disguise
+
+[Screen shot shows CMFS being played]
+
+   You begin with a small reserve of anti-mutant cannons.  Each time the
+mutants destroy one of your cannons, a reserve is called up.  When the last
+cannon is destroyed, the game is over.  You can, however, earn bonus cannons
+after every other wave of mutant attacks.
+   You'll never run out of ammunition, so keep shooting.  Your cannons destroy
+Communist Mutants, Mutant Bombs, and the Mother Creature itself.
+
+Scoring
+* Point Values
+[Wretched black block diagrams of items accompany this chart.  I'm not going
+to reproduce them.]
+
+Mother Creature                   500 Points
+Diving Mutant Attackers            60 Points
+Mutant Eggs                        10 Points
+Clearing the screen of Mutant
+Attackers (earns a "flag")        100 Points
+
+* Bonus cannons are awarded on each odd-numbered wave of mutant attacks.
+
+* High score for the current playing session will be displayed at the end
+of each game.
+
+Game Variations
+
+Difficulty Levels.  Start with level 1 (relatively mild mutants) and work
+your way up to level 9 (really mean mutants).
+
+Maneuverability.  Control the speed of your anti-mutant cannon with the
+difficulty switchs.  "A" makes it slow.  "B" makes it fast.  The left
+difficulty switch is shared by players one and three.  The right switch by
+players two and four.
+
+Shields.  Shields are activated by pulling back on the joystick.  You can use
+your shields only once, until a new wave of mutant attacks, or a cannon
+appears.
+
+Time Warp.  Slow down the mutant attack with time warp.  Activate it by
+pushing forward on the joystick.  But you can use the feature only once,
+until a new wave of mutant attacks, or a cannon appears.
+
+Penetrating Fire.  This feature permits your cannon fire to blast through
+one mutant and wipe out the next in line.
+
+Guided Fire.  This feature permits you to steer your cannon fire with the
+joystick.
+
+Multi-Player Games.  Players one and three share the left joystick.  Players
+two and four share the right joystick.  The number in the lower left corner
+of the screen indicates which player is "up."
+
+Controls
+
+* Game Select switch calls the "menu" to the screen.
+
+* Difficulty switches affect the horizontal speed of your cannon.
+
+* Game Reset switch starts a new game instantly.
+
+Supercharged Game Previews
+
+To get a sneak preview of other great Arcadia(TM) games, follow these simple
+instructions:
+
+* When loading COMMUNIST MUTANTS FROM SPACE,(TM) be sure to push the STOP
+button on your cassette player as soon as the TV screen fills with colored
+panels and the "STOP TAPE" message appears.
+
+* Don't rewind the tape.  When you're ready for a preview, flick the power
+switch on the game system OFF, the ON again.
+
+* The TV screen should read "REWIND TAPE, PRESS PLAY."  Don't rewind the tape.
+Simply press PLAY.  As soon as the "STOP TAPE" message appears, press STOP.
+
+* You'll see a "self-play" preview of one exciting Arcadia(TM) game.  You
+can't actually play it (so don't bother pressing any more switches), but
+you can appreciate the great graphics and game action.
+
+* To see the next game preview, simply repeat the above instructions.  When
+no more games appear, you have seen all the previews on your cassette.
+
+Changing Games
+
+To load another Arcadia(TM) game:
+
+* Flick the power switch OFF, then ON again.
+
+* Rewind and replace the cassette with another Arcadia(TM) game cassette.
+
+* Rewind the tape, the press PLAY.
+
+To remove the Supercharger(TM)
+
+* Turn the power switch OFF.
+
+* Gently remove the Supercharger.(TM)
+
+Limited 90 Day Warranty
+
+ARCADIA(TM) SUPERCHARGER(TM) and COMMUNIST MUTANTS FROM SPACE(TM)
+
+ARCADIA CORP. warrants to the original purchaser of this ARCADIA(TM) product
+that it will be free from defects in materials and workmanship for ninety days
+from the date of purchase.  If this product is discovered to be defective
+within the warranty period, return to place of purchase for replacement.
+   This warranty is limited to electronic and mechanical parts within the
+product.  It is not applicable to normal wear and tear and is not applicable
+and shall be void if the defect has arisen through, or the product shows
+signs of, misuse, excessive wear, modifications, or tampering.
+
+THIS WARRANTY IS IN LIEU OF ALL OTHER EXPRESSED WARRANTIES OR REPRESENTATIONS.
+ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY
+AND FITNESS, ARE LIMITED TO A PERIOD OF NINETY DAYS FROM THE DATE OF PURCHASE.
+ARCADIA(TM) IS NOT LIABLE FOR ANY SPECIAL INCIDENTAL OR CONSEQUENTIAL DAMAGES
+RESULTING FROM BREACH OF ANY EXPRESSED OR IMPLIED WARRANTIES ON THIS PRODUCT.
+
+   Some states do not allow limitations on how long an implied warranty lasts
+or the exclusion or limitation of incidental or consequential damages, so the
+limitations or exclusions set forth may not apply to you.  This warranty
+gives you specific legal rights, and you may also have other rights which
+vary from state to state.
+
+Repair Service
+Should your SUPERCHARGER(TM) require service after the ninety day limited
+warranty period, a charge of $15 will be assessed to restore it to full
+working condition.  Send the SUPERCHARGER(TM) unit, shipping prepaid, to:
+     ARCADIA(TM) SERVICE CENTER
+     324 Martin Avenue
+     Santa Clara, CA  95050
+
+ARCADIA(TM) takes pride in providing you the finest, most challenging video
+games available today.  We welcome your comments and suggestions for ways to
+make our game selection even more enjoyable.  Please write to: ARCADIA(TM)
+CONSUMER AFFAIRS DEPT., P.O. Box 2070, Saratoga, CA  95070.
+
+ARCADIA(TM) CORPORATION
+ARCADE ACTION COMES HOME
+Atari(C) and Video Computer System(TM) are trademarks of ATARI, INC.  ARCADIA
+CORP. is not related to ATARI, INC.
+
+(C) 1982 ARCADIA CORP. Printed in USA.
+(C) 1982 ARCADIA CORP.  (Game Program)
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

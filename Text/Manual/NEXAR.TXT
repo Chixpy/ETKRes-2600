@@ -1,0 +1,184 @@
+SPECTRAVISION
+
+VIDEO GAME CARTRIDGE
+
+The Challenge of...
+NEXAR
+
+A MULTI-LEVEL MISSION FOR ONE BRAVE WARRIOR AT A TIME
+
+FOR THE ATARI (R) AND SEARS VIDEO GAME SYSTEMS
+
+INSTRUCTION MANUAL
+
+
+BEYOND GALAXIES KNOWN TO MAN, BEYOND TIME AS WE PERCEIVE IT, LIES
+THE SOURCE OF INNER POWER.
+
+THERE IN A REMOTE CORNER OF THE UNIVERSE, FUTURE SPECTRA-WARRIORS
+ARE TRAINED FOR THE CONQUESTS TO COME. FROM THE MANY WHO TRY,
+ONLY A SELECTED FEW CAN MEET THE CHALLENGE OF ... NEXAR.
+
+
+TABLE OF CONTENTS
+
+CONTENTS                                PAGE
+
+THE LEVELS OF NEXAR                     2
+
+GETTING STARTED                         4
+
+ENTERING THE WARP                       5
+
+TEST RESULTS                            7
+
+WARRANTY                                8
+
+
+WARNING!
+
+READ CAREFULLY BEFORE GOING FURTHER
+
+The challenge of NEXAR should only be attempted by experienced
+player of at least cadet level or higher. Spectravision will not
+be held responsible for those who do not return. Do not attempt
+"NEXAR" if you have high blood pressure or dislike video games.
+
+
+THE LEVELS OF NEXAR
+
+So, you have ignored our warning.
+
+Very Well!!
+
+Upon presentation of your encoded identity cartridge you will be
+sent to the entrance of the space warp.
+
+At each level there are RADIOACTIVE BEACONS that must be
+destroyed. These BEACONS are guarded by impact exploding SAUCERS
+which guard the BEACONS.
+
+#     #
+#  #  #
+# # # #
+##   ##
+#######   IMPACT EXPLODING SAUCER
+##   ##
+# # # #
+#  #  #
+
+
+  ####
+ ##  #
+# #  #
+# #  #    RADIOACTIVE BEACON
+# ####
+##  #
+####
+
+To become a SPECTRA-WARRIOR you must survive all ninety nine
+levels. Those who can go beyond all will receive their due
+recognition.
+
+
+GETTING STARTED
+
+1.   HOOK UP GAME CONSOLE.
+
+2.   INSERT CARTRIDGE - make sure power switch is always in the
+     "OFF" position when installing cartridges.
+
+3.   TURN CONSOLE "ON".
+
+4.   DEMO MODE
+
+5.   DIFFICULTY SWITCHES - 
+     Both right and left difficulty switches affect game play.
+     LEFT SWITCH         RIGHT SWITCH
+     A - 5 Shields       A - Lose Shield if Time Runs Out.
+     B - 3 Shields       B - Lose Game if Time Runs Out.
+
+6.   SET GAME SELECTOR
+     GAME 1 - PRACTICE
+     GAME 2 - ADVANCE PRACTICE
+     GAME 3 - THE CHALLENGE OF NEXAR
+
+7.   COLOR SWITCH - you can put the game in "PAUSE" mode.
+
+8.   JOYSTICK CONTROLLER
+
+
+ENTERING THE WARP
+
+You start at level one of the warp entrance.
+
+The BEACON indicator advises you the number of BEACONS left to
+destroy at this level.
+Use your joystick to aim at oncoming SAUCERS and BEACONS. The
+cross-hair indicate your position in the warp. Fire as often as
+required.
+
+You must keep moving to avoid collision with SAUCERS or BEACONS.
+Each collision will cost you 1 shield.
+
+Remember you are racing against time. And must destroy all
+BEACONS before time runs out.
+
+Destroying all BEACONS at any level will advance you to the next
+level.
+
+The timer is reset at the beginning of each level.
+
+You start with either 3 or 5 shields (see page 4).
+
+A bonus shield is given for every 10,000 points.
+
+
+TEST RESULTS
+
+SCORING
+
+There are 99 levels of NEXAR
+And THE MAXIMUM SCORE IS 999,995
+
+The SAUCER travel at eight different speeds. Score is based on
+what speed the SAUCER is travelling when you shoot it down.
+
+SPEED     1    2    3    4    5    6    7    8
+SCORE     25   50   100  200  400  800  1200 2000
+
+The BEACONS are 200 points each multiplied by the level your are
+in I.E.
+
+          SCORE
+
+LEVEL 1   200
+
+LEVEL 2   400 (200 x 2)
+
+LEVEL 8   1800 (200 x 9)
+   :
+   :
+LEVEL 99  19800 (200 x 99)
+
+
+YOUR RATING
+
+      0 -  29,995        CADET
+ 30,000 -  99,995        ADVANCED CADET
+100,000 - 299,995        STAR WARRIOR
+300,000 - 699,995        SPECTRA WARRIOR
+700,000 - 999,995        LEGION OF THE CHOSEN
+
+
+WARRANTY
+[Standard sort of 90 day warranty]
+
+
+SPECTRAVISION
+
+(c) 1982 Audio visual by SIRIUS SOFTWARE Inc.
+(c) 1982 Audio visual by SPECTRAVISION INTERNATIONAL LTD.
+Programmed by DAVID LUBAR
+
+No. SA206                                    PRINTED IN HONG KONG-------------------Atari 2600 Instructions Archive-------------------

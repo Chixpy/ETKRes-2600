@@ -1,0 +1,164 @@
+M Network TM
+
+SPACE ATTACK TM
+
+			I N S T R U C T I O N S
+                        (1 Player vs. Computer)
+
+The object of the game is to defend your Mother Ship from attacking 
+aliens. You have 3 squadrons, with 3 ships in each squadron. Aliens have 
+6 fleets of varying sizes. (Only 3 fleets appear at a time on the Radar 
+Screen.) Destroy all alien fleets and you win! If your squadrons are 
+destroyed first, the aliens move in and annihilate the hidden Mother Ship.
+
+For Your Atari* Video Game System
+
+(c) Mattel, Inc. 1982. Hawthorne, CA 90250. PRINTED IN U.S.A. All 
+Rights Reserved.
+
+*Atari, is a Trademark of ATARI, Inc.
+
+
+THE GAME
+
+ESTABLISH STRATEGY IN RADAR MODE. You see a radar view of 
+space, with alien fleets moving toward the inner rectangle where your 
+Mother ship is hidden. (You do not see the Mother Ship.) Select an alien 
+fleet to attack. Then dispatch one of your squadrons - blue, white or gold - 
+after it. Dispatch one, two or all three squadrons, but ONLY ONE 
+SQUADRON PER ALIEN FLEET at a time. Your squadrons appear in 
+the center of the screen only after you dispatch them.
+
+TAKE YOUR SQUADRON INTO BATTLE MODE,when it reaches its 
+target fleet and starts blinking. In Battle Mode, you look out into space 
+through your laser gunsight, as alien ships engage you in a space dogfight. 
+Move your gunsight ahead of an alien ship and fire! Your lasers come 
+from the bottom of the screen and converge at the point where your 
+gunsight was WHEN YOU FIRED. Watch out for return fire. Alien 
+photon blasts are fired from the alien ships, at your gunsight. If they 
+TURN RED and hit your gunsight, they destroy one of your ships. 
+NUMBERS AT THE BOTTOM OF THE SCREEN INDICATE
+NUMBER OF SHIPS REMAINING IN THE ALIEN FLEET (LEFT) 
+AND NUMBER OF SHIPS REMAINING IN YOUR SQUADRON 
+(RIGHT). 
+
+YOU AUTOMATICALLY RETURN TO RADAR MODE when you 
+shoot down an entire alien fleet or lose your squadron. If your squadron 
+survived the battle, it remains in place until you dispatch it again. Go after 
+the next alien fleet, until all are destroyed.
+
+A SIREN WARNS YOU WHEN THE MOTHER SHIP IS UNDER 
+ATTACK. Siren gets faster as the Mother Ship sustains more damage. 
+The game ends if the Mother Ship is destroyed.
+
+
+HOW TO PLAY
+
+Use EITHER joystick controller with this game. Be sure the controller 
+cable is securely plugged into the back of your game console. Hold the 
+controller so the red button is to your upper left.
+
+TO START THE GAME, press down on the RESET switch, then pull 
+down on the LEFT joystick.
+
+IN RADAR MODE
+
+1. TO SELECT AN ALIEN FLEET,
+
+PULL JOYSTICK DOWN REPEATEDLY, until selected alien fleet turns 
+purplish color.
+
+HOLD		 UP -
+BUTTON	     WHITE SQUADRON
+DOWN
+	LEFT -			RIGHT -
+     BLUE SQUADRON	     GOLD SQUADRON
+
+2. TO DISPATCH A SQUADRON,
+
+HOLD RED BUTTON DOWN WHILE MOVING JOYSTICK TO UP, 
+LEFT OR RIGHT POSITION.
+
+3. TO TAKE A SQUADRON INTO BATTLE,
+
+   (when squadron reaches alien fleet and starts blinking),
+	     
+MOVE JOYSTICK TO UP, LEFT OR RIGHT POSITION, WITHOUT
+PRESSING THE RED BUTTON.
+
+TO RE-DISPATCH A SQUADRON, follow Steps 1 and 2 above.
+
+IN BATTLE MODE
+
+Move the joystick in any direction, to guide the gunsight where you wish
+your lasers to hit. Keep your gunsight away from red alien fire.
+
+PUSH THE RED BUTTON TO FIRE YOUR LASERS.
+
+
+DIFFICULTY SWITCHES
+
+LEFT Difficulty Switch controls how well the aliens fight. Battle is much 
+more fierce in Hard Position (A) than in Easy Position (B). Alien ships 
+fire and zigzag MUCH more frequently and their photon blasts travel 
+twice as fast.
+
+RIGHT Difficulty Switch controls activity on the Radar Screen while you 
+are in Battle Mode.
+
+EASY POSITION (B) - NO activity on Radar Screen while you are in
+Battle Mode. Computer does NOT fight battles for you.
+
+HARD POSITION (A) - All activity on Radar Screen continues when
+you are in Battle Mode, but at 1/4 NORMAL RATE. If any other 
+dispatched squadron reaches its target fleet, battle begins and the
+COMPUTER FIGHTS FOR YOU, losing roughly one of your ships for
+every four alien ships destroyed.
+
+BOTH LEFT AND RIGHT SWITCH SHOULD BE SET AT THE 
+SAME DIFFICULTY LEVEL.
+
+
+WINNING TIPS
+
+1. Dispatch your first squadron after the alien fleet CLOSEST to the 
+Mother Ship. If possible, do not dispatch more than one squadron at a 
+time, when playing with the Right Difficulty Switch in Hard position.
+
+2. Try to hold one squadron in reserve, in case an alien fleet makes it 
+to the inner rectangle. You can reach the threatening alien faster from the 
+Mother Ship than from another position in space.
+
+3. In Battle Mode, keep your gunsight moving. Alien photon blasts home 
+in on your gunsight if it remains in one place for long.
+
+4. As soon as you finish one battle with a squadron, send it back out after
+another alien fleet. Don't leave it sitting idle in space.
+
+IMPORTANT: BE SURE TO TURN YOUR GAME UNIT OFF WHEN 
+NOT IN USE.
+
+
+90 DAY LIMITED WARRANTY
+
+Mattel Electronics warrants to the original consumer purchaser of any
+cartridge or cassette it manufactures that the product will be free of
+defects in material or workmanship for 90 days from the date of purchase.
+If defective, return the product along with proof of the date-of-purchase
+to either your local dealer or, postage prepaid, to:
+
+
+Mattel Electronics Service Center (West)
+13040 East Temple Ave
+City Of Industry, California 91746
+
+Mattel Electronics Service Center (East)
+10 Abeel Road
+Cranbury Nev Jersey 08512
+
+for repair or replacement. This warranty gives you specific legal rights, 
+and you may also have other rights which vary from state to state. This 
+warranty does not cover damage resulting from accident, misuse or abuse.
+
+MATTEL ELECTRONICS
+-------------------Atari 2600 Instructions Archive-------------------

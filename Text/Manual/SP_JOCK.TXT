@@ -1,0 +1,100 @@
+Vidtec's Space Jockey (VC1001)
+
+US Games Corporation
+A Subsidiary of The Quaker Oats Co.
+1515 Wyatt Drive
+Santa Clara, California  95054
+
+Typed in by Corey Stup (cstup@coplex.com) on 11/9/93.
+
+
+        Space Jockey is a single player, full color, action game
+designed to be played on the ATARI(r) Video Computer System(tm) or
+the Sears Tele-Game(tm).
+
+        You are a Space Jockey at the controls of a highly maneuverable
+Attack Saucer, which appears on the left side of the screen.  A variety
+of enemy weapons and obstacles appear on the right and move toward your
+space ship.  These include tanks, jet planes, prop planes and
+helicopters, which all fire at you.  Additionally, there are balloons,
+houses and trees that do not fire but are obstacles capable of
+destroying your Attack Saucer upon impact.
+
+        Your objective is to shoot down as many of the enemy objects
+as possible, scoring as many points as possible, while at the same
+time avoiding enemy fire.
+
+        Initially you have a fleet of three space ships available to
+you.  For each 1,000 points you can score, an additional ship will be
+available to you.
+
+Instructions:
+1. Connect the ATARI Video Computer System or Sears Tele-Game following
+   the manufacturer's instructions.
+2. Install the Left Joystick control.  The Right Joystick is not used.
+3. Insert the cartridge, making certain that the power is OFF.
+4. Move the power switch to ON.
+5. Select the desired level of difficulty:
+   Left Difficulty Switch : UP for fast enemy shot.
+                            DOWN for slow enemy shot.
+   Right Difficulty Switch: UP for frequent enemy shot.
+                            DOWN for less frequent enemy shot.
+6. Select the game of your choice.  Continuous activations of the
+   SELECT switch will cycle the unit through the 16 possible game
+   variations of increasing difficulty.   See the chart.
+7. To start the game, press the Red Fire Button.  This should be
+   oriented to the upper left hand corner of the Joystick.
+8. Your accumulating score will appear at all times at the top of the
+   screen.
+9. Points are scored as follows:
+   Jet Plane    100 points              Helicopter      50 points
+   Prop Plane   100 points              Balloon         25 points
+   Tank         100 points              House/Tree      20 points
+10.To view the highest score at game completion, wiggle the Joystick.
+11.To reset the game at any time, depress the game RESET switch on the
+   ATARI Computer System, or Sears Tele-Game.
+12.To reset the game at completion, depress the Fire Button on the
+   Joystick, or the game RESET switch on the ATARI Computer System
+   or Sears Tele-Game.
+
+Space Jockey Game Variations
+
+     !  Player can  ! Enemy ships    !  Player can     !  Collisions !
+Game !  direct his  ! move in random !  move his ship  !  Destroy    !
+No   !  missle      ! fashion        !  horizontally   !  space ship !
+----------------------------------------------------------------------
+ 1   !              !                !                 !             !
+ 2   !  xxxxxxxxxx  !                !                 !             !
+ 3   !              !  xxxxxxxxxxxx  !                 !             !
+ 4   !  xxxxxxxxxx  !  xxxxxxxxxxxx  !                 !             !
+ 5   !              !                !  xxxxxxxxxxxxx  !             !
+ 6   !  xxxxxxxxxx  !                !  xxxxxxxxxxxxx  !             !
+ 7   !              !  xxxxxxxxxxxx  !  xxxxxxxxxxxxx  !             !
+ 8   !  xxxxxxxxxx  !  xxxxxxxxxxxx  !  xxxxxxxxxxxxx  !             !
+ 9   !              !                !                 !  xxxxxxxxx  !
+ 10  !  xxxxxxxxxx  !                !                 !  xxxxxxxxx  !
+ 11  !              !  xxxxxxxxxxxx  !                 !  xxxxxxxxx  !
+ 12  !  xxxxxxxxxx  !  xxxxxxxxxxxx  !                 !  xxxxxxxxx  !
+ 13  !              !                !  xxxxxxxxxxxxx  !  xxxxxxxxx  !
+ 14  !  xxxxxxxxxx  !                !  xxxxxxxxxxxxx  !  xxxxxxxxx  !
+ 15  !              !  xxxxxxxxxxxx  !  xxxxxxxxxxxxx  !  xxxxxxxxx  !
+ 16  !  xxxxxxxxxx  !  xxxxxxxxxxxx  !  xxxxxxxxxxxxx  !  xxxxxxxxx  !
+ ---------------------------------------------------------------------
+
+Look for more Vidtec (tm) video games wherever you buy game cartridges.
+Drop us a note and we'll be glad to add your name to our mailing list
+and keep you posted on new Vidtec game cartridges as they become
+available.
+
+
+Atari(R) and Video Computer System(tm) are tradmarks of ATARI, INC.
+Tele-Game(tm) and Video Arcade(R) are trademarks of Sears, Roebuck and
+   Co.
+
+VC1001         (C)1982 U.S. Games                     Printed in Taiwan.
+
+
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

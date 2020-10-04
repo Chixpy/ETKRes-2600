@@ -1,0 +1,111 @@
+<Picture>
+
+<Picture>Donkey_Kong<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+Donkey Kong  by Nintendo
+ 
+        Plays, sounds and scores like DONKEY KONG arcade game!
+ 
+GAME DESCRIPTION
+ 
+        Donkey Kong the ape has kidnaped Mario's girlfriend! In
+this action-packed rescue adventure, you move Mariothrough
+incredible dangers to save her. Your skill and speed determine
+your score.
+ 
+USING YOUR CONTROLS
+ 
+        1. Left Controller: Hold it with the red button to your
+           upper left (toward the TV)
+        2. Control Stick: Push the control stick left or right to
+           make Mario run. Position Mario under or over a ladder and
+           push the Control Stuick up or down to make Mario climb
+        3. Red Button: Press the Red Button to start each new
+           screen and to make Mario jump to avoid barrels or fireballs
+           or to grab the hammer. Jumping barrels or fireballs is easiest
+           when Mario and the barrels are moving toward each other.
+ 
+HERE'S HOW TO PLAY
+ 
+        STEP 1: Get Started
+        To start a game immediately after turning on your Video
+        Computer System, just press the Red Button on your controller.
+        To play another game, press GAME RESET
+        To activate Mario and start action, press the RED Button
+ 
+        STEP 2: Making it to the Top
+        When the first of your three Marios appears on the ramps, try
+        to get him to the top to save his girlfriend. If Mario is hit by a
+        barrel, he is eliminated. Climb the unbroken ladders to reach the
+        next ramp! Mario cannot climb broken ladders
+ 
+        STEP 3: Hammer Away!
+        If mario jumps up and grabs the hammer, he can face the
+        barrels and hit them for extra points. But if the hammer misses
+        and the barrel hits Mario, he's eliminated! And remember - he
+        can't climb ladders with the hammer, and the hammer disappears
+        in a few seconds
+ 
+        STEP 4: How Time Flies...
+        The Score/Bonus indicator shows your bonus "counting down"
+        Watch out! If it reaches ZERO, Mario is elimated!
+ 
+        STEP 5: Success or failure?
+        If you make it to the top of the ramp, the remaining bonus is
+        added to your score and move on to the rivet screen. But if you
+        fail, Mario is eliminated.
+ 
+        STEP 6: A Riveting Mission.
+        Mario must remove all the rivets to save his girlsfriend. To
+        remove a rivet, Mario runs or jumps over it - and it disappears!
+ 
+        STEPS 7: Playing with Fire.
+        Jump over fireballs for points - or avoid them. (Remember, the
+        fireballs are following Mario - and they're tricky! Fireballs
+        always stay on the same ramps, but sometimes jump across the gaps.)
+ 
+        STEP 8: Hurrah!
+        When you have removed all the rivets, the game continues to
+        alternate between the two screens - but the action gets harder
+        as you go! Keep playing intil you run out of Marios.
+ 
+ 
+        SCORING
+                While you control MArio, the Score/Bonus Indicator shows
+        your bonus counting down. Between screens and at game end, your
+        score is displayed.
+ 
+        Starting Bonus Value (each Screen)      5000 points
+        Jumping a barrel or fireball             100 points
+        Eliminating a Rivet                      100 points
+        Smashing a barrel or Fireball            800 points
+ 
+        The player recieves three Marios per game
+ 
+ 
+(that was it)
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

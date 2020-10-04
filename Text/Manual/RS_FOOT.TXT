@@ -1,0 +1,260 @@
+Atari 2600
+RealSports(tm) FOOTBALL
+
+Game designed and implemented by Rob Zdybel.
+
+ATARI welcomes your comments.  Please address all correspondence to:
+
+ATARI
+Customer Relations
+1312 Crossman Avenue
+Sunnyvale, CA 94086
+
+NOTE: Always turn the console POWER switch OFF when inserting or removing an
+ATARI Game Program(tm) cartridge.  This will protect the electronic components
+and prolong the life of your ATARI 2600(tm) Video Computer system(tm) game.
+
+(C) 1982 ATARI, INC. ALL RIGHTS RESERVED
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION
+2. GAME PLAY
+3. USING THE CONTROLLERS
+4. CONSOLE CONTROLS
+5. CALLING PLAYS
+6. SCORING
+7. HELPFUL HINTS
+
+1. INTRODUCTION
+
+You're the quarterback of the ATARI offensive team, and you're really feeling
+the pressure.  Down by less than a touchdown in the closing seconds of the
+game, you have to maneuver that ball into the end zone somehow for the winning
+score.  How will you do it?
+
+You could run with the ball and try to evade that wide-ranging middle 
+linebacker.  Be careful, though.  He's a littel bit faster than you and will
+catch you over the distance. 
+
+Fortunately, you've done your homework by practicing your passing in the
+one-player game against the computer.  But this is head-to-head competition
+against a real person, and people aren't always as predictable.
+
+It's your ball.  Hurry!  Time's running out.  Can you call the right play and
+get that touchdown?
+
+2. GAME PLAY
+
+The basic rules of football apply, with some modification.
+
+Like regular football, the object of ATARI RealSports FOOTBALL is to score
+more points than your opponent by getting touchdowns, field goals, and
+safeties.  You advance the ball toward the goal by running and passing
+according to the plays you select with your Joystick Controller.
+
+Each team has five players, one of which can be controlled by the Joystick.
+You can play against the computer in a one-person game; or you can compete
+against another person in a two-player game.
+
+The clock runs continuously during plays.  It stops after incompleted passes,
+scores, turnovers, dead balls, and when offense calls its play.  It resumes
+at the hike.
+
+The clock will run down for no more than 30 seconds after the last completed
+play.  If offense has not called its play by this time, the clock will
+freeze until it resumes at the hike.
+
+There are no time outs, no fumbles, no penalties, and no running out-of-bounds.
+Each game consists of one 15-minute quarter.
+
+3. USING THE CONTROLLERS
+
+Use your Joystick Controllers with this ATARI Game Program cartridge.  Be sure
+the controller cables are firmly plugged into the CONTROLLER jacks at the
+back of your ATARI 2600 Video Computer System game.  For one-player games,
+use the Joystick plugged into the LEFT CONTROLLER jack.  Hold the Joystick with
+the red button to your upper left, toward the television screen. (See your
+Owner's Manual for further details.)
+
+   
+
+ Move Diagonally  Move Up      Move Diagonally                    
+            \         |          /
+
+Move Left   -                    -   Move right
+
+            /         |          \
+Move Diagonally   Move Down    Move Diagonally
+
+Use your joystick to:
+
+     * Call plays before the hike.
+     * Direct your control-player after the hike.
+
+Use the fire button to:
+
+     * Hike the ball.
+     * Pass the ball.
+     * Program a kick play.
+     * Kick the ball.
+     * Call up a blitz play.
+
+4. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+You can choose a one-player or a two-player game.  Press the GAME SELECT switch
+until your choice is indicated by the down number on the scoreboard.
+
+GAME RESET SWITCH
+
+After you have selected your game, press the GAME RESET switch to begin a new
+game.
+
+TV TYPE SWITCH
+
+Set this switch to COLOR if you're playing on a color television set.  Set it
+to B-W to play the game in black and white.
+
+DIFFICULTY SWITCHES
+
+The difficulty switches establish the running speed of the control-players.
+The A (advanced) switch makes the control-player run half as fast as the B
+(beginner) switch.  The difficulty switches are especially useful as a
+handicap so the abilities of two players can be more evenly matched.  B is the
+recommended mode for all players.  A should be used as a handicap between
+unevenly matched players--with the(allegedly) stronger player in the A mode.
+
+5. CALLING PLAYS
+
+In the one-player game, you play the blue team and the computer plays the
+yellow team competively against you.  Sometimes you are on offense; sometimes
+on defense.  In either case, you only have to call up the play for your side:
+the computer will select its own play and hike the ball soon after.
+
+In the two-player game, each person must select a play before the scrimmage
+can begin.  The flashing scoreboard indicates which side has yet to call its
+play.  As soon as both sides have called their plays, the flashing team scores
+will stabilize, indicating that offense can now hike the ball by pressing the
+red button.
+
+To call plays, move the joystick or push the red button--as indicated by 
+Figures 2 and 3.
+
+OFFENSE
+
+To pass, press the red button and the ball will be thrown toward a pass
+pass-eligible receiver who is running a pre-arranged pattern.  You can only
+have one pass-eligible receiver in any play.  The art of passing is to time
+his pattern with the arrival of the ball. (Figure 2.)
+
+To kick, you need to press the red button a total of three times.  once, to
+program a kick play before the hike; a second time to hike the ball; a third
+time to actually kick the ball.  Field goals and punts are called up in
+exactly the same way.
+
+If you kick close to the goal and the ball goes through the goal posts, the
+kick will register as a field goal.  If the ball misses the goal posts, the
+kick will have functioned as a punt.  The ball will be downed where it went 
+dead; or, if it did enter the end zone, it will come out to the twenty for the
+next set of plays.  There are no punt returns and no blocked kicks.
+ ---------
+| To Kick |
+ ---------
+
+  Long Pass Left  Long Pass Right
+                \/
+      Run Left -  - Run Right
+                /\
+Short Pass Left    Short Pass Right 
+
+     Figure 2 - Offensive Plays
+
+DEFENSE
+
+Except for the blitz, each of the other four defensive plays offers some kind
+of defense against a pass. (Figure 3.)
+
+If you call a blitz, the defensive safeties will join the linemen in rushing
+the quarterback.  You then have only your control-player to cover the pass
+and a possible run.
+ ----------
+| To blitz |
+ ----------
+
+            Short Pass,
+       Both Safeties Covering
+                 |
+Short Pass Left - - Short Pass Right
+                 |
+            Long Pass,
+       Both Safeties Covering
+
+      Figure 3 - Defensive Plays
+
+6. SCORING
+
+Crossing the defensive team's goal line by running or passing the ball
+successfully into their end zone is a TOUCHDOWN.  It counts for seven (7)
+points, and the ball will automatically be brought out to the twenty-yard line
+to begin the next series of plays.
+
+Kicking the ball through the "goal posts" is a FIELD GOAL and counts for three
+(3) points, with the ball brought out to the twenty.  Kicking field goals is
+random and depends on your proximity to the goal line.  If you kick from within
+the twenty, your chances are excellent; if you're beyond the forty, better
+try something else.
+
+Tackling the ball carrier in his own end zone is a SAFETY and scores two (2)
+points for the defensive team.  They also gain possession of the ball on their
+own twenty-yaerd line.
+
+7. HELPFUL HINTS
+
+* When you call plays like the short pass left and the long pass left, it is
+sometimes tricky to move your Joystick perfectly along the diagonal line that
+programs those plays.  Try moving your Joystick straight up (or down) first,
+and then shift it toward the diagonal that programs your selected play.
+
+* After you throw a pass and thet quarterback has exited from the TV screen,
+Joystick control is automatically transferred to the intended receiver.  Use
+the Joystick to adjust his position while the ball is in mid-flight, and you
+may improve your chances of completing a pass.
+
+* "Rolling out" toward the side where your receiver runs his pattern is often
+a good tactic in completing a pass.  Ultimately, though, successful passing
+is a matter of good timing.
+
+* Blocked passes and interceptions can occur if a defensive player is in the
+direct line of flight of the pass.  You cannot throw a pass over a player's
+head.
+
+* It is not easy to run against the computer in the one-player game.  Your best
+bet is to use your blockers and tangle up that fleet-footed linebacker at the
+line while you scurry for yardage.
+
+* The defensive control-player is a hair faster than the ball carrier, so he
+can make the tackle over the short run.  But if you can manage to get a decent
+enough headstart, you've got yourself a long gainer and maybe a touchdown.
+
+ATARI, INC.
+Consumer Division
+P.O. Box 427
+Sunnyvale, CA 94086
+
+A Warner Communications Company
+
+C019741-68 REV.1 2668 
+(C) 1982 ATARI, INC. ALL RIGHTS RESERVED
+Printed in U.S.A.
+
+This document typed and converted to html by gchance@ecst.csuchico.edu.
+
+
+
+
+
+  
+
+ 

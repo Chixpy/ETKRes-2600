@@ -1,0 +1,169 @@
+	FLASH GORDON
+
+	20th Century Fox
+	Games of the Century
+
+	[Flash Gordon movie poster.]
+
+	Game Instructions
+
+
+	FLASH GORDON
+
+TO SET UP: Set up your video computer system and left joystick controller as
+instructed in your game system owner's manual.  Turn the power OFF.  Insert
+the Flash Gordon game cartridge and then turn the power ON.  The Game Select
+lever and Difficulty Switches are not used in Flash Gordon.  Press the Game
+Reset lever or the joystick button to leave the game demonstration and
+prepare for a daring mission through Spider City!
+
+You can use the Color/B-W lever to pause and restart the game at any time
+during play.
+
+THE CONTROLS: Tilt the joystick to maneuver your Rocket Ship through the
+city's tunnels.  Use the joystick button to shoot the enemy.
+
+THE OBJECTIVE: Many dedicated Spacemen have entered Spider City but none has
+ever been heard from again.  It is up to you, Flash Gordon, to rescue any
+surviving Spacemen and to conquer this hideous city of tunnels.  Spider City
+is conquered when all of its Hatching Pods are eliminated.  It doesn't hurt
+to blast a few Generators or enemy Patrol Ships while you're there.
+
+SCREEN DISPLAY: The lower half of your screen shows a map of the city's
+tunnels.  The city is a closed system, so when you move through the
+passageways at either edge of the screen, your Rocket Ship will reappear at
+the opposite side of the map.  Your Ship is represented on the map by a
+small horizontal line.  The vertical lines on the map are Hatching Pods
+which contain the Spider Warriors.  The crosses represent Disrupters.
+
+The upper portion of the screen is a close up view of what is happening in
+the city.  Your score is shown at the top of the screen.  Extra ships are
+displayed at the bottom left and in the bottom right corner the number of
+cities conquered is shown.
+
+SCORING/BONUSES:
+10 points = Debris
+25 points = Patrol Ship
+70 points = Rescued Spaceman
+100 points = Disrupter Generator
+100 points = First Spider Warrior shot from any hatching.  You receive 200
+points for the second, 300 points for the third, and so on.
+-1000 points = Penalty for shooting a Spaceman
+
+Each time a City is conquered an extra ship is awarded.  Up to nine bonus
+Ships can be shown on the screen at a time although you may have even more
+than nine in reserve.  Bonus points are also awarded after conquering a
+City.  You will receive 10 points for each Spaceman rescued by the current
+Ship, multiplied by the number of Cities you have conquered.  If a Ship is
+destroyed before the end of any level, any bonus it has accumulated is lost.
+
+OBJECTS:
+Hatching Pods, Spider Warriors & Shields: Your primary task is to destroy
+Warriors.  First you need to touch one of the Hatching Pods shown on the map
+with your Rocket Ship.  This causes the Pods to hatch, releasing the
+Warriors.  The young Warriors will try to fly and so you must shoot them
+before they escape.  If you succeed in shooting five Warriors from any
+hatching, you will absorb enough power to establish a temporary shield which
+protects you from harm.  When the shield is on, you can run into the enemy
+to destroy them.  Two beeps will warn that the shield is about to disappear.
+
+Also, whenever a Ship is destroyed, the replacement Ship is given temporary
+shields.  This gives you a chance to escape any tight situation you may find
+yourself in.
+
+DISRUPTERS: These are represented on the map by large crosses.  Disrupters
+cannot be destroyed.  Although you cannot see where a Disrupter begins or
+ends in the top portion of the screen, you sure can tell when you are in the
+middle of one!  You will find yourself surrounded by deadly Debris.  Avoid
+contact with the Debris and try to get out of the Disrupter as quickly as
+possible.  Shooting one of the Disrupter's Generators will help you to
+escape safely.  This temporarily freezes the Disrupter so that you can
+continue on through the tunnel without being followed.
+
+PATROL SHIPS: Lone Patrol Ships in the tunnels are hazardous to your Ship
+should you accidentally collide with one.  Shoot as many as you can.
+
+SPACEMEN: Part of your mission is to rescue Spacemen who have been stranded
+in Spider City.  To rescue a Spaceman, touch him with your ship.  Avoid
+shooting them.  A true hero like Flash Gordon would never do a thing like that!
+
+DIFFICULTY LEVELS/CONQUERING A CITY:
+The Flash Gordon game play gets more and more difficult as each new City is
+destroyed.  As soon as you have eliminated all the Hatching Pods from the
+City Map and reach a place in the tunnel free of enemy objects, you will
+advance to the next level.  You cannot advance while inside a Disrupter.  Up
+to 39 conquered Cities can be displayed on the screen at once, although you
+can continue to rid the universe of Spider Warriors for as long as you wish.
+
+HINTS FROM DAVID LUBAR...
+The key is to try and maintain shields at all times.  Once you have shields,
+go to another Hatching Pod right away.  You can use the shielded Ship to
+quickly destroy the Spider Warriors.
+
+When the Disrupters speed up at the higher levels, it is almost essential to
+shoot a Generator in order to escape.
+
+Learn to use both displays.  The City Map is your only clue to where you are
+and to where the Pods are.
+
+SPACE ACES
+Name				Cities Conquered			Score
+
+
+
+
+
+
+Also Available from Fox Video Games:
+
+REVENGE OF THE BEEFSTEAK TOMATOES
+Once the Tomatoes take over, will we ever ketchup?
+
+CRYPTS OF CHAOS
+Centuries of mystery, hours of fun!
+
+TURMOIL
+A topsy-turvy rapid reflex test!
+Program and audio visual copyright 1982 Sirius
+
+FANTASTIC VOYAGE
+A heart stopping adventure!
+Program and audio visual copyright 1982 Sirius
+
+MEGAFORCE
+Where action speaks louder than words!
+Megaforce is a trademark of Northshore Investments, LTD
+
+ALIEN
+In your living room, everyone can hear you scream!
+Alien is a 20th Century Fox Film Corporation production
+
+BEANY BOPPER
+Beany Boppin' will keep you hoppin'!
+Program and audio visual copyright 1982 Sirius
+
+WORM WAR I
+The battle of the century is taking place!
+Program and audio visual copyright 1982 Sirius
+
+DEADLY DUCK
+It takes more than luck to play Deadly Duck!
+Program and audio visual copyright 1982 Sirius
+
+FAST EDDIE
+You've got to be cool and you've got to be steady to play Fast Eddie!
+Program and audio visual copyright 1982 Sirius
+
+
+FLASH GORDON
+A game by David Lubar
+Program and audio visual copyright 1982 Sirius Software, Inc.
+Packaging copyright 1982 Fox Games, Inc.
+Copyright by King Features Syndicate, Inc.
+Copyright 1980 by Universal City Studios, Inc.
+Flash Gordon is a trademark of King Features Syndicate, Inc.
+All rights reserved
+
+Fox Video Games, Inc., Saratoga, California 95071
+Printed in Taiwan  82-FOX-2068
+

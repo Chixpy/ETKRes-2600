@@ -1,0 +1,127 @@
+1. NOTES FROM THE COMMANDER
+
+Welcome aboard the missile laser base. I'm Commander Champion, your
+training instructor. These laser bases are used to protect our
+Universe from alien attack. Each laser base carries missiles which
+you'll launch from your control panel.
+
+In your first training mission, you'll be battling an age-old threat,
+the Galaxian fleet, which has thrived on war and terrorism for
+centuries. Together, we must destroy these warmongers to maintain
+peace and tranquility over the Universe.
+
+Before we go into action, let's talk about Galaxian battle tactics.
+The Galaxian fleet always flys in formation. As one ship descends
+from the extreme right or extreme left it drops deadly bombs and then
+returns to original position. The Galaxian leaders, Flagships, are
+usually flanked by protective Escorts. The best way to get them is to
+first destroy the Escorts, then go after the Flagship.
+
+2. GAME PLAY
+
+The object of the game is to destroy the Galaxian fleet before they
+blast your laser base to stardust. The fleet lines up in ranking
+order before plunging down to bombard your laser base. If a Galaxian
+survives a bombing run, he returns to his original position.
+
+You begin the game with three laser bases, and score points for each
+Galaxian destroyed with your laser missiles. You earn extra points
+for destroying a Galaxian in flight, and at 7000 points, you receive
+a bonus laser base.
+
+The Galaxian fleet attacks in waves. Each time you manage to destroy
+an entire wave, another fiercer wave is launched.
+
+3. USING THE CONTROLLER
+
+Use your Joystick Controller with this ATARI Game Program cartridge.
+Be sure the controller cable is firmly plugged into the LEFT
+CONTROLLER jack at the back of your Video Computer System console.
+Hold the controller with the red button to your upper left, toward
+the television screen. (See your owner's manual for further details.)
+
+Use your Joystick to slide your laser base right and left across the
+bottom of the screen. Press the red fire button to launch laser
+missiles at the Galaxian fleet.
+
+4. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+Press GAME SELECT to choose the desired skill level (1 through 9).
+The skill level number is the same as the wave number displayed in
+the lower right corner of the screen.
+
+SKILL LEVELS
+
+The ATARI GALAXIAN game includes nine skill levels, each offering
+varying degrees of challenge. Level 1 is relatively slow and easy,
+and level 9 is fast and difficult. The higher the skill level, the
+faster and harder the Galaxian fleet attacks.
+
+GAME RESET SWITCH
+
+Press GAME RESET to reset the program. Press the red controller
+button to start the game; at the end of a game, press it to play the
+same game again.
+
+TV TYPE SWITCH
+
+Set this switch to COLOR if you're playing on a color TV. Set it to
+B/W to play the game on a black and white TV.
+
+DIFFICULTY SWITCHES
+
+The LEFT DIFFICULTY switch determines your laser base firing response
+mode. Set the DIFFICULTY switch to B and hold the fire button down
+for continuous firing. Set the DIFFICULTY switch to A and use your
+thumb to tap the fire button each time you want to fire a missile.
+
+5. SCORING
+
+The point value of a Galaxian is determined by its rank and position
+in the lineup. Drones, the lowest rank are green; Emissaries are
+purple; Escorts are red; and Flagships, the highest rank are white.
+you score double points for destroying a Galaxian in flight. Destroy
+a Flagship in flight and you score even more bonus points. (See Figure
+1 for rank and point values.)
+
+Your score appears at the upper right side of the screen. The attack
+wave is indicated by the number in the lower right corner of the
+screen (see Figure 2).
+
+The number of laser bases remaining is indicated by the laser bases
+shown at the lower left corner of the screen (see Figure 2).
+
+Figure One
+DRONES
+3 BOTTOM ROWS (GREEN) = 30 POINTS; IN FLIGHT = 60 POINTS
+EMISSARIES
+4TH ROW UP (PURPLE) = 40 POINTS; IN FLIGHT = 80 POINTS
+ESCORTS
+5TH ROW UP (RED) = 50 POINTS; IN FLIGHT = 100 POINTS
+FLAGSHIPS
+TOP ROW (WHITE) = 60 POINTS; IN FLIGHT = 120 POINTS
+FLAGSHIP
+IN FLIGHT WITH ONE RED ESCORT = 200 POINTS
+FLAGSHIP
+IN FLIGHT WITH TWO ESCORTS = 300 POINTS
+BOTH ESCORTS FIRST THEN THE FLAGSHIP = 800 POINTS
+
+6. HELPFUL HINTS
+
+WARNING: Sometimes exploding particles from a destroyed red escort are
+deadly.
+
+Shoot escorts (red members of the Galaxian fleet) only when they are
+escorting a Flagship; shoot the Flagship only in flight. Doing this
+will help you score higher points.
+
+Study the Galaxian attack patterns; that way you'll know what to
+expect from each member of the Galaxian fleet.
+
+If you need a rest while fighting waves 1 and 2 of the Galaxian
+attacks, go to the extreme right or extreme left of the screen for a
+few seconds. During the higher level waves, stay away from the
+corners to avoid being trapped by a Galaxian.
+-------------------Atari 2600 Instructions Archive-------------------

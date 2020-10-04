@@ -1,0 +1,211 @@
+WARLORDS(tm)
+ATARI(R) GAME PROGRAM(tm) INSTRUCTIONS
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION
+2. BATTLE OBJECTIVE
+3. CONSOLE CONTROLS
+4. USING THE CONTROLLERS
+5. GAME VARIATIONS
+6. HELPFUL HINTS
+7. GAME SELECT MATRIX
+
+1. INTRODUCTION
+
+Once long ago in a distant land lived a king named Frederick.  He took very
+good care of his subjects and pretty much let the kingdom run itself.  One
+day King Frederick and his wife, Queen Christina, decided to start a family.
+To their surprise, Queen Christina soon gave birth to quadruplets.  Four
+healthy sons, all at once.  The King and Queen were overwhelmed.
+
+The years passed quickly and Frederick's sons(Dominick, Marcus, Felipe, and
+Restivo) grew to be strong young men.  But they were nothing like their kind
+and peaceful father.  They were just the opposite.  The four sons of King
+Frederick fought constantly over anything and everything.  Their fighting
+was so fierce that even the normally unconcerned Frederick became concerned.
+Left to his violent and competitive sons, his peaceful kingdom could very well
+be destroyed after he was gone, or perhaps even sooner.
+
+The solution King Frederick decided upon was drastic, but he knew it had to
+be.  Dominick, Marcus, Felipe, and Restivo were banished from their homeland
+and sent far away to a forbidden land.  There they became warlords, dividing
+their newly acquired territory into four equal sectors, which incidentally,
+was the first and last thing they ever agreed upon.  They then took to building
+their own castles, after which the battling resumed and never ended.  They
+stopped catapulting fireballs and lightning balls at one another only long
+enough to rebuild their damaged and war torn castles.  After repairs were
+made, the fighting always began again with renewed ferocity.
+
+So King Frederick's warlords have been battling for many centuries and now
+it's up to you to carry on their long-standing feud.  Dominick, Marcus, 
+Felipe, and Restivo have been locked inside this Game Program.(tm)  They've
+stored enough fireballs and lightning balls so that they'll never run out,
+and neither will you.  They can hardly wait to do battle.  So good luck,
+you're in for some fierce competition.
+
+2. BATTLE OBJECTIVE
+
+The object of the battle is to destroy the other three warlords before your
+warlord is destroyed.  Use the Paddle Controller to protect your castle
+and your warlord. (Your warlord is located inside the castle, as shown in
+Figure 1.)  Turn the knob on the controller to move your shield around your
+castle and block the ball*.  See Section 4--USING THE CONTROLLERS for more
+details on controller use.
+
+When you miss the ball, it knocks out the bricks of your castle.  As your
+castle breaks down, it becomes possible for the ball to hit your warlord, at
+which time you're out of the battle.  Each battle ends when only one warlord
+remains on the playfield.  THE FIRST PERSON OR COMPUTER PLAYER TO WIN FIVE 
+BATTLES WINS THE WAR.
+
+Note that a shield controlled by the computer will move slower than a shield
+controlled by a human player.  To compensate for this fact, the computer 
+player and shield have the power to throw the ball in unexpected directions.
+
+Also, when a warlord has been killed, his ghost will haunt the battlefield.
+If the ball comes near, the ghost may actually hit the ball in a new 
+direction.  If you look closely, you may even catch a glimpse of the ghost
+and his shield.
+
+* Of the 23 games in WARLORDS(tm), each game has fast(lightning), or slow
+(fireball) speed.  see Section 5--GAME VARIATIONS and the GAME SELECT
+MATRIX for a description and breakdown of all the games.
+
+3. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+Use the game select switch to select the game number you wish to play.  The
+game number changes at the top, left side of the screen as you press down
+the switch.  The number to the right is the number of players for each game,
+which also changes as the game number changes. (See Figure 2.)
+
+GAME RESET SWITCH
+
+When you have selected the game number you wish to play, press down the game
+reset switch to start the game.
+
+DIFFICULTY SWITCHES
+
+Not used.
+
+TV TYPE SWITCH
+
+Set this switch to color if you hvae a color television set.  Set it to b/w
+to play the game in black-and-white.
+
+4. USING THE CONTROLLERS
+
+Use the Paddle Controllers with this ATARI(R) Game Program(tm) cartridge.  Be
+sure the controller cables are firmly plugged into the LEFT CONTROLLER jack
+at the back of your ATARI Video Computer System(tm) game.  For one- or two-
+player games, use the LEFT CONTROLLER jack.  Three- or four-player games
+require an additional set of controllers plugged into the RIGHT CONTROLLER
+jack.
+
+NOTE: If unsure about which shield your controller operates, turn the knob on
+your Paddle Controller to see which shield moves on the screen.
+
+Hold the controller with the red button to your upper left toward the
+television screen.  See Section 3 of your Video Computer System Owner's
+Manual for further details.
+
+Turn the knob on the controller to move your shield and to block the ball.
+To use the CATCH feature, press and hold the red controller button before
+the ball makes contact with your shield.  Release the button to send the ball
+back toward your opponents at HIGH SPEED.
+
+Check the GAME SELECT MATRIX to see which games feature CATCH.
+
+5. GAME VARIATIONS
+
+WARLORDS HAS THREE MAIN VARIATIONS:
+
+A. Number of players--one, two, three, four, or Doubles.  The GAME SELECT
+   MATRIX will show you the number of players for each game.  In Doubles
+   (D) games, two players control two shields each.  The computer operates
+   any unused shields.
+
+B. Ball speed--fireball/lightning ball.  Depending on the game number you
+   play, the ball speed will either be slow(fireball), or fast(lightning ball).
+   As noted before, when using the CATCH feature, the ball comes off your
+   shield at high speed.  Also, when hitting bricks, the darker the wall, the
+   faster the ball will return.
+
+C. Shields--ricochet/CATCH.  Your shields function either with ricochet or
+   CATCH.  Ricochet simply means that the ball rebounds off your shield 
+   whenever contact is made.  The CATCH feature means that the ball sticks to
+   your shield when you hold down the red controller button before contact is
+   made.  The ball comes off the shield at high speed when you release the
+   button.  Use the CATCH feature to aim the ball at your opponents or change
+   the pace of the battle.
+
+CHILDREN'S VERSIONS
+
+GAMES 21, 22, and 23 are special versions for young children.  The game play
+is slowed down considerably.  All three games feature ricochet(rather than
+CATCH), and all three have fireballs(slow balls).  The only difference in the
+three games is the number of players(4, 3, or 2).  Check the GAME SELECT
+MATRIX.
+
+6. HELPFUL HINTS
+
+When you first start playing WARLORDS, choose games with slow ball speed
+(fireball).  This will help you get the feel of the game faster.  Also, there
+are certain positions in which the ball always comes off your shield at the
+same angle, or in the same direction.  Learn these positions and use them to
+your advantage against your opponents.
+
+Don't be too predictable.  If you attempt to shoot from the same angle or 
+from the same position too often, your opponents will know what to expect and
+will nearly always be able to block your shots.  Vary your attacks to keep
+the others off guard.
+
+Study your opponents' weaknesses.  You can learn a lot by studying the habits
+of the enemy.  You may find, for example, that one of your opponent moves very
+well in one direction when attempting to block shots, but has trouble moving
+in the opposite direction.  Obviously then, you want to concentrate on the
+direction he or she has trouble moving to.
+
+Team Competition: You will find that four-player games are terrific because
+the action is fierce and extremely competitive.  You may even want to create
+teams and battle for the best cumulative score.
+
+7. GAME SELECT MATRIX
+
+HOW TO READ THE GAME SELECT MATRIX
+
+Number of Players:
+4, 3, 2, 1, or Doubles(D)
+
+Shields:
+C = CATCH
+R = ricochet(no CATCH)
+
+Ball Speed:
+F = fast(lightning ball)
+S = slow(fireball)
+
+GAME SELECT MATRIX
+
+--------------------------------------------------------------
+Game Number         1   2   3   4   5   6   7   8   9   10  11 
+--------------------------------------------------------------
+Number of Players   4   3   2   1   D   4   3   2   1    D   4
+Shields             C   C   C   C   C   C   C   C   C    C   R
+Ball Speed          F   F   F   F   F   S   S   S   S    S   F
+--------------------------------------------------------------
+
+-----------------------------------------------------------------
+                                                      |Children's
+                                                      |Versions
+Game Number        12  13  14  15  16  17  18  19  20 |21  22  23
+------------------------------------------------------------------
+Number of Players   3   2   1   D   4   3   2   1   D | 4   3   2
+Shields             R   R   R   R   R   R   R   R   R | R   R   R
+Ball Speed          F   F   F   F   S   S   S   S   S | S   S   S
+-----------------------------------------------------------------
+
+
+-------------------Atari 2600 Instructions Archive-------------------

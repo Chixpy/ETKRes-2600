@@ -1,0 +1,245 @@
+<Picture>
+
+<Picture>Decathlon<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+OFFICIAL RULES
+THE ACTIVISION(R) DECATHLON
+
+Basics
+
+Requiring discipline and sweat, stamina and speed, with muscles opposing
+muscles, compete in the most celebrated game of the Olympics: the ten events
+of the decathlon.  Earn points for each event.  Highest final score wins!
+
+1. Insert game cartridge into video game system with power OFF.  Then, turn
+power ON.
+
+2. Plug Joystick into left controller port only.  One to four contestants may
+compete, taking turns using the Joystick.
+
+3. The game select switch is pressed to choose the number of contestants.
+This switch may also be used to play individual events. (See "Practice Heats"
+under "Special Highlights.")
+
+4. The difficulty switch is not used.
+
+5. Use of Joystick Controller.
+   * Hold Joystick with the red button in the upper left corner.
+   * Continually move Joystick to the left and rigth to run or to approach the
+scratch line.
+   * Press red button to jump, throw, hurdle, put the shot or vault.
+   * Total scores may be reviewed by pressing the red button before any event.
+
+6. To begin the Games, press game reset switch.
+
+7. The ten decathlon events are: 100-Meter Dash, Long Jump, Shot Put,
+High Jump, 400-Meter Race, 110-Meter Hurdles, Discus Throw, Pole Vault, Javelin
+Throw and 1500-Meter Race.
+
+8. Contestants compete separately in each event.  Some events allow more than
+one attempt per contestant.  When all contestants have completed an event,
+the next even automatically appears.
+
+9. Scoring.  Contestants earn points for each event.  Screen displays the
+contestant's event score following the event, and then each contestant's
+total score is displayed.  For the events that allow multiple attempts, only
+the highest event score is added to the total score.
+
+10. End of competition.  When the last contestant has completed the 1500-Meter
+run, The Activision Decathlon is concluded.  Final scores for all contestants
+are displayed.
+
+Special Highlights
+
+Speed Gauge.  Registers your relative running speed or approach speed
+throughout each event.  The faster or quicker you move the Joystick, the
+closer the gauge measures to the right-hand limit.
+
+Real-Time Clock.  Counts the minutes, seconds and fractions of seconds on
+the screen during all races.
+
+Distance Measure.  In each throwing event - Shot Put, Discus, and Javelin -
+the distance of each throw displays on the screen in meters.  The distance
+measure also calculates how far you jump in the Long Jump.
+
+Scratch Line.  Don't cross the scratch line before pressing the red button
+to jump the Long Jump, throw the javelin, put the shot or hurl the discus.
+"Scratching" disqualifies the attempt, resulting in a score of 0.
+
+Musical Tribute.  Each time you score 1000 or more points in any event, a
+musical tribute recognizes your special accomplishment.
+
+Current Contestant. A small square enclosing the number 1, 2, 3 or 4 reminds
+all contestants which decathlete is currently competing.
+
+Practice Heats.  All decathletes can practice any event before the Games.
+Hold the game select switch down and the name of each event will appear on the
+screen one at a time.  When the event you want to practice appears, release the
+game select switch and press the game reset switch.
+
+Events
+
+100-Meter Dash. Just one opportunity to sprint from start to finish.  Explode
+out of the starting blocks, then give it your all by moving the Joystick as
+fast as you can for the entire dash.  When you see the 100 meter marker, find
+a final burst of strength.  The quicker your time, the higher your points.
+Every 1/100 of a second matters.
+
+Long Jump. Each decathlete gets three jumps.  You begin with a running start
+of 30 meters.  Pres the red button just before you reach the scratch line to
+jump.  The faster you are running when you jump, the farther you'll go.  Your
+longest jump earns the most points.
+
+Shot Put.  All contestants "put" the shot three times.  Move the Joystick as
+rapidly as you can to approach the scratch line, then press the red button.
+The quicker your approach, the farther your "put" will go, and the more points
+you'll earn.
+
+High Jump. You are allowed a maximum of three attempts at each height.  Your
+turn ends when you miss the same height three times.  There is a 30 meter
+approach run to the high jump standards.  Press the red button to jump.  Each
+time you successfully "clear" a height, the crossbar automatically raises.
+The higher you jump, the more points will be added to your total.
+
+400-Meter Race. It's one middle-distance race.  Nothing to throw or jump.
+Pick your feet up and put 'em down as fast as you can.  The distance markers,
+set every 100 meters, show how far you've run.  The faster you complete the
+race, the more points you'll earn.
+
+110-Meter Hurdles.  There are ten hurdles to jump over that are positioned at
+10 meter intervals.  Run by moving the Joystick, and jump the hurdles by
+pressing the red button.  You won't be disqualified for 'spilling' a hurdle,
+but it will slow you down.  And that's important, because the faster you
+complete the race, the more points you are awarded.
+
+Discus Throw. You get three throws, but don't forfeit any of them by 
+"scratching."  The approach to the scratch line is just a few feet, so start
+moving the Joystick as fast as possible before pressing the red button to
+hurl the discus.  The farther the throw, the greater the points awarded.
+
+Pole Vault.  Each vaulter gets a maximum of three tries at each height.  Turn
+ends when you miss the same height three times.  Run to the vault pit and
+plant your pole by pressing the red button.  Continue to move the Joystick
+as you vault and, just at the peak, press the red button again to release
+the vaulting pole.  Each time you "clear" a height, the crossbar automatically
+raises.  The higher you vault, the more points you'll get.
+
+Javelin Throw. All contestants throw the javelin three times.  Run to the
+scratch line and press the red button to throw the javelin.  The farthest of
+your three throws earns the most points.  There's only one event left, so give
+this one your all.
+
+1500-Meter Race.  Each decathlete gets one chance to score well in the final
+event...you'd be too exhausted to race this one twice.  Maintain a steady pace
+for the first 1300 meters and then sprint to the finish.  Distance markers
+are placed every 100 meters, so you'll know how far the finish line is at all
+times.  The faster you complete the race, the higher the number of points
+you'll earn.  Good luck!
+
+The Activision Decathlon Club
+
+If your final score is from 8,600 to 8,999 points, then step up to the first
+award level and receive your Bronze Medal patch.  Let all contestants take
+special notice if you scored from 9,000 to 9,9999 points, and climb to the
+second award level to receive your spirited Silver Medal patch.  Stand at
+the top award level, where only champions have stood, if you score 10,000
+or more points, and be presented with the glorious Gold Medal patch.
+
+Send us a picture of your paramount performance (TV screen), and we'll mail
+you the appropriate Activision Decathlon Medal patch.
+
+Please write "The Activision Decathlon" and your final score on the bottom
+left corner of the envelope.
+
+David Crane's Personal Best Event Scores
+
+EVENT                     SCORE                PERFORMANCE
+100-Meter Dash             991                  10.29 seconds
+Long Jump                 1148                   8.66 meters
+Shot Put                   949                  17.81 meters
+High Jump                 1025                   2.2 meters
+400-Meter Race             989                  46.2 seconds
+110-Meter Hurdles          937                  14.19 seconds
+Discus Throw              1052                  60.75 meters
+Pole Vault                1052                   5.0 meters
+Javelin Throw              996                  80.68 meters
+1500-Meter Race            994                  3:41.00
+       TOTAL            10,133 points
+
+Win the Gold Medal Patch
+
+Tips from David Crane, designer of The Activision Decathlon.
+
+David Crane is a multiple award-winning senior designer at Activision.
+Recognized as one of the premier designers by the video game industry, David
+has created Dragster(R), Fishing Derby(R), Laser Blast(R), Grand Prix(TM),
+Freeway(R), Pitfall!(TM) and now The Activision Decathlon.
+
+"It won't take you very long to realize that The Activision Decathlon is
+very physically demanding.  Therefore, the best tip I can give you is to
+pace yourself.  It won't do you any good to use up all of your energy in the
+early events, only to become too tired to complete the final 1500-meter run.
+
+"Since each event includes some form of running, even if it's just a short
+approach to the scratch line, it is important to know that you don't have to
+move the Joystick to its left-hand and right-hand limits.  It is only the
+continual left-to-right motion of the Joystick that makes you run.
+
+"Another characteristic of The Activision Decathlon is balance.  Remember
+that every even adds to your final score equally.  You must excel in all
+events, so practice those that you are weakest at.
+
+"Also, watch the speed gauge to measure your progress as you compete.  If you
+can keep the red speed bar at 5/6 of the distance towards the right limit
+of the gauge throughout a race, or at that level when you jump or throw, then
+you'll score close to 1,000 points and will be on your way to winning the
+gold.
+
+"But most important, enjoy yourself.  Compete at your absolute best and send
+me a scorecard telling me how your progress is going.  I'd love to know how
+I compare."
+
+[Picture of a very arrogant dweeb looking David Crane.]
+
+Let us get to know you!
+
+If you have questions or comments about our games or clubs, or want to be
+added to our mailing list, drop us a note or call the "Game Hotline" toll-free
+at (800) 633-GAME.  In California please call (415) 940-6044/5.
+
+ACTIVISION(R)
+Activision, Inc. Drawere No. 7287
+Mountain View, CA  94039
+
+Atari(R), 2600(TM) and Video Computer System(TM) are trademarks of ATARI, Inc.
+
+Activision is the registered trademark of Activision, Inc.
+
+(C) 1983 Activision AZ-030-03  Printed in U.S.A.
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

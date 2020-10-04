@@ -1,0 +1,946 @@
+<Picture>
+
+<Picture>Air-Sea_Battle.html<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+AIR-SEA BATTLE
+
+
+
+
+
+
+
+
+GAME PROGRAM TM INSTRUCTIONS
+
+
+
+
+Model CX-2602
+
+
+
+ATARI
+
+A Warner Communications Company
+
+ATARI, INC., Consumer Division
+
+P.O. Box 427, Sunnyvale, CA 94086
+
+
+
+
+
+
+(c) 1977 ATARI, INC.                         C011402-02
+
+
+
+
+
+
+AIR-SEA BATTLE
+
+
+
+
+
+NOTE: Use your Joystick Controllers with this Game Program. Be sure the 
+Controllers are firmly connected to your Console unit. If, after inserting this
+Game Program into your Video Computer System and turning it on, no playfield 
+appears on your television scree, turn the Console unit OFF, wait ten seconds, 
+and then turn it ON again.
+
+
+
+
+
+CONTROLLER ACTION
+
+
+
+
+
+Controller action varies depending on the game being played. Details for 
+Joystick Controller action can be found under each game heading. In all cases, 
+hold the controller with the red button to your upper left towards the 
+television screen.
+
+
+
+
+
+SCORING
+
+
+
+
+
+All games end after 2 minutes, 16 seconds of play, or when either player scores
+99 points. During the last 16 seconds, the score will flash to show that the 
+game is nearing the end.  Point scoring for each game is noted in that game's
+instruction.
+
+
+
+
+
+DIFFICULTY
+
+The Difficulty switches on your Atari Video Computer System console control the
+size of the missile. In Position "A" the missile is one-fourth the size 
+of position "B".
+
+
+
+
+
+ANTI-AIRCRAFT(TM) GAMES
+
+
+
+
+
+
+      #
+     ##        Joystick
+   ###         Forward
+  ###
+ ##
+########
+########
+
+  30 degrees
+
+   ###
+   ###
+  ###
+  ###          Joystick 
+ ###           Center
+ ###
+#######
+#######      
+
+  60 degrees
+
+
+ ##
+ ##
+ ##            Joystick 
+ ##            Back
+ ##
+ ##
+#######
+#######
+
+  90 degrees
+
+
+
+
+
+
+
+Gun Position
+
+
+
+
+
+Your Joystick Controller changes the angle of your "Anti-Aircraft Gun" and also
+the angle of the missile flight in Guided Missile Games. Forward = 30 degree; 
+center or rest = 60 degrees; back = 90 degrees (straight up).
+
+
+
+
+
+In the Anti-Aircraft games, from one to six flying objects will move together 
+across the playfield in a set. All objects in the set must be hit before a new 
+set will appear. Each object scores one point.
+
+
+
+
+
+GAME 1
+
+This is the Anti-Aircraft game described above. Your missile travels at the same
+angle your "Anti-Aircraft gun" was in at the time you fire.
+
+
+
+
+
+GAME 2
+
+In this game, you and your opponent have "guided" missiles. After firing, you 
+control the angle of flight of your missile by moving your Joystick Controller 
+from front to back.
+
+
+
+
+
+GAME 3
+
+The left "gun" is fired continuously by the computer. Using the right Joystick 
+Controller, try to out score the computer.
+
+
+
+
+
+ANTI-AIRCRAFT(TM) GAMES
+
+# #####
+#   #
+########
+########
+    #
+  #####
+
+4 POINTS
+
+##
+##            ####
+#####################
+#####################
+     #########
+     ######
+
+3 POINTS
+
+   #####
+#    #
+##  ####
+ ##### #
+    ## #
+    ####
+
+2 POINTS
+
+##
+####
+#################
+         ###########
+      ######
+   ######
+
+1 POINT
+
+  ############
+####        ####
+####  ####  ####
+####        ####
+####  ####  ####
+  ############
+      ####
+
+NO POINTS
+
+
+
+
+
+
+This set of Anti-Aircraft games adds a challenge to your
+marksmanship. There are various flying objects on the
+playfield travelling at different speeds and directions. Each
+object has a different score value; Small Jet = 4 points;
+Large Jet = 3 points; Helicopter = 2 points; 747 = 1 points.
+The "Observation Blimps" flying randomly across the bottom of
+the playfield score no points, and act as an obstruction to
+your line of fire.
+
+
+
+
+
+GAME 4
+
+In this game your missile travels at the same angle as your
+"gun" was in at the time you fired.
+
+
+
+
+
+GAME 5
+
+Using "guided" missiles try to outscore your opponent. After
+firing, you control the angle of flight of your missile by
+moving your Joystick Controller from front to back.
+
+
+
+
+
+GAME 6
+
+Here's another chance to beat the computer. The right Joystick
+Controller is your "gun", while the computer fires the left
+"gun" continuously.
+
+
+
+
+
+TORPEDO(TM) GAMES
+
+
+          NO EFFECT
+              ^^
+           \  ||  /
+     LEFT <--STOP--> RIGHT
+           /  ||  \
+              vv
+          NO EFFECT
+
+
+
+Controller Action
+You are a submarine captain firing torpedoes at ships moving
+above you. By pushing your Joystick Controller to the left,
+you move your submarine to the left. Moving it to the right
+moves your submarine to the right.
+
+
+
+
+
+You control half the playfield, your opponent controls the
+other half. From one to six ships move across the playfield in
+a set. When one set disappears from the playfield, a new set
+appears. Each ship scores one point.
+
+
+
+
+
+GAME 7
+
+After firing, your torpedo travels straight up from where it
+was fired.
+
+
+
+
+
+GAME 8
+
+In this game, you can "guide" your torpedo after firing. By
+pushing your Joystick Controller to the left, you guide your
+torpedo to the left. Moving the Joystick to the right guides
+the torpedo to the right.
+
+
+
+
+
+GAME 9
+
+With non-guided torpedoes try to sink more ships that the
+computer. You control the right submarine, the computer will
+fire continuously from the left.
+
+
+
+
+
+TORPEDO(TM) GAMES
+
+   #
+ # # #
+ #######
+#######
+######
+  ####
+  
+4 POINTS
+
+        ##
+      ######
+######################
+###################
+   ################
+
+3 POINTS
+
+  # #
+  # #
+# # # ##
+########
+ ######
+ #####
+
+2 POINTS
+
+       ##
+       ##
+    #####  ####
+##################
+  #############
+    #########
+
+1 POINT
+
+   ##  ##  ##
+     ######
+     ######
+   ##  ##  ##
+       ##
+   ####
+###
+
+NO POINTS
+
+
+
+In this group of Torpedo games, mines travel randomly across
+the bottom of the playfield, and act as obstructions to your
+line of fire. The ships move at different speed and
+directions. Each ship has a different point value: PT Boat = 4
+points; Aircraft Carrier = 3 points; Pirate Ship = 2 points;
+Freighter = 1 point. Hitting the mines will score no points.
+
+
+
+
+
+GAME 10
+
+As in Game 7, your torpedo travels straight up from where it
+was fired.
+
+
+
+
+
+GAME 11
+
+In this game, you can "guide" your torpedo after firing. By
+pushing your Joystick Controller to the left, you guide your
+torpedo to the left. Moving the Joystick to the right guides
+the torpedo to the right.
+
+
+
+
+
+GAME 12
+
+You control the right submarine with the right Joystick
+Controller and, with non-guided torpedoes, try to beat the
+computer-controlled left submarine.
+
+SHOOTING GALLERY GAMES
+
+                                                #
+                                               ##
+                                             ###
+                                            ###
+                                           ##
+                                          ########
+                                          ########
+
+                                            30 degrees
+
+          30 degrees
+                                             ###
+     LEFT 30  ^^  RIGHT 30                   ###
+          \   ||   /                        ###
+           \  ||  /                         ###
+  LEFT 60 <-- 60 --> RIGHT 60              ###
+           /  ||  \                        ###
+          /   ||   \                      #######
+     LEFT 90  vv  RIGHT 90                #######
+
+          90 degrees                        60 degrees
+
+
+                                           ##
+                                           ##
+                                           ##
+                                           ##
+                                           ##
+                                           ##
+        Gun Position                      #######
+                                          #######
+
+                                            90 degrees
+
+
+
+
+
+
+
+Your Joystick Controller changes the angle of fire; forward =
+30 degrees; centre or rest = 60 degrees; back = 90 degrees
+(straight up). In addition you can move your "gun" across your
+half of the playfield by moving your Joystick Controller left
+or right.
+
+
+
+
+
+The targets will change direction at any time and all targets
+in a "set" must be hit before new targets are displayed. Each
+target has a different point score: rabbit = 3 points; duck =
+2 points; clown = 1 point.
+
+
+
+
+
+GAME 13
+
+This is the Shooting Gallery Game described above. After
+firing, your Joystick Controller has no effect on the line of
+fire.
+
+
+
+
+
+GAME 14
+
+After firing, guide your "projectile" into the targets by
+moving your Joystick Controller forward or backwards (see
+diagram above). Moving the Joystick right or left has no
+effect on the "projectile" once it is fired.
+
+
+
+
+
+GAME 15
+
+You control the right "gun" and try to beat the computer
+controlled "gun" which fires continuously.
+
+
+
+
+
+             FAST                 In the following games
+                                  (Polaris, Bomber, Polaris
+              ^^                  vs. Bomber), you control
+          \   ||   /              the speed of travel by
+           \  ||  /               moving your Joystick
+NO EFFECT <-MEDIUM-> NO EFFECT    Controller back for slow,
+           /  ||  \               center or rest position for  
+          /   ||   \              normal speed, forward for    
+              vv                  fast.
+
+             SLOW
+
+
+
+
+
+
+POLARIS GAMES
+
+# #####         ##
+#   #           ##         ####
+########        ##################
+########        ##################
+    #                ######
+  #####              ####
+
+4 POINTS            3 POINTS
+
+                ##
+    #####       ####
+#     #         ################
+##  #####                ###########
+ #####  #             ######
+    ##  #           #####
+    ##### 
+
+2 POINTS            1 POINT
+
+
+
+
+
+
+You captain a ship travelling across the bottom of the
+playfield. The bottom most ship is the right player. The ships
+will change direction occasionally.
+
+
+
+
+
+Front one to four planes fly over in a "set". All planes in a
+set must be hit before new planes are displayed. Each plane
+has a different point value: Small Jet = 4 points; Large Jet =
+3 points; Helicopter = 2 points; 747 = 1 point.
+
+
+
+
+
+GAME 16
+
+This is the Polaris game described above. Your missile travels
+at the same speed as your ship when the missile was fired.
+After firing, your ship speed cannot change while the missile
+is in flight.
+
+
+
+
+
+GAME 17
+
+In this game, when you change the speed of your ship, you also
+change the speed of you missile while it is in flight. So, you
+can guide your missile into the planes.
+
+
+
+
+
+GAME 18
+
+Using the right Joystick Controller, you control the bottom
+ship. With non-guided missiles, try to beat the computer-
+controlled top ship. The computer ship will move at a steady
+speed and fire its missiles continuously.
+
+
+
+
+
+BOMBER GAMES
+
+   #
+ # # #                         ##
+ #######                     ######
+#######                ######################
+######                 ###################
+  ####                    ################
+
+4 POINTS                        3 POINTS
+                       
+  # #                         ##
+  # #                         ##
+# # # ##                   #####  ####
+########               ##################
+ ######                  #############
+ #####                     #########
+
+2 POINTS                        1 POINT
+
+
+
+
+
+
+
+You are the pilot of a plane flying across the top of the
+playfield. The right player controls the bottom-most plane.
+Planes will occasionally change direction from right to left.
+
+
+
+
+
+From one to four ships will pass under the planes. As a ship
+is hit, a new ship will replace it from the edge of the
+playfield. Ships travel at various speed and each a different
+point value: PT Boat = 4 points; Aircraft Carrier = 3 points;
+Pirate Ship = 2 points; Freighter = 1 point.
+
+
+
+
+
+GAME 19
+
+As your bomber drops the bomb, it will move across the
+playfield at the same speed as your plane at the time it was
+dropped. After firing, your plane cannot change speed while
+the bomb is dropping.
+
+
+
+
+
+GAME 20
+
+Changing the speed of your plane after dropping a bomb will
+change the speed the bomb travels across the playfield as it
+drops. This allows you to guide your bomb into the passing
+ships.
+
+
+
+
+
+GAME 21
+
+Using non-guided bombs try to hit more ships than the
+computer. The computer plane is on top and flies at a constant
+speed across the playfield, dropping bombs continuously. You
+control the bottom plane with the right Joystick Controller.
+
+
+
+
+
+POLARIS vs BOMBER GAMES
+
+
+
+
+
+The left player flies the plane across the top of the
+playfield and the right player controls the ship at the bottom
+of the playfield. The plane drops bombs on the ship while the
+ship shoots missiles at the plane. One point is scored for
+each hit. The ship or plane getting hit will disappear from
+the playfield and reappear at the edge. Both plane and ship
+will change direction occasionally.
+
+
+
+
+
+GAME 22
+
+This is the Polaris vs Bomber game described above.
+
+
+
+
+
+GAME 23
+
+Both the ship and the plane can guide their missiles or bombs.
+By changing the speed of your ship or plane after firing, your
+missile or bomb will change speed as it travels across the
+playfield.
+
+
+
+
+
+GAME 24
+
+The computer controls the plane and will fly at a constant
+speed across the playfield, dropping bombs continuously. The
+right Joystick Controller controls the ship.
+
+
+
+
+
+POLARIS vs BOMBER GAMES
+
+
+
+
+
+Travelling randomly across the middle of the playfield are
+mines. In order to hit your opponent, you have to get around
+the mines which act as obstructions to your line of fire. The
+mines score no points when hit.
+
+
+
+
+
+GAME 25
+
+This version plays the same as Game 22, except that mines are
+added to the playfield.
+
+
+
+
+
+GAME 26
+
+By changing the speed of your ship or plane after firing, your
+missile or bomb will change speed as it travels across the
+playfield, allowing you to guide them around the mine and into
+your opponent.
+
+
+
+
+
+GAME 27
+
+Once again, the computer controls the plane, and with the
+right Joystick Controller, you control the ship.
+
+
+
+
+
+AIR-SEA BATTLE(TM)
+Use the Joystick Controllers with this Game Program. Hold your
+Controller with the red button to your upper left towards your
+television screen.
+
+
+------------------------------------------------------------------------
+
+          Anti-        Torpedo         Shooting  Polaris   Bomber    Polaris vs
+          Aircraft                     Gallery                       Bomber
+          1 2 3 4 5 6  7 8 9 10 11 12  13 14 15  16 17 18  19 20 21  22 23 24 25 26 27
+
+------------------------------------------------------------------------
+
+Number    2 2 1 2 2 1  2 2 1 2  2  1   2  2  1   2  2  1   2  2  1   2  2  1  2  2  1
+of Players
+
+------------------------------------------------------------------------
+
+Guided    o X o o X o  o X o o  X  o   o  X  o   o  X  o   o  X  o   o  X  o  o  X  o
+Missile
+
+------------------------------------------------------------------------
+
+Computer  o o X o o X  o o X o  o  X   o  o  X   o  o  X   o  o  X   o  o  X  o  o  X
+Games
+
+------------------------------------------------------------------------
+
+With      o o o X X X  o o o X  X  X   o  o  o   o  o  o   o  o  o   o  o  o  X  X  X
+Obstacles
+
+------------------------------------------------------------------------
+
+
+
+ANTI-AIRCRAFT(TM)
+Games 1 thru 6:
+
+
+
+•Push Joystick forward and back ... changes angle of gun on screen
+•Press "red" button to fire
+
+
+
+
+
+
+
+
+TORPEDO(TM)
+Games 7 thru 12:
+
+
+
+•Push joystick left or right to move submarine
+•Press "red" button to fire
+
+
+
+
+
+
+
+
+SHOOTING GALLERY
+Games 13 thru 15:
+
+
+
+•Push joystick forward and back ... changes angle of gun on screen
+•Push joystick left or right to move your gun across the screen
+•Press "red" button to fire
+
+
+
+
+
+
+
+
+POLARIS and BOMBER
+Games 16 thru 27:
+
+
+
+•Push joystick forward or back to control speed of travel
+•Press "red" button to fire
+
+
+
+
+
+
+
+
+LITHO IN U.S.A.
+
+------------------------------------------------------------------------
+
+>>> Converted to html by gchance@ecst.csuchico.edu <<<
+
+------------------------------------------------------------------------
+
+
+-------Atari 2600 Instructions Archive--------
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

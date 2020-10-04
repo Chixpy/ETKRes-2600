@@ -1,0 +1,195 @@
+ATARI(C) 2600(TM) Game Manual
+BOXING
+BOXING
+BOXING
+BOXING
+BOXING
+BOXING
+RealSports(R) Series
+
+   You've got incredible heart and a live right lead.  Show 'em your staying
+power!  Punch Iron Fists around the ring for the total seven rounds.  Or rain
+blows on Macho Man 'til you've got him up against the ropes.  A flurry of
+payoff punches puts away Jabbin' Jack.  And Lefty O'Leary goes down with a
+body blow inside and low.
+   It's a capacity crowd tonight - and you've got top billing!  Take the Boxing
+title on a decision or go for the knock out.  Duke it out!
+
+Getting Started
+1. Plug the RealSports Boxing cartridge into your Atari 2600 or 7800(TM).  For
+one player, connect a joystick to the left controller jack.  For two players,
+connect a second joystick to the right controller jack.
+
+2. In one-player games, use the left difficulty switch on your console.  Move
+the switch to the "A" or left position to fight an opponent who's strong and
+challenging.  Move the switch to the "B" or right position for an opponent
+who's weaker and easier to beat.
+
+3. Turn on your TV, then press [Power] to turn on your console.  The game
+screen appears and shows a demonstration fight.
+
+4. Press [Select] to view your game options.  ONE PLAYER appears at the top
+of the screen.  Press [Select] again if you want to change to a TWO PLAYER
+game.  In a one-player game, you play against the computer; in a two-player
+game, players fight each other.
+
+5. Move the joystick handle to make different boxers blink, and press the
+joystick button to select a blinking boxer as your player.  (If you're using
+a 7800 Pro-Line joystick, press either button.  They both work the same way.)
+The selected boxer disappears.  Now select another boxer as your opponent.  In
+a two-player game, player 1 selects a boxer first, then player 2 selects a
+boxer.
+
+6. Once the bosers are selected, the game begins automatically.  During a
+match, press [Reset] to start a new match, or press [Select] to return to the
+options screen.
+
+Duke It Out!
+
+Action              Joystick Control
+
+Cover Up            Press button, move handle away from opponent.
+Jab                 Press button, move handle towards opponent.
+Body Blow           Press button, pull handle back.
+Payoff Punch        Press button, push handle forward.
+
+Playing the Game
+
+   At the bell the match begins.  Move your boxer out of his corner and around
+the ring by moving your joystick handle forward, back, left, and right. (Player
+1 controls the boxer in the left corner; the computer or player 2 controls the
+boxer in the right corner.)  Move your joystick handle and press the button to
+make your boxer jab, cover, land body blows, and throw payoff punches.
+   Cover up to defend yourself.  Blocking an opponent's punches scores points
+and minimizes your strength loss.  When covering up, you're still in danger of
+a technical knock out if your opponent lands 12 successive punches before you
+can retaliate.
+   Jabs are quick punches thrown with the leading arm that score points and
+weaken your opponent.  Jabs can be thrown in a rapid "flurry."  A jab scores
+least of all the punches and weakens your opponent least, but a flurry
+accumulates points and damage done to the opponent faster than any other
+punch.  Jabs use little of your own strength and you can throw three times as
+many jabs as payoff punches in the same amount of time.
+   Body blows are punches strategically placed to weaken your opponent.
+Though not as powerful as payoff punches, body blows can be flurried faster
+than payoffs.  Landed body blows score higher than jabs and cost less strength
+than payoffs.
+   Payoff punches are thrown with the non-leading arm in an attempt to knock
+out the opponent.  Payoff punches take a lot of strength, so you can't throw
+successsive payoffs as fast as you can throw jabs.  When landed, payoff punches
+score high.
+   Boxers tire as they move around the ring and throw and take punches.  The
+amount of yellow showing in a fighter's strength bar indicates the strength
+lead he has over the other boxer.  Weakened boxers move slower, their punches
+are separated by longer delays, and their reaction to joystick commands are
+sluggish.
+   Rounds are timed, and the time counts down in the lower center of the
+screen.  When the time runs out the round is over.  Boxers take their corners
+to rest and regain some strength.  Between rounds the score boxes display
+total points earned in the round just fought.
+
+Knock Downs
+
+   A boxer's strength bar starts blinking when he's gained a considerable
+strength lead over his opponent.  A blinking bar is a boxer's cue to go for a
+knock down.  To knock down his opponent, a boxer must land the correct punch
+from the correct position.
+   At a knock down, the standing boxer goes to a neutral corner and the ten
+count begins.  If the downed boxer has enough strength, he'll get up at the
+nine count.  (In a two-player game, push you joystick forward to get your
+boxer up at the nine count.)
+
+Knock Outs
+
+   The best way to knock out your opponent is to land as many payoff punches
+as possible, while protecting yourself from taking any blows.  This increases
+your strength lead while weakening your opponent.  When your strength bar
+starts blinking, give him the knockdown punch.  Your opponent might get up
+after several knock downs but he gets weaker all the time.  Finally, the right
+punch from the right position will put him away.
+
+[Picture shows the box which has the Round Time, Strength Bars, Score Boxes
+and Round Number]
+
+Technical Knock Outs
+
+   To earn a technical knock out (TKO) a boxer must land 12 punches without
+his opponent landing a punch, getting away, or covering up.  If the opponent
+retaliates in any of those three ways, the punch count returns to zero.  Once
+the opponent covers up, if the aggressive boxer then lands another 12 punches
+without the opponent landing a punch or getting away, a TKO is called.
+
+And the Winner Is...
+ 
+   When a boxer knocks out or TKOs his opponent, he wins the match and the
+fight is over.  If a match goes seven rounds, a decision occurs and the boxer
+with the most points is declared the winner.  (At the end of the seventh
+round, the score boxes show total points earned by both boxers during the
+match.)
+   When a fight is over, the winner dances around the ring, then the game
+returns to demonstration play.  Press the joystick button or [Reset] to
+start a new match, or press [Select] to return to the options screen.
+
+Strategy
+
+   The best way to out-point your opponent is to land punches and run, so he
+can't retaliate by hitting you.  If you can't run, throw a punch then
+immediately cover up.
+   To punch effectively, get toe to toe with your opponent, a little above him
+but still within reach so your punch connects.
+   The best time to flurry with payoffs is early in the fight when your
+reaction time is quickest.
+   Be careful when blocking a flurry so you don't get TKO'd.
+   To throw a flurry, press the joystick button, then immediately select the
+punch with the joystick handle.  Release both the button and handle, then
+immediately repeat the sequence.
+   Minimize the effect of your opponent's blows by covering up or countering
+with an equally effective punch to pass along the strength loss.
+   Whenever you throw a punch you lose strength, so make your punches count.
+   Running around the ring costs you strength.  If you're weak, stay in one
+area and make your opponent come to you.
+
+Scoring
+
+   Points are scored according to a boxer's strength, the type of punch landed,
+and the punch position.  For instance, the highest scoring combination is a
+payoff punch thrown by a boxer in top strength and landed from an optimum
+position.
+   The payoff punch is the highest scoring punch; the body blow is next
+highest, and the jab is the lowest scoring punch.  Covering up earns a point
+value for defensive boxing.  A boxer can earn 99 points maximum in any one
+fight.
+   A match can last a total of seven rounds.  A knock out or TKO anytime
+during a match wins the fight.  If a match goes seven rounds, the high-point
+boxer wins.  If the match ends in a draw, both boxers dance around the ring.
+
+The Contenders
+
+   Each boxer has a weak spot.  When your strength bar is blinking, use the
+correct punch in the right position to knock down your opponent.
+
+Iron Fists has tender ribs.  A toe-to-toe body blow knocks him down.
+
+Jabbin' Jack has a glass jaw.  Get above him, then knock him down with a
+payoff punch to the chin.
+
+Lefty O'Leary has a weak stomach.  Get below him to knock him down with a
+low body blow.
+
+Macho Man is tough, but he'll go down with a toe-to-toe payoff punch.
+
+Atari Corporation is unable to guarantee the accuracy of printed information
+after the date of publication and disclaims liability for changes, errors, and
+omissions.  Reproduction of this document or any portion of its contents is
+not allowed without the specific written permission of Atari Corporation.
+
+ATARI, the ATARI logo, RealSports, 2600, and 7800 are trademarks or registered
+trademarks of Atari Corporation.
+
+Copyright (C) 1988, Atari Corporation, Sunnyvale, CA  94086.  All rights
+reserved.
+
+Printed in Hong Kong  C300016-135 Rev. A  M.W. 7. 1988   ATARI
+
+
+

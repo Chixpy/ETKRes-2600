@@ -1,0 +1,279 @@
+<Picture>
+
+<Picture>GI_Joe<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+G.I. JOE: COBRA STRIKE
+
+by Parker Brothers
+c 1983
+
+Defend and fire!  That's your mission in this battle between the G.I.
+Joes and their archenemy Cobra!  Cobra, an evil organization,
+determined to take over the world, now slithers back and forth over the
+G.I. Joe training camp in the form of a giant cobra snake.  And that
+means danger for the G.I. Joe recruits running for shelter between the
+training building and headquarters.
+
+You see, the Cobra is trying to capture them by shooting venom from its
+fangs and laser beams from its eyes.  If hit by venom, a recruit is
+"vaporized" until he materializes again...at Cobra Headquarters!  And
+if he's hie by a laser beam, he's directly "beamed up!"
+
+But you as G.I. Joe can protect the recruits with your atomic-powered
+energy shield.  You as G.I. Joe can destroy the Cobra with your
+missile-firing guns.  But you must be quick with your wits and deadly
+with your aim.  It's a mission for only a highly trained commando like
+G.I. Joe--and you.
+
+
+
+OBJECT
+------
+
+The object of the game depends on whose side you're on -- the G.I. Joe
+Special Mission Forces or Cobra.  If you're playing as G.I. Joe, the
+object is to destroy the Cobra while protecting the G.I. Joes.  If
+you're playing as the Cobra, the object is to capture four G.I. Joes
+before G.I. Joe destroys you.
+
+
+
+SETTING THE CONSOLE CONTROLS
+----------------------------
+
+1. Select a game level number and number of players (see GAME SELECTION 
+   on back page) by pressing down on the GAME SELECT switch.  The game  
+   number and number of players will appear at the top of the screen.
+2. Set the DIFFICULTY switch:
+   Position A (Expert):
+         1-player game.  Your shield must be next to either gun turret  
+           in order to fire.
+         2-player cooperative game.  Your shield must be next to your   
+           own gun turret in order to fire.
+         2-player competitive game.  Your shield must be next to either 
+           gun turret in order to fire.
+         3-player game.  You shield must be next to your own gun turret 
+           in order to fire.
+   Position B (Novice):
+         Your shield may be in any position in order to fire.
+3. Press down the GAME RESET switch and you're ready to start the
+action.
+
+
+
+THE PADDLES AND JOYSTICK CONTROLLERS
+------------------------------------
+
+Plug a set of paddles firmly into the LEFT controller Jack.  The paddle
+on the LEFT controls the red shield and red gun turret.  The paddle on
+the RIGHT controls the blue shield and blue gun turret.  In a one-
+player game, use the LEFT paddle.
+
+Use the paddle to maneuver your shield from LEFT to RIGHT between the
+two gun turrets.  To fire your missiles, keep the fire button pressed
+down.  The missile will explode automatically.  To direct the missile
+toward your target, turn the paddle dial LEFT or RIGHT accordingly.
+
+Plug the Joystick firmly into the RIGHT controller jack.  The Joystick
+controls the Cobra in the two-player competitive and three-player
+games, only.
+
+Use the Joystick to maneuver the Cobra LEFT and RIGHT.  Press the fire
+button in order to drop venom.  Move the Joystick DOWN in order to
+shoot a laser beam.
+
+
+
+PLAYING
+-------
+
+The way in which you play the game depends on the number of players and
+whether you play as G.I. Joe or as the Cobra.
+
+The one-player game is indicated by "i" at the top of the screen.  In
+this game, you're G.I. Joe; the Cobra is computer-controlled.
+
+The two-player cooperative game is indicated by "ii".  In this game,
+both players are G.I. Joes.  You play simultaneously, both trying to
+destroy the Cobra together.  The Cobra is computer-controlled.  Two-
+player strategy can be really exciting.  As one G.I. Joe defends, the
+other can fire.  Then you can trade roles.  Or both G.I. Joes can work
+their own strategies--but at the same time.  There are all kinds of
+possibilities when two G.I. Joes work together against the enemy!
+
+The two-player competitive game is indicated by "i i".  In this game,
+one player is G.I. Joe; the other player is the Cobra.
+
+The three-player game is indicated by "iii".  In this game, two players
+are the G.I. Joes; the third is the Cobra.
+
+
+
+PLAYING G.I. JOE
+----------------
+
+Using your shield.  When playing as G.I. Joe, use your shield to block
+vaporizing venom being dropped onto the recruits from the Cobra's
+ferocious fangs.  Watch the Cobra as it slithers left and right over
+the recruits running for shelter below.  Keep your eye on the venom as
+it drops and try to get your shield underneath it in time.  The further
+left or right you turn the paddle dial, the faster the shield will
+move.  Keep this in mind in order to use your shield most effectively.
+
+[Image of the playing screen.  The Recruits are the people running from
+right to left.  The gun turrets are on the left and right and fire at
+the Cobra snake.  The Shield is the thing that moves back and forth and
+can block the Cobra's venom.  They look like an upside down "u".]
+
+In higher rounds of game play, the Cobra also shoots laser beams with
+the power to "beam up" a recruit into captivity.  Just before it does
+so, however, you'll receive a warning.  The Cobra stops moving, emits a
+warning sound, and turns a bright color.  This tells you that in a
+second, the laser beam will fall.  So you'd better move your shield
+under it fast or it could mean "capture" for any recruits in its path!
+
+[Image of the Cobra firing the laser and the shield blocking it.]
+
+Firing your missiles.  To fire your missiles, keep the fire button
+pressed down while you turn the paddle dial left or right.  Use these
+directions to guide the missile toward your target.  Try to hit the
+Cobra right in either eye; a hit to the body won't count.  As soon as
+you release the fire button, the paddle dial controls your shield once
+again.
+
+Each time you make a direct hit to the eyes, it's indicated at the
+bottom of the screen.  Make eight hits to the eyes, and you've
+destroyed the Cobra!  The Cobra will split in two and disappear from
+the screen.  
+
+The Bonus Shot.  Every so often during higher rounds of game play,
+you'll hear three rising notes.  If you can hit the Cobra in the eyes
+at that moment, the Cobra is instantly destroyed and you score 10,000
+bonus points!
+
+[Image of the playing screen.  The number of hits is the number in the
+bottom center of the screen.]
+
+
+
+PLAYING THE COBRA
+-----------------
+
+When playing the Cobra, try to hit all four of the G.I. Joe recruits as
+they run for shelter at the bottom of the screen.  To do so, drop venom
+from your fangs by pressing the fire button on the Joystick.  Or shoot
+a laser beam by moving the Joystick DOWN.  Direct your shots by
+maneuvering the Cobra with your Joystick LEFT and RIGHT over the
+movement of the G.I. Joe beneath you.  The number of recruits remaining
+in the game is monitored at the bottom left of the screen.
+
+Eliminate all four recruits before G.I. Joe destroys you, and you've
+won the game.
+
+
+
+END OF ROUND/END OF GAME
+------------------------
+
+In games in which the Cobra is computer-controlled, you'll progress
+from one round to the next--as long as you can destroy the Cobra before
+it gets all four recruits.  If you do so, a Cobra of a different color
+will appear on screen for the next round.  As you move from one round
+to the next, the game becomes a little more difficult: the Cobra moves
+faster, drops more venom, and shoots more laser beams.
+
+But if the Cobra destroys all four recruits before G.I. Joe destroys
+it, the game ends.
+
+In games in which the Cobra is player-controlled, you do NOT progress
+from one round to the next.  The game simply ends when either G.I. Joe
+destroys the Cobra or when the Cobra destroys all four G.I. Joes.
+
+
+
+LEVELS OF DIFFICULTY
+--------------------
+
+There are four levels of difficulty.  Level one is the easiest; level
+four is the most difficult.  Each level has one-player, two-player
+cooperative, two-player competitive, and three-player options.  See the
+GAME SELECTION box for the level at which you wish to play.
+
+To play again at the same game level, either press the GAME RESET
+switch or press the fire button in the LEFT paddle controller.
+
+To play at a different game level, press the GAME RESET switch.
+
+-----------------------------------------------------------------------
+
+GAME SELECTION
+--------------
+ ______________________________________
+|         |                            |
+|  LEVEL  |           SPEED            |
+|_________|____________________________|
+|         |                            |
+|    1    |  slow Cobra, slow shields  |
+|_________|____________________________|
+|         |                            |
+|    2    |  fast Cobra, slow shields  |
+|_________|____________________________|
+|         |                            |
+|    3    |  slow Cobra, fast shields  |
+|_________|____________________________|
+|         |                            |
+|    4    |  fast Cobra, fast shields  |
+|_________|____________________________|
+
+
+
+SCORING
+-------
+
+As G.I. Joe (whether playing alone or with another player), your score
+is displayed at the top of the screen throughout the game.  Points
+accumulated as follows:
+
+Each recruit reaching safety.............................. 10 points
+Hitting the Cobra's eyes................................. 100 points
+Destroying the Cobra.................................... 1000 points
+Making the Bonus Shot................................. 10,000 points
+
+Note: For every 10,000 points scored, you'll receive one additional
+recruit.  In all the games, the Cobra does NOT score points.
+
+
+
+And of course, this game was made by Parker Brothers in 1983.  This
+game manual was typed in by me!  Who am I?  I am Eddie Beiles.  I can
+be reached at beiles@lambada.oit.unc.edu if you have any questions about 
+this game manual.  Or you can email me and thank me for typing it in.  
+Anyway, enjoy the game and this wonderfully typed in manual.      4/8/95
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

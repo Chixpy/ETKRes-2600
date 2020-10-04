@@ -1,0 +1,239 @@
+DEFENDER II
+   by Williams Electronics
+
+
+Alien marauders are attacking your planet, kidnapping the defensless
+Humanoids and turning them into dangerous Mutants.  You've got to stop
+them!
+
+You begin with three ships, three Smartbombs -- capable of wiping out
+everything in sight -- and Inviso, a mysterious cloaking compound.
+But your most powerful defense is the Stellar Gateway, which instantly
+transports you across the planet to rescue Humanoids.
+
+Pilot your ship along the planet surface, blasting away at the evil
+aliens while rescuing Humanoids.  But watch out -- the slightest
+contact with an alien can be disastrous!  Only you, with the help of
+the Stellar Gateway, can save your planet's beleaguered Humanoids from
+attack and maybe -- just maybe -- wipe out the aliens forever!
+
+GETTING STARTED
+
+1.  Inser the Defender II cartridge into your Atari 2600 or 7800
+console.  Plug the two joysticks into the two controller jacks.
+
+2.  Turn on your TV, then press [Power] to turn on your system.
+
+3.  Press [Reset] or the left joystick fire button to start the game.
+
+PLAYING THE GAME
+
+Your objective is to rescue the Humanoids and eliminate all aliens.
+You begin the game with three ships, three Smartbombs, about six
+seconds' worth of Inviso, and enough energy to hyperspace temporarily
+out of danger.  The number of ships and Smartbombs and the amount of
+Inviso you have left are shown at the top of the screen.  You have an
+unlimited amount of regular ammunition.
+
+Use the left joystick's handle and fire button to maneuver your ship
+and fire regular ammunition.  Press the right joystick's fire button
+to drop Smartbombs.  Push the right joystick's handle forward to
+activate Inviso; pull it back to jump into hyperspace.  When you run
+out of Smartbombs, pressing the right joystick's fire button activates
+Inviso.  Once your Inviso is gone, pressing the right joystick's fire
+button will send you into hyperspace.
+
+Defender II has up to 100 attack waves.  As soon as you clear the
+planet of aliens in one wave, the next wave begins.  You score points
+whenever you destron an alien.  For ever 10,000 points you score, you
+earn another ship, another Smartbomb, and more Inviso.
+
+When you lose a ship, a new one appears until all your ships are lost.
+Action resumes when you move the joystick handle.
+
+The game ends when you lose all your ships.  Press [Reset] or the left
+joystick fire button to begin a new game.
+
+THE DEFENDER
+
+XXX XXXXX      SMARTBOMBS destroy all aliens on screen.  They are most
+ XXXXXXXXXX    effective when aliens surround you.
+XXX XXXXX
+
+INVISO makes you invisible for about two seconds.  Aliens can't hurt
+you while you are invisible, although you can still fire and anything
+you pass through is automatically destroyed.
+
+HYPERSPACE sends you into space warp.  You never know where you'll
+reappear, so use it only as a last resot!  You could easily end up on
+or near an enemy, which will destroy you immediately.
+
+XXXXXXXXXXXXX   The STELLAR GATEWAY warps you to a part of the planet=20
+XXXXXXXXXXXXX   where a Humanoid is in danger.  If all the Humanoids=20
+XXX       XXX   are temporarily safe.  The Gateway transports you to
+XXXXXXX   XXX   the opposite side of the planet.
+XXX       XXX
+XXXXXXXXXXXXX
+XXXXXXXXXXXXX
+
+
+XXXXX           HUMANOIDS are defenseless.  The alien Landers snatch =
+them
+X   X           off the planet's surface and carry them up through the
+XXXXXXXX        atmosphere to turn them into Mutants.  When shooting
+XXXXXXXX        Landers, be careful not to shoot the Humanoid by =
+mistake.
+XXXXX           Once freed, Humanoids start drifting down.  Catch them =
+before
+XXXXX           they reach the planet's surface, then gently guide your =
+ship=20
+XXXXX           down.  The Humanoid automatically beams to the nearest
+                Humanoid Space Station  You receive extra points for =
+every
+                Humanoid safely deposted on the planet.
+
+You can keep rescued Humanoids on your ship.  In waves 1 through 9,
+passing through the Stellar Gateway while transporting four or more
+Humanoids on your ship will advance you three waves.  However,
+carrying Humanoids makes you a larger and easier target for the
+aliens.  If you lose your ship, the Humanoids will escape safely to
+the planet's surface.
+
+
+THE ENEMY
+
+  XXX           LANDERS are the most dangerous aliens.  They swoop down
+ OOOOO          and kidnap the Humanoids, turning them into dangerous
+X XX  X         Mutants when they reach the top of the screen.  They
+XXXXXXX         can't follow you, but if you are nearby they will fire
+  XXX           lethal charges in your direction.
+ O X O
+X  X  X
+
+  OOO           MUTANTS move fast, their heads spinning and flashing =
+with
+ OOOOO          bright colors.  They can sense your presence and will
+X  XX X         track you down if you don't keep moving.  Mutants also
+XXXXXXX         fire lethal charges at you when making their assault.
+  XXX
+ O O O
+X  X  X
+
+  OOOOO         YLLABIAN SPACE GUPPIES are mindelss, but they'll home in
+OOOOOOOOO       quickly and destroy you if you're not careful.
+  XXXXX
+XXXXXXXXXXXXXXX
+  XXXXX
+XXXXXXXXX
+  XXXXX
+
+  OOOOO         FIREBOMBERS are treacherous.  Blast them out of your way
+OOOOOOOOO       early on.
+  OOOOO
+  XXXXX
+XXXXXXXXX
+  XXXXX
+
+ X  X  X        PODS bob around like bouncing balls.  Don't get too =
+close
+  XXXXX         to one -- once you destroy it, you still have to worry=20
+XXXXXXXXX       the three swarmers that will be released.
+  XXXXX
+ X  X  X
+
+   XXX          SWARMERS fly straight at you when their Pod is =
+destroyed.
+ XXXXXXX        Three quick shots should take care of them.
+   XXX
+
+    OO          DYNAMOS are cubic creatures that swirl around above the
+  OOOOXX        planet's surface.  They are oblivious to everything and
+XXOOOO          always fly in the same diagonal path across the sky.
+  OO            Stay out of their way!
+
+    XXXXXXXX      BAITERS come out when you take too long to finish off
+XXXXXX    XXXXXX  a wave.  They know right where you are and close in on
+  XXXXXXXXXXXX    you quickly.  Destroy them right away.
+
+XXXXXXXX        PHREDS are no fun.  They have excellent vision and zoom=20
+XXX             straight at you, exploding on contact and disintegrating
+XXX             both of you.
+XXX
+XXXXXXXX
+
+XXXXXXX         MUNCHIES are looters looking for the spoils of war.  =
+They
+XXXXXXX         are small, fast, and can sniff out your ship when it's
+XXX             in a vulnerable position.
+XXXXXXX
+XXXXXXX
+
+
+STRATEGY
+
+The scanner at the top of your screen shows you areas on the planet
+where Humanoids are in danger.  Keep an eye on your scanner -- it will
+alert you to any emergencies in another part of the sky.  Rush to a
+Stellar Gateway for immediate transport to that sector.
+
+Your planet will be destroyed if all the Humanoids are turned into
+Mutants -- but you must still defend yourself!  If you're a good
+fighter, your planet will be restored in wave 6, or in every fifth
+wave after that.
+
+In wave 5 and every 10th wave following, you'll encounter the Yllabian
+Dog Fight.  The only aliens that appear on the screen are Yllabian
+Space Guppies, Pods, and Dynamos.  It takes skill and practice to make
+it through this wave.
+
+In every tenth wave, you'll find yourself in the middle of a
+Firebomber showdown.  Firebombers are everywhere.  Keep a sharp eye
+and a nimble firing finger.
+
+Along with the powers of your super spaceship, you've been blessed with =
+supersonic hearing.  You can hear the Humanoids scream as they're being =
+accosted by Landers.  On your side of the planet, this comes as a faint =
+yelp.  The sound of explosions means that a Humanoid and Lander have =
+just been transformed into a Mutant.
+
+SCORING
+
+Pods                      1000 points
+Firebombers                250 points
+Dynamos                    200 points
+Baiters                    200 points
+Phreds                     200 points
+Yllabian Space Guppies     200 points
+Mutants                    150 points
+Landers                    150 points
+Swarmers                   150 points
+Munchies                    50 points
+
+At the end of waves 1 through 5, you receive 100, 200, 300, 400, and
+500 points, respectively, for every Humanoid left on the planet.
+Beginning with wave 6, you receive 500 points for every Humanoid
+remaining.
+
+In waves 1 through 9, if you pass through the Stellar Gateway while
+transporting four or more Humanoids on your ship, you'll automatically
+advance three waves in the game.  You'll also receive 1,000 points for
+every Humanoid left on the planet.
+
+--------------------
+Atari Corporation is unable to guarantee the accuracy of printed
+material after the date of publication disclaims liability for
+changes, errors, or omissions.  Reproduction of this document or any
+portion of its contents is not allowed without the specific written
+permission of Atari Corporation.
+
+Atari, the Atari logo, 2600 and 7800 are trademarks or registered
+trademarks of Atari Corporation.  Defender II is a trademark and (C)
+1981 of Williams Electronics, manufactured under license from Williams
+Electronics, Inc.
+
+Copyright (C) 1987, Atari Corporation, Sunnyvale, CA  94086
+All rights reserved.
+
+Printed in Hong Kong  C300016-120 Rev. A
+
+---------------------

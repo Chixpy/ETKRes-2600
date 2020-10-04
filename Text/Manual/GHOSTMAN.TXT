@@ -1,0 +1,191 @@
+<Picture>
+
+<Picture>Ghost_Manor<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+XONOX DOUBLE-ENDER
+			GHOST MANOR
+			for Atari 2600 VCS and Sears Video Arcade
+			GAME INSTRUCTIONS
+You (either a girl or boy, your choice) stand in a lonely graveyard outside
+Ghost Manor.  A  friend is trapped inside.  You must find a way to enter the
+Manor and rescue the prisoner through 5 game screens.  But beware!
+Unfriendly ghosts lurk behind tombstones; witches and goblins haunt the
+entryway; and demons and ghastly spirits may attack at any moment.  It's
+very dark.  Only brief flashes of lightning aid your search for the magical
+coffin.  Remember...finding your friend is only half the game.  You must
+then find a safe way out.  Good luck!
+
+
+GET READY TO PLAY GHOST MANOR
+
+1. Hook up your video game system.  Follow the manufacturer's directions.
+
+2. With the power "OFF", plug in game cartridge.  The XONOX Double-Ender -
+with Ghost Manor and Spike's Peak - gives you twice the fun with two totally
+separate games, one on either end of the cartridge.  To play Ghost Manor,
+insert the end of the cartridge labelled "Ghost Manor" into your video game
+system.
+
+3. To prolong the life of your XONOX Double-Ender, you may want to use the
+dust cover provided to  protect the game end not in use.
+
+4. Now turn the power on.  If no picture appears, check connection of your
+game console to TV, then repeat steps 2, 2 and 4.
+
+5. Plug in left joystick controller.  One player at a time only.  Hold
+joystick with the red button in the upper left position.
+
+6. Set both difficulty switches to "B" to begin with (see game instructions
+for advanced difficulty settings).
+
+7. To begin or to start a new game, press "GAME RESET."
+
+NOTE: Always turn the console power switch "OFF" when inserting or removing
+a XONOX cartridge.  This will protect the electronic components and help
+prolong the life of your XONOX games.
+
+
+
+GHOST MANOR VIDEO GAME
+
+It's a stormy night with lightning flashing all around.  A scary challenge
+awaits you in GHOST MANOR.
+
+Your friend is being held prisoner by Dracula inside the eerie GHOST MANOR
+castle.  As night falls your job is to rescue your friend held prisoner by
+Dracula and escape from the castle -- all before dawn.
+
+A friendly ghost will help you at first, but beware of the guardian spooks
+-- bats, skulls, scorpions, and the evil chopping mummy.  Find crosses and
+treasure points hidden in caskets in the castle mazes along the way to save
+your friend.
+
+1. OBJECT OF THE GAME
+Rescue your friend being held prisoner by Dracula, while collecting as many
+points as possible  before time runs out.  Highest score wins.  There are 5
+play screens in the game.
+
+2. CONTROLS
+Play with the LEFT JOYSTICK and FIRE BUTTON.  One player at a time only.
+
+3. SCORE DISPLAY
+  a) Top line of numbers is your points SCORE.
+  b) HOURGLASS in centre shows time -- you have four minutes to play!  There
+are 8 grains of sand in the glass, each worth 30 seconds of play.
+  c) SHOTS counter in lower left indicates number of spears collected in 1st
+play screen, and shots remaining in 2nd play screen.
+  d) SPEAR tokens above SHOTS counter indicate every 10 shots collected.  A
+maximum of 2 SPEAR tokens will display.
+  e) LAMP token in lower right corner tells you that you have the lantern
+for use inside the castle to light the way.
+  f) CROSS tokens indicate how many crosses you possess to repel Dracula.  A
+maximum of 3 crosses will display).
+
+4. BOY - GIRL player selection:
+Use the COLOR-BW switch to select your player as a girl or boy:
+	COLOR = Girl rescues boy	BW = Boy rescues girl
+
+5. DIFFICULTY SWITCHES
+There are 4 difficulty levels.  Set the switches before you start to play.
+Once the game has begun the difficulty setting is locked in place.
+
+DIFFICULTY  LEVEL	LEFT SWITCH		RIGHT SWITCH
+1 - easy		B - novice		B - novice
+2 - medium	A - expert		B - novice
+3 - hard		B - novice		A - expert
+4 - hardest	A - expert		A - expert
+
+Difficulty switch setting have the following effects on each play screen:
+
+SCREEN		DIFFICULTY LEVEL SELECTS:
+  1		a) "Rainbow Ghost" or "Bones" tag partner
+  		b) Number of shots needed to advance to next screen
+			25 shots for easy
+			20 shots for medium
+			15 shots for hard
+			10 shots for hardest
+  2		a) Speed of evil chopping mummy
+			slowest speed for easy
+			fastest speed for hardest
+ 3&4		a) Right difficulty switch lights LAMP if in B-novice position
+		b) left difficulty switch sets speed of MOVING WALL
+  5		a) Speed of Dracula chasing you
+
+SUMMARY OF DIFFICULTY SELECTIONS
+					Shots	Mummy			 Moving Wall
+Difficulty   Character	Needed	Speed		Lamp	 	Speed
+EASY		Rainbow Ghost	25		slowest		light	slow
+MEDIUM	Bones		20		slow			light	fast
+HARD		Rainbow Ghost	15		fast			dark		slow
+HARDEST	Bones		10		very fast		dark		fast
+
+Note: To owners of Sears Telegames Video Arcade difficulty is called "skill".
+
+
+
+GAME LAYOUT:
+There are FIVE play screens in the game:
+
+1. GRAVEYARD - screen 1
+At beginning of the game tombstones rise from the dead.  You play tag with
+the friendly RAINBOW GHOST or BONES the SKELETON to collect spears to shoot
+in the next screen.
+
+2. THE GATE IN FRONT OF GHOST MANOR CASTLE - screen 2
+Many flying spooks guard the castle entrance, and their leader, the evil
+CHOPPING MUMMY tries to stop you.  Shoot the spooks by hurling your spears
+at them.  Kill the mummy after the guards are eliminated.
+
+3. 1st FLOOR INSIDE THE CASTLE - screen 3
+Lightning flashes in the night -- your only visible guide unless you have
+the lamp lighted.  A maze of corridors and rooms with caskets awaits you.
+Touch the casket just right to find an extra cross and treasure points.
+BEWARE touching the stationary walls -- they are electrified and can stun
+you.  Watch out for the moving wall -- it can crush you to death.  Stairs
+lead to the next room.
+
+4. 2nd FLOOR INSIDE THE CASTLE - screen 4
+More elaborate mazes with more caskets.  Collect treasure points and another
+cross from the caskets, but watch your time -- and the moving wall!  Stairs
+lead to the next floor.
+
+5. PRISON ATOP THE CASTLE - screen 5
+Here is the prison holding your friend, and the sinister guard DRACULA!  You
+must imprison DRACULA to free your friend by using the crosses to repel
+DRACULA.  BEWARE he follows your every move!  Rescue your friend and get to
+safety down the stairs -- before time runs out!
+
+6. CONCLUSION -- back to the graveyard.
+As dawn breaks you will be returned to the graveyard.  If victorious a merry
+melody plays and you rejoice with your friend.  If you lost, both of you are
+doomed to descend into the ground with the tombstones!
+
+
+Lafe Travis
+I'm a Yosemite Sam fan; that's what I am!
+Star Wars, Doctor Who, Video Games, Horror Films, FRUA, Bears, Dragon's Lair
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

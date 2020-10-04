@@ -1,0 +1,135 @@
+Note - this is the same game as Demon Attack!
+
+             CREATURE STRIKE INSTRUCTIONS
+
+Marooned on the ice planet Krybor, you watch legions of
+eerie creatures scream overhead. They hover ominously.
+Attack and destroy them - or be destroyed!. Armed with
+your Laser Cannon, you confront the ultimate challenge:
+SURVIVE!
+
+--------------------------------------------------------
+                      GAME PLAY
+--------------------------------------------------------
+
+Destroy demons and accumulate points before you and
+your Laser Cannon meet with oblivion. Keep reserve
+bunkers intact and increase their number by avoiding
+your foes' fire. When the last bunker disintegrates, the
+next enemy hit will pulverize you!
+
+* Your Laser Cannon has unlimited firing power.
+* Dodge left or right to avoid enemy fire while pursuing
+  aliens.
+* Accumulate reserve bunkers (bottom left of screen).
+  You begin with 3.
+* Each attack wave you survive completely unscathed
+  earns you an additional bunker, to a maximum of 6.
+* Every hit you absorb destroys a bunker.
+* When all bunkers disappear, another alien barrage will
+  vaporize you.
+
+--------------------------------------------------------
+                    HAND CONTROLS
+--------------------------------------------------------
+
+* Your joystick controller allows you to manoeuvre.
+  Position controller so that the red firing button rests in
+  the upper left hand corner. To move the Laser Cannon
+  left, push joystick left; for right mobility, lean joystick
+  right.
+* To fire: press red button.
+* 1-player versions; use left hand controller.
+* Flip Game Select Lever to choose a Demon Attack
+  game.
+* Game number appears at top centre of screen.
+* Hit Game Reset Lever to begin action. Game begins
+  again whenever Reset Lever is tapped.
+* Fire button on left hand controller will reset game
+  when previous game ends.
+* Right and Left Difficulty Levers determine how
+  aggressively the demons attack:
+
+         A = Aggressive Action
+         B = Basic Bombardment
+         1 player: set only Left Difficulty Lever.
+         2 players: set both Left and Right Difficulty Levers.
+
+-------------------------------------------------------------
+                       GAME VARIATIONS
+-------------------------------------------------------------
+
+1 Player         2 Player                Description
+
+Game 1              2           Demon Attack
+     3              4           Tracer Shot Demon Attack
+     5              6           Advanced Demon Attack
+     7              8           Advanced Tracer Demon
+                                Attack
+                    9           Demon Attack: Special
+                                Co-op Version
+                   10           Advanced Demon Attack:
+                                Special Co-op Version.
+
+1-Player Games
+Games 1, 3, 5 and 7 pit you against progressively more
+difficult waves of alien adversaries. Pick up the pace: the
+higher the game number, the greater the challenge!
+Games 3 and 7 feature special tracer shots. Your Laser
+Cannon powers fire all over the screen.
+
+2-Player Games
+Games 2, 4, 6 and 8 match your wits against more than
+waves of winged warriors!
+Each player
+      * takes on similar waves of demons
+      * manoeuvres a separate Laser Cannon
+         Left joystick: red
+         Right joystick: gold
+      * has own reserve bunkers
+      * registers an independent score which shows when
+        your Laser Cannon appears on the screen.
+
+* Play alternates between players at the end of each wave.
+* If both players survive the assault, they proceed to the
+  next wave.
+* If one player loses all reserve bunkers and gets vaporized,
+  the other continues on to succeeding waves.
+* Both players' scores show at game's end, keyed to Laser
+  Cannon colour.
+* Games 4 and 8 feature special tracer shots.
+
+Special Co-op Versions
+Games 9 and 10 allow 2 players to take turns against the
+same wave of attack.
+
+* Laser Cannon control alternates every four seconds.
+  Keep track of your colour!
+* Independent scores appear on screen.
+* You share reserve bunkers; when they're gone, another
+  blast ends the game.
+         Game 9: uses standard weaponry
+         Game 10: uses tracer shots
+* If you are hit in games 9 or 10, your "partner" scores an
+  additional 500 points.
+
+-------------------------------------------------------------
+                         SCORING
+-------------------------------------------------------------
+
+                               Split       Diving
+     Wave        Demons        Demons      Demons
+     1,2           10            -            -
+     3,4           15            -            -
+     5,6           20           40           80
+     7,8           25           50          100
+     9,10          30           60          120
+    11,12          35*          70          140
+
+** Represents highest possible point avard.
+
+For 2 players:
+Even the odds between players of varying skill.
+* Expert players set the Difficulty Lever corresponding to
+  their joystick to A.
+* Beginners set the Difficulty Lever to B.

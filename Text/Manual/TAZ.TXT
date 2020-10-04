@@ -1,0 +1,110 @@
+Video Game Cartridge For The Atari 2600 VCS
+
+
+TAZ
+
+Starring the TASMANIAN DEVIL!
+
+
+Snack Attack!
+
+   You are TAZ, the ravenous Tasmanian Devil who whirls like a
+tornado and eats everything in sight. Hamburgers, root beer, ice
+cream - you are jazzed by such junk! But look out, sometimes your
+feeding is so frenzied that you accidentally swallow dynamite!
+Pow! What a bellyache!
+   Your objective: Glut on every edible item that comes your way
+to achieve the fattest score possible while you stay alive as long
+as possible.
+
+
+Place Your Order
+
+   Turn the console power switch off before inserting or removing
+the TAZ cartridge. This will protect the electronic components and
+prolong the life of your Atari 2600 Video Computer System game.
+   Plug your Joystick into the LEFT CONTROLLER jack for a one-player
+game; plug a second Joystick into the right controller jack for
+two-player games. Hold the controller with the fire button to your
+upper left, toward the television screen. See your owner's manual
+for details.
+   Press the fire button on your Joystick Controller to start the
+game. Use your Joystick to move up, down, and sideways on the
+long tables. To eat an item, simply cover it with the Taz
+tornado.
+   Press GAME SELECT to choose a one or two player game. The
+numeral 1 appears at the lower left side of screen to indicate
+a one-player game, and the numeral 2 appears at lower left to
+indicate a two-player game.
+   Press GAME RESET to stop a game in progress and return to the
+TAZ title screen.
+   Set the TV TYPE switch to color to play the game on a color
+set. Set it to B/W to play on a black and white television.
+   The DIFFICULTY switches have no function in TAZ.
+
+
+The Unbalanced Meals Are Served
+
+   TAZ is an eating contest composed of three unbalanced meals.
+Each meal consists of eight courses. After you eat 50 items of one
+course, the next course is served. As you progress through the
+courses, the food moves faster and arrives more frequently.
+When you finish all eight courses of one meal, you immediately
+start the next. In each of the three meals the same food is
+served in the same sequence - you start with hamburgers and end
+with sundaes. If you devour all three meals you are rewarded with
+a surprise "dessert." What could it be - a stomach pump?
+   You start the game with three lives. Each time you swallow
+dynamite you lose a life. The game ends when you lose your last
+life. You win bonus lives at: 10,000 points, 30,000,  50,000,
+80,000, 110,000, 150,000, and every 40,000 points thereafter.
+The maximum number of lives that can be displayed on screen at
+once is four; the maximum you can have is eight.
+
+
+Crazed Wave
+
+   After you finish the fudgesicle course in the first meal, the
+game pauses and the words CRAZED WAVE appear on the screen. This
+is a warning that from here on the game gets crazier because
+the food is served faster and faster.
+
+
+Scoring
+
+You Score What You Eat
+
+You can score a total 999,999 points before the score rolls over.
+
+FOOD          POINTS
+Hamburger       50
+Root Beer      100
+Ice Cream Cone 200
+Fudgesicle     300
+Apple Core     400
+Turnip         500
+Tomato         500
+Sundae         500
+?Surprise      500
+
+
+Dynamite Tips
+
+   Don't stay near the edge of the screen. This is where an item
+first appears and you won't have time to see if it's food or
+dynamite. When dynamite comes between you and food, wait until
+the path is clear to move up or down the screen.
+   Remember that you can wait in a single path as long as you like.
+You won't be penalized, and it may give you more time to plan
+your strategy.
+
+
+ATARI (R)
+Printed in U.S.A.
+(C) 1983 Atari, Inc.
+All Rights Reserved
+
+C019741-99 REV. A
+
+Designed and Programmed by Steven Woita
+

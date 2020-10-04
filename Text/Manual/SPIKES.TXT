@@ -1,0 +1,337 @@
+Atari 2600 Game Manual:  Spike's Peak (by Xonox)
+------------------------------------------------
+
+You are Spike, climbing against time.  Rather than following the safer way
+of the path, you may decide to climb the cliff instead... but such a
+decision will change your speed and your technique. Completing 5 different
+screens will take you to the top of the mountain, but beware of diving 
+eagles, and hungry bears that hide in darkened caves.  You must also watch
+for rock slides and slippery ice patches... they may send you sliding, perhaps
+into poisonous mountain cactus.  The higher you climb, the colder you'll get
+So hurry... before you freeze!
+
+--
+Get Ready to Play Spike's Peak
+--
+
+1.  Hook up your video game system.  Follow the manufacturer's directions.
+
+2.  With the power "OFF", plug in game cartridge.  The XONOX Double-Ender --
+    with Spike's Peak and Ghost Manor -- gives you twice the fun with two
+    totally separate games.  To play Spike's Peak, insert the end of the 
+    cartridge labeled "Spike's Peak" into your video game system.
+
+3.  To prolong the life of your XONOX Double-Ender, you may want to use
+    the dust cover provided to protect the game end not in use.
+    [Note: The _what_?  Never seen such an item, and it wasn't in my box. -VSP]
+   
+4.  Now turn the power on.  If no picture appears, check connection of your
+    game console to TV; then repeat steps 1, 2 and 4.
+
+5.  Plug in left joystick controller.  One player at a time only.  Hold
+    joystick with the red button in the upper left position.
+
+6.  Set both difficulty switches to "B to begin with (see game instructions
+    for advanced difficulty settings).
+
+7.  To begin or to start a new game, press "GAME RESET."
+
+NOTE:  Always turn the console power switch "OFF" when inserting or removing
+       a XONOX cartridge.  This will protect the electronic components and
+       help prolong the life of your XONOX games.
+
+--
+SPIKE'S PEAK 
+Video Game
+--
+
+You control SPIKE on a climb to reach the peak of the mountain.  Start on 
+the path that leads up through the meadows, crosses rocky ledges and advances
+through an icy snow field.  But watch out for the bear, waterfalls, the 
+eagle, falling rocks and the abominable snowman.  Collect points as you go
+higher, and find gold nuggets and ice diamonds.  But watch your body 
+temperature; do not freeze before you reach the top -- you only have 3 lives!
+
+1.  Object of the Game:  To reach the top of the mountain before you freeze,
+	collecting as many points as possible -- highest score wins.
+
+2.  Controls:  Play with the LEFT JOYSTICK and FIRE BUTTON.
+	One player at a time only.
+
+3.  Score Display:  a) Row of digits is your SCORE points.
+		    b) Line under score is indication of body temperature.
+	  	       Shrinks as you get colder and you will freeze when
+		       it's gone.
+
+4.  Difficulty SWITCHES:  There are 4 difficulty levels.
+
+Difficulty Level	Left Switch   Right Switch
+  1 - easy		B - novice    B - novice
+  2 - medium 		A - expert    B - novice
+  3 - hard		B - novice    A - expert
+  4 - hardest	        A - expert    A - expert
+
+Difficulty switch settings have different effects on each screen:
+
+Screen  	Difficulty Switch affects:
+  1                a)  delays your jumping ability
+		   b)  speed of Spike's movement
+ 		   c)  Eagle warning sound begins earlier
+
+  2 		   a)  delays your jumping ability
+		   b)  boulder may knock Spike off at lower levels
+
+  3 		       no difficulty switch effect in this screen
+
+NOTE:  The boulder will continue to appear at lower levels but it will not
+	knock out Spike in the easier difficulty level settings.
+
+NOTE:  To owners of Sears Telegames Video Arcade, difficulty is called 'skill'.
+
+--
+Game Layout:
+--
+
+1.  MOUNTAIN -- screen 1  [Mountain in distance, with flags in foreground]
+    	Flags indicate number of lives remaining.  (A blinking dot on the 
+	mountain indicates your previous advancement.)  Move joystick to the
+	right to begin your journey.
+
+2.  MEADOWS -- screen 2   [zig-zag path starting at lower right]
+ 	Ascending up the path through the meadows.  Safety in brown canyons
+	and empty black caves without bears (you'll see their eyes).  Be
+	careful of the muddy water slides, eagles, and bears (in and out
+	of caves).
+
+3.  ROCKY LEDGE -- screen 3 [more zig-zags, more horizontal, and broken in 
+				pieces]
+  	Hazardous ledges to cross with rockslides and boulders falling, plus
+	cactus to sting you.  Collect piton for protection and gold nuggets
+	for extra points.
+
+4.  ICE CAP -- screen 4	    [another long continuous zig-zag]
+ 	Be careful through the snowy icy path, avalanches fall and an 
+	abominable snowman tries to kill you.  Pick up ice axe for help and
+	collect ice diamonds for additional points plus energy.
+
+5.  TOP OF THE MOUNTAIN -- screen 5  [uh, well, a mountain-top.  Duh.]
+	Plant the flag at the top and you've conquered the mountain.
+	You're very tired!
+
+--
+PLAY ACTION -- Screen 1    Starting up the MOUNTAIN
+--
+
+The blinking dot indicates last altitude reached.  
+
+The number of flags indicates number of lives remaining.
+
+Ascend up the path until next screen appears by pushing joystick to the right.
+
+--
+PLAY ACTION -- Screen 2	   Climbing the MEADOWS
+--
+
+Follow the path up the hill and hide from the EAGLES and the BEARS.  Listen
+for the screech of the Eagle before it attacks.
+
+Your objective is to reach the top of the mountain path and then climb
+screen 3, the rocky ledge.
+
+Get in the cave [dark rectangle] or canyon [lighter rectangle] to hide.
+Push the joystick DOWN to get in the canyons and UP to get in the caves.
+
+Use the fire button to jump over the water [vertical obstacle in path] and
+to get out of the cave or canyon.
+
+Don't stay in the cave or canyon too long or your body temperature will fall
+and you will freeze and die.
+
+POINT SCORING in Screen 2:
+
+This part of the mountain is 4,000 feet high.  You will collect 1,000 points
+for every 1,000 feet of altitude you climb.  (Each turn in the path 
+represents 1,000 feet.)
+
+WAYS TO LOSE LIVES in Screen 2:
+
+* killed by Bear or Eagle
+* freezing to death
+* caught in water slide
+
+--
+PLAY ACTION -- Screen 3     Balancing on the ROCKY LEDGE
+--
+
+Be careful on the rocky ledge.  Walk over the DRIVING PITON [vertical line]
+and use the fire button to drive it into the hill while advancing with the
+joystick.
+
+Do not fall between the ledges or you will fall down the holes.  Use the fire 
+button to jump from ledge to ledge.
+
+BODY TEMPERATURE will only fluctuate.  
+
+Grab GOLD NUGGETS [squares] for extra points by walking over to them.
+
+CACTUS [looks vaguely like a pinwheel] block the path and will give you
+quite a twirl.  You can jump over them by using the fire button.
+
+Watch out for the FALLING ROCKSLIDE [bunch o' dots]; it will knock you down
+and give you negative points.  Don't let the FLYING ROCK [big boulder] hit 
+you; it will knock you toward the holes between the ledges.  Use the fire 
+button to protect yourself.
+
+Spike is a talented climber.  He does not have to walk along the ledge.  He
+can climb straight up or even diagonally but without the support of the 
+ledges, climbing progress is slower and it may take longer to get to the top.
+However. some climbers think the shortest distance route is the quickest.
+
+Your objective is to reach the top of the rocky ledge (gathering as many
+gold nuggets as you can), and then climb screen 4, the ice cap.
+
+You can enter the ice cap screen by either gathering the gold nugget at 
+the top left of the Rocky Ledge screen or by climbing over the stairway
+looking ledge ["stairway looking ledge?"] on the top right of the rocky
+ledge screen.
+
+POINT SCORING in Screen 3:
+
+This part of the mountain is 3,000 feet high.  You will collect 2,000 points
+for each 1,000 feet of altitude you climb (each level of ledges represents
+1,000 feet).
+
+OTHER POINT SCORING in Screen 3:
+
+Gold nuggets are worth 3,000 points each.
+
+WAYS TO LOSE POINTS in Screen 3:
+
+If you are knocked down by falling rocks you will lose 150 points each time
+you fall backwards.
+
+WAYS TO LOSE LIVES in Screen 3: 
+
+* falling between or off a ledge
+* getting hit by a boulder if it knocks you off a ledge
+
+--
+PLAY ACTION -- Screen 4     Passing the ICE CAP
+--
+
+Avoid the AVALANCHE [flying wedges], it will slide you back.  If you have the
+ice axe you can avoid it by pressing the fire button and push the joystick
+IN ANY DIRECTION.  This plants the ice axe in the ice and prevents you
+from falling too far.
+
+Advance through the icy snow by first getting the ICE AXE and using it with
+the joystick to advance yourself.
+
+Don't get too cold, your BODY TEMPERATURE [line under score] decreases faster
+as you increase in altitude. 
+
+Walk over to the ICE DIAMONDS [floating blocks] and touch them for
+extra points.
+
+Don't let the ABOMINABLE SNOWMAN grab you; he will kill you.  Kill him
+and get extra points by pressing the fire button with the joystick in the
+NEUTRAL position.  This throws the axe at the snowman.  Also moving Spike 
+just off the path allows you to avoid the Abominable Snowman.
+
+As in Screen 3, Spike can climb in all directions.  He does not have to stay
+on the path, although Spike moves slower if off the path.
+
+Your objective is to reach the top of the ice cap and then climb Screen 5, to
+the top of the mountain, to plant the flag... all before you freeze!
+
+POINT SCORING in Screen 4:
+
+This part of the mountain is 4,000 feet high.  You will collect 2,000 points
+for every 1,000 feet of altitude you can climb (each turn in the path
+represents 1,000 feet).
+
+OTHER POINT SCORING in Screen 4:
+
+Collecting the Ice Diamonds are worth 5,000 points each.  If you can kill
+the Abominable Snowmen, you will get 2,000 points for each Snowman killed.
+
+WAYS TO LOSE POINTS in Screen 4:
+
+If you are knocked down by an avalanche, you will lose 250 points each time
+you are knocked down.
+
+WAYS TO LOSE LIVES in Screen 4:
+
+* Getting killed by an abominable snowman
+* Freezing to death
+
+--
+PLAY ACTION -- Screen 5    TOP OF THE MOUNTAIN
+--
+
+Peace at last, but you must climb to the very top and plant your flag before
+your body temperature freezes.  Take a rest for completing such a mission!
+
+POINT SCORING in Screen 5:
+
+When you have reached the top of the peak you will be awarded 10,000 
+bonus points!
+
+Also, if you have more lives remaining, you will scurry down the mountain
+to climb again, after you have had a brief rest.
+
+WAYS TO LOSE LIVES in Screen 5:
+
+* Freezing to death
+
+--
+GAME ENDING
+--
+
+LOSING A LIFE:
+
+You will lose a life because of several possibilities:
+
+Screen 2 -- Bear, Eagle or Water Slide may capture you.  Also your body
+	temperature may get too low.
+
+Screen 3 -- Falling in between the ledges in the holes.
+
+Screen 4 -- Abominable snowman catches you, or your body temperature 
+	gets too low.
+
+[They forgot Screen 5 -- freezing to death!  Hah.]
+
+If you lose a life you will flash back to the beginning of the mountain to
+check your last position and how many lives you have left.  To resume your 
+climb from the screen at which you left off, move joystick to the right.
+
+WINNING THE GAME:
+
+You will win the game if you plant your flag at the very top of the mountain.
+If you still have lives left, you can get more points.  To resume play,
+press the fire button.
+
+BONUS LIVES:
+
+If you reach 100,000 points you will receive another life for Spike.  For each
+100,000 point level you reach you will receive an additional life, but you
+will never have more than 3 lives total at any one time.
+
+LOSING THE GAME:
+
+If you lose all 3 of Spike's lives without reaching the top of the mountain,
+you will return to the base of the mountain and see that there are no more
+flags remaining because you have no more lives.  The game is over.  To replay
+again from this screen just move the joystick in any direction or press
+GAME RESET and the game will restart.
+
+GOOD LUCK!
+
+[Climber's Log: places to record high scores]
+
+
+typed by vsp@netaxs.com. comments, more manuals, and Vectrex overlays welcomed.
+
+
+

@@ -1,0 +1,156 @@
+Atari 2600 Game Manual
+Jr. Pac-Man
+
+Kidding Around with Junior!
+
+I may be young, but I'm no baby!  I'm a star just like my 
+folks, Pac-Man(TM) and Ms. Pac-Man(TM).  And I've got twice 
+their energy!
+Come play with me!  We'll race around giant playgrounds.  
+We'll chase down magic candy and run from ghostly bullies 
+who'll tickle me to death if they catch me.
+My playgrounds are full of challenging mazes with corners and 
+alleys to hide in.  I run faster than a speeding roller skate, 
+ducking behind barriers, dodging those mean bullies.  I can 
+even race from one side of a playground to the other.  That's 
+a lot of ground to cover!
+But I've got to play a lot harder than my folks to live up to 
+the Pac-Man family name.  That's why this is a whole new game!
+
+Getting Started
+
+1.  Insert the Jr. Pac-Man cartridge into your ATARI 2600 as 
+explained in your Owner's Manual, and turn on the console.
+
+2.  Plug a joystick into the left joystick jack.
+
+3.  Press (Select) to choose one of four skill levels: one 
+teddy bear; two teddy bears; three teddy bears; or toy candy.
+
+4.  Press (Reset) or the joystick button to start the game.  
+Following every other maze, action stops and a tune plays 
+while the upcoming maze is displayed.  After a few seconds the 
+game continues.  (If you don't want to pause, press the 
+joystick button for immediate replay.)
+
+5.  Use your joystick to joyride throughout the maze.  Jr. 
+Pac-Man moves in the same direction you move the joystick.  
+The maze scrolls when Junior moves to the top or bottom edge 
+of the screen.
+
+Playing the Game
+
+On the playground maze, Jr. Pac-Man runs like mad, eating 
+every dot in sight while trying to avoid up to four ghost 
+bullies -- Inky, Blinky, Pinky, and Tim.  You start the game 
+with three turns, and lose a turn every time a bully catches 
+Junior.
+
+Have Junior eat a power pill when the ghost bullies start 
+closing in.  Suddenly, he's stronger than the bullies -- 
+they're running from him!  Be aggressive and get them!
+
+Watch for a toy-shaped candy that tromps across the 
+playground.  It turns every dot it touches into a bigger dot 
+worth more points.  But have Junior eat it before it goes too 
+far -- it can destroy the power pills!
+
+Strategy
+
+Don't let Jr. Pac-Man eat the power pills too early.  Wait 
+until the bullies gain on him, then have him tease them toward 
+a pill, quickly gobble it, and immediately chase them.
+
+Have Junior eat as many dots as he can before he east the 
+power pills.  This gives him more clear paths for chasing 
+bullies.
+
+Dots worth ten points slow Jr. Pac-Man down.  Dots worth 50 
+points slow him down even more.  So, when the bullies close 
+in, have Junior dash into a clear path to outrun them.
+
+Jr. Pac-Man turns corners faster than the ghost bullies.  When 
+the bullies are closing in, have him make lots of direction 
+changes to outrun them.
+
+Get to know the bullies' personalities.  Each one is unique, 
+and you can use that fact to your advantage.
+
+Allow the toy candies to transform as many dots as possible 
+into 50-point dots.  But have Junior eat the candies before 
+they destroy the power pills.
+
+Pay attention to game sounds, such as the tromping sound of 
+toy candies.  They'll clue you to what's happening in parts 
+of the maze you can't see.
+
+Skill Levels
+
+When you graduate to each higher level, the playground is 
+faster, tougher, and even more challenging than the one before.
+
+One Teddy Bear -- This is the easiest level, in which just one 
+ghost bully chases Junior.
+
+Two Teddy Bears -- Junior runs from two bullies.
+
+Three Teddy Bears -- Three bullies pursue Junior.
+
+Toy Candy -- This is the hardest level, in which Junior tries 
+to outrun four bullies.
+
+Scoring
+
+Score points by having Jr. Pac-Man eat the bullies.  The more 
+bullies he east per power pill, the more points you score.
+
+Your score appears at the bottom center of the screen.  The 
+number of turns you have left appears at the lower left.  
+Teddy bears or the toy candy showing your skill level appear 
+at the lower right.
+
+Points are listed below:
+
+First ghost ............... 200 points
+Second ghost .............. 400 points
+Third ghost ............... 800 points
+Fourth ghost ............. 1600 points
+
+Tricycle .................. 100 points
+Kite ...................... 200 points
+Drum ...................... 500 points
+Balloon ................... 700 points
+Train .................... 1000 points
+Kitty .................... 2000 points
+Root beer ................ 5000 points
+
+Dot ........................ 10 points
+Dot touched by toy candy ... 50 points
+Energy pill ................ 50 points
+
+At 15,000 points, you earn a bonus turn.
+
+Reproduction of this document or any portion of its contents 
+is not allowed without the specific written permission of 
+Atari Corp.
+
+Every effort has been made to ensure the accuracy of the 
+product documentation in this manual.  However, because we are 
+constantly improving and updating our computer software and 
+hardware, Atari Corp. is unable to guarantee the accuracy of 
+printed material after the date of publication and disclaims 
+liability for changes, errors, and omissions.
+
+ATARI is a registered trademark, and 2600 is a trademark of 
+Atari Cor.  Jr. Pac-Man, Ms. Pac-Man, Pac-Man, and characters 
+are trademarks of Bally Midway Mfg. Co., sublicensed to Atari 
+Corp. by Namco-America, Inc.
+
+Copyright (c) 1986 Atari Corp.
+Sunnyvale, CA  94086
+All Rights Reserved.
+
+Printed in Taiwan
+CO19741-123/A
+K.I.7. 1986
+

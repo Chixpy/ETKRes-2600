@@ -1,0 +1,141 @@
+	For the Atari 2600 and all compatible systems
+
+	T H U N D E R G R O U N D
+	official arcade version
+
+	S E G A
+	Video Game Cartridge
+
+Tunnel your way upwards.  Closer and closer to the enemy targets, vicious
+Vector nuclear bases which you must destroy at all costs.
+
+Suddenly, atomic cannon fire obscures the blackness.  Dreaded "Core Ranger
+Tanks" have discovered your presence.  But there's no turning back.
+
+Vaporize them with your atomic laser cannon.  Better yet, trick their blue
+"Digger Tanks" into eliminating their own forcefield.  The only thing
+standing between you and the enemy bases.  It worked!  Now FIRE!
+
+USING YOUR CONTROLLERS
+Thunderground is played with the LEFT JOYSTICK.  Moving the joystick up,
+down, right or left will cause your capsule to move in the same direction.
+The fire button will cause the capsule to fire its laser cannon in the same
+direction the capsule is facing.
+
+USING YOUR VIDEO SYSTEM
+Push the Thunderground cartridge into your system, turn on the system, push
+the fire button on the joystick or the reset button on your system and go.
+No other switches on your system affect this game.
+
+
+HOW TO PLAY
+
+Mission Objective: Destroy all enemy nuclear bases located on the planet
+surface.  Bases are protected by two deadly "Core Ranger Tanks" standing
+guard beneath the enemy base force field.  You must outmaneuver or eliminate
+tanks, strip away the force field with your core capsule, then shoot the
+bases with your atomic laser cannon.  Careful planning can force the blue
+enemy "Digger Tanks" to strip away the force field for you.
+But you must hurry.  You only have a limited amount of time to complete the
+mission or you'll lose one of your reserve core capsules.
+
+Battle Plan: You are faced with 12 levels of difficulty with four rounds per
+level.  A round ends when all six bases on the surfaces have been
+eliminated.  After level 1, the difficulty increases with bases appearing
+one at a time.  The last or sixth base in a round is displayed in multiple
+colors.
+Enemy supplies are hidden on the playing field during each round.
+Uncovering these supplies with your core capsule will give you bonus points.
+Their location is random.  But, careful observation may reveal a secret as
+to their position.
+
+Obstacles: There are two types of "Core Ranger Tanks" determined to destroy
+you.  White "Sentry Tanks" which can only move in existing tunnels.  And
+blue "Digger Tanks" which can dig their own tunnels to pursue you.
+
+Either tank can destroy your core capsule with their atomic cannons or by
+ramming into you.  You can eliminate tanks by blasting them with your laser
+cannon, but be careful, destruction of both tanks results in the appearance
+of a replacement tank that could catch you off guard.
+
+Once a tank is destroyed you can drive through the remaining tank debris.
+But neither you nor the remaining tanks can shoot through it.
+
+At the bottom of the playing field a third enemy tank begins moving towards
+your remaining capsules as soon as a round begins.  You must destroy all six
+enemy bases before this tank reaches and destroys the first capsule in its
+path.  You begin with only six capsules, although only three are displayed
+at a time.  A bonus capsule is awarded after completion of each level (every
+4 rounds).  Your last capsule is displayed as an outline for timer purposes.
+
+
+STRATEGIC TIPS
+
+1. Don't destroy enemy tanks unnecessarily.  There may be far better ways to
+score points.
+
+2. Watch enemy tank movement carefully.  Strategic placement of your core
+capsule can lead them away from the bases.  It can also cause enemy blue
+tanks to strip away sections of the force field lying in front of the bases.
+
+3. Don't risk yourself in search of enemy supplies in early rounds.  It is
+much more important to stay alive in order to score bonus points for the
+destruction of bases in higher rounds.
+
+
+SCORING
+Points are scored by destroying tanks (always 50 points), destroying bases
+(see table 1) and by capturing enemy supplies (see table 2.)  And by the
+timer (movement of the third enemy tank at bottom of screen).  40 points are
+awarded for every "tick" left on the timer when all the bases have been
+destroyed.
+The two digits at the bottom right of the screen show the round you have
+achieved in the game.
+
+Table 1
+The Bases Score The Following:
+Round	Without		With
+		Token		Token
+1		50			150
+2		50			250
+3		150			350
+4		250			450
+5		50			250
+6		150			350
+7		250			450
+8		350			550
+9		150			350
+10		250			450
+11		350			550
+12		450			650
+13		250			450
+14		350			550
+15		450			650
+16		550			750
+17		550			1550
+18		550			2550
+19		1550			3550
+20		2550			4550
+21		550			2550
+22		1550			3550
+23		2550			4550
+24		3550			5550
+25		1550			3550
+26		2550			4550
+27		3550			5550
+28		4550			6550
+29		2550			4550
+30		3550			5550
+31		4550			6550
+32		5550			7550
+
+Rounds 33 and up score the same as rounds 17-32.
+
+
+Table 2
+The Tokens Score The Following:
+Shovel = 1000
+Walkie Talkie = 2000
+Key = 3000
+Flag = 4000			
+

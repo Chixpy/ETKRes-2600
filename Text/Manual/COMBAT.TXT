@@ -1,0 +1,437 @@
+COMBAT
+
+GAME PROGRAM TM
+INSTRUCTIONS
+
+                           ATARI (R)
+
+                A Warner Communications Company
+
+                ATARI, INC., Consumer Division
+            1195 Borregas Ave., Sunnyvale, CA 94086
+
+(c) 1977 ATARI, INC.                                C011402-01
+
+
+CONTROLLER ACTION
+
+Use the Joystick Controllers with this Game Program.
+
+Hold the Controller with the red button to your upper left
+towards the TV screen.
+
+              FWD  
+    FWD. LEFT  ^  FWD. RIGHT
+            \  |  /
+              \|/
+     LEFT <---STOP--> RIGHT     
+              /|\
+            /  |  \
+               v 
+           NO EFFECT     
+
+Fig. A - Tank Games
+
+For all Tank games, move your Joystick as shown in Fig. A. To
+move forward, push the Joystick forward. To turn right, pushg the
+Joystick to the right. To move left, push the Joystick to the
+left. The back positions have no effect on your Tank.
+
+           MED DIVE
+    SLOW DIVE  ^  FAST DIVE 
+            \  |  /
+              \|/
+     SLOW <---MED---> FAST
+              /|\
+            /  |  \
+   SLOW CLIMB  v  FAST CLIMB
+           MED CLIMB     
+
+Fig. B - Bi-Plane Games
+
+To control your Bi-Plane for those games, see Fig. B. Control the
+speed by moving your Joystick from the left (slowest) to the
+right (fastest). To dive, move the Joystick forward, to climb,
+move it back.
+
+              FAST
+    FAST LEFT  ^  FAST RIGHT
+            \  |  /
+              \|/
+MED. LEFT <---MED---> MED. RIGHT
+              /|\
+            /  |  \
+    SLOW LEFT  v  SLOW RIGHT
+              SLOW
+
+Fig. C - Jet-Fighter Games
+
+In Jet-Fighter games, the speed of your Jet is controlled by
+moving your Joystick from the forward position (fastest) to the
+back opsition (slowest). Right and left turns are controlled by
+moving your Joystick from left to right.
+
+As a rule of thumb, game action for Tank and Jet-Fighter games
+is viewd from the top. Bi-Plane game action is viewed from the
+side. All games end after 2 minutes, 16 seconds.
+
+MISSILE ACTION
+
+Fire your missile by pushing the red button on your Joystick
+Controller.
+
+                       ##  #
+                     #######
+                       ##
+
+
+
+     #  ##
+     #######  - - - - - - - - - - 
+        ##
+
+Fig. D - Straight Missiles
+
+In those games where the Missile Action is described as
+"Straight," the missile travels in a straight line (Fig. D).
+"Machine Gune" missiles are rapid fire "Staright Missiles."
+
+
+          
+           -  -  -  
+        /
+                      
+       |             ,/
+                    ###
+      |              `\
+                      
+      #
+     ,#.
+    /###\
+
+Fig. E - Guided Missiles
+
+In "Guided" missiles games, the missile can be turned to follow
+your opponent by moving the Joystick to right or left after
+firing (Fig. E).
+
+
+     ###   ###
+      #########
+       #########
+        ### # ###
+             \
+                
+               \
+   ### # ###     
+   #########     \
+   #########      >
+   ###   ###     /
+              
+             /
+           
+         /
+  \
+    \/
+
+Fig. F - Billiard Hit
+
+For TANK-PONG games only, the missile will bounce off the walls
+and barriers as shown in Fig. F.
+
+
+DIFFICULTY
+
+The Player using the "A" Difficulty in all games will have a
+shorter range missile than the player using the "B" Difficulty
+position on the Video Computer System console. Additionally, in
+the Bi-Plane and Jet-Fighter games, the player in Position "A"
+will fly slower than Position "B."
+
+
+TANK GAMES
+
+#############################################
+#                                           #
+#                                           #
+#                                           #
+#                                           #
+#                                 TANK      #
+#                                /          #
+#                              /            #
+#                            /              #
+#      TANK            -  -                 #
+#                   /                       #
+#                 /                         #
+#               /                           #
+#                                           #
+#                                           #
+#                                           #
+#                                           #
+#                                           #
+#############################################
+
+Fig. G - Tank Open Playfield
+
+#############################################
+#                                           #
+#                                           #
+#                    ###                    #
+#      TANK          ###                    #
+#          \         ###                    #
+#            \                              #
+#    ###       \                     ###    #
+#      #         \                   #      #
+#      #   ####    \          ####   #      #
+#      #             \               #      #
+#    ###               \     TANK    ###    #
+#                        \                  #
+#                    ###   \                #
+#                    ###                    #
+#                    ###                    #
+#                                           #
+#                                           #
+#############################################
+
+Fig. H - Tank Easy Maze Playfield
+
+#############################################
+#                    ###        / \     /   #
+#                    ###      /     \ /     #
+#     ####                  / TANK ####     #
+#     ####                /        ####     #
+#            ####       /   ####            #
+#            ##       /       ##            #
+#    ###            /                ###    #
+#      #   ##     /             ##   #      #
+#      #   ##   /               ##   #      #
+#      #   ## /                 ##   #      #
+#    ###    /                        ###    #
+#       TANK ##               ##            #
+#            ####           ####            #
+#     ####                         ####     #
+#     ####                         ####     #
+#                    ###                    #
+#                    ###                    #
+#############################################
+
+Fig. I - Tank Complex Maze Playfield
+
+
+The object of TANK is to hit your opponent as many times as you
+can before the game ends. You score one point for each hit.
+
+Game No.
+
+     1. Open Field (Fig. G)   Guided Missile (Fig. E)
+
+     2. Easy Maze (Fig. H)    Guided Missile (Fig. E)
+
+     3. Easy Maze (Fig. H)    Straight Missile (Fig. D)
+
+     4. Complex Maze (Fig. I) Guided Missile (Fig. E)
+
+     5. Complex Maze (Fig. I) Straight Missile (Fig. D)
+
+
+TANK-PONG GAMES
+
+TANK-PONG is a unique series of games from Atari. The missile
+will bounce off the walls and barriers of the playfield. In the
+"Direct Hit" games, you score by hitting your opponent either
+head on, or by bouncing your missile. In "Billiard Hit," your
+missile must bounce at least once before hitting your opponent
+to score. If, after firing, your own missile hits your tank, it
+will not score against you.
+
+Game No.
+
+     6. Easy Maze (Fig. H)    Direct Hit or Billiard (Fig. F)
+
+     7. Complex Maze (Fig. I) Direct Hit or Billiard (Fig. F)
+
+     8. Open Field (Fig. G)   Billiard Hit (Fig. F)
+
+     9. Easy Maze (Fig. H)    Billiard Hit (Fig. F)
+
+
+INVISIBLE TANK GAMES
+
+You and your opponent are invisible to each other, except when
+a missile is fired or when a hit is made. In addition, the tanks
+become visible whenever they bump into a wall or barrier.
+
+Game No.
+
+     10. Open Field (Fig. G)  Guided Missiles (Fig. E)
+
+     11. Easy Maze (Fig. H)   Guided Missiles (Fig. E)
+     
+
+INVISIBLE TANK-PONG GAMES
+
+These games combine the invisible play feature with the missile
+action of TANK-PONG.
+
+Game No.
+
+     12. Easy Maze (Fig. H)   Direct or Billiard (Fig. F)
+
+     13. Open Field (Fig. G)  Billiard Hit (Fig. F)
+
+     14. Easy Maze (Fig. H)   Billiard Hit (Fig. F)    
+
+
+The Bi-Plane and Jet-Fighter games play on the two playfields
+shown at the right. In Figure K, the cloud formations can be used
+to "Hide" from your opponent. However, a hit can be scored when
+hiding in a cloud.
+
+
+#############################################
+#                                           #
+#          \                                #
+#     JET    \                              #
+#              \                            #
+#                \                          #
+#                 |                         #
+#                 |                         #
+#                 |                         #
+#                   \                       #
+#                     \                     #
+#                       \                   #
+#                        JET                #
+#                                           #
+#                                           #
+#                                           #
+#                                           #
+#                                           #
+#############################################
+
+Fig. J - Open Sky
+
+#############################################
+#                                           #
+#                                           #
+#                                           #
+#                                           #
+#   BI-PLANE                                #
+#                                           #
+#                      \                    #
+#          #######      \#######            #
+#         #########     #\#######           #
+#          #######       #\#####            #
+#                          \                #
+#                           \               #
+#                           BI-PLANE        #
+#                                           #
+#                                           #
+#                                           #
+#                                           #
+#############################################
+
+Fig. K - Clouds
+
+
+BI-PLANE GAMES
+
+Become the "Scourge of the Skies!" Defeat the Red Baron once and
+for all...
+
+Game No.
+
+     15. Clouds (Fig. K)      Guided Missiles (Fig. E)      
+
+     16. Clouds (Fig. K)      Straight Missiles (Fig. D)
+
+     17. Clouds (Fig. K)      Machine Guns (Fig. D)
+
+     18. Open Skies (Fig. J)  Machine Guns (Fig. D)
+
+Feel you need help? Play 2 against 2 or 1 Bomber against 3 Bi-
+Planes. You Bi-Planes always fly in formation, and each Bi-Plane
+in your group will shoot simultaneously when you push the firing
+button.
+
+Game No.
+
+     19. 2 vs. 2    Open (Fig. J)  Guided (Fig. E)
+
+     20. 1 vs. 3    Open (Fig. J)  Straight (Fig. D)
+
+
+JET-FIGHTER GAMES
+
+Just how good a Jet Jockey are you? Here's a chance to find out.
+
+Game No.
+
+     21. Clouds (Fig. K)      Guided Missiles (Fig. E)
+
+     22. Clouds (Fig. K)      Straight Missiles (Fig. D)
+
+     23. Open Skies (Fig. J)  Guided Missiles (Fig. E)
+
+     24. Open Skies (Fig. J)  Straight Missiles (Fig. D)
+
+If you are super-good, here are some variations to try. The jets
+fly in formation and shoot at the same time when you push the
+firing button. 
+
+Game No.
+
+     25. 2 vs. 2    Clouds (Fig. K)     Guided (Fig. E)
+
+     26. 1 vs. 3    Open (Fig. J)       Guided (Fig. E)
+
+     27. 2 vs. 2    Open (Fig. J)       Straight (Fig. D)
+
+
+O1 combat
+
+                Game No.                Open Field
+                |  Straight Missiles    |  Easy Maze
+                |  |  Guided Missiles   |  |  Complex Maze
+                |  |  |  Machine Guns   |  |  |  Clouds
+                |  |  |  |  Direct Hit  |  |  |  |
+                |  |  |  |  |  Billiard |  |  |  |
+                |  |  |  |  |  |   Hit  |  |  |  |
+                |  |  |  |  |  |        |  |  |  |
+                |  |  |  |  |  |        |  |  |  |
+
+TANK            1  -  X  -  -  -        X  -  -  -
+                2  -  X  -  -  -        -  X  -  -
+                3  X  -  -  -  -        -  X  -  -
+                4  -  X  -  -  -        -  -  X  -
+                5  X  -  -  -  -        -  -  X  -
+--------------------------------------------------
+TANK-PONG       6  -  -  -  X  X        -  X  -  -
+                7  -  -  -  X  X        -  -  X  -
+                8  -  -  -  -  X        X  -  -  -
+                9  -  -  -  -  X        -  X  -  -
+--------------------------------------------------
+INVISIBLE TANK 10  -  X  -  -  -        X  -  -  -
+               11  -  X  -  -  -        -  X  -  -
+--------------------------------------------------
+INVISIBLE      12  -  -  -  X  X        -  X  -  -
+TANK-PONG      13  -  -  -  -  X        X  -  -  -
+               14  -  -  -  -  X        -  X  -  -
+--------------------------------------------------
+BI-PLANE       15  -  X  -  -  -        -  -  -  X
+               16  X  -  -  -  -        -  -  -  X
+               17  -  -  X  -  -        -  -  -  X
+               18  -  -  X  -  -        X  -  -  -
+     2 vs. 2   19  -  X  -  -  -        X  -  -  -
+     1 vs. 3   20  X  -  -  -  -        X  -  -  -
+--------------------------------------------------
+JET            21  -  X  -  -  -        -  -  -  X
+               22  X  -  -  -  -        -  -  -  X
+               23  -  X  -  -  -        X  -  -  -
+               24  X  -  -  -  -        X  -  -  -
+     2 vs. 2   25  -  X  -  -  -        -  -  -  X
+     1 vs. 3   26  -  X  -  -  -        X  -  -  -
+     2 vs. 2   27  X  -  -  -  -        X  -  -  -
+
+
+PRINTED IN TAIWAN
+-------------------Atari 2600 Instructions Archive-------------------

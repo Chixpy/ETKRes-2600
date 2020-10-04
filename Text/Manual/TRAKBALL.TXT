@@ -1,0 +1,259 @@
+<Picture>
+
+<Picture>Atari_Trak_Ball_Manual.html<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+ATARI 2600
+
+TRAK-BALL CONTROLLER
+
+OWNER'S MANUAL
+
+MODEL NO. CX22
+
+
+------------------------------------------------------------------------
+
+IMPORTANT:  Read this Owner's Manual before setting up
+your ATARI 2600 TRAK-BALL console.
+
+
+
+INTRODUCTION
+
+
+
+
+
+Congratulations on the purchase of your ATARI 2600 TRAK-
+BALL controller.  Now you can have arcade action in your 
+own living room- simply connect your TRAK-BALL controller
+to your game console, plug in any Joystick-compatible
+game program, and you're ready to go!  Your TRAK-BALL
+offers great game-playing features:  360 degree move-
+ment, precise player control, and instant starts and stops.
+You'll especially see the difference with fast-action Atari
+games, like MISSILE COMMAND, CENTIPEDE, YARS'
+REVENGE, DEFENDER, and GALAXIAN.  With the 2600
+TRAK-BALL controller, Atari brings arcade action home
+to stay!
+
+
+
+
+
+USING YOUR TRAK-BALL
+
+
+
+
+
+SET UP
+
+
+
+
+
+For one-player games, plug your TRAK-BALL into the LEFT
+CONTROLLER jack.  For two-player games, plug an addi-
+tional TRAK-BALL into the RIGHT CONTROLLER jack.
+
+------------------------------------------------------------------------
+
+
+
+
+
+For optimal performance, set your TRAK-BALL controller on
+a level surface such as a table or floor.  If the controller is
+tilted too far in any direction, it may interfere with the con-
+troller's performance.
+
+
+
+
+
+TRAK-BALL ACTION
+
+
+
+
+
+Since your TRAK-BALL controller has two fire buttons- one
+on each side of the rotating ball- the controller can be
+used with the right or left hand.
+
+
+
+
+
+You can move players in any direction on the screen with
+your 2600 TRAK-BALL controller.  To move a player quickly,
+spin the ball rapidly in the desired direction.  To stop move-
+ment, simply halt the TRAK-BALL.
+
+
+
+
+
+NOTE:  The rolling action of the TRAK-BALL should become
+smoother with use.
+
+
+
+
+
+CARE AND MAINTENANCE
+
+
+
+
+
+Your ATARI 2600 TRAK-BALL controller will bring you many
+years of enjoyment.  To keep it in good working condition,
+please remember the following:
+
+
+
+
+
+
+
+•To protect the precision-engineered design of your
+   TRAK-BALL, always play with clean hands.  Keep the ball
+   clean by wiping it frequently with a soft dry cloth.
+
+•Do not spill liquids on the controller.  Liquids can easily
+   seep down around the ball, resulting in slow-down and
+   poor response.  If liquids are spilled on the TRAK-BALL,
+   have your controller serviced as soon as possible.
+
+•Do not lift the TRAK-BALL by its connecting cord.  This
+   could bend or crimp the wires and break the internal
+   insulation.
+
+•Be careful not to drop your TRAK-BALL or subject it to
+   sudden jolts.
+
+•Do not expose the console to extreme high or low
+   temperatures.
+
+•Clean the exterior surface of the console with a soft,
+   slightly damp cloth.
+
+•Unplug your controller when not in use.
+
+
+
+------------------------------------------------------------------------
+
+ATARI SERVICE
+
+Factory Authorized Network
+
+Call toll-free:
+
+(800) 672-1404 (in California)
+
+(800) 538-8543 (Continental U.S.)
+
+
+
+
+
+
+
+
+COMPLIANCE WITH FCC REGULATIONS
+
+
+
+
+
+To comply with Federal Communications Commission (FCC) regulations
+and to keep your ATARI unit from interfering with television reception on
+nearby television sets, please observe the following:
+
+
+
+
+
+
+
+•This equipment generates and uses radio frequency energy, and if it is not
+   installed properly, it may cause interference to radio and television
+   reception.  It has been type-tested and found to comply with the limits for
+   a Class B computing device in accordance with the specifications in Subpart
+   J of part 15 of FCC Rules, which are designed to provide reasonable
+   protection against such interference in a residential installation.  If this
+   equipment does cause interference to radio or television reception, which
+   can be determined by turning the equipment off and on, try to correct the
+   interference by one or more of the following methods:
+
+
+   •reorient the receiving antenna
+
+   •relocate the computer with respect to the receiver
+
+   •move the computer into a different outlet so that the computer and
+      receiver are on different branch circuits
+
+   If necessary, consult the dealer or an experienced radio/television
+   technician for additional suggestions.  You may find the following booklet
+   prepared by the Federal Communications Commission helpful:  "How to identify
+   and Resolve Radio-TV Interference Problems."
+
+   This booklet is available from the U.S. Government Printing Office,
+   Washington, DC 20402.  Stock No.  004-000-00345-4.
+
+
+
+
+ATARI
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+Copyright 1983 ATARI, INC.  ALL RIGHTS RESERVED                  CO21656  REV. 1
+
+------------------------------------------------------------------------
+
+>>> Document typed by steele@chopin.udel.edu <<<<br>
+>>> Document converted to html by gchance@ecst.csuchico.edu <<<
+
+------------------------------------------------------------------------
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
+
+

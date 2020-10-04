@@ -1,0 +1,170 @@
+FIRE FIGHTER
+
+GAME PROGRAM INSTRUCTIONS
+
+Midnight. The city sleeps. Suddenly, cries pierce the night: 
+
+"FIRE!"
+
+"A Man's trapped up there!"
+
+A raging blaze crackles and climbs. A Desperate man waves his
+arms and races from window to window, floor to floor. His
+perilous situation looks hopeless.
+
+Be Strong.
+
+Douse the flames with your hose. Line up your ladder. Save him.
+Keep trying. You're his last chance - his only chance.
+
+GAME OBJECTIVE
+
+Save him! Rescue the panicked man from the burning warehouse. As
+the fire spreads higher, he climbs a floor at a time to escape
+the blaze. He reaches treacherous heights. Only by reaching him
+with the ladder can he be saved. Put out the flames with your
+hose. Race back to the engine, jump on and scramble up the
+ladder. Snatch him from his fiery peril! Get moving!
+
+CONSOLE CONTROLS
+
+*    Insert cartridge in console, label up. Turn power switch to
+     on.
+*    Flip Game Select Lever to chose one of the nine Fire
+     Fighter games.
+*    Game number appears at the bottom of the screen, right of
+     centre.
+*    Hit Game Reset Lever to begin action. Game begins again
+     whenever Reset Lever is tapped.
+*    Red button on the left joystick will reset game when
+     previous game ends.
+
+GAME PLAY
+
+You direct all rescue operations with the left joystick. As the
+game begins, the fire fighter appears on the fire engine.
+*    Push joystick left (away from engine) and the fire fighter
+     hops off his engine.
+*    Keep pressing left, and he runs across the sidewalk in
+     front of the warehouse.
+*    Stop pushing the joystick and the fire fighter stands
+     still.
+*    Push joystick right (toward the engine) and the fire
+     fighter turns and runs back toward the fire engine.
+*    Keep pushing right: he'll jump back onto the engine.
+
+Your hose allows you to control the spread of the flames or put
+the fire out completely.
+To launch a stream of water:
+*    The fire fighter must be in front of the warehouse.
+*    Push the joystick away from you. The longer you push, the
+     higher the jet of water goes. Water shoots as high as the
+     top windows of the warehouse. It does not reach the roof.
+*    You have a limited supply of water. Make it count!
+
+Ladder
+The fire engine also comes equipped with a ladder. The trapped
+man can only be saved from the warehouse, and the game won, by
+using the ladder. The ladder can reach any floor of the warehouse
+except the roof. If the fire fighter positions the ladder
+accurately, climbs it and gets to the floor on which the man is
+trapped, the fire fighter can rescue him.
+*    Fire fighter must be on the ground while adjusting the
+     ladder.
+*    He can only jump from the ladder to the ground when he is
+     at the bottom of the ladder.
+
+To change the angle of the ladder so it will reach different
+floors:
+*    Pull the ladder in all the way by holding the red button
+     down while pulling the joystick toward you. The ladder
+     cannot be moved while it is extended.
+*    Keep holding the red button down.
+*    To angle the ladder toward the lower floors: lean joystick
+     left.
+*    To angle the ladder toward the upper floors: lean joystick
+     right.
+*    To extend the ladder: Hold red button down while pushing
+     the joystick away from you.
+*    To pull in the ladder: Hold red button down while pulling
+     the joystick toward you.
+
+Practice!
+
+CLIMBING THE LADDER
+
+*    Extend the ladder until it rests directly against the
+     warehouse.
+*    Have fire fighter jump back onto the engine by leaning the
+     joystick to the right.
+*    Listen for the sound that tells you he's leapt aboard.
+     *    To climb: lean joystick away from you. He'll run to
+          the top of the ladder.
+You've won the game when:
+*    the ladder has been extended to the floor where the man is
+     waiting;
+*    the trapped man moves all the way to the right and reaches
+     the fire fighter on the ladder.
+*    the jubilant song "For He's a Jolly Good Fellow" signals a
+     job well done.
+
+THE FIRE
+
+*    The Left difficulty Lever controls how quickly the fire
+     spreads through the warehouse.
+     *    For fast-moving flames: set in position A
+     *    For a slow and steady burn: set in position B
+     *    When the fire fighter puts out flames in any or all
+          parts of the building, that part of the fire stays out
+          for the rest of the game.
+     *    The fire spreads upward in the warehouse. When it
+          reaches the top floor, the fire begins to go out on
+          the lower floors. Eventually, the flames will die out
+          completely and the trapped man will come down from the
+          roof.
+
+GAME VARIATIONS
+
+You confront each of Fire Fighter's challenges alone! Rescue the
+man and win the game.
+Game 1: 10-story building.    Position the ladder carefully.
+                              It's tricky!
+Game 2:   9-story building.
+Game 3:   8-story building.
+Game 4:   7-story building.
+Game 5:   6-story building.
+Game 6:   5-story building.
+Game 7:   4-story building.
+Game 8:   3-story building.   Move quickly - seconds count!
+Game 9:   Begins with a 3-story building. After each rescue,
+          another floor is automatically added to the warehouse,
+          to a maximum of 10 floors. How fast can you move
+          through them all? Use water sparingly; your supply
+          must last for all the different levels.
+
+SCORING
+
+The fastest rescue wins! Keep track of your best times in each
+of the Fire Fighter games. The timer at the bottom of the screen
+lets you know how you're doing.
+
+FIRE FIGHTING TIPS
+
+*    The trapped man stays ahead of the fire by climbing a floor
+     at a time. Learn to estimate how fast the fire is moving
+     and how quickly he's moving through the warehouse. Place
+     the ladder and have the fire fighter climb so he'll reach
+     the man's floor and rescue him before he moves higher in
+     the warehouse.
+*    The man in the blazing building checks to see if the entire
+     floor below him is still on fire. If it isn't, he'll move
+     down.
+*    When the fire fighter is on the engine, the man in the
+     warehouse moves to a window on the right side of the
+     building so the ladder can reach him. He may be scared, but
+     he isn't stupid!
+*    Listen for the crackle of the fire. Even if the fire
+     appears to be out, it may still be burning. When the fire
+     goes out completely, the crackling stops.
+
+-------------------Atari 2600 Instructions Archive-------------------

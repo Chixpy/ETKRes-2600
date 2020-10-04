@@ -1,0 +1,124 @@
+BASKETBALL
+
+GAME PROGRAM TM INSTRUCTIONS
+
+Model CX2624
+
+ATARI
+
+A Warner Communications Company
+
+ATARI, INC., Consumer Division 1195 Borregas Ave., Sunnyvale, CA 94086
+
+(c) 1977 ATARI, INC. C011402-24
+
+Use your Joystick Controllers with this Game Program TM. Be sure the
+Controllers are firmly connected to your Video Computer System TM. See your
+Owner's Manual for details. Hold the Controllers with the red button to
+your upper left towards the television screen. To play against the
+computer, use the right hand controller.
+
+NOTE: To prolong the life of your Atari Video Computer System and protect
+the electronic components, the Console unit should be OFF when inserting or
+removing a Game Program.
+
+CONTROLLER ACTION
+
+Moving your Joystick Controller according to the diagram will move your
+player around the court.
+
+   Up and     Move      Up and
+   Left       Up        Right
+               ^
+             \ | /
+Move          \|/          Move
+Left    <------+------>    Right
+              /|\
+            /  |  \
+               v
+   Down       Move      Down and
+   and Left   Down      Right
+
+The player with the ball will dribble automatically and will always face
+the goal. The defending player will always face the ball.
+
+To shoot, depress the red controller button. Your player will stop
+dribbling and will hold the ball, waving it back and forth over his head
+(as shown in the diagram). When the controller button is released, the
+player will shoot. If the shot is made when the ball is over the player's
+head, it will be a long, high arching shot. If the shot is made when the
+ball is held low in front, it will be a short easy shot. The shot will
+always go towards the goal.
+
+To defend against your opponent's shot, place yourself between the ball and
+the goal. When the shooter releases the ball, depress your red controller
+button. Your player will jump and you can block the shot and recover the
+ball. You can only block a shot when the ball is in its "upward" arc: there
+is no "goaltending" in this game.
+
+To steal the ball, put the player's feet even with your opponent's feet.
+When the ball leaves your opponent's hand during the dribble, take the ball
+and race towards your own basket. Stealing the ball comes much easier with
+practice and will become an integral part of your defense strategy.
+
+HANDICAP
+
+When the Difficulty Switch on your console unit is in the B position, your
+player can move from goal to goal much more quickly than the A position.
+Thus a beginning player, using the B position, will be able to defend more
+easily and will be able to "outrun" his opponent.
+
+TO BEGIN PLAY
+
+Visualize that you are sitting at center court about six rows back. The
+bottom of the playfield is the near side of the court. The goals are in the
+center of the two endlines. The top of the court is the side farthest from
+you.
+
+As shown in the above diagram, the two players are standing at center
+court, waiting for the "jump ball" to begin the game.
+
+The left or green player's score is shown at the top left of the playfield;
+the right or lavendar player's score is shown at the top right. Between the
+two scores is a time clock. When the game begins, this clock will begin
+counting backwards from 4:00. For any score to count, it must go through
+the basket before the game ends at 0:00.
+
+To start the game with a jump ball (after setting your Difficulty Switch),
+depress the Game Reset switch on your Console unit. When the switch is
+released the ball will be thrown straight up. When the ball comes down the
+game is underway.
+
+When a basket is made, the player making the basket is reset to center
+court to defense. His opponent will be reset under the basket to receive
+the ball and make his offensive moves.
+
+The line under each basket are the court endlines. A defensive player can
+cross over either endline. An offensive player cannot dribble the ball over
+the endline nearest to his offensive goal. This features stops any "stall"
+tactics.
+
+Game 1 Two-player Game
+
+In this version, you are against your opponent. To make your game more
+interesting, try playing two 4:00 halves, changing controllers at halftime.
+
+Game 2 One-player Game
+
+Using the right hand controller, it's you against the computer... and our
+computer is programmed to increase your playing skill. The closer the
+score, the better his defense and he will make more offensive moves. Try
+not to let the computer get more than an 8-point lead, because after he has
+let you close the score, his defense will tighten much sooner.
+
+Suggestion: At first place the left Difficulty Switch in the A position and
+the right Difficulty Switch in the B position. If you can beat the computer
+6 to 8-points, consider yourself a skillful player. Then move the left
+Difficulty Switch to the B position. If you can beat the computer by more
+than 4-points, you are a superior player.
+
+---------------------------------------------------------------------------
+
+Document converted to html by gchance@ecst.csuchico.edu
+-------------------Atari 2600 Instructions Archive-------------------
+---------------------------------------------------------------------------

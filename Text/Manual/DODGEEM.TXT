@@ -1,0 +1,169 @@
+<Picture>
+
+<Picture>Dodge_Em<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+DODGE'EM(TM)
+Game Program(TM) Instructions
+Atari(R) A Warner Communications Company
+(C) 1980 ATARI, INC.
+ 
+Model CX2637
+ 
+ 
+{Page 1}
+ 
+Use your Joystick Controller with this ATARI(R) Game Program(TM). Be sure the
+controllers are firmly plugged into the LEFT and RIGHT CONTROLLER jacks at
+the rear of your ATARI Video Computer System(TM). Hold the controller with
+the red button to your upper left toward the television screen.
+ 
+For one-player games, use the controller plugged into the LEFT CONTROLLER
+JACK. See Section 3 of your Video Computer System Owner's Manual for further
+details.
+ 
+NOTE: Always turn the console power switch off when inserting or removing a
+Game Program. this will protect the electronic components and prolong the
+life of your ATARI Video Computer System.
+ 
+ 
+USING THE CONTROLLERS
+ 
+In all games, your race car automatically moves forward around the four lane
+track. To steer your car right or left, move the Joystick forward or backward
+(towards yourself). The red controller button acts as your gas pedal and
+accelerates your car.
+ 
+ 
+TO BEGIN PLAY
+ 
+game select switch
+Use this switch to select the game number you wish to play. The number of
+each game appears momentarily at the upper left corner of the screen.
+left difficulty switch
+In the a position, the computer car or cars travel at twice their normal
+speed after the first and third sets of bonus points are awarded. In the b
+position, the car or cars travel at a slower or normal speed.
+ 
+{Page 2}
+ 
+game reset switch
+Use this switch to start game play.
+right difficulty switch
+In the a position, the computer car begins game play in different playfield
+positions. In the b position, the computer car always begins game play next
+to your race car.
+ 
+ 
+SCORING
+ 
+During a game each player receives three turns or heats. each turn or heat
+ends when your car crashes--three heats, three crashes! When you run over all
+the dots on the track, you score eight bonus points and another set of dots
+appears. however, you are allowed only five sets of dots per turn. the
+number of your remaining turns is displayed at the upper center of the
+playfield.
+ 
+{Figure of playing field, a square track with four lanes, divided into four
+quadrents, with two numbers above it and two cars driving on it, indicating
+that the number of remaining turns is the number sightly left of center at
+the top of the field}
+ 
+At the end of a game, the scores alternately flash on the screen. In one-
+player games, try to beat your previous score. In two-player games, the
+player with the highest score after three heats is the winner.
+ 
+ 
+GAME PLAY
+ 
+Each player controls a car:
+Red car - left controller player
+Green car - right controller player
+Blue car - computer controlled (except in Game 3)
+ 
+{Page 3}
+ 
+{Figure showing GAME NUMBER as leftmost top number, REMAINING TURNS as number
+slightly left of center at top, SCORE as rightmost number at top, COMPUTER
+CAR positioned at bottom, slightly left of center, outermost lane, and LEFT
+CONTROLLER PLAYER car at bottom, slightly right of center, outermost lane.}
+ 
+NOTE: Colors may vary on different television sets.
+ 
+Steer your race car counterclockwise on the four lane track. Your objective
+is to score as many points as possible by running over the dots which appear
+on the lanes of the track.
+ 
+The computer car races clockwise on the track and tries to crash into your
+car. When a crash occurs, you lose one turn. If you run over two sets of
+dots, TWO computer cars will appear on the track.
+ 
+{Figure showing computer car and left controller player at previous positions
+and a second computer car at the top of the track, outermost lane, slightly
+right of center}
+ 
+To avoid the computer car and to score points, your timing is important. Use
+your accelerator and your skill at steering from one lane to another to win.
+ 
+{Page 4}
+ 
+You may change a maximum of two lanes at a time, except when accelerating.
+When accelerating, you may change one lane at a time.
+ 
+In one-player games score as many points as possible during your three turns.
+There are two two-player games:
+ 
+A.      You and your opponent take turns scoring while the computer controls
+        the other car. (Game 2)
+ 
+B.      You and your opponent go for it at the same time. The player using
+        the left Joystick starts as the point-scoring car (moving left to
+        right on the screen); the right player controls the crash car with
+        one speed and no point-scoring. When a crash occurs, the roles are
+        reversed. (Game 3)
+ 
+The number at the top, right side of the screen represents both players
+scores, and changes color according to the color of each car.
+ 
+You'll hear the roar of the engines and the crashes.
+ 
+ 
+GAMES
+ 
+GAME 1 - One player
+GAME 2 - Two players/computer controls one car. (See A. -GAME PLAY)
+GAME 3 - Two players alternately control a point-scoring car and a crash car.
+         (See B. - GAME PLAY)
+ 
+{Page 5}
+ 
+ATARI(R) A Warner Communcations Company
+ATARI, INC., Consumer Division
+P.O. Box 427, Sunnyvale, CA 94086
+Printed in U.S.A.
+C011402-37 Rev.1
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

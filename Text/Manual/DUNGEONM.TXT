@@ -1,0 +1,92 @@
+                    DUNGEON MASTER INSTRUCTIONS
+
+USING YOUR CONTROLS
+
+2. CONTROL STICK: Push the Control Stick in the direction you want
+   Winky+ to move.
+
+3. RED BUTTON: Press the Red Button to make Winky+ fire an arrow in
+   the direction his bow is pointed.
+
+HERE'S HOW TO PLAY
+
+STEP 1: Choose your skill level.
+
+To select a skill level, move the left and right difficulty switches to the
+proper positions (see list below). Winky+ will begin his adventures in
+different sections of the dungeon, depending on the skill level you
+choose. Skill 1 is the easiest game.
+
+              Skill 1        =           left B/right B
+              Skill 2        =           left B/right A
+              Skill 3        =           left A/right B
+              Skill 4        =           left A/right A
+
+      Next, press Game Reset to start playing.
+
+/* Here comes a graphix showing the main map of the game, with the
+ Score indicator in the left upper corner, the Winkies+ remaining
+ Indicator in the right upper corner. Some chambers, some HALLMONSTERS+,
+ the HALLWAY and of course WINKY+, the little dot starting on a position
+ in the middle lower section of the screen. */
+
+STEP 2: Time to explore.
+
+While Winky+ is in the hallway, he appears as a small dot. Beware of the
+treacherous Hallmonsters+. Winky's+ arrows CANNOT hurt them.
+
+STEP 3: The chambers within.
+
+To capture treasure move Winky+ into any of the chambers. Each chamber
+contains treasure and hazards. Most chambers are full of dangerous
+monsters. But the Wall Room has lethal electrified walls instead!
+
+Once Winky+ is inside a chamber, he can shoot arrows at monsters to
+defend himself. Remember, in order to score points for shooting a
+monster, you must first get to the treasure in that chamber. So seize
+the treasure, then rack up a high score by shooting away at the monsters!
+But be careful; if Winky+ even touches a monster, living or dead, he
+will be eliminated.
+
+(Special hint: Winky+ cannot shoot arrows in the Wall Room Only
+clever timing will allow him to capture the treasure there.)
+
+/* Here comes a second graphix, showing the map of a chamber with three
+ monsters, WINKY+ as a smiling face, and WINKY'S+ ARROW as a
+ dot which you can move around winky. */
+
+STEP 4: An unwelcome visitor.
+
+If Winky+ stays too long in any chamber, a Hallmonster+ will come in
+looking for him.
+
+STEP 5: Locked out.
+
+Once you capture the treasure and leave a chamber, you can never return.
+(But you CAN return to chambers where you have searched but have not
+captured the treasure.)
+
+STEP 6: Deeper into the dungeon.
+
+When you have grabbed the treasure from every chamber. Winky+
+descends to a new hall of chambers - and the action gets even harder!
+Keep playing until you run out of Winkies+
+
+STARTING OVER
+
+To play again, adjust the difficulty switches to the desired positions, then
+press Game Reset.
+
+
+
+
+SCORING
+
+          Tresure:             200 points and up
+          Monster:             100 points and up
+                               (after getting the treasure)
+
+The deeper into the dungeon you venture, the more points you gain for
+treasures and monsters!
+
+You receive four Winkies+ per game.

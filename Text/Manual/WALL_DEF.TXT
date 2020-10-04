@@ -1,0 +1,50 @@
+              WALL DEFENDER INSTRUCTIONS
+
+GAME PLAY
+
+1. You are the defender and you have only one chance.
+2. Use left joystick to move the defender and push
+   button to fire at the aliens.
+3. The defender moves along the outer wall and the
+   bridge only.
+4. Alien with different appearances in different stages,
+   the super alien appears in differenct shapes and
+   large size.
+5. The alien patterns at the bottom of the screen
+   indicate the number of stages you have passed.
+---------------------------------------------------------
+WALL BREAK
+
+1. The outer wall can withstand 10 alien attacks before
+   it is destroyed.
+2. The outer wall flashes on the seventh alien attack
+   which serves a a warning signal.
+3. Don't let the super alien collide with the wall,
+   otherwise the outer wall will be completely destroyed.
+4. Wall color deepens indicating the degree of attack
+   by aliens.
+5. Before the outer wall is destroyed, the defender has
+   to move to the inner wall by means of the bridge
+   linking each wall in order to prepare for the next
+   attack.
+---------------------------------------------------------
+GAME OVER
+
+Game is over when
+1. The aliens break all layers of walls; or
+2. The defender is caught in the bridge or the outer
+   wall when they vanish.
+---------------------------------------------------------
+SCORE AND BONUS
+
+1. The highest score and the last score display
+   alternately when game is over
+   a) Last score in green colour
+   b) Highest score in red colour
+2. During the game, your score is displayed.
+3. Highest score only registers score that is
+   greater than 5000.
+4. Maximum score is 999999.
+5. One bonus wall is given when you cross a stage
+   without being hit by a single alien.
+6. The maximum walls present is 4.

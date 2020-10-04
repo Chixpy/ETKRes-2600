@@ -1,0 +1,203 @@
+THE EXPLOSIVE ARCADE HIT!
+BATTLEZONE(TM)
+
+NOTE: Always turn the console POWER switch OFF when inserting or removing
+an ATARI(R) Game Program(TM) cartridge. This will protect the electronic
+components and prolong the life of your ATARI Video Computer System(TM)
+game.
+
+GAME OBJECTIVE
+
+The year is 1999, and the nations of the earth have declared a world-wide
+peace plan. But there is a problem with the proposed truce. A council of
+military commanders has unleashed battalions of automated weapons into the
+countryside. These aerial fighters, flying saucers, tanks, and supertanks
+will turn the world into a lifeless landscape unless you can stop them.
+
+Luckily, you've discovered an old military tank hidden inside the museum.
+Use your Joystick to steer the tank as you search for enemy automatons.
+Since your electronic periscope only gives you a front view from the tank,
+you'll have to rely heavily on your radar screen to detect the enemy. If
+you see a blip on the radar, you need to move fast! Use your Joystick to
+turn your tank until the enemy appears on the screen; press the red
+controller button to fire your turret gun.
+
+GAME PLAY
+
+You have five tanks to complete your mission. Your tank will be destroyed
+each time it is hit by enemy fire.
+
+The enemies you'll encounter are:
+
+TANKS
+Tanks are your most common enemy. They move a bit slower than your tank,
+and can be identified by their blue turrets.
+
+SUPERTANKS
+These look like regular tanks, but have yellow turrets and can move faster
+than your tank.
+
+FIGHTERS
+Fighters always appear directly in front of you then zigzag toward your
+tank. When a fighter reaches point-blank range, it will veer to the side
+and fire an anti-tank shell directly at you. You can identify a fighter by
+the "buzz" sound it makes as it flies.
+
+FLYING SAUCERS Flying saucers do not fire at you, but are hard to hit and
+can distract you when a tank, a fighter, or a supertank is firing at you.
+
+(Note: Colors may vary with different television sets.)
+
+USING YOUR RADAR SCREEN
+
+Your radar is located at the top center of the screen. Enemy automatons
+appear on the screen as white "blips" of light, your tank is located in the
+middle of the radar circle. The two lines at the top of the radar screen
+indicate your field of view. When you move your tank so an enemy "blip" is
+between the lines, you should be able to see the enemy on the main screen.
+Be careful, though! An enemy can shoot and destroy your tank -- even if you
+can't see it on the main screen.
+
+A black sighting mark is located at the top of the main screen to help you
+aim at the target. When the enemy is directly in your line of fire, the
+sighting mark will change from black to white.
+
+SCORING
+
+TARGET          POINTS
+Tank            1,000
+Fighter         2,000
+Supertank       3,000
+Saucer          5,000
+Bonus Tank      At 50,000 and 100,000 points
+
+USING THE CONTROLLER
+
+Use your Joystick to maneuver your tank. Plug the Joystick firmly into the
+LEFT controller jack at the back of your console. Hold the controller with
+the red button to your upper left, toward the television screen.
+
+Push forward on your Joystick to move your tank forward; pull back on the
+Joystick to move your tank backward. To rotate your tank in position, push
+the Joystick directly right or left. Move the tank in an arc by pushing
+your Joystick diagnally in the desired direction.
+
+Fire your turret gun by pressing the red button on your controller. If you
+miss a target, you cannot fire again for approximately 2 seconds.
+
+CONSOLE CONTROLS
+
+GAME SELECT/GAME LEVELS
+
+Press the GAME SELECT switch to choose one of three game levels. The game
+level is indicated by the number of tanks displayed at the bottom of the
+screen.
+
+GAME NUMBER     SKILL LEVEL
+Game 1          Novice
+Game 2          Intermediate
+Game 3          Advanced
+
+DIFFICULTY SWITCHES/TV TYPE SWITCH
+
+The DIFFICULTY switches and TV TYPE switch have no function in the game.
+
+GAME RESET
+
+Press GAME RESET or the red button on your controller to start the game.
+
+STRATEGY
+
+   * A good way to evade enemy shells is to rotate your tank 45 degrees,
+     then immediately move the tank forward or backward.
+
+   * Listen for the sound of an enemy gun being fired. As soon as you hear
+     a shot, take evasive action. Do not simply rotate in the same spot.
+
+   * Keep moving after you fire a shot -- don't want to see if the shot hit
+     its mark.
+
+   * If a tank is close behind, you can bring it within sight by moving
+     your tank in reverse until the enemy tank appears on the screen.
+     You'll be able to shoot as the enemy tank turns to face you.
+
+   * Try to lure one enemy into another enemy's line of fire. For example,
+     by moving your tank to one side, you can move a flying saucer into a
+     shot fired by an enemy tank.
+
+   * Don't waste shots, since you can't shoot your turret gun again until
+     the shell either hits an enemy, or disappears from your main screen.
+
+ATARI SERVICE
+FACTORY AUTHORIZED NETWORK
+Call toll-free
+(800) 672-1404 (in California)
+(800) 538-8543 (Continental U.S.)
+
+Atari welcomes your comments. Please address all correspondence to:
+
+Atari, Inc.
+Customer Relations
+1312 Crossman Avenue, P.O. Box 61657
+Sunnyvale, California 94086
+
+GAME CARTRIDGE LIMITED NINETY DAY WARRANTY
+
+ATARI, INC. ("Atari") warrants to the original consumer purchaser that your
+ATARI (R) Game Program cartridge is free from defects in material or
+workmanship for a period of ninety days from the date of purchase. If any
+such defect is discovered within the warranty period, Atari's sole
+obligation will be to replace the cartridge free of charge on receipt of
+the cartridge (charges prepaid, if mailed or shipped) with proof of date of
+purchase at either the retail store where the cartridge was purchased or at
+one of the ATARI Regional Service Centers listed below.
+
+Atari, Inc.
+1312 Crossman Ave.
+Sunnyvale, CA 94086
+
+Atari, Inc.
+5400 Newport Dr.
+Suite 1
+Rolling Meadows, IL 60008
+
+Atari, Inc.
+12 B World's Fair Dr.
+Somerset, NJ 08873
+
+Atari, Inc.
+2109 East Division St.
+Arlington, TX 76001
+
+This warranty shall not apply if the cartridge (i) has been misused or
+shows signs of excessive wear, (ii) has been damaged by being used with any
+products not supplied by ATARI, or (iii) has been damaged by being serviced
+of modified by anyone other than an ATARI Regional Service Center.
+
+ANY APPLICABLE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, ARE
+HEREBY LIMITED TO NINETY DAYS FROM THE DATE OF PURCHASE. CONSEQUENTIAL OR
+INCIDENTAL DAMAGES RESULTING FROM A BREACH OF ANY APPLICABLE EXPRESS OR
+IMPLIED WARRANTIES ARE HEREBY EXCLUDED.
+
+Some states do not allow limitations on how long an implied warranty lasts
+or do not allow the exclusions or limitations of incidental or
+consequential damages, so the above limitations or exclusions may not apply
+to you.
+
+This warranty gives you specific rights and you may also have other rights
+which vary from state to state.
+
+ATARI(R)
+A Warner Communications Company
+
+ATARI, INC., Consumer Division, 1312 Crossman Ave., P.O. Box 61657,
+Sunnyvale, CA 94086
+
+C019741-81 REV. A 2681
+
+(C) 1983 ATARI, INC. ALL RIGHTS RESERVED Printed in U.S.A.
+---------------------------------------------------------------------------
+
+Document converted to html by gchance@ecst.csuchico.edu
+-------------------Atari 2600 Instructions Archive-------------------
+---------------------------------------------------------------------------

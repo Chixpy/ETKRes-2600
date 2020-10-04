@@ -1,0 +1,568 @@
+VANGUARD
+
+by Atari
+c 1986
+
+
+TABLE OF CONTENTS
+-----------------
+
+1. In the tunnel
+2. Game Play
+3. Using the controllers
+4. Console controls
+5. Scoring
+6. Strategy
+7. Game Table
+
+
+
+1. IN THE TUNNEL
+----------------
+
+"Whoowhee!  If the folks back home could see me now!  When I joined the 
+Vanguard expedition I never thought I'd be flying through the tunnels of 
+Aterria looking for a mythical City of Mystery."
+
+"It might not be a myth."
+
+"Captain, do you mean to tell me you really believe there is such a city, 
+paved with silver and ruled by a giant called Gond?"
+
+"Why not?  It's right here in the flight log book we found in the Aterria 
+excavations.  That's pretty convincing."
+
+"But that book's dated 1983.  People believed in all sorts of weird 
+things back then...flying reindeer, egg-laying rabbits..."
+
+"When you've been on as many expeditions as I have, you'll believe 
+anything can exist.  This whole planet is pretty unreal.  Take these 
+tunnel walls, for instance...every color of the rainbow!  I'd swear I was 
+in heaven if it weren't for the rocks...
+
+"Hey!  Watch out!  You almost speared us on that stalagmite.  I know our 
+spaceship has five live, but we still have a long way to go and we're 
+going to need all the lives we've got.  If this log book is telling the 
+truth, these tunnels are full of dangerous flying objects:  hovering 
+Mist ships, Harley rockets, Helm balloons."
+
+"Yeah.  Garimes waiting to tear us with their tentacles and that other 
+cozy customer, the flying Kemlus snake."
+
+"Seriously, what do you think the log book means by 'Watch out for the 
+rain of Romedas in the Bleak Zone'?"
+
+"I think the pilot that kept that log book was out of his mind, that's 
+what I think.  Probably bitten in the head by a Kemlus snake."
+
+"Well, if there is anything in this tunnel, we should be sighting it 
+pretty soon.  According to our tunnel map, we're entering the Mountain 
+Zone.  How's the fuel supply holding out?"
+
+"Getting low.  We'd better infuse energy pretty quick or we'll crash."
+
+"I certainly hope the log is right about energy pods growing in the 
+Mountain Zone.  Pod energy is supposed to make us indestructible for 10 
+seconds.  Why, if that's true, we won't need to fire out lasers."
+
+"Oh sure, Just run headlong into an enemy ship and POW! down it goes.  
+Listen, I don't believe in pod power any more than I believe in Mist 
+ships.  If there is anything like that on Aterria, I'll eat it."
+
+"Well, I hope you have the stomach for it.  Look what's coming!"
+
+"Great Gonds!  Mists as thick as hornets and twice as mad."
+
+"And they're all yours.  Fire at will...and while you're at it, keep an 
+eye out for energy pods."
+
+"Roger!  City of Mystery, here we come!"
+
+
+
+2. GAME PLAY
+------------
+
+Your goal is to reach the City of Mystery at the end of the tunnel and 
+destroy Gond.  In the tunnel zones, you maneuver around sharp rocks and 
+barriers while battling weird flying objects.  The more enemy objects 
+you destroy, the more points you earn.  If you make it to the City of 
+Mystery and shoot Gond, you earn bonus points.  But watch out!  Gond 
+could shoot you instead.  If you survive the City of Mystery, you 
+continue the game in Tunnel 2.  In two-player games, the player with the 
+highest score wins.  Points and bonuses are discussed in Section 5 -- SCORING. 
+
+
+AUTO-PLAY
+
+Until you start the game, the computer flies the Vanguard spaceship 
+through the seven tunnel zones leading to the City of Mystery.  This 
+Auto-Play mode gives you a chance to see what the obstacles are before 
+you start the game.  Not that your ship fires lasers in four directions 
+as it travels through the zones.  See Section 3 --  USING THE CONTROLLERS 
+for instructions on maneuvering the spaceship and firing lasers.
+
+
+TUNNEL MAP
+
+In one-player games, the Tunnel Map (figure 1) is displayed before each 
+zone.  In two-player games, it's displayed before each turn.  The map 
+shows whose turn it is (Player 1 or Player 2) and where the player's 
+spaceship is in the tunnel.
+
+Figure 1 - Tunnel Map [image of the tunnel.  Your space ship is at the 
+beginning of the tunnel.  The number just below the tunnel is the player 
+number.]
+
+
+THE TUNNEL
+
+Mountain Zone (Figure 2).  Mist ships and then Harley rockets attempt to 
+collide with your spaceship and destroy it.  Mists have a maddening habit 
+of hovering where you can't get a good shot at them.  Harleys fire 
+colored missiles at you.  Your lasers will destroy Mists and Harleys, but 
+you have to dodge missiles...unless your spaceship is operating on pod 
+energy; then nothing can harm you.
+
+Figure 2 - Mountain Zone [image of ship firing at the Mist.  The zone 
+looks like a cavern more then a mountain.  You fly from left to right, 
+and the energy pods are the big "E" on the ground.  The mist look like a 
+mutated fly]
+
+Pod Power.  Fly through energy pods (marked with E's) to infuse pod 
+energy into your spaceship.  Pod energy prevents you from firing lasers 
+but gives you the power to crash into enemy targets and rock ledges 
+without damaging your ship.  During the 10 seconds pod energy lasts, 
+crash into as many Helms and Harleys as you can and score points.  The 
+Vanguard theme music plays while you're operating on pod power.  When 
+your pod energy runs out, the music stops and a siren warns you to stop 
+crashing and start flying.
+
+NOTE:  If a stray Mist hovers under a rock ledge while you're on pod 
+power, go after it and destroy it.  This will bring on the Harleys before 
+your pod energy runs out.  All Mist ships must be off the screen before 
+Harleys can enter.
+
+Rainbow Zone (Figure 3).  From the Mountain Zone you travel downward 
+through a Rainbow Zone, where lethal Helm balloons float across your 
+path.  A collision with a Helm will cost you a life, so puncture Helms 
+with your lasers.  You must shoot them all before you can enter the next 
+zone.
+
+Figure 3 - Rainbow Zone [Image of ship flying from north to south, but I 
+think you actually go from south to north, I could be wrong.  The Helms 
+are circles that come out of the walls to your left and right.  The walls 
+are made of small squares.  The wall is not complete, and you see square 
+holes in it.]
+
+Stick Zone (Figure 4).  The stalactites and stalagmites in the Stick 
+Zone are beautiful but hazardous.  They don't leave much room for 
+maneuvering around Harleys and Mists, which return for another try at 
+you.  This time Mists also shoot missiles.  Unfortunately, energy pods do 
+not grow in this zone.
+
+Figure 4 - Stick Zone [image of ship flying from left to right.  Harleys 
+are present.  They sort of look like your spaceship in Defender.  The 
+walls look like an "X" with the base filled in.]
+
+Rainbow Zone 2.  You enter another Rainbow Zone, where Ammos, first 
+cousins to Helms, put the squeeze on you.  
+
+Stripped Zone (Figure 5).  It takes an experienced pilot to survive in 
+this zone.  You must maneuver to the right or left of dangerous ledges 
+formed by long fingers of rock.  If you choose the left side, Garimes 
+extend tentacles to grab you.  If you go to the right, enemy bases, 
+barriers, force fields, and floating Paynes bar your way.  Collide with 
+any of these objects and your spaceship explodes.
+
+Shoot Garimes, bases, and barriers on approach.  You can fire lasers 
+through crevices in the rocks.  Force fields collapse when you destroy 
+barriers.  Unfortunately, floating Paynes cannot be destroyed; you have to 
+edge past them.
+
+One or two energy pods grow on the right side of the tunnel in this 
+zone.  With pod power, you can clear obstacles out of your way and pile 
+up points fast.
+
+Figure 5 - Striped Zone [Image of ship flying from south to north.  The 
+walls are made of vertical stripes.  There is an "island" in the middle 
+of the screen.  The energy is present on the right wall of the right 
+corridor.  The Barrier creates a forcefield that blocks your way.  The 
+Barrier looks like a spider.  The Bases are above the Force Field.  These 
+look like an alien saucer with two legs at the bottom of them.  Above the 
+Bases is the Floating Payne.  These look like a  rectangle.]
+
+Rainbow Zone 3.  Helms reappear as you enter the third Rainbow zone.
+
+Bleak Zone (Figure 6).  There's light at the end of the tunnel now but 
+still plenty of danger.  Kemlus snakes fly out of the rocks and attempt 
+to crush your spaceship.  Normally you shoot Kemlus, but if you can 
+maneuver your spaceship into the center of a Kemlus and dock with it 
+(touch it), you can get a free ride and earn losts of bonus points 
+without being crushed.  Kemlus are not very bright, but they figure this 
+out after the third ride, so don't try for a fourth ride.  Kemlus revive 
+if you touch them right after shooting them.  This means you can shoot a 
+Kemlus and then dock with it to earn extra points.  After the third 
+docking, however, touching a Kemlus after shooting it is certain death.
+
+You no sooner conquer the Kemlus when the rain of Romedas begins.  
+Arrow-shaped Romeda rockets attempt to spear your spaceship.  Fire away 
+at them, but watch out for the debris; it's deadly.  If you survive the 
+Romedas, you fly out of the tunnel into the bright lights of the City of 
+Mystery.
+
+Figure 6 - Bleak Zone [Image of ship flying from south to north.  The 
+Kemlus are present.  These look like a snake curled in a hollow circle 
+that is open at the south-west end.  There is a picture of a ship docking 
+with a Kemlus.  The walls are made of long horizontal rectangles.  The 
+rectangles are at different lengths, and the space inbetween them make up 
+the cavern.
+
+
+CITY OF MYSTERY
+
+In the City of Mystery your spaceship is trapped between two moving barriers
+(Figure 7).  As the Gond fires missiles at you, right to left, the bottom 
+barrier rises and threatens to crush you against the top barrier.  To 
+escape, you must fire over the top barrier at Gond and destroy him.  When 
+you hit Gond, the city bursts into radiant light and you win a bonus (see 
+SCORING).
+
+Figure 7 - City of Mystery [Image of ship flying from south to north.  
+Gond is that face at the top of the screen.  The top barrier is the bar 
+between the ship and Gond.  The Bottom Barrier is the bar between the 
+ship and the top barrier.  A missile is being fired from the walls (left 
+and right) at the ship.]
+
+Destroying Gond is not difficult if you fire immediately, before he can 
+launch a missile.  However, the longer you wait to fire, the more risk 
+you run and the more bonus points you score.
+
+
+TUNNEL 2 AND BEYOND
+
+If you survive the City of Mystery, you are transported into Tunnel 2, 
+where the pace is faster.  The zones here are the same as in Tunnel 1, 
+but they are not in the same order.  Obstacles are the same except that 
+in the Bleak Zone, Romedas shoot missiles.  Tunnel 2 leads to another 
+City of Mystery, which leads to another tunnel like Tunnel 1.  You 
+alternate between Tunnels 1 and 2 until you lose your last life and the 
+game ends.
+
+
+ABOUT YOUR SPACESHIP
+
+Lives.  You start the Vanguard expedition with five lives and earn a 
+bonus life at 10,000 and 50,000 points.  The number of lives remaining is 
+indicated by the number of spaceships on the lower left side of the 
+screen (Figure 8).
+
+Figure 8 - Game Elements [Image of Mountain Zone.  Lives Remaining are 
+the number of ships that you see lined up at the bottom of the screen.  
+The number in the bottom middle of the screen is the score.  The 
+Fuel/Energy Gauge is the bar between the score and the playing screen 
+that gets shorter during the game.]
+
+Laser Guns.  The Vanguard spaceship is equipped with four lasers guns on the
+forward, aft, starboard (right), and port (left sides).
+
+Fuel.  Keep an eye on your fuel gauge at the bottom of the screen (Figure 
+8).  If you run out of fuel, your spaceship will go into a dive and crash 
+on the rocks.  Your supply lasts 40 seconds and decreases at the rate of 
+one notch a second.  Each time you hit an enemy or obstacle, your fuel 
+supply increases one notch.  At the start of a new life, your fuel is 
+completely replenished.
+
+Energy.  The fuel gauge keeps track of energy remaining when you are 
+operating on pod power.  Pod energy lasts only 10 seconds and is depleted 
+four times faster than fuel.  Listen for the siren that warns you when 
+you are about to run out of pod energy.
+
+
+CONTINUOUS PLAY
+
+If you lose your last life in Tunnel 1 during a one-player game, you 
+have the option of continue through the tunnel (starting with zero score) 
+or to begin a new game from the first zone in Tunnel 1.
+
+At the end of your last life, CONTINUE? appears at the bottom of the screen
+and the computer pauses 10 seconds for your reply.  The 10-second 
+counter, a white line in place of the fuel gauge, ticks off the seconds.  
+If you want to continue, press the red button on your Joystick 
+Controller.  The lives remaining counter will reset to five lives and the 
+score counter will reset to zero, but your position in the tunnel will 
+not change.
+
+NOTE:  If you're pressing the red button when CONTINUE? appears, release the
+button and then press it again.
+
+If you do not press the red button within 10 seconds, the computer resets to
+the Auto-Play option mode.  Then you must start a new game from the beginning
+of Tunnel 1.
+
+The Continuous Play option is not offered in the City of Mystery, Tunnel 
+2, or two-player games.
+
+
+TWO-PLAYER GAMES
+
+To select a two-player game, press the GAME SELECT switch.  The number of
+players in the game appears above the score counter at the bottom of the
+screen (see Figure 9).
+
+Figure 9 - Game Selection [Image of the tunnel screen.  The Number of Players
+is pointed out.  It is the middle number on the screen.  The Score 
+Counter is also identified.  It is the bottom number.]
+
+Player 1, using the left Joystick, starts the game.  When he loses a life,
+Player 2 takes a turn.  Players alternate turns until one player loses his
+last life.  The surviving player continues playing until he too runs out of
+lives.  The Tunnel Map (Figure 1) appears before each turn and shows the
+player's position in the tunnel.
+
+
+
+3.  USING THE CONTROLLERS
+-------------------------
+
+Use your Joystick Controllers with this ATARI Game Program cartridge.  For
+one-player games, plug one Joystick into the LEFT CONTROLLER jack at the back
+of your 2600 Video Computer System console.  For two-player games, plug a
+second Joystick into the RIGHT CONTROLLER jack.  Hold the Joystick with the
+red button pointing to your upper left, toward the television screen.  (See
+your Owner's Manual for details.)
+
+
+STARTING THE GAME
+
+Press the red button on your Joystick Controller or the GAME RESET switch to
+start the game. 
+
+NOTE:  You cannot use the red button to interrupt a game and begin a new 
+game. Use the GAME RESET switch for that purpose.
+
+
+MOVING THE SPACESHIP
+
+You can move your space ship up, down, right, left, or diagonally on the
+screen (Figure 10).  Just move the Joystick in the direction you want the
+spaceship to go.
+
+Figure 10 - Spaceship Moves [Image of a compass with eight directional 
+arrows.  Arrows point Up, Left, Down, Right, and Diagonal]
+
+
+FIRING LASERS
+
+Your Vanguard spaceship fires lasers forward, aft, and to either side (Figure
+11).  There are four ways to fire, depending upon the position of the
+DIFFICULTY switches.  See DIFFICULTY SWITCHES in Section 4 for firing
+instructions.  
+
+Figure 11 - Laser Fire [Image of spaceship traveling from left to right and
+firing in the directions of Forward (right side of picture), Port (top 
+side of picture), Aft (left side of picture), and Starboard (bottom side of 
+picture).  Second ship traveling from south to north is pictured.  It is 
+firing forward (up in the picture).]
+
+IMPORTANT!  Your spaceship moves faster when it is not firing.
+
+
+
+4.  CONSOLE CONTROLS
+--------------------
+
+GAME SELECT
+
+Press the GAME SELECT switch to select a two-player game.  Press it again to
+return to a one-player game.  The number of players appears at the bottom of
+the television screen (see Figure 9).
+
+
+GAME RESET
+
+Press the GAME RESET switch to start a new game or to reset a game to the
+beginning of Tunnel 1.  GAME RESET resets the score counter to zero and the
+lives remaining counter to five lives.
+
+
+DIFFICULTY SWITCHES
+
+The DIFFICULTY switches control the way the spaceship fires.  Set the 
+LEFT and RIGHT switches for the method that suits you best.  You can 
+change switch settings any time you like.
+
+1.  Left A, Right A:  Press the red controller button and move the 
+    Joystick in the direction you want to fire.  Release the button to 
+    stop firing.
+
+2.  Left A, Right B:  Same as method 1 except that you do not have to 
+    move the Joystick forward to fire forward.  The forward laser gun fires
+    automatically when the red button is pressed.
+
+3.  Left B, Right A:  Move the Joystick in the direction you want to 
+    fire.  Press the red button to stop firing.
+
+4.  Left B, Right B:  Same as method 3 except that the forward gun 
+    fires automatically.
+
+
+
+5.  SCORING
+-----------
+
+ _______________________________________________________
+|                       |                               |
+|          Mist         |           70 Points           |
+|_______________________|_______________________________|
+|                       |                               |
+|         Harley        |              50               |
+|_______________________|_______________________________|
+|                       |                               |
+|          Helm         |              80               |
+|_______________________|_______________________________|
+|                       |                               |
+|          Ammo         |              80               |
+|_______________________|_______________________________|
+|                       |                               |
+|         Garime        |      100 - 400 (variable)     |
+|_______________________|_______________________________|
+|                       |                               |
+|         Barrier       |              800              |
+|_______________________|_______________________________|
+|                       |                               |
+|          Base         |           100 - 400           |
+|_______________________|_______________________________|
+|                       |                               |
+|     Floating Payne    |   No points (indestructible)  |
+|_______________________|_______________________________|
+|                       |                               |
+|         Kemlus        |           100 - 400           |
+|_______________________|_______________________________|
+|                       |                               |
+|         Romeda        |              100              |
+|_______________________|_______________________________|
+ _______________________________________________________
+|                       |                               |
+|       BONUSES         |                               |
+|_______________________|_______________________________|
+|                       |                               |
+|      Bonus Life       |  At 10,000 and 50,000 points  |
+|_______________________|_______________________________|
+|                       |                               |
+|  Docking with Kemlus  |             1090              |
+|_______________________|_______________________________|
+|                       |                               |
+|    Destroying Gond    |          1000 - 800           |
+|_______________________|_______________________________|
+
+NOTE:  The longer you wait to destroy Gond, the more points you score.
+
+
+
+6.  STRATEGY
+------------
+
+* FIRING SLOWS YOU DOWN.  Your spaceship moves twice as fast when you 
+  aren't firing.  Hold your fire when you're passing barriers or 
+  diving for energy pods.
+
+* MISTS AND HARLEYS.  Keep the spaceship moving up and down to avoid 
+  missiles and lay down a barrage of lasers vertically, against the 
+  enemy's line of flight.  A Mist can only fire once, so you can 
+  dodge its missile and then go for it.
+
+* HELMS AND AMMOS.  Try to hit these with your starboard and port 
+  lasers before they cross your path.  Avoid getting caught between 
+  two balloons, since it is hard to fire without moving into them.
+
+* KEMLUS AND ROMEDAS.  Fire horizontally across their line of flight.
+
+* STRIPPED ZONE.  Don't try to shoot everything you pass; think mainly of 
+  surviving.  Fire at barriers and Garimes through crevices in the rocks, 
+  but take care not to crash into the rocks.  Don't fire at Paynes.  You 
+  can't destroy them, and firing slows you down when you need a burst of 
+  speed to pass safely.
+
+* CITY OF MYSTERY.  If you want to earn lots of points, hold your fire 
+  until the last minute.  The trick of course, is to dodge the missiles.  
+  Gond aims directly at you, so keep moving.  As soon as you enter the 
+  city, move up to avoid the first missile.  When it passes, move down.  
+  Keep changing your position until you run out of room, then fire.
+
+
+
+7.  GAME TABLE
+--------------
+
+ ___________________________________________________________
+|                |                          |               |
+|      ZONE      |      OBSTACLES/AIDS      |     POINTS    |
+|________________|__________________________|_______________|
+|                |                          |               |
+|    Mountain    |           Mists          |       70      |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |    Harleys (missiles)    |       50      |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |        Energy Pods       |               |
+|________________|__________________________|_______________|
+|                |                          |               |
+|     Rainbow    |      Helms or Ammos      |       80      |
+|________________|__________________________|_______________|
+|                |                          |               |
+|      Stick     |    Harleys (missiles)    |       50      |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |     Mists (missiles)     |       70      |
+|________________|__________________________|_______________|
+|                |                          |               |
+|     Striped    |          Garimes         |   100 - 400   |
+|                |                          |   (variable)  |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |           Bases          |   100 - 400   |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |    Barrier/Force Field   |      800      |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |      Floating Paynes     |               |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |        Energy Pods       |               |
+|________________|__________________________|_______________|
+|                |                          |               |
+|      Bleak     |       Kemlus Snakes      |   100 - 400   |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |    Docking with Kemlus   |      1090     |
+|                |    (three times only)    |               |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |          Romedas         |      100      |
+|                |  (missiles in Tunnel 2)  |               |
+|________________|__________________________|_______________|
+|                |                          |               |
+|  Mystery City  |           Gond           |  1000 - 8000  |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |      Moving Barriers     |               |
+|________________|__________________________|_______________|
+|                |                          |               |
+|                |         Missiles         |               |
+|________________|__________________________|_______________|
+
+
+
+
+-------------------------------------
+
+
+And of course, this game was made by ATARI in 1983.  This game manual 
+was typed in by me!  And who am I?  I am Eddie Beiles.  I can be reached at 
+beiles@lambada.oit.unc.edu if you have any questions about this game 
+manual.  Or you can email me and thank me for typing it in.  Anyway, 
+enjoy the game and this wonderfully typed in manual.
+

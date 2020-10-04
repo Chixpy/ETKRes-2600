@@ -1,0 +1,257 @@
+Xonox 
+Double-Ender
+
+ARTILLERY DUEL
+
+Game Instructions
+
+You are in charge of an artillery gun emplacement set in a rugged 
+mountain terrain.  Your enemy's gun emplacement is set across the hills 
+in another strategic location, and it is your task to knock out the enemy 
+before his is able to destroy you.  You must take into account distance, 
+gun placement relative to terrain, wind direction, and wind speed as you 
+mount your assault.  You can control the amount of powder and barrel 
+angle for each shot fired as you zero in on your opponent.  Before you 
+can fire again, your enemy will get off a round, so make each shot count!
+
+-----------------------------------------------------------------------
+
+Get Ready to Play ARTILLERY DUEL
+
+1.  Hook up your video game system.  Follow the manufacturer's directions.
+
+2.  With power "OFF," plug in the game cartridge.  The XONOX Double-Ender 
+    with ARTILLERY DUEL and CHUCK NORRIS SUPERKICKS gives you twice the 
+    fun with two totally separate games, one on either end of the 
+    cartridge.  To play ARTILLERY DUEL, insert the end of the cartridge 
+    labeled "Artillery Duel" into your video game system.
+
+3.  Now turn the power "ON."  If no picture appears, check the connection 
+    of your game console to TV, then repeat steps 1, 2, and 3.
+
+4.  ARTILLERY DUEL is a two player game, so player #1 use the left 
+    joystick, and player #2 use the right.
+
+5.  Console game difficulty switches allow for two skill levels 
+    independent of each other, so one player can be a Captain (B) and the 
+    other a General (A).  Game reset draws another terrain and starts the 
+    game.
+
+NOTE: Always turn the console power switch "OFF" when inserting or 
+      removing a XONOX cartridge.  This will protect the electronic 
+      components and help prolong the life of your XONOX games.  
+      You may need to adjust the Vertical Hold on your T.V. 
+
+-----------------------------------------------------------------------
+
+(opening screen shot)
+
+ARTILLERY DUEL
+Video Game
+
+As the officer in charge of an artillery gun emplacement, you must square 
+off for an exciting duel of skill and action as you plan and coordinate 
+the destruction of your opponent.  Check the wind, make critical 
+adjustments of barrel and powder charge, and fire!  Random terrains and 
+gun placement ensure that every battle is different.  Start off as a 
+Captain and as your skill in measuring the effects of wind and shot 
+adjustment increases, you can promote yourself to General, but when you 
+are a General you have to be able to make fast decisions!
+
+1.  OBJECT of the GAME:
+
+    Destroy the opposing artillery gun emplacement before he destroys 
+    you.  Predetermine between you and your opponent how many battles you 
+    are going to play in your war (i.e., first player to destroy five gun 
+    placements).
+
+2.  CONTROLS:
+
+    Player #1 use left joystick and fire button; player #2 use the 
+    right.  Joystick controls the barrel angle (up or down) and the 
+    amount of powder (up or down) used for each shot.  The fire button 
+    fires your gun. 
+
+3.  SCORE DISPLAY:
+    
+    At the end of each battle, a cumulative score of the number of gun 
+    emplacements which both you and your opponent have knocked out will 
+    be displayed on each side at the bottom of the screen. 
+
+4.  SKILL LEVELS:
+
+    You have two skill levels, Captain and General.  The "A" difficulty 
+    switch on the console is for General and the "B" switch is for 
+    Captain.  Each player may select which level to play on.
+
+5.  SCORING
+
+    Scoring is the same on all levels.  You are given credit for blowing 
+    up the opposing gun emplacement before being destroyed yourself.  
+
+------------------------------------------------------------------------
+
+GAME LAYOUT:
+
+There are several thousand combinations of alpine terrain and gun 
+emplacements, so virtually every game you play will be different from any 
+which you have played before.
+
+
+(opening screen shot)
+
+Attract Mode - Opening Screen:
+
+When you first turn on the game the name ARTILLERY DUEL and (c)XONOX 1983
+will appear in a banner across the top of the screen.  The sky will turn 
+dark to show you night has come and a mountain terrain will set up in the 
+foreground.  Two artillery guns will appear and will silently commence 
+firing randomly at each other.  The gun with the flashing black window 
+has control and is taking aim to fire.
+
+At this time, select th difficulty level that each player wishes to play 
+and press the Game Select switch to start the game.
+
+
+(game screen shot)
+
+Artillery Duel - The Battle:
+
+An alpine terrain will appear with two guns placed ready to defend their 
+territory.  The terrain will be different for each battle (sometimes 
+mountains, sometimes valleys, sometimes several hills and valleys).  
+Across the top of the screen a banner of instruments show barrel angle 
+(B), powder level (P), wind speed (W) and wind direction (white flag and 
+the motion of the clouds).  The player whose artillery gun has an opening 
+and closing window is in control.  Using the joystick, move left or right 
+to move the flashing arrow to Barrel angle or Powder level.  Move 
+joystick up or down to increase or decrease the amount of barrel or 
+powder you want for your shot.
+
+There is an automatic countdown at the bottom of the screen and you must 
+make your adjustments prior to reading "0" or your gun will automatically 
+fire.  Once you have fired control goes over to your opponent.
+
+Shots falling short or long of your target explode, but you only score by 
+a direct hit.  Wind speed and direction may change between shots os you 
+must take this into account when adjusting your gun as you zero in on 
+your target.  When one gun is finally destroyed, a group of your infantry 
+soldiers will march on to the field of battle to a military drum beat to 
+indicate which side has control of the territory.  The score will show at 
+the bottom of the screen.  After a few seconds, new terrain will appear 
+with guns in new positions and you're ready to continue the war with a 
+new battle.
+
+PLAY ACTION -- CAPTAIN LEVEL:
+
+Adjust powder level and barrel angle using the joystick.  Take into 
+account your previous shot's point of impact and the wind in making your 
+adjustments.  
+
+You will have thirty (30) seconds to set up your shot before the 
+automatic firing mechanism takes over.  The on-screen clock tells you 
+how many seconds you have to make your calculations.  When you are ready, 
+press the fire button to fire.  The game will continue until one player 
+has destroyed the opponent's emplacement.
+
+PLAY ACTION -- GENERAL LEVEL:
+
+You will still have all the variables (wind direction and speed, barrel 
+angle, powder level and terrain) that you had in the Captain level, but 
+as your rank increases you will have less time (15 seconds to make your 
+adjustment decisions.  The wind variations will also increase between 
+shots.  Part of the challenge of being a general is that you have less 
+time to react to make the proper decisions.  Assess the situation and 
+rapidly decide what changes in your barrel angle and/or amount of powder 
+will give your shot the proper trajectory to hit your target.  You must 
+always try to remember where your shot landed on the previous attempt and 
+what the wind direction and wind speed were.  This way when it is your 
+turn again you can estimate which adjustment will be best under the 
+particular conditions.
+
+----------------------------------------------------------------------
+
+STRATEGIES FOR WINNING THE BATTLE:
+
+When you first start a battle, test fire a shot based on your past 
+experiences to see how gravity and wind are affecting your shot.  Each 
+game has slight gravity and wind force changes to prevent an experienced 
+player from "memorizing" shot distances and trajectories (angles that the 
+shots make at different barrel angles).  Therefore the first shot is very 
+important.  Watch the opponent's shot as well, for you can learn from how 
+his adjustments affect his shots to make yours more effective.
+
+The higher you point your barrel the steeper the angle of your shot will 
+be.  This is good for getting at a gun emplacement nestled  in a valley 
+or behind a mountain, but high angle shots are more affected by the 
+wind.  (Note: about one increment of powder is equal to 2 MPH of wind 
+change at 60 degrees of barrel angle).  This changes slightly with each 
+new game.
+
+As a last resort, use verbal exchanges and bad advice to distract and 
+confuse your enemy.  This is called "counter intelligence" and is often 
+used by real military forces ot supply false information to the enemy for 
+their advantage.
+
+PLAY IT AGAIN:
+
+After you have fought your battle and either you or your opponent has 
+won, simply wait for the next terrain to set up and continue in your 
+war.  This will happen automatically, and the loser will be awarded the 
+first shot.
+
+To reset the score or to assign new player ranks, press the RESET button 
+and follow the instructions for starting the game.
+
+------------------------------------------------------------------------
+
+ARTILLERY DUEL--INSTRUCTIONS SUMMARY
+
+Hook up your Artillery Duel video game cassette.
+
+On your screen will appear an alpine terrain with hills, valleys and 
+snow-capped mountains.  Terrain will change with each new battle.  Two 
+artillery guns face each other on each side.  The gun with a flashing 
+black window has control.  Winning any battle takes cunning and quick 
+decision making.  Artillery Duel has a number of instruments in which to 
+help you make correct calculations to win a battle and finally win the war.
+
+At the top of the screen are three instrument boxes.  The box on the left 
+is labeled (B), showing barrel angle.  The box directly in the middle of 
+your screen is labeled (P) for powder level.  The correct adjustments to 
+these tow boxes will determine a direct hit.  The box on the right of 
+your screen, labeled (W), is your wind speed indicator.  Directly next to 
+it is a small white flag, which you will use to determine wind direction.
+
+When a new round of firing begins you will first want to determine wind 
+speed and direction.  You will have 30 seconds to make the correct 
+adjustments before firing.  By moving your joystick right or left you 
+will guide the blinking arrow to the instrument box (B) or (P) you wish 
+to make adjustments to.
+
+Barrel Angle -          Push up your joystick to increase the barrel angle 
+                        and down on the joystick to decrease the angle.
+
+Powder Level -          To increase the powder charge used in a shot push 
+                        up on your joystick.  Pull down on your joystick 
+                        to decrease your powder level. 
+
+Wind Speed/Direction -  The instrument labeled (W) indicates wind speed 
+                        in MPH.  Watch the little white flag or the 
+                        movement of the clouds to determines wind 
+                        direction.  
+
+Shot Countdown -        The numbers displayed at the bottom center of the 
+                        screen indicates the number of seconds remaining 
+                        before you must fire - 30 seconds for Captain and 
+                        only 15 seconds for General.
+
+Once the correct calculations have been made you should fire your gun.  
+After your 30-second shot countdown has expired your gun will 
+automatically fire.  Firing will continue until one of the artillery gun 
+is destroyed.  When a battle is won, infantry soldiers marching to a 
+military drumbeat will announce which side has control of the territory.  
+The war continues with new terrain and new challenges.
+
+-------------------------------------------------------------------------  
+

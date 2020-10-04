@@ -1,0 +1,187 @@
+	SEARS TELE-GAMES
+
+	STEEPLECHASE
+	Game Instructions
+
+	For 1 to 4 players
+	6 Games
+	Sears, Roebuck and Co.
+	4975126
+
+Note: Always turn the POWER switch OFF when inserting or removing a
+Tele-Games Cartridge.  This will protect the electronic components and
+prolong the life of your SEARS Video Arcade.  Copyright 1981 Atari, Inc.
+
+
+1. MEET THE VIDEO ARCADE HORSES
+Welcome to the VIDEO ARCADE Stables.  It's time for you to meet the lively
+thoroughbreds waiting inside this game cartridge.  This spirited bunch of
+hoofers never miss a race.
+
+Wonderful cartoonish drawings of horses are shown in their stalls.
+
+[Purple Horse, Little Dictator "Keep Out"]
+In the lane at the top of the playfield is "Little Dictator".  Little
+Dictator has a mean streak that surfaces every now and then.  Once, after
+losing a race, he ate the entire grandstands.
+
+[Blue Horse, Just Missed]
+The horse in the next lane was aptly named.  "Just Missed" just missed every
+race he had ever entered before coming to our stables.  Now he's as
+dependable as a horse could be.  He doesn't win every race, but he never
+misses one.
+
+[Red Horse, Absent Mind]
+"Absent Mind" occupies the third lane down.  He tends to forget things
+occasionally.  One time during a race he completely forgot what he was
+supposed to be doing and ended up selling programs to the spectators lined
+up at the rally.
+
+[Yellow Horse, Lucky Devil]
+The horse at the bottom lane of the playfield is the pride and joy of the
+VIDEO ARCADE Stables.  "Lucky Devil" is his name.  He's become so wealthy
+from winning races that he now lives at the infamous "Horse Heaven
+Penthouse".  At Horse Heaven, he sleeps in a hoof-shaped waterbed, dines
+regularly on caviar- flavoured oats and carrots and drinks champagne while
+lounging in his Gucci loafers and satin dinner jacket.
+
+So now you know a little about the VIDEO ARCADE team of horses.  You can go
+against them in any one of the six games, or you can pick one of them as
+your own mount.  Who knows? -- You may end up in Horse Heaven yourself some day.
+
+
+2. OBJECT OF THE GAME
+The object of Steeplechase is to be the first player to advance your horse
+to the right side of the screen display.  Each horse gallops at a given
+speed from left to right.  While the horse gallops, hurdles of different
+sizes approach the horse from right to left.  Your task is to jump and clear
+the hurdles, and get your horse to the right side first.
+
+As you are jumping each hurdle, your horse actually has no motion from left
+to right.  Whenever you hit a hurdle your horse loses some horizontal
+position (distance) while it falls to the ground and gets up.  The higher
+you jump your horse, the easier it is to clear all hurdles.  However, the
+more time it takes to clear the hurdles, and the more time it takes to reach
+the right side of the screen.
+
+The height of a jump can be set by adjusting your height indicator bar.
+There are four height settings.  Each horse has its own height indicator
+bar.  To learn how to adjust the bar and how to control and jump your horse,
+see USING THE CONTROLLERS, Section 3.
+
+The speed of the race starts off slow, and increases when the leading horse:
+
+(1)	gets about one-third of the way across the screen, and,
+(2)	again when the leading horse gets two-thirds of the way across.
+
+A game ends automatically when the game clock reaches 3:00 and none of the
+horses have made it to the right side.  All six games can be played by one
+to four players.  If less than four players pick a horse before the race
+starts (see USING THE CONTROLLERS), the computer will control the other
+horse or horses.
+
+If players want to compete against each other only, they should play against
+the computer horses in Games 1 and 4.  In these games the computer horses'
+performance rating is "poor", so they are essentially out of the race and
+you are free to race each other.
+
+If one or more players want to race against the computer, play against the
+computer's horses in Games 2 or 5 ("good" performance rating), and Games 3
+or 6 ("excellent" rating).  Be sure to read GAME VARIATIONS, Section 5, for
+a complete listing of each game.
+
+You already know that the next section (USING THE CONTROLLERS), describes
+how to control your horse.  Read Section 4, CONSOLE CONTROLS, to find out
+how to select a game number, as well as how to start a game.
+
+The GAME SELECT MATRIX at the back of the booklet provides a quick breakdown
+of the game variations for each game number.
+
+
+3. USING THE CONTROLLERS
+Use your Standard Paddle Controllers with this Tele-Games Cartridge.  Be
+sure the controller cables are firmly plugged into the controller jacks at
+the back of your Video Arcade.  Four-player games require an additional set
+of Paddle Controllers.  Hold the controller with this red button to your
+upper left toward the television screen.  See page 4 of your owner's manual
+for further details.
+
+Before each race begins (see game RESET switch, Section 4, CONSOLE
+CONTROLS), each player has four seconds to press the red controller button.
+This will place your horse in the race.  Otherwise, the computer will
+control the horse.  Notice that when you press the controller button your
+horse changes from a sitting position to a standing position.
+
+After the race begins, press the red controller button to jump your horse.
+Turn the dial on the Paddle Controller to select one of four height settings
+of the height indicator bar.  To clear the widest hurdles, you must use the
+highest height setting.  Use lower height settings to clear the small hurdles.
+
+
+4. CONSOLE CONTROLS
+GAME SELECT Switch: Press down the GAME SELECT switch to choose a game.  As
+you press the switch, the game number changes on the screen display.  The
+game number is located toward the top, middle of the screen, as shown in
+Figure 1.
+
+Game RESET Switch: Use this switch to start each race.  As explained in the
+previous section, after the game RESET switch is pressed, each player has
+four seconds to press the controller button and get into the race.  Each
+race starts with the sound of a gunshot.  The time clock begins counting at
+the beginning of a race.  Figure 3 shows where the clock is located on the
+screen display.
+
+NOTE: The LEFT and RIGHT PLAYER SKILL switches have no effect in STEEPLECHASE.
+
+
+5. GAME VARIATIONS
+NOTE: All six games can be played by one, two, three, or four players.  See
+USING THE CONTROLLERS, Section 3.
+
+Games 1,2,3: The spacing between the hurdles in these games is "uniform",
+meaning that the distance between all hurdles is the same, enabling you to
+establish a rhythm.
+
+In Game 1 the computer horse or horse's racing ability is poor.  In Game 2
+the computer horse's ability is good, and in Game 3 it is excellent.
+
+Games 4,5,6: In these games the spacing between the hurdles is "random"
+meaning that the hurdles come at you with varying distances between them.
+In Game 4, the computer horse's racing ability is poor, good for Game 5, and
+excellent in Game 6.
+
+
+6. HELPFUL HINTS
+At first, it may be difficult to focus your attention both on the horse, AND
+on the height indicator bar.  You may have a tendency to keep your eye on
+your horse toward the left side of the screen, rather than on the bar on the
+right side.  To eliminate this problem when first playing STEEPLECHASE, set
+the height indicator bar to its highest position and leave it there for the
+entire race.  This allows you to get the knack of jumping hurdles without
+having to worry about the bar.
+
+Later, when you feel more comfortable about jumping, you can switch your
+attention to the height indicator bar.  Naturally there is more than one
+method you can use to control your horse and the bar.  You may develop a
+winning method of your own.
+
+One method is to quickly change your concentration from the horse to the bar
+and back to the horse.  The trick here is not to linger too long and the bar
+and miss the hurdle.  Another method you might try is to keep your attention
+mainly on your horse and you your peripheral vision to adjust the bar.  This
+method can be especially helpful once you are used to adjusting the
+controller to move the bar.
+
+
+7. GAME SELECT MATRIX
+
+Game			Computer				Hurdle
+Number		Performance Rating		Spacing
+1			POOR					UNIFORM
+2			GOOD					UNIFORM
+3			EXCELLENT				UNIFORM
+4			POOR					RANDOM
+5			GOOD					RANDOM
+6			EXCELLENT				RANDOM
+
+

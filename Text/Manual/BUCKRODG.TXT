@@ -1,0 +1,182 @@
+<Picture>
+
+<Picture>BuckRogers<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+FOR THE ATARI 2600 AND ALL COMPATIBLE SYSTEMS
+
+BUCK ROGERS PLANET OF ZOOM
+OFFICIAL ARCADE VERSION
+
+SEGA VIDEO GAME CARTRIDGE
+
+
+It's the 25th century.  You are Buck Rogers fighting the battle
+of Planet Zoom.  This is a race against death.  Your ultimate and
+most powerful enemy is the deadly MOTHER SHIP!
+
+There are 16 levels of increasing difficulty - each with four rounds of
+challenging space combat.  Before you meet the MOTHER SHIP, your
+pilot skills and nerve are tested against deadly ELECTRON POSTS,
+ALIEN SAUCERS and smashing SPACE HOPPERS.  This is a battle of
+speed, accuracy and endurance.  Your time consumption is crucial to
+your survival.  If you deplete your time you lose one of your five fighter
+ships.  The faster you fly, the sooner you'll get to the MOTHER SHIP,
+allowing yourself more time to destroy it.  You begin with a full time line
+when you destroy the MOTHER SHIP.  Be aggressive but don't be reck-
+less.  This is do or die cosmic combat and it's the MOTHER SHIP or YOU!
+
+
+USING YOUR CONTROLS
+
+You begin your battle with a fleet of five fighterships that you
+have to navigate one at a time above the surface of Planet Zoom
+and into space.  Use your joystick to control them.  Press your
+fire button to start the game.
+
+JOYSTICK CONTROL
+Pushing your joystick FORWARD will increase the speed of flight.
+Pushing the joystick BACK brings your ship to its minimum speed.
+Pushing your joystick to the RIGHT will turn your ship to the right.
+Pushing your joystick to the LEFT will turn your ship to the left.
+If the joystick is angled up or down while turning right or left,
+it will fly at that angle.
+Keep your fire button depressed for rapid fire.
+
+
+HOW TO PLAY
+
+The object of the game is to destroy  the MOTHER SHIP before the
+MOTHER SHIP and its deadly ELECTRON POSTS, SAUCERS, and SPACE
+HOPPERS destroy you!
+
+
+THE SCREEN
+Your screen shows the view as you skim over the surface of Planet
+Zoom.  Beyond the horizon is outerspace and your battle with the
+ALIEN SAUCERS then the MOTHER SHIP.
+
+The upper edge of your screen shows your score.  To the right of your
+score is the number of ELECTRON POSTS you must pass through
+before engaging in the next round of battle.  Below is your time line
+ticking down from right to left.  As your time runs down your time line
+will change color to indicate the amount of time you have left.
+
+GREEN . . . . . . . . . . . .More than 1/2 of your time is left.
+YELLOW  . . . . . . . .Between 1/2 and 1/4 of your time is left. 
+FLASHING RED  . . . . . . . .Less than 1/4 of your time is left.
+
+When your time is depleted, your ship will be destroyed.  If that
+was your last ship, the game is over.  If you run out of time before
+reaching the next level, you return to the first round of that level
+minus one ship.
+
+The surface of Planet Zoom changes color as your battle takes you to
+more treacherous terrain with each level.
+
+
+GAME PLAY
+Now you are ready to do battle on the Planet Zoom.
+The game is divided into five skill levels.  Each level is made up of
+four rounds of battle.  Each round you encounter a different combination
+of enemies and aliens.  The combinations get more difficult as you
+advance through each round of every level:
+
+LEVEL 1 - BLUE/BLACK
+
+ROUND 1 - 20 ELECTRON POSTS
+ROUND 2 - ELECTRON POSTS
+          and ALIEN SAUCERS
+ROUND 3 - ELECTRON POSTS
+          and SPACE HOPPERS
+ROUND 4 - The MOTHER SHIP
+          with ALIEN SAUCERS
+
+Each level is made up of the same sequence of rounds.  As the levels
+increase the number of ELECTRON POSTS you must pass through to
+advance to the next round of battle grows.  As the number of ELECTRON
+POSTS increase, the aliens also increase in number and density.
+
+LEVEL ONE . . . . . . . .20 posts
+LEVEL TWO . . . . . . . .23 posts
+LEVEL THREE . . . . . . .28 posts
+LEVEL FOUR  . . . . . . .33 posts
+LEVEL FIVE  . . . . . . .28 posts faster and closer together
+LEVEL SIX . . . . . . . .31 posts faster and closer together
+LEVEL SEVEN . . . . . . .34 posts faster and closer together
+LEVEL EIGHT . . . . . . .37 posts faster and closer together
+LEVEL NINE  . . . . . . .34 posts Even faster and more close together
+                                  than the last four levels.
+
+For the remaining seven levels of play the number of posts increases
+by three each level and every three levels decreases by three as the
+speed and density of the alien's attack increases.
+
+
+ENEMIES AND ALIENS
+
+Electron Posts - explode on impact.  They get closer and faster with
+each level.
+
+Alien Saucers - explode on impact and fly by in greater number and
+density as levels of difficulty increase.
+
+Space Hoppers - explode on impact.  As levels of difficulty increase,
+Space Hoppers will appear in greater number and density.
+
+The Mother Ship - This is your greatest challenge.  Its destruction
+is your greatest victory.  No enemy is more cunning or powerful.
+The MOTHER SHIP can be destroyed only by hitting it twice.
+
+
+SCORING
+
+ALIEN SAUCER . . . . . . . .300 points
+SPACE HOPPER . . . . . . . .300 points
+ELECTRON POST  . . . . . . .500 points
+MOTHER SHIP  . . . . . . . .20,000 points
+
+Every 50,000 points you receive an additional fightership plus a
+full time line.
+
+STRATEGIC TIPS
+
+* Fly as fast as you can without crashing.  You receive added points 
+  for added speed.
+* Saucers are more easy to hit as they fly past from behind.
+* Enemies appear in waves in your battle with the MOTHER SHIP.  Try
+  to determine the rhythm of the waves.
+* Don't be reckless - your fightership steers with super-sensitive
+  response.
+* Over-steering will cause you to collide with ELECTRON POSTS,
+  ALIEN SAUCERS or SPACE HOPPERS.
+
+
+Copyright (c) 1983 SEGA ENTERPRISES, INC.
+BUCK ROGERS is a trademark of The Dille Family Trust.
+ATARI and 2600 are trademarks of Atari, Inc.
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

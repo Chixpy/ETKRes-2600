@@ -1,0 +1,164 @@
+AMIDAR (tm)
+
+Amidar is a trademark of Konami Industry Co., Ltd. and is used by Parker Brothers under authorization 
+
+For Atari & Sears Video Game Systems 
+
+
+First you're a gorilla in a maze pursued by wild warriors! The gorilla wants to color in the maze and the
+warriors want to do in the gorilla. It's up to you to keep the gorilla ahead of the patrolling pack while you guide
+him on his coloring spree every which way throughout the maze. If you're successful, suddenly you're a paint
+roller pursued by patrolling pigs. And it's another fast and furious chase all over again! 
+
+OBJECT 
+
+The object of the game is to "color in" as many mazes as you can while avoiding the patrolling warriors or pigs-
+and to collect the most points along the way. 
+
+SETTING THE CONSOLE CONTROLS 
+
+1. Set the DIFFICULTY switch: 
+
+Position A- starts the game at level 1; five warriors patrol the maze at the slowest speed. Position B- starts the
+game at level 3; six warriors patrol the maze at a faster speed 
+
+Sears Video Arcade owners... If you wish to start the game at level 1, set the difficulty switch at Expert; if you
+wish to start at level 3, set it at Novice. 
+
+2. Press down the GAME RESET switch and the action begins. 
+
+THE JOYSTICK CONTROLLER ----------------------- 
+
+Since this is a one-player game, you'll need only one Joystick. Plug the Joystick into the LEFT controller jack.
+Make sure you plug it in firmly. Use the Joystick to maneuver the gorillas and paint rollers up, down, left, and
+right throughout the maze. 
+
+PLAYING ------- 
+
+The first round in AMIDAR is the warriors and gorilla game. In this round, you'll have three gorillas with which
+to color in the entire maze. As soon as you hit the RESET switch, you'll see the first gorilla at the right-hand
+side of the maze. There will be a short pause, and the action will begin. Throughout the round, the number of
+gorillas available to you will be monitored in the lower right-hand corner of the screen. 
+
+As soon as the warriors begin their patrol, start your gorilla coloring his way throughout the maze. To color,
+you must move the gorilla along the lines that form the various "boxes" inside the maze. Trace one side of a
+box, and the side turns blue. Trace all four sides of a box, and the box turns blue. Try to color in the entire
+maze in this way. You don't have to trace all four sides of one box before you trace another. You may move
+any which way throughout the maze that you wish. Just don't run into a warrior- or he'll squash your gorilla. 
+
+HOW THE WARRIORS MOVE --------------------- 
+
+Because the warriors are unrelenting patrollers, you'll need to know a few things in order to dodge them: 
+
+o WARRIORS ALWAYS TURN THE NEAREST CORNER THEY ENCOUNTER. Let's say a warrior is
+coming at you. Don't panic! Because if there's a corner between you and the warrior, the warrior will turn the
+corner and you can be on your way. 
+
+o WARRIORS CAN INTERSECT ONE ANOTHER. When they do, each will continue to move in it's own
+direction, turning the nearest corner it encounters. 
+
+o WARRIORS ALWAYS MOVE FASTER THAN THE GORILLA. So there's no use trying to outrun
+them. Instead, stop and let them turn corners or else lose them with a few turns of your own. 
+
+o IN EVERY ROUND, THERE IS A SPECIAL WARRIOR WHO MOVES IN A DIFFERENT WAY
+FROM THE OTHERS. This warrior is called the "Tracer." The Tracer patrols only the outer edge of the
+maze. Like the warriors, the Tracer moves faster than the gorilla. 
+
+THE RED BUTTON -------------- 
+
+If the warriors should close in on you, press the red button on your Joystick controller and release it. The
+warriors will turn into little shadows you can pass right through. Get by them quickly, because in a moment or
+two, they'll become wild warriors again! YOU CAN MAKE THE WARRIORS DISAPPEAR FOUR
+TIMES FOR EVERY GORILLA. NOTE: Holding down the red button will cause the warriors to disappear
+and appear alternately up to four times, depending on the number of chances you have left to do so. 
+
+TURNING THE WARRIORS INTO CHICKENS ---------------------------------- 
+
+There's one point in the game where you get to take revenge on the warriors! Just complete coloring the
+FOUR CORNER BOXES, and the warriors will turn into chickens. This happens the moment the last side of
+the last corner box is colored- then it's your turn to do the catching. But remember: like the warriors, the
+chickens are faster than the gorilla, so don't chase them. Instead, lay in wait and try to catch them as they turn
+corners. You'll score bonus points for every chicken you can catch. Be quick because after a few seconds,
+you'll hear a warning sound and the chickens will become wild warriors once again. 
+
+NOTE: If you should complete coloring the four corner boxes and the entire maze at the same time, you'll
+automatically move into the next round, forfeiting the chickens for bonus points game. 
+
+END OF ROUND ------------ 
+
+Remember that you have three gorillas (chances) with which to color in the entire maze. If your third and last
+gorilla gets squashed before you've done so, that's the end of the round and the end of the game. 
+
+But if you do color in the entire maze using three or fewer gorillas, you'll have made it to the second round- the
+pigs and paint roller game. 
+
+PIGS AND PAINT ROLLERS ---------------------- 
+
+This round plays just like the warriors and gorilla game- it's just played with different characters. But because
+it's the SECOND round, the pigs will move a bit faster. Also, the number of paint rollers with which you'll have
+to paint the maze will depend on the number of gorillas you used in the first round. If there are three gorillas
+remaining on screen at the end of the first round, you'll have three paint rollers. If there are two gorillas
+remaining on screen, you'll have two paint rollers, plus one for completing the round. If there is one gorilla
+remaining on screen, you'll have one paint roller, plus one for completing the round. 
+
+If you can paint the entire maze using the available number of paint rollers or fewer, you'll have made it to
+round three- and it's back to the warriors and gorilla game. Similarly, the number of gorillas you'll have in
+round three will depend on the number of paint rollers you used in round two. 
+
+LEVELS OF DIFFICULTY -------------------- 
+
+As long as you can stay in the game, you'll alternate between the warriors and gorilla and the pigs and paint
+roller games. As you go from one round to the next, the warriors and pigs move progressively faster. This will
+happen for six consecutive rounds; round one is the slowest, round six is the fastest. In rounds three through
+six, there will be six warriors/pigs patrolling the maze, instead of five. 
+
+END OF GAME ----------- 
+
+The game ends when there are no gorillas/paint rollers left on screen. TO PLAY AGAIN, SIMPLY PRESS
+DOWN THE GAME RESET SWITCH. 
+
+STRATEGY HINTS -------------- 
+
+a) When making a turn inside the maze, you may want to lead into it with your Joystick. This can prevent your
+missing the turn completely. b) In order to earn the most points catching chickens, leave one side of the last
+corner box untraced, wait until the warriors/pigs are close by, then complete the last corner box. Your
+gorilla/paint roller will be in a better position to catch chickens than if they'd been at other parts of the maze. 
+
+[ 180-Day Limited Warranty Section Deleted ] 
+
+SCORING ------- 
+
+Your score is displayed at the bottom right of the screen throughout the game. Points accumulate as follows: 
+
+Coloring one side of a box ... HORIZONTAL LINES: from one to six points, depending on the length of the
+line; 1 point for the shortest line, 6 points for the longest line. 
+
+VERTICAL LINES: 1 point 
+
+Coloring an entire box ....... 50 points 
+
+Catching a chicken ........... 100 points 
+
+GAME LEVELS ----------- 
+
+Round           Number of Patrollers            Speed
+-----           --------------------            -----
+
+  1                 5 warriors                 slowest
+  2                   5 pigs                     ||
+  3                 6 warriors                   ||
+  4                   6 pigs                     ||
+  5                 6 warriors                   \/ 
+  6                   6 pigs                   fastest
+
+Once you reach round 6, the following rounds will remain at level six (six warriors/pigs patrolling at the fastest
+speed) until you're out of the game. 
+
+[ Help line info deleted ] 
+
+Rules copyright 1983 Parker Brothers, Beverly, MA 01915 Printed in U.S.A. 
+
+-------------------------------------------------------------------------------- >>> Document typed by
+steele@chopin.udel.edu <<<
+>>> Document converted to html by gchance@ecst.csuchico.edu <<<
+-------------------Atari 2600 Instructions Archive------------------- 

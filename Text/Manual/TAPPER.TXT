@@ -1,0 +1,153 @@
+2600 TAPPER Game Manual 
+-----------------------
+
+You are a frenzied bartender trying to keep the never ending flow of
+thirsty customers well watered.  You'll have to keep slinging sodas 
+and occasionally guess which cans of soda the Soda Bandit has shaken.
+
+As if that's not enough work for one bartender, try covering four different
+bars with a different crazy crowd in each bar.  There's the Old West Saloon,
+the Jock Bar, the Punk Rock Bar, and the Space Bar.
+
+Keep the sodas coming, but not too fast.  You'd better be sure you've got a
+customer without a drink at the bar or the drink will slide right off the bar
+and no self-respecting bartender throws drinks away.  Keep your eyes open 
+for the empties the customers sling back your way.
+
+__USING YOUR CONTROLS__
+
+1.  Insert the game cartridge while the power is OFF.
+
+2.  Turn the power ON and you'll hear the Tapper theme music as the first game
+screen (Old West Saloon) appears.
+
+3.  You have the option of choosing the difficulty level at which you wish
+to play.  There are two difficulty level switches.  If both are set at "B"
+you'll play a Beginners game.  If the left switch is on "B" and the right
+switch is on "A" then you'll play an Intermediate game.  If the right switch
+is on "B" and the left switch is on "A" then you'll play an Arcade level game.
+If both right and left switches are on "A" then you'll play an Expert level
+game.  Here's how each game level differs:
+
+Beginner -- five lives with slow-moving customers
+Intermediate -- three lives with slow-moving customers
+Arcade -- five lives with fast-moving customers
+Expert -- three lives with fast-moving customers
+
+4.  You then have the option of choosing a one-player game or two-player
+game.  You can push the Fire Button on joystick 1 for a one-player game or
+push the Fire Button on joystick 2 to start a two-player game.  Or you can
+use the game select switch to select a 1 or 2 player game.  Select 1 finger
+for one-player game or 2 fingers for two-player game.  If you are playing a
+two-player game, after player one suffers a defeat, player two has his or her
+turn.  The score will swap in and out player 1 blue player 2 gold.
+
+5.  Use your joystick control to move your Bartender accordingly:
+
+Up -- Bartender moves up to next bar.
+Left -- Bartender moves left along bar.
+Right -- Bartender moves right along bar.
+Down -- Bartender moves down to next bar.
+
+If you move your Bartender down all the way to the bottom bar and you
+continue to press the joystick down, he will automatically wrap around to
+the top bar.  If you move your Bartender all the way to the top bar and
+continue to press the joystick up, he will automatically wrap around to
+the bottom bar.
+Push the "Action Button" for the Bartender to fill the mugs.
+
+6.  You have to keep the Bartender in place while filling mugs.  The mugs
+will not go to customers unless they are full.
+
+__HOW TO PLAY__
+
+{screenshot of Old West Saloon}
+
+SCREEN AND GAMEPLAY
+
+Tapper consists of five separate game screens.  The Old West Saloon, the
+Jock Bar, the Punk Bar, the Space Bar, and the Bonus Round which occurs
+between each of the four bar scenes.
+
+The score for player 1 is displayed in blue at the upper left corner of the
+screen.  The number of lives that player has remaining is indicated by up to
+five mugs (one for each life) next to the 1 finger.  Each time a player loses
+a life, one of the mugs is emptied.
+
+If you are playing a two-player game, the score for player 2 appears in gold
+at the upper left corner of the screen and that player's number of lives is
+displayed next to the 2 fingers.
+
+BONUS ROUND
+
+In the Bonus Round, The Soda Bandit challenges the Bartender to a soda 
+can version of the old fashioned shell game.
+
+{screenshot of Soda Bandit doing his thing -- there's a Mountain Dew logo
+ behind the Bartender.  Product placement!  Product placement!}
+
+The Bandit will shake five of the six soda cans on the bar and shuffle the
+cans around.  You'll have to keep a close eye on the one he has not shaken.
+When the Soda Bandit has stopped shuffling the cans around,
+using the joystick, move the Bartender over to the can you think was not
+shaken by the Soda Bandit.  Push the ACTION button to open the can you
+have chosen.  If you have chosen the unshaken soda can, you receive a
+3,000 point bonus to the sound of the Bonus Tune.  If, however, you have
+mistakenly opened one of the cans the Soda Bandit has shaken, you'll get
+a shot of soda sprayed in your face.
+
+{screenshot of Jock Bar}
+
+BAR SCENES
+
+In order to advance through each of the screens comprising the different
+bar scenes, you must successfully serve each of the customers as they
+approach you at each bar.  When a customer finishes his soda, he'll sling
+his mug back to the bartender.  The Bartender must catch the empty mug, or
+you lose a life.  At the end of a round, a trio of dancing girls appear on the
+stage.
+
+In order to survive the demands of tending bar, there are three things you
+must avoid.
+
+1.  Do not allow a customer to get all the way to the Bartender's end of
+the bar without a drink.  If you do, the disgruntled customer will sling the
+Bartender down the bar.
+
+2.  If the Bartender jumps the gun and slings a soda where there is no
+customer to grab it, the mug will crash at the end of the bar.
+
+3.  After customers at the bar have gulped down their sodas, they sling
+their empty mugs back to the Bartender, if he is still on the screen.  
+Do not let the mugs get by.  If they do, it will crash on the floor.
+
+Each time any of these three events occur, your Bartender will lose one
+of his lives.
+
+{screenshots of Punk Bar and Space Bar}
+
+__SCORING__
+
+SCORING
+
+Get Cowboy/girl out of Door.................50 points
+Get Sportsperson out of Door................75 points
+Get Punk Rocker out of Door................100 points
+Get Space Creature out of Door.............150 points
+Catch an Empty Mug.........................100 points
+Complete screen (get all customers out)..1,000 points
+Complete Bonus Rack......................3,000 points
+
+EARN EXTRA BARTENDERS
+
+Earn one extra life after your first 20,000 points and another life 
+for each additional 50,000 points.
+
+__MORE GREAT ARCADE GAMES FOR THE HOME__
+
+{promotional blurbs for Buck Rogers: Planet of Zoom, Star Trek: Strategic
+Operations Simulator, Congo Bongo, Up'n'Down and Spy Hunter}
+
+---------
+manual typed in by Jeff Coleburn, vsp@netaxs.com.  Sell me your children.
+

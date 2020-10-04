@@ -1,0 +1,181 @@
+<Picture>
+
+<Picture>Fire_Fly<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+[Here are the directions to Fire Fly by Mythicon.]
+[NOTE:  The original instructions have the following errors:  Pixie, Pixy,
+pixy;  bad bugs, Bad-Bugs;  12.  DIFFICULTY (should be 11.  DIFFICULTY).  
+Any other errors are solely my fault while typing and I take full 
+responsibility for them.]
+
+
+				mythicon inc.
+
+				Fire Fly
+
+				instructions
+
+
+TEST PILOT LOG MARCH 17, 2093:  On what started to be the routine high speed
+test of interplanetary craft Delta 12, a powerplant malfunction caused the
+craft to skip off the rim of a smmall, black hole.  After experiencing
+level 5 turbulence I became unconsciouss.  Upon awaking, I found myself in a
+time and place unknown to me;  the craft having been completely destroyed.
+
+The place I am in is inhabited by giant bug-like creatures.  Through thought
+waves, the inhabitants explained that they are part of a culture originally
+insect-like but now almost entirely mechanical.  As their biological body
+parts began to age beyond effective use they replaced them with mechanical
+parts.  Through their will to survive they eventually crated an entire
+society composed of machines.
+
+During this gradual conversion from living matter to machinery a group of
+the inhabitants started programming themselves to survive even at the
+expense of others in the society.  They became know as the Bad-Bugs.  After
+the complete metamorphosis to computer controlled minds these bugs began
+attacking the good creatures.
+
+Because of my human reasoning and ability as an experienced test pilot
+the good bugs have asked for my help.  I have been put in command of the
+best machine-bug on their planet.  My task of saving the good bugs should 
+prove extremely difficult since the Bad-Bugs have creature-machines 
+programmed solely for the purpose of stopping me.  I will, however, be 
+awarded valuable treasures by the good bugs for every enemy I eliminate.  
+To further complicate my task the good bugs have asked me to rescue the 
+last remaining living creature on their planet, the Pixie.  They have 
+warned me to be very cautious when approaching the Pixy since it is 
+constantly guarded by a killer, machine-bee.
+
+
+				[2]
+
+				GAME FEATURES
+
+FIREFLY by Mythiiicon offers tremendous variety in the types of enemies you,
+as Firefly, will encounter.  By continually moving from one screen to the 
+next you are actually playing several games in one.  Each enemy moves 
+differently and requires different skills of the game player.
+
+The first challenge is to rescue the pixy.  While appearing easy, be cautius 
+of the enemy bee.  He is very good at determining where you are and his 
+sting is deadly.  Should you survive and rescue the pixy, you are faced 
+with the flaming pumpkin.  He is so hot that merely touching him will be 
+fatal.  He also has an unlimited supply of deadly pumpkin seeds to fire at 
+you.  The next screen brings you to the true meanness of the demons.  Their 
+touch and cannon shots are to be avoided at all cost.  The bats will be 
+waiting should the unlikely occur and you survive.  The bad bugs aren't 
+worried, however, since ythey have a sun full of shooting balls of fire 
+ready to ruin your day.  If that isn't enough, you can try your luck against 
+the coiled serpents.  For the truly talented players who make it through 
+this series of Bad-Bug tricks don't worry, they will all be there again for 
+your next journey through the land of the Bad-Bugs.
+
+
+				[3]
+
+				GETTING STARTED
+
+1.  Plug in Joystick or Ball Controller.
+
+2.  Turn power OFF, insert game cartridge.
+
+3.  Turn power ON.
+
+4.  DIFFICULTY SWITCHES are not used with FIREFLY.  Levels of difficulty
+are determined by the GAME SELECT SWITCH.
+
+5.  JOYSTICK CONTROLLERS move the Firefly left, right, up, down, and 
+diagonally on the screen.
+
+The red fire button on the joystick fiers energy shots at the enemies.  
+You fire in the same direction as you are facing.  You are only allowed 
+one shot at a time.  Once your missile goes off the screen you are able 
+to fire again.
+
+It is not possible to move left off the screen.  All additional screens 
+are to the right.
+
+6.  BALL CONTROLLERS work very well with FIREFLY.  Higher scores should be 
+possible.
+
+7.  GAME SELECT SWITCH will allow you to choose the level of difficulty 
+and whether on or two players will be playing.
+           _____
+ *        / . . \		Practice Mode, One Player -- No
+/|\      | \__/ |		scoring, unlimited lives.
+_|_       \_____/
+
+ *	  			Level One, One Player -- Scoring for
+/|\				successfully shooting enemies.  Additional
+_|_				scores for picking up treasures 
+				and saving the pixy.
+
+ *			*	Level One, Two Players -- Play alternates
+/|\		       /|\	starting with the left controller.
+_|_		       _|_
+
+ *	    ^			Level Two, One Player -- Enemies are
+/|\	  /   \ 		more difficult to shoot.
+_|_	  \   /
+	    -
+
+ *	    ^ 		*	Level Two, Two Players
+/|\	  /   \	       /|\
+_|_	  \   /	       _|_
+	    _
+
+
+
+				[4]
+
+8.  BEGIN PLAY by pressing the game reset button or by pressing the red 
+fire button on your controller.  After each loss of a life a small 
+controller symbol will appear at the top of the screen.  Pressing the red 
+fire button on your controller will restart the game.
+
+9.  SCORING is done by hitting the enemies with a missile, picking up
+treasures, and rescuing the pixy.  Points are awarded on the following
+basis:
+
+SCORES:
+	Shoot enemy		10 points
+	Shoot pumpkin		20 points
+	Rescue pixy		30 points
+	Recover treasure	99 points
+
+10.  LIVES remaining are displayed at the top of the screen.  When the 
+game begins you have three lives.
+
+12.  DIFFICULTY is determined by selecting the Practice, First Level or
+Second Level f difficulty.  In the Practice Level you are able to get 
+into every screen meeting all of the enemies but there is no score and 
+you have an unlimited number of lives.  The First Level and the Second 
+Level of difficulty have the same features as the Practice Level but all 
+of the enemies are more evil.
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

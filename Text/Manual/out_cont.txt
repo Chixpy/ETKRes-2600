@@ -1,0 +1,233 @@
+                               --------------
+			       OUT OF CONTROL
+			       --------------
+
+		      A single player video game for the
+	  Atari 2600 Video Computer System and Sears Video Arcade
+
+
+  Intended for use with either joystick controller and a color =
+television.
+
+			     GAME BY: Jim Jacob
+			   Cover Art: Jim Talbot
+			    Graphics: Jean Baer
+		     Typesetting: Colonial Composition=20
+		   Prep Dept. Coordinator: Elaine Adkins=20
+			Printing: Monarch Services
+
+       Any cartridge which fails will be replaced when returned to:=20
+		    The Avalon Hill Video Game Company=20
+	       4517 Harford Road, Baltimore, Maryland 21214
+
+    As with any video game, turn off television and game when not in =
+use.
+
+				  (c)1983
+
+		     The Avalon Hill Video Game Company
+    All Printed Material, Video Game and Audio Visual Display =
+Copyrighted
+
+   OUT OF CONTROL IS AVALON HILL'S TRADEMARK NAME FOR ITS SPACE RACE =
+GAME.=20
+  Atari and Atari 2600 Video Computer System are trademarks of Atari, =
+Inc.=20
+    Sears and Sears Video Arcade are trademarks of Sears Roebuck and Co.
+
+
+
+					INSTRUCTIONS
+
+				   OBJECT =20
+
+
+  To complete the chosen course as fast as possible without going OUT OF =
+
+CONTROL. In each course you must maneuver through a series of Space =
+Buoys, pop=20
+ten Space Balloons, and safely park in the Dock.
+
+
+				 =20
+				  TO START
+
+ =20
+  Select either joystick controller by briefly pressing the fire button. =
+Then=20
+choose the desired game by moving the joystick up or down Every set of =
+two=20
+games use the same course In the odd numbered game, your space ship =
+reacts=20
+faster than in the corresponding even numbered game. (Game 13 and 14 are =
+the=20
+same course. Your ship reacts faster in game 13 than in game 14.) The =
+game=20
+number is displayed above the elapsed time at the bottom of the screen. =
+Start=20
+the race by pressing the fire button.
+
+
+
+			    CONTROLLING THE SHIP
+
+		  Thrust_
+			   \_   ---------
+				  |o      |
+		Rotate Left  <|   O   |>    Rotate Right
+				  |       |
+				  ---------
+ =20
+ =20
+  Move the joystick left to rotate the ship counter-clockwise or right =
+to=20
+rotate the ship clockwise. Pressing the fire button will provide thrust =
+in the=20
+direction that the ship is heading. The spaceship will slow down slowly =
+on its=20
+own. To stop more quickly you must turn your space ship to the opposite=20
+direction you are going and fire your engines.
+
+
+
+					SPACE BUOYS
+
+ =20
+  You must pass the Space Buoys in the proper sequence. The Space Buoy =
+that=20
+you must pass next will turn white. If it is a single Space Buoy, you =
+must=20
+pass it on the side indicated by the flashing arrow. If there are two =
+Space=20
+Buoys together, you must pass between them. If there are three Space =
+Buoys in=20
+a line, either stationary or moving, you may either pass through them or =
+
+maneuver around them. If you collide with any Space Buoy, you will be=20
+penalized, and must repeat the last set of Space Buoys you successfully=20
+passed (now shown in white).
+
+			=09
+
+				OUT OF CONTROL
+
+ =20
+  Should you lose control of your space ship and find yourself at the =
+outer=20
+limits of the course, your ship will turn red to indicate that you are =
+beyond=20
+the limits of the display and will remain red until you maneuver back to =
+the=20
+course (Aim your ship towards the center of the screen and apply thrust =
+to=20
+return to the course Your ship will turn blue as soon as you are back on =
+the=20
+course.)
+
+
+
+				SPACE BALOONS
+			=09
+ =20
+  When you have successfully passed all the Space Buoys in the proper=20
+sequence, ten Space Balloons will appear on the screen, one at a time. =
+You=20
+must pop each Balloon by running into it to get the next Balloon to =
+appear.
+
+
+
+					DOCKING
+
+
+  When the last Space Balloon has burst, the Dock will appear. You must=20
+maneuver your space ship inside the Dock and stop without hitting the =
+Dock.=20
+Only your maneuvering thruster can be used during docking, causing your =
+ship=20
+to react slower than during the previous portions of the course. The =
+clock at=20
+the bottom of the screen will stop when you have successfully docked. =
+The game=20
+number will also be displayed.=20
+=20
+
+=20
+				GAME CONTROLS
+=20
+
+  No switches other than the ON/OFF, COLOR/BW, and RESET switches are =
+used.=20
+
+  You can pause the game by pushing the COLOR/BW switch to the BW =
+position.=20
+The clock will flash when Pause is on. To resume, push to the COLOR =
+position.=20
+
+  The game can be restarted at any time by pressing the RESET switch. At =
+the=20
+end of the game, pressing the fire button once will start a new game. =
+After a=20
+RESET, either joystick can be selected for use for the next game by =
+pressing=20
+its fire button.=20
+
+  The display will turn black when you have not played (used the =
+joystick) for=20
+a period of about 15 minutes. Simply press the joystick fire button to =
+regain=20
+your picture.
+
+
+
+					GAME DESIGNER'S NOTE
+ =20
+
+  The courses are longer with higher game numbers.  My best times for =
+the=20
+  courses are:
+
+GAME NUMBER     MANEUVERING SPEED       NUMBER OF BOUYS         BEST =
+TIME
+    =20
+     1                Fast                    10                00:55.75
+     2                Slow                    10                01:07.45 =
+      =20
+     3                Fast                    14                01:05.70
+     4                Slow                    14                01:10.61
+     5                Fast                    22                01:09.15 =
+=20
+     6                Slow                    22                01:17.75
+     7                Fast                    27                01:26.64 =
+=20
+     8                Slow                    27                01:36.41
+     9                Fast                    35                01:35.08
+    10                Slow                    35                01:55.90 =
+=20
+    11                Fast                    39                01:25.27
+    12                Slow                    39                01:38.06
+    13                Fast                    39                01:42.32
+    14                Slow                    39                01:57.43
+    15                Fast                    47                01:50.10 =
+=20
+    16                Slow                    47                01:56.51
+    17                Fast                    51                02:09.33
+    18                Slow                    51                02:14.57 =
+=20
+    19                Fast                    54                02:09.43
+    20                Slow                    54                02:25.61
+    21                Fast                    63                02:41.40 =
+  =20
+    22                Slow                    63                03:06.58 =
+  =20
+    23                Fast                    64                02:14.77
+    24                Slow                    64                02:33.80
+    25                Fast                    72                02:31.72 =
+     =20
+    26                Slow                    72                02:52.97 =
+  =20
+    27                Fast                    82                03:14.06 =
+  =20
+    28                Slow                    82                03:53.87
+
+

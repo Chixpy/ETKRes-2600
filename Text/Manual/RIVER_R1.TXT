@@ -1,0 +1,164 @@
+                    ACTIVISION: River Raid
+                    PLAN OF OPERATION
+
+----------------------------RIVER RAID BASICS----------------------------------
+Your mission is to score as many points possible by destroying enemy tankers,
+helicopters, fuel depots, jets and bridges before your jet crashes or runs out
+of fuel.  Here's how to begin:
+
+1.  Hook up your video game system.  Follow Manufacturer's instructions.
+
+2.  With power OFF, plug in game cartridge.
+
+3.  Turn power on.  If no picture appears, check connections of your game 
+    system to TV, then repeat steps 1-3.
+
+4.  Plug in Joystick Controller/s.  Solo player uses left Joystick.
+
+5.  Set both difficulty switches to b to begin.
+
+6.  Select game with the game select switch.
+         Game 1:  One player
+         Game 2:  Two players taking turns
+
+7.  Use of the Joystick Controller.  Hold Joystick Controller with the red
+    button in the upper left position.  Fire missiles by depressing red button.
+    Hold the red button down for continuous fire.  Move the Joystick to the 
+    left to bank left.  Move the Joystick to the right to bank right.  Move 
+    Joystick forward to accelerate your jet.  Pull Joystick back to slow your
+    jet.
+
+8.  To begin or start a new game.  Press game reset.  This will bring your jet
+    up to the starter mark.  Then press the red button or move the Joystick to
+    start the action.
+
+9.  Difficulty Switches.  With difficulty switches in the a position, missiles
+    streak straight ahead.  With switches in the b position, you can control
+    the direction of your missiles after they have been fired by "steering"
+    them with your Joystick Controller.
+
+[Note to owners of Sears TeleGames Video Arcade:  Difficuly is called skill,
+and a is expert, b is novice.]
+
+10. Reinforcements.  You begin each game with a squadron of three jets in
+    reserve.  For each 10,000 points you score, you're given an additional jet.
+    You can only have nine reserve jets on the screen at one time.
+
+
+11. Fuel.  You have a limited amount of fuel.  When you begin to run low, fly
+    over a fuel depot to refuel (See "Fuel Gauge" under "Special Features").
+
+12. Scoring.  Each time you destroy an enemy object, you score points.  The
+    point values for each object are listed below:
+
+                     River Raid Point System
+             
+                Enemy Object            Point Value
+                ------------            -----------
+                Tanker                   30
+                Helicopter               60
+                Fuel Depot               80
+                Jet                     100
+                Bridge                  500
+-------------------------------------------------------------------------------
+
+
+-----------------------SPECIAL FEATURES OF RIVER RAID--------------------------
+                                BY ACTIVISION
+
+The River of No Return.  The river is divided into sections with a bridge at 
+the end of each section.  Notice that the river is always changing.  You will
+encounter islands, narrow channels, bays, and lots of enemy ships and aircraft
+moving to block your path.  Also, the farther down the river you fly, the 
+fewer fuel depots you'll find.  In some areas, fuel is quite scarce, so you'll
+really have to move if you want to survive.
+
+Fuel Gauge.  Always keep an eye on your fuel gauge.  Fuel is used up at a 
+constant rate, regardless of speed.  When your fuel drops below 1/4 full, a
+warning siren sounds to alert you--it's time to refuel!  The slower you fly 
+over a depot, the more fuel you receive.  A bell will sound while you are
+refueling.  The sound changes to a higher pitch when your fuel tank is full.
+
+Losing a Jet.  You lose a jet when it collides with the river bank or one of
+the enemy objects (except fuel depots), or when you run out of fuel.  If you
+have a reserve jet left, you restart play at the same section of the river 
+where you crashed.  However, if you've managed to destroy the bridge at the end
+of that section, then you get to restart play at the beginning of the next 
+section.
+-------------------------------------------------------------------------------
+
+
+-----------------------GETTING THE FEEL OF RIVER RAID--------------------------
+                                BY ACTIVISION
+
+To learn to fly successful missions, you'll need the sensitivity, touch and
+sharpshooting skills of a precision jet pilot.  But that takes time and
+practice.
+
+At first, try jetting down the river at slow speed.  Practice banking your
+plane, sharpening your aim, and dodging the enemy.  To win in this game, you'll
+have to be just as good at dodging as you are at destroying enemy bridges and
+aircraft.
+
+Then accelerate your jet with bursts of speed to see how it reacts to the
+controls.  Since you'll be making split-second decisions, you'll need to know
+exactly how you and your plane will act in a pressure situation.
+-------------------------------------------------------------------------------
+
+
+------------------------HOW TO JOIN THE ACTIVISION-----------------------------
+                              "RIVER RAIDERS"
+
+If you reach a score of 15,000 points or more, you are eligible to become an
+official River Raider.  Simply send us a picture of your TV screen showing your
+score along with your name and address, and we'll send you an official River
+Raider emblem.  Score the maximum one million, and all points on the screen
+will be replaced with exclamation points.  If you ever do manage to score the
+ultimate, please send us a photo.  Such an achievement will certainly rank you
+as one of the world's greatest video game competitors!
+-------------------------------------------------------------------------------
+
+
+                        HOW TO BECOME A RIVER RAIDER
+                Tips from Carol Shaw, designer of River Raid
+
+     Carol Shaw is one of Activision's newest game designers, but isn't
+     a newcomer to video game design.  She's also a scholar in the field
+     of Computer Science.
+
+"The River of No Return holds many special challenges and dangers for would-be
+River Raiders.  You'll not only have to know your assault jet, but you'll need
+to have a good idea of your basic fight plan before you start.
+
+"By knowing the river, pinpointing areas with the highest concentration of
+enemy, and the most fuel depots, you'll have a much better chance of surviving.
+Since the river is in sections, try jotting down notes for each important 
+section as flight aids.
+
+"Fuel is also a critical factor.  When you're far up the river, fuel is scarce.
+So, concentrate on flying to the next fuel depot, and don't try to destroy 
+every object.
+
+"When you become really skilled, you'll find you can actually blow up a fuel
+depot right in the middle of refueling.  That way, you can gain the points and
+some fuel at the same time.
+
+"Finally, remember that your main targets are the bridges.  They're worth the
+most points.  And, please, drop me a note and let me know how you're doing.  
+I'd really like to hear from you!"
+
+[Carol Shaw]
+
+
+
+Look for Activision video games wherever you buy video game cartridges.  Drop
+us a note, and we'll gladly add your name to our mailing list and keep you
+posted on new Activision game cartridges as they become available.
+
+ACTIVISION
+Activision, Inc., Drawer No. 7287,
+Mountain View, CA 94042
+
+(c) 1982 Activision AX-020-03
+
+-------------------Atari 2600 Instructions Archive-------------------

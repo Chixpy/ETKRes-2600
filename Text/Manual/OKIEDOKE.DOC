@@ -1,0 +1,152 @@
+Product:        Okie Dokie
+Type:           Puzzle Game
+Platform:       Atari 2600
+Release Date:   Wednesday December 4, 1996
+
+RetroWare is proud to present Okie Dokie!
+
+1. Overview
+
+Okie Dokie is a fast moving puzzle game that challenges you with 30 preset
+puzzles and 435 random puzzles.  It seems simple enough, turn off all of
+the squares.  Well, there's a catch!  Every time you select a square, it
+gets "flipped" -- if it was on it turns off and visa versa.  To complicate
+things further, any square directly to the left, right, above, or below the
+square is also "flipped."
+
+A counter keeps track of the number of moves you make.  So you think you
+are hot stuff for completing level 1 in 756 moves huh?  Well, it can be
+completed in 14 moves!
+
+2. Setup
+
+   A. Supercharger
+           
+          To use Okie Dokie with the Supercharger, you will need to
+      download the okiedoke.zip file.  This file contains two .wav files,
+      okiesfst.wav (superfast loading) and okiefast.wav (fast loading).
+      While okiesfst.wav loads fastest, okiefast.wav may be more reliable
+      to load.  Now you have two options:
+
+                i)  Play the .wav file directly into your Supercharger
+                    by plugging the Supercharger into your soundcard
+                    or external speakers.
+
+               ii)  Record the .wav file onto a cassette tape (or CD)
+                    and use the cassette (or CD) to load the game.
+
+   B. Emulator
+
+          It is recommended that you use AtariPC 1.3 or a26 beta 1.5
+      Okie Dokie.  See the instructions for the emulator you are using
+      to see how to load a ROM image.  Okie Dokie is a 2k ROM image.
+
+   C. Atari 2600
+
+          The ROM image can be burned into an EPROM to be played as a
+      normal Atari 2600 game.  If there is enough interest, I may make
+      a small quantity of cartridges with label and manual.
+
+3. Selecting a puzzle
+
+   When Okie Dokie starts, you will see a scrolling message say "SELECT
+LEVEL".  At this point, pressing Select on the Atari 2600 VCS will bring
+the message "LVL01" up underneath the Okie Dokie playfield.
+
+   Level 1 is a special puzzle and does not necessarily indicate that it
+is any easier than level 2.  In fact, level 2 is far easier that level 1!
+There are 30 levels - each one with a unique puzzle to solve.  Level 31 is
+a special level that generates 1 of 435 possible puzzles randomly for you
+to play with.
+
+   You can press select at any time to select a new puzzle, but if you
+are currently working on a puzzle it will be erased, so be careful!  Any
+time you press select during a game or after solving a puzzle, the level
+selection will begin at level 1, no matter what level you were previously
+playing.  Holding Select down will cause the level number to increase
+automatically.
+
+4. Starting the game
+
+   Pressing Reset on the Atari 2600 VCS will set the "moves" counter to
+0000 and randomly pick 1 of 8 different tokens to be used for the puzzle.
+If you have a favorite token to use, repeatedly pressing Reset will
+eventually allow you to use it.
+
+   If you have selected level 31, pressing the Reset button will cause
+the playfield pattern to rapidly change.  Releasing the Reset button
+will start 1 of 435 possible puzzles that is mathematically guaranteed
+to be solvable!
+
+5. Using the joystick
+
+   When you start a new puzzle, you will be able to move a pointer around
+the puzzle with a joystick plugged in to the left controller port of
+the Atari 2600 VCS.  Moving the joystick will move the pointer in the
+corresponding direction.  If you are in the top row and move the joystick
+up, the pointer will "wrap around" the puzzle and end up in the bottom row.
+The "wrap around" feature works for all other directions as well.
+
+   Pressing the Fire Button while the pointer is under a token causes that
+token to disappear.  If there is no token above the cursor, a token will
+appear.  This happens to each square to the left, right, above, and below
+the position the token is pointing to as shown in figure 5.1.
+
+                             _ _                    _ _ 
+    ^ = Pointer             |   |                  |   |
+    X = Token            X                      X    X  
+                       _ _ _|   |_ _ _        _ _ _|   |_ _ _ 
+                      |               |      |               |
+                              X    X    --->    X             
+                      |_ _ _  ^  _ _ _|      |_ _ _  ^  _ _ _|
+                            |   |                  |   |
+                         X                      X    X  
+                            |_ _|                  |_ _|
+
+                    figure 5.1 - Result of Pressing Fire Button
+
+6. Solving a Puzzle
+
+   When you successfully solve a puzzle, a short tune will play and you
+will no longer be able to move your pointer around.  To play the same
+puzzle again, press the Reset button.  To select a new puzzle, press the
+Select button to browse through the available puzzles.
+
+   Simply solving a puzzle doesn't mean you have mastered it.  Level 1
+can be completed in 14 moves -- Can YOU do it in 14 moves?  Level 2 is very
+simple and can be done in 4 moves, but don't be deceived!  not all puzzles
+are that easy!
+
+7. About Okie Dokie
+
+   Okie Dokie was written using an Amiga 1200, a Supercharger, the DASM
+assembler by Matt Dillon and Makewave by Bob Colbert.  The goal was to
+limit the program to 2k to get the "feel" for what classic videogame
+programmers had to contend with.
+
+   While the game was written to be played on a real Atari 2600, it has
+been tested on various emulators and works flawlessly on Atari13 and
+a26_b15, though the sound only seems to work correctly on Atari12 (older
+version of Atari13). Emulator authors are welcome to include the game with
+their distribution archives.
+
+Okie Dokie and its source are freeware and may be distributed freely.
+
+8. Disclaimer
+
+Bob Colbert and RetroWare make no guarantees, written or implied, on this
+software.  We are not responsible for any damage due to the use of this
+software.
+
+9. Misc
+
+If there is enough interest, a small batch of cartridges may be produced,
+e-mail rcolbert@novia.net if you are interested.
+
+------
+
+Please send any comments, questions, or suggestions to:
+
+                            rcolbert@novia.net
+
+Enjoy the Game and keep an eye out for new Atari 2600 games from RetroWare!

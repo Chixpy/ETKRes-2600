@@ -1,0 +1,200 @@
+BOWLING
+
+NOTE: This manual is in 2-column format.
+TABLE OF CONTENTS
+
+1. GAME PLAY                                                    1
+
+2. USING THE CONTROLLERS                                        1
+
+3. CONSOLE CONTROLS                                             2
+
+4. GAME VARIATIONS                                              2
+
+5. SCORING                                                      3
+
+6. GAME SELECT MATRIX                                           4
+
+---
+
+                            1. GAME PLAY
+
+Your objective is to roll as high a     called a "spare".  Spares are mark-
+score as possible, whether you're       ed with a "/" on the screen.
+playing a one-player or a two-player                       xxx
+game.  There are ten "pins" to                          xxx
+knock down.  You have two tries (or                  xxx
+rolls) to knock down the pins each      An "open frame" occurs when you 
+time you're up.  Each game consists     fail to knock down all then pins in
+of ten "frames" (or turns).             two rolls.  Open frames are in-
+                                        dicated with a straight horizontal
+If you succeed in knocking down all     line (-) on the screen.
+the pins on your first roll, it's called             xxxxxxxxx
+a "strike".  A strike is marked with
+an "x" on the TV screen.                The ultimate goal in BOWLING is
+          xxx   xxx                     to roll 12 consecutive strikes for
+             xxx                        a "perfect" score of 300.  See the
+          xxx   xxx                     SCORING section for a more
+If you leave pins standing, but "pick   detailed breakdown of point
+them up" on your second try, it's       scoring.
+
+                        2. USING THE CONTROLLERS
+
+            ---                         Joystick with the red button to your
+            | |                         upper left, toward the television
+            | |                         screen.  See Section 3 of your
+    +-------| |-------+                 owner's manual for further details.
+    | **   .| |.      |
+    |     . | | .     |                 Move your Joystick forward (away
+    |      .....      |                 from you), back (toward you),
+    +-----------------+
+
+Use your Joystick Controllers with                     Forward
+the ATARI(R) Game Program(TM) car-                        ^
+tridge.  Be sure the Joystick Con-                    _   |   _
+troller cables are firmly plugged                    |\   |   /|
+into the CONTROLLER jacks at the                        \ | /
+back of your ATARI Video Com-                     <--- NEUTRAL --->
+puter System(TM) game.  For one-                        / | \
+player games, use the Joystick                       |/   |   \|
+Controller plugged into the LEFT                      -   |   -
+CONTROLLER jack.  Hold the                                v
+                                                        Back
+---
+
+to position the Bowler.  Press the      controls the positioning of the
+red button on your Joystick Con-        Bowler.  After pressing the red but-
+troller to relase the ball.             ton, the Joystick controls the direc-
+                                        tion of the ball as it moves down
+NOTE: Before pressing the red but-      the "alley".
+ton to release the ball, the Joystick
+
+                            3. CONSOLE CONTROLS
+
+GAME SELECT AND GAME                    the screen.  (Player number 1 is
+RESET                                   blue; Player number 2 is green.)
+
+To start the action:                    DIFFICULTY SWITCHES
+* Press the game select switch to
+  choose the game you wish to           When the difficulty switch is in
+  play.  The number of each game        the a position, the computer
+  appears at the upper left corner      makes it more difficult for you to
+  of the screen.  A 1 or a 2 is         roll strikes and spares. (Use the
+  displayed at the upper right cor-     left difficulty switch is in the b
+  ner of the screen to indicate         position.
+  whether the game is for one or
+  two players                           For the beginning player, it is easier
+* Press the game reset switsh to        to obtain high schores when the 
+  begin play.                           difficulty switch is in the b
+                                        position.
+During game play the number of
+each frame is displayed at the up-      TV TYPE SWITCH
+per left corner of the screen for
+one-player and two-player games.        Set this switch to color if you have
+In two-player games the number of       a color television set.  Set it to b-w
+the player who is currently up is       if you are playing the game in black
+shown at the upper right corner of      and white.
+
+                            4. GAME VARIATIONS
+
+In GAMES 1 and 2 the ball stays in      tion.  The ball does not come out of
+a steady curve pattern once the         this pattern until that roll is com-
+Joystick is moved in either direc-      pleted.
+
+---
+
+
+         To Curve ball up               +------------------------------+
+                ^                       |                              |
+            _   |   _                   |                              |
+           |\   |   /|                  |                              |
+              \ | /                     |      SCREEN                  |
+        <--- NEUTRAL --->               |                              |
+              / | \                     |                              |
+           |/   |   \|                  |                 SHOT         |
+            -   |   -                   |                              |
+                v                       |                              |
+        To Curve ball down              |                              |
+                                        |                              |
+                                        +------------------------------+
+* Push the Joystick forward to
+  curve the ball up toward the top
+  of the screen.                            
+                                        GAMES 5 and 6 are straight ball
+* Pull the Joystick back to curve       games.  In these games the direc-
+  the ball down toward the bottom       tion of the ball cannot be altered
+  of the screen.                        after it is released.  Positioning the
+In games 3 ahd 4 you can steer          Bowler is the most important move.
+the ball up and/or down while it is     
+moving down the alley.  If the          GAMES 1, 3, and 5 are one-player
+Joystick is returned to its neutral     games.  GAMES 2, 4, and 6 are
+position the ball straightens out.      two-player games.
+
+                                  5. SCORING
+ xxx   xxx
+    xxx       STRIKE                    +------------------------------+
+ xxx   xxx                              |                              |
+                                        |                              |
+       xxx                              |          SCREEN              |
+    xxx      SPARE                      |                              |
+ xxx                                    |                              |
+                                        |                              |
+ xxxxxxxxx   OPEN FRAME                 |              SHOT            |
+                                        |                              |
+You have the possibility of scoring     |                              |
+from 0 to 30 points in each frame.      |                              |
+However, the difference in your         |                              |
+score depends on whetehr you            +------------------------------+
+strike, spare, or leave an open 
+frame.
+
+---
+
+For instance, in an open frame the      * In one-player games the score is
+number of pins you pick up (for           on the left.
+both rolls) is simply added to your
+running score.                          The following is an example of how
+                                        a game might be scored.
+However, when you pick up all the
+pins on the second roll for a spare,    +--+---+--+---+--+---+--+---+     
+your running score is not totalled      |  |_X_|  |_/_|  |_X_|  |_/_|
+immediately.  Instead, the score for    | 20   | 40   | 60   | 80   |
+that frame remains empty until your     +------+------+------+------+     
+next roll.  At that time, 10 is added   +--+---+--+---+--+---+--+---+     
+to the number of pins you pick up.      |  |_X_|  |_/_|  |_-_|  |_-_|
+This subtotal is then added to your     | 100  | 117  | 126  | 135  |
+total running score.                    +------+------+------+------+     
+                                        +--+---+--+---+---+---+            
+Whenever you roll a strike your run-    |  |_/_|  |_X_|_X_|_X_| 
+ning score is not totalled until after  | 155  | 185  |       |
+the next TWO rolls.  Ten points are     +------+------+-------+           
+then added to the total number of
+pins you pick up for those rolls.       TENTH FRAME BONUS
+Therefore, if you roll three con-
+secutive strikes, you score 30          If you spare in the tenth frame, you
+points for the frame in which the       are allowed one more roll.  The
+first strike occurred.                  number of pins you pick up, plus 10
+                                        (because of the spare), is then add-
+* In two-player games, the score        ed to your score.
+  for the left player is displayed at
+  the top left corner of the screen;    If you strike in the tenth frame, the
+  the right player's score is shown     pins you pick up for the next TWO
+  on the right.                         rolls are added to your total score.
+
+                            6. GAME SELECT MATRIX
+
+               +-------------------+---+---+---+---+---+---+
+               | Game Number       | 1 | 2 | 3 | 4 | 5 | 6 |
+               +-------------------+---+---+---+---+---+---+
+               | Number of Players | 1 | 2 | 1 | 2 | 1 | 2 |
+               +-------------------+---+---+---+---+---+---+
+               | Game Number       |   |   | X | X |   |   |
+               +-------------------+---+---+---+---+---+---+
+               | Number of Players |   |   |   |   | X | X |
+               +-------------------+---+---+---+---+---+---+
+               | Game Number       | X | X |   |   |   |   |
+               +-------------------+---+---+---+---+---+---+
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

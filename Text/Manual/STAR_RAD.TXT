@@ -1,0 +1,545 @@
+--------------------------------------------------------------------------------
+ STAR RAIDERS 		atari game program instructions 		 CX2660
+	4 skill levels     survivial information     for one player
+--------------------------------------------------------------------------------
+TABLE OF CONTENTS
+
+	1. DESTROY THE KRYLONS, AVENGE THE DOOMED PLANET!
+	2. GAME PLAY
+	3. USING THE CONTROLLER
+	4. CONSOLE CONTROLS
+	5. RATING
+	6. MISSION SCORE CARD
+	7. SURVIVAL INFORMATION
+	8. GAME SELECT MATRIX
+	9. SCORECARD
+
+1. DESTROY THE KRYLONS...	AVENGE THE DOOMED PLANET!
+	With Commander Champion and Li San O'Rourke in the Star Fighter, you're
+	on the tail of the Krylon invaders.  You've taken an oath to destroy 
+	the Krylons and avenge the Doomed Planet.
+
+	Through interstellar space you hyperwarp faster than the speed of
+	light, past uncharted stars and planets in an unexplored parallel
+	universe.  Watch out!  You nearly collided wit an asteroid.  Run into an
+	asteroid at this speed, and POW!  you're space dust.  Good thing the
+	Star Fighter's protective shields are on.
+
+	Check the Krylons' position on your Galactic Map.  Looks like they're
+	heading for your starbase.  Given half a chance they'll destroy it to
+	keep you from recharging and repairing the Star Fighter.  Their ships
+	are fast, but you can hyperwarp anywhere n the galaxy in an instant...
+	if your energy supply holds out.  It's a duel to the death.  Will you
+	succeed in destroying the Krylons before they wipe out the starbase? 
+	Will the Star Fighter perish like the Doomed Planet?  Or will you 
+	complete your mission and return a hero?
+
+2. GAME PLAY
+	Your first mission is to destroy all Krylon warships and save the
+	starbase.  Failing that, you must wipe out all Krylon ships before the
+	Star Fighter is destroyed.  If you run out of energy or take a hit with
+	your protective shields off, the Star Fighter blows up, Krylon takes 
+	over the galaxy, and the game ends.  If you complete your mission and
+	destroy all the Krylons, the ATARI FORCE computer evaluates your
+	performance and assigns you a new rank, based on:
+
+	* Mission skill level
+	* Amount of energy remaining
+	* Number of visits to the starbase for energy and repairs
+
+	Mission Skill Level and Energy are shown on the Control Panel 
+	(Figure 1) at the start of a game.  T10 means that at Skill Level 10,
+	there are 10 targets.  The higher the skill level, the more targets,
+	and the harder it is to survive.  Start at level 10 and work your way
+	up to 40.  See Section 6 for descriptions of the mission skill levels.
+
+	NOTE: Once the game starts, the T counter keeps track of targets
+	remaining.
+
+	[Figure 1 - Forward View and Control Panel (The Target Marker is shown
+	to be at the center of the screen.  Energy Remaining is shown to be at
+	the bottom left of the screen as E400.  Skill Level & Targets Remaining
+	is at bottom center as T10)]
+
+	The higher the skill level, the more energy units you start with.  If
+	you run low on energy, you can recharge at the starbase, assuming
+	Krylon hasn't destroyed it and you have enough energy to get there. 
+	See ENERGY for additional information.
+
+HOW TO PLAY
+	Press GAME RESET to display the forward view from the front of the Star
+	Fighter (Figure 1).  The computer signals game start with three tones 
+	and automatically turns on the protective shields and Attack Computer.
+
+	Shields keep the Star Fighter from being destroyed by Krylon photon
+	torpedoes and asteroids, but they do not protect it against damage.
+
+	NOTE: When shields are on, space appears blue; when they are off, space
+	appears black.  When the Attack Computer is on, the Target Marker 
+	appears in the middle of the screen (Figure 1).  If your shields and
+	Attack Computer are not on, move both DIFFICULTLY switches to B.
+
+	Now press the GAL MAP button on the Video Touch Pad(tm) (Key 2) to
+	display the Galactic Map (figure 2).
+
+GALACTIC MAP
+	Each square on the Galactic Map represents a sector of interstellar
+	space.  The map shows you:
+
+	@@@@@@@
+	  @@@@@@@       
+	    @@@@@@@	Sector occupied by Krylon fighters (red wing*)	
+	    @@@@@@@
+	  @@@@@@@
+	@@@@@@@
+
+	@@@  @@@
+	@  @@  @
+	@ @  @ @
+	 @    @		Location of starbase (atom)
+	 @@  @@
+	@ @  @ @
+	@  @@  @
+	@@@  @@@
+
+
+
+	@@@@@@@@@	Star Fighter's current position (blue bar)
+	@@@@@@@@@
+
+
+
+	@@@@@@@@@	Star Fighter's new position (red bar)
+	@@@@@@@@@
+
+
+	*Note: Colors may vary, depending on your television control settings.
+
+
+	[Figure 2 - Galactic Map (Omited)]
+
+	Using your Joystick, move the red bar to the sector occupied by the
+	Krylons. (Joystick operation is explained in Section 3.)  Now press the
+	HYPERWARP button on the Video Touch Pad (key 3) to engage your
+	hyperwarp engines.  Note that the blue bar (your current position)
+	joins the red bar (new postion) when you engage your hyperwarp engines.
+
+	When hyperwarp is completed, the screen flashes red and the red alert
+	sounds to warn you that the Star Fighter has entered enemy territory.
+
+	NOTE: Red alert also sounds when the enemy moves into a sector you are
+	occupying.
+
+	When you hear the red alert, press the FORE VIEW button (key 1) to
+	return to the forward view (Figure 1).  Be prepared to engage the 
+	Krylons in battle.
+
+KRYLON PROFILES
+
+		@       @		 	    @@
+		@       @ 		 	  @@@@@@
+		@ @@@@@ @	  @@@@@  	@@@@@@@@@@
+		@@@@@@@@@	 @@@@@@@ 	    @@
+		@ @@@@@ @	@@     @@	@@@@@@@@@@
+		@       @	@	@	  @@@@@@
+		@       @	@	@	    @@
+
+		 Cruisers        Fighters        Basestars
+
+	All three ships are designed for high-speed attacks and are more
+	maneuverable than the Star Fighter.  Fighters and cruisers do not have
+	protective shields; they can be destroyed with one hit.  Basestars are
+	protected by shields and can only be destroyed at close range.  All
+	Krylon ships carry deadly photon torpedoes capable of seriously 
+	damaging the Star Fighter.  At Skill Levels 30 and 40, Krylon pilots 
+	are especially good shots.
+
+ENGAGING THE ENEMY
+	When the enemy is visible in the forward view, the computer emits three
+	short tones.  Lock on your photon torpedoes (see ATTACK COMPUTER), and
+	press the red button on your joystick to fire them.  The Star Fighter 
+	is equipped with twin torpedo tubes on the port and starboard sides.  
+	When the torpedoes are locked on, both tubes fire; otherwise only one 
+	tube fires.
+
+	NOTE: To hit targets at close range, aim below the Target Marker.  See
+	Section 7, SURVIVAL INFORMATION, for details.
+
+ATTACK COMPUTER
+	The Attack Computer consists of the Control Panel, the Target Marker,
+	and the Attack Computer Display (Figure 3).
+
+	The color of the Control Panel indicates the postion and range of the
+	target:
+
+	RED	Behind you
+	GREEN	In front and out of range
+	BLUE	Visible and within range
+
+	If the Control Panel turns BLACK, the computer is damaged(see DAMAGE).
+
+	The Attack Computer Display tracks targets and locks on the photon
+	torpedoes.  The computer tracks two targets at a time.  The dots shown
+	in Figure 3 indicate the targets.  Line up a dot in the center of the 
+	display to lock on the photon torpedoes.
+
+	When lock-on occurs, the Target Marker changes from blue to red and the
+	computer emits a short high-pitched tone.  This is the best time to 
+	fire your photon torpedoes.
+
+	[Figure 3 - Photon Torpedoes Locked On (Shows the Attack Computer
+	Display to be at the lower right part of the screen with target as
+	dots.  The dots corespond to the enemy Krylons on the screen.)]
+
+FOLLOWING THE ENEMY
+	Krylons move toward the starbase at a steady rate.  The more ships
+	there are the slower they move.  At T10 the Krylons move one sector
+	approximately every 30 seconds; at T40 they move a sector approximately
+	every 70 seconds.  Unless you engage the hyperwarp engines, the Star
+	Fighter follows the Krylons at the rate of one sector every 7 or 8
+	seconds.
+
+	When the Target Market (<-actual atari typo!) turns blue and the
+	Control Panel remains green, it's a sure sign the enemy has moved on. 
+	Check the Galactic Map and move the red bar into the new Krylon target
+	sector.
+
+	NOTE: No red alert sounds when you enter a target sector without
+	hyperwarping.
+
+STARBASE OCCUPIED
+	The Krylons will destroy the starbase 30 seconds after they occupy it,
+	unless you succeed in wiping them out.  The computer indicates starbase
+	destroyed with the same three tones that signal game start and end of 
+	game.
+
+	After the base is destroyed, continue firing photon torpedoes at
+	Krylons until you wipe them all out and complete your mission or the 
+	Star Fighter blows up.
+
+ASTEROID BELT
+	When only one Krylon target remains, the Star Fighter plunges into an
+	asteroid belt.  Asteroids can be as damaging as photon torpedoes. 
+	Either maneuver around them or destroy them with your photon torpedoes.
+
+			   @@@@@@
+			 @@@@@  @@@
+			@@@@@@@@@@@@
+			@@@  @@@@@@@ 	Asteroid
+			@@@@@@@  @@@
+			 @@@@@@@@@@
+			   @@@@@@
+
+ENERGY
+	Every operation of the Star Fighter uses energy, as shown in the
+	following table:
+
+	Hyperwarp (sectors jumped) 		Energy Drain (units)
+	----------------------------------------------------------------
+		1					 20
+		2					 50
+		3					 70
+		4					100
+		5					120
+		6					150
+
+
+	Star Fighter Equipment or Sustained Hit 	Energy Drain (units)
+	--------------------------------------------------------------------
+	Life Support System & Engines (always on)	.5 per second
+	Attack Computer On				.5 per second
+	Shields On					 1 per second
+	Photon Torpedo Fired				 1
+	Torpedo or Asteroid Hits Ship			 10
+
+HYPERWARP
+	The further you hyperwarp, the more energy it takes.  If you have a
+	choice, a series of small jumps to a destination is better than one 
+	long jump.
+
+	At mission levels 10 and 20, the computer prevents you from
+	hyperwarping when your energy supply is insufficient.  At levels 30 and
+	40, always check the energy gauge on the Control Panel (see Figure 1)
+	to be sure you have enough energy to make the jump.  If you run out of
+	energy during the hyperwarp, the Star Fighter will blow up.  Section 7,
+	SURVIVAL INFORMATION, has some tips on conserving energy.
+
+LOW-ENERGY SIGNAL
+	When energy falls below 100 units, the computer automatically shuts off
+	the Target Marker.  Hyperwarp th the starbase and recharge immediately,
+	if you have the energy to make it.  keep an eye on your energy gauge 
+	and never allow it to fall below the level required to hyperwarp to the
+	starbase.
+
+RECHARGING
+	While the Star Fighter is recharging, the screen flashes.  When the
+	ship is fully recharged, COMPLETE appears at the bottom of the screen 
+	(Figure	4).  After recharging, enter the Krylon target sector and 
+	continue fighting.
+
+	WARNING!  Recharging more than 7 times depletes the starbase and causes
+	it to explode.
+
+	[Figure 4. Recharging Completed (Shows Galactic Map with the word
+	Complete in red at the bottom of the screen.)]
+
+DAMAGE
+	Damaged or destroyed equipment is indicated on the Control Panel
+	(Figure 5).  One vist to the starbase repairs all damage.
+
+	[Figure 5 - Damage Control(Shows the Control Panel with a letter, C,
+	inbetween E105 and T30, indicating the Damage to the Star Fighter)]
+
+	P = Photons			Green Letter 	O.K.
+	E = Engines			Yellow Letter 	Damaged
+	S = Shields			Red Letter 	Destroyed
+	C = Attack Computer
+
+			DAMAGE REFERENCE TABLE
+	Equipment 	Damaged 		Destroyed
+	------------------------------------------------------------------
+	Photons		Only one tube fires	Tube fires intermittently.
+			when torpedoes locked
+			on.
+
+	Engines		Somewhat difficult to	Difficult to steer; engines
+			steer; engine 		louder.
+			"missing" sounds.
+
+	Shields		Flicker on and off.	No shields; space appears
+						black.
+
+	Computer	Control Panel turns	Target marker flickers; no
+			black; no audio 	lock-on; no horizontal track-
+			warnings.		ing.
+
+
+	WARNING! If the Star Fighter is hit when its shields have flickered
+	off, it will be destroyed.  Repair damaged shields immediately.  If 
+	you can't make it to the starbase, good luck!
+
+3. USING THE CONTROLLER
+	Use your Joystick Controller and Video Touch Pad with this ATARI Game
+	Program cartridge.  Plug the Video Touch Pad firmly into the RIGHT
+	CONTROLLER jack at the back of your Video Computer System game.  Plug
+	the Joystick Controller into the LEFT CONTROLLER jack.  Hold the 
+	Joystick with the red button to your upper left, toward the television 
+	screen.  See section 3 of your owner's manual for further details.
+
+	JOYSTICK MOVES
+
+		   	Up
+		   	 |
+	 	       \ | /
+		Left --- O --- Right
+		       / | \
+		    	 |
+		       Down
+
+	[Figure 6 - Cursor Control (Red Bar)]
+
+	Use your Joystick Controller to move the cursor (Red Bar) around the
+	Galactic Map (Figure 6) and maneuver your Star Fighter (figure 7).  
+	Press the red button to fire photon torpedoes.
+
+		       Dive
+		   	 |
+	       Port    \ | /  Starboard
+	      (Left) --- O --- (Right)
+	       Turn    / | \     Turn
+		    	 |
+		       Climb
+
+	[Figure 7 - Star Fighter Control]
+
+VIDEO TOUCH PAD
+
+	[Figure 8 - Video Touch Pad(omited)]
+
+	A STAR RAIDERS(tm) overlay is provided for the Video Touch Pad.  Slip
+	the overlay tabs into the slots provided on the Video Touch Pad.
+
+	FOREVIEW (key 1): Selects the forward view from the Star Fighter's
+		front space window (see Figure1 in Section 2).
+
+	GAL MAP (key 2): Selects the Galactic Map (see Figure 2 in Section 2).
+
+	HYPERWARP (key 3): Engages hyperwarp engines to transport your Star
+		Fighter instantly into another sector of the Glactic Map (see 
+		Section 2).
+
+	COMPUTER ON/OFF (key 4): Functions only when left DIFFICULTLY switch is
+		set to A.  Press to turn on; press again to turn off.
+
+	SHIELDS ON/OFF (key 5): Functions only whrn right DIFFICULTLY switch is
+		set to A.  Press to turn on; press again to turn off.
+
+4. CONSOLE CONTROLS
+GAME SELECT
+	Press down the GAME SELECT switch to select the mission skill level:
+
+		T10 = Skill Level 10 with 10 targets
+		T20 = Skill Level 20 with 20 targets
+		T30 = Skill Level 30 with 30 targets
+		T40 = Skill Level 40 with 40 targets
+
+	The skill level appears in the center of the Control Panel (Figure 1). 
+	See Section 6 for descriptions of the mission skill levels.
+
+GAME RESET
+	Press down the GAME RESET switch to start your mission.  Also use this
+	switch to start a new mission at the same skill level.
+
+DIFFICULTLY SWITCHES
+	Left Switch
+	A - Attack Computer off.  Controlled from Video Touch Pad.
+	B - Attack Computer on.  Controlled by computer.
+
+	Right Switch
+	A - Shields off.  Controlled from Video Touch Pad.
+	B - Shields on.  Controlled by computer.
+
+	Turning off the shields and Attack Computer saves energy.  However, if
+	the Star Fighter is hit when its shields are off, it will be blasted 
+	to space dust.  See Section 7, SURVIVAL INFORMATION, for some practical
+	ways to use the shields and Attack Computer on/off options.
+
+5. RATING
+	The ATARI FORCE computer rates your performance and assigns you a rank
+	and class when you complete your mission by destroying all the Krylon 
+	targets.
+
+	Rating 		Rank 			Class (Per Rank)
+	--------------------------------------------------------------
+	 0		Cook		 |
+	 1		Scout		 |
+	 2		Pilot		 |
+	 3		Ace		 | Each rank has five classes.
+	 4		Eagle		 | Class 5 is lowest, Class 1 is
+	 5		Star		 | highest.
+	 6		Nova		 | 
+	 7+		? (mystery rank) |
+
+You are rated according to the following formula:
+	RANK = M + (energy remaining/100) - (Number of Starbase Visits/2)
+
+	where M is a mission factor based on the mission skill level:
+
+		   M	    Skill Level
+		--------------------------
+		   0		10
+		   0.5		20
+		   1.0		30
+		   2.0		40
+
+	NOTE: Number of Starbase Visits will not be divided by 2 if you visit
+	the starbase more than 6 times.
+
+	The Control Panel displays your new rank (Figure 9) alternately with
+	the energy remaining data.
+
+	[Figure 9 - New Rank (Shows Rank (SCOUT 4) at bottom of screen)]
+
+	Rank corresponds to skill level as follows:
+
+		10	Cook to Pilot 1
+		20	Ace 5 to Ace 1
+		30	Eagle 5 to Eagle 1
+		40	Star 5 to Mystery Rank
+
+	Any time your new rating (promotion or demotion) puts you on a
+	different skill level, use the GAME SELECT switch to change the skill 
+	level (see Section 4, CONSOLE CONTROLS).
+
+6. MISSION SKILL LEVELS
+	SKILL LEVEL 10
+	* 10 targets; 400 energy units
+	* Computer prevents hyperwarping when fuel is insufficient.
+	* Krylon ships and the starbase are always on opposite sides of the
+	  Galactic Map at the start of a mission.
+	* Krylon photon torpedoes are not very accurate.  Light damage if any.
+
+	SKILL LEVEL 20
+	* 20 targets; 600 energy units
+	* Computer prevents hyperwarping when fuel is insufficient.
+	* Krylon ships and the starbase are on opposite sides of the Galactic
+	  Map at the start of a mission.
+	* Krylon photon torpedoes are fast and accurate.  Expect heavy damage.
+
+	SKILL LEVEL 30
+	* 30 targets; 800 energy units
+	* Check energy gauge before hyperwarping.
+	* Krylon ships and the starbase can be anywhere on the Galactic Map at
+	  the start of a mission.
+	* Krylon photon torpedoes are fast and accurate.  Expect heavy damage.
+	* Recommended for advanced Star Fighter pilots.
+
+	SKILL LEVEL 40
+	* 40 targets; 900 energy units
+	* Check energy gauge before hyperwarping.
+	* Krylon ships and the starbase can be anywhere on the Galactic Map at
+	  the start of a mission.
+	* Enemy torpedoes are deadly.  Expect heavy damage.
+	* Recommended for expert Star Fighter pilots only.
+
+7. SURVIVAL INFORMATION
+
+	[Figure 10 - Most Effective Firing Range for Close Targets (Shows the
+	Effective Firing Range to be a semi circle radiating from the Control 
+	Panel to the Target Marker.  Also, two enemy ships are shown to be 
+	within this range.)]
+
+EFFECTIVE FIRING RANGE
+	Your target marker is adjusted to show where photon torpedoes converge
+	at infinity.  Don't expect to hit a target lined up in the target 
+	marker unless it is very far away (a small dot).  When targets are 
+	closer lower your aim. Figure 10 shows the most effective firing range
+	for targets the same size as photon torpedoes.  Pull back on the 
+	Joystick to bring the targets into firing range.
+
+RECHARGING IN STARBASE SECTOR
+	If energy runs low while you're fighting in the starbase sector, make
+	one hyper warp jump out of the starbase sector and immediately recharge.
+
+CONSERVE ENERGY
+	Turning off the Attack Computer and shields while hyperwarping or
+	changing sectors saves 1.5 energy units per second.  The energy saved 
+	might be enough for you to reach the star base and recharge.  Don't 
+	forget to turn your shields and computer back on before entering the 
+	target sector.  (See VIDEO TOUCH PAD in Section 3 for use of the 
+	shields and Attack Computer on/off options.)
+
+8. GAME SELECT MATRIX
+
+Skill Level 	10 	     20 	  30 	         40
+----------------------------------------------------------------------
+Hyperwarp 	Computer     Computer     Pilot(check    Pilot(check
+Control 			          energy gauge)  energy gauge)
+
+Kylon/Starbase  Opposite     Opposite     Anywhere on    Anywhere on
+Positions at    sides of     sides of     Galactic Map   Galactic Map
+Game Start      Gal. Map     Gal. Map
+
+Krylon 		Not very     Fairly       Very 		 Deadly
+Torpedoes	accurate     accurate     accurate
+
+Starship 	None to      Fairly       Heavy		 Heavy
+Damage 		light        heavy
+
+Rank vs. 	Cook to      Ace 5 to     Eagle 5 to     Star 5 to
+Skill Level	Pilot 1      Ace 1        Eagle 1        Mystery Rank
+
+9. SCORECARD
+			    GAME	   SKILL
+	NAME		   NUMBER 	   LEVEL	 RANK AND CLASS
+
+   ___________________  _____________  _____________  ___________________
+   ___________________  _____________  _____________  ___________________
+   ___________________  _____________  _____________  ___________________
+   ___________________  _____________  _____________  ___________________
+   ___________________  _____________  _____________  ___________________
+
+	(Etc.)
+--------------------------------------------------------------------------------
+
+-------------------Atari 2600 Instructions Archive-------------------

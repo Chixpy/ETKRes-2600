@@ -1,0 +1,272 @@
+ATARI 2600 TM Game Manual
+
+DOUBLE DUNK
+
+
+     You've spent the day playing some friendly two-on-two
+basketball. You and our buddy are psyched. You've aced the last
+three games, and the other guys are getting desperate.
+
+     Your inside man dribbles deftly toward the basket. But their
+man moves in quickly. If he gets the ball, you may get bounced!
+
+     Your man passes. You get the ball and line up your shot. The
+last few seconds of the game tick away. Sink this shot quick and
+the game is yours!
+
+
+Getting Started
+
+1.   With your television switched on, insert the Double Dunk
+     cartridge into your Atari 2600 (or 7800) as explained in
+     your Owner's Manual.
+
+     Note: If you have an Atari 2600, make sure the COLOR/BW
+     switch is set to COLOR.
+
+2.   Plug a controller into the left controller port for one
+     player; plug a second controller into the right controller
+     port for two players.
+
+3.   Turn on your console. The Double Dunk title screen appears.
+     Press [Select] to display the game options screen. Move the
+     controller handle up or down to select the seven options.
+     Then, move the controller handle left or right to change
+     (yes or no, 1 or 2 players, and so on) that game option.
+     (See the Game Optlons chart.)
+
+
+Game Options
+
+One or two players       Play against the computer or an
+                         opponent. 
+                         Select a l-player or 2-player game.
+
+Game length              The game lasts a set amount of time (2,
+                         5,10, or 15 minutes) or until one of
+                         the teams reaches a certain score (10,
+                         24, 36, or 48 points). Select the time
+                         or score you want to use.             
+
+3-point shots            Award 3 points for shots made from the
+                         area outside the curved line. Select
+                         either yes or no.        
+
+10-second clock          If the offensive team does not shoot
+                         within 10 seconds, the other team gets
+                         the ball. Select either yes or no.    
+
+3-second lane violation  If an offensive player stays in the
+                         lane longer than 3 seconds at a time,
+                         the other team gets the ball. Select
+                         either yes or no.
+
+Foul Detection           Penalize players for fouls. Select
+                         either yes or no.                     
+
+Team color selection     Select from six team colors. A C
+                         (computer), 1 (first player), or 2
+                         (second player) appears under a team's
+                         selected color. To select a teams
+                         color, move the controller right or
+                         left to identify a color. Press
+                         [Select]. Choose a different color for
+                         each player or the computer.
+
+
+4.   Press [Reset] or the left controller fire button to begin
+     the game.
+
+5.   During play, press [Select] to return to the options
+     screen. Press [Reset] to restart the game.
+
+
+Playing the Game
+
+     Two teams, with two players (Mr. Inside and Mr. Outside) on
+each team, compete in this basketball game. You control your
+players with the controller. If your team has the ball, your
+controller moves the player who has the ball. If the other team
+has the ball, your controller moves your player who is guarding
+the man with the ball (the player with his hands raised).
+
+     The two players of each team have different playing skills.
+Mr. Inside (the bigger player) is great at rebounding and
+blocking shots, can dunk his shots easier, and sets picks for Mr.
+Outside. Mr. Outside (the smaller player) is adept at stealing
+the ball and is great at making long shots.
+
+     One of the most effective plays is the pick play. The
+purpose of a pick play is to get both defensive players hung up
+on the offensive Mr. Inside, allowing the offensive Mr. Outside
+to get an open shot. The defensive team can anticipate a pick
+play by selecting the lower left or lower right position on the
+controller during play selection. This allows the defensive Mr.
+Inside to pick up coverage on the offensive Mr. Outside because
+the defensive Mr. Outside is hung up on the offensive Mr. Inside.
+
+     Choose your offensive or defensive play before the ball is
+put in motion. After a score or a turnover, select your offensive
+or defensive play. (You don't get to select a play after a
+defensive foul, rebound, or a steal.) OFF and DEF flash at the
+bottom of the screen until you choose your offensive or defensive
+play. To select your play, move the controller into the
+appropriate position and press the fire button.
+
+     Once the ball is in play, use the controller to move your
+players. When your team is on the offense, press the controller
+fire button once to start the next part of your selected play.
+If you pull the controller handle back and press the fire button
+while the ball is in play, the player with the ball will ignore
+the play and start a jump shot. When the player jumps, press the
+fire button a second time and the player shoots the ball.
+
+     If a player is very close to the basket when he shoots, he
+will dunk the ball. After an opponent misses a shot and you get
+the rebound, you must clear the ball by moving your player until
+both feet are behind the 3-point line before you can shoot for
+a basket.
+
+     If your team is on defense, you can either attempt to steal
+the ball or jump to block a shot. To attempt a steal, press the
+fire button while your defensive player is close to the ball
+carrier. Make sure the ball carrier is dribbling when the attempt
+is made.
+
+     To block a shot, wait until the ball carrier jumps for the
+shot. Time your own jump to most effectively block the shot.
+
+
+The Game Screen
+
+     The score appears at the top of the screen, along with the
+number of points needed to win the game (or the game clock) and
+the 10-second shot clock.
+
+
+Strategy
+
+     Keep your opponent off guard by varying your selection of
+plays.
+
+     If the defense has your play covered, remember that you can
+make the player with the ball shoot at any time.
+
+     Shoot at the basket when your player is jumping up. Don't
+shoot as your player is coming down from a jump. If you wait to
+shoot, chances are you won't make the basket.
+
+     Be careful to stay inbounds when rebounding.
+
+     Time your blocks for successful interceptions.
+
+     When rebounding, there's no foul called for goal tending.
+
+
+Scoring
+
+     You score 2 points for each successful shot. If you select
+the 3-point shot option, you score 3 points for successful shots
+made from the 3-point shot area. Shots from the foul line after
+a defensive foul are worth 1 point each.
+
+     *Defenders tend toward the direction chosen (either left or
+right).
+
+Offensive Plays
+
+     Match the offensive play descriptions below to the
+controller positions shown above. After moving the controller in
+the direction shown for a play, press the fire button. Depending
+upon the number of times you press the fire button, a different
+action occurs when play begins.
+
+Pick and Roll Left or Right 
+Controller Position - Upper Left or Upper Right 
+First button press  - Mr. Inside moves to post to set up pick
+Second press        - Pass to Mr. Inside 
+Third press         - Jump 
+Fourth press        - Shoot
+
+Give and Go Left or Right 
+Controller Position - Left or Right 
+First button press  - Mr. Inside moves to post to set up pick
+Second press        - Pass to Mr. Inside 
+Third press         - Pass to Mr. Outside 
+Fourth press        - Jump 
+Fifth press         - Shoot
+
+Pick Left or Right 
+Controller Position - Lower Left or Lower Right 
+First button press  - Mr. Inside moves to post to set up pick
+Second press        - Jump 
+Third press         - Shoot
+
+Mr. Inslde Shoots 
+Controller Position - Top 
+First button press  - Pass to Mr. Inside 
+Second press        - Jump 
+Third press         - Shoot
+
+Mr. Outslde Shoots 
+Controller Position - Bottom 
+First button press  - Jump 
+Second press        - Shoot
+
+
+Defensive Plays
+
+     Select the defensive play by moving the controller in one
+of the directions shown above. The defensive play you select
+matches the corresponding offensive play for the same controller
+position.
+
+Lane Defense 
+Controller Position - Top 
+Inside defender guards against pass
+
+Tight Defense Right 
+Controller Position - Upper Right 
+Defenders guard close
+
+Pass Defense Right 
+Controller Position - Right 
+Defenders guard against passes
+
+Pick Defense Right 
+Controller Position - Lower Right 
+Inside defender switches off if pick is successful
+
+Rebound Position Defense 
+Controller Position - Bottom 
+Inside defender stays close to basket
+
+Pick Defense Left 
+Controller Position - Lower Left 
+Inside defender switches off if pick is successful
+
+Pass Defense Left 
+Controller Position - Left 
+Defenders guard against passes
+
+Tight Defense Left 
+Controller Position - Upper Left 
+Defenders guard close
+
+
+
+ATARI
+
+Atari Corporation is unable to guarantee the accuracy of printed
+material after the date of publication and disclaims liability
+for changes, errors, or omissions. Reproduction of this document
+or of any portion of its contents is not allowed without the
+specific written consent of Atari Corporation.
+
+Atari the Atari logo, Double Dunk, 2600, and 7800 are trademarks
+or registered trademarks of Atari Corporation.
+
+Copyright (c) 1989, Atari Corporation, Sunnyvale, CA 94086. All
+rights reserved
+
+Printed in Hong Kong  C800016-159 Rev A       W. 2 .1992 

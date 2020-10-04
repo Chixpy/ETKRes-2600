@@ -1,0 +1,221 @@
+--------------------------------------------------------------------------------
+ATARI 2600tm 	PHOENIX*		 * trademark licensed by Centuri, Inc.
+--------------------------------------------------------------------------------
+
+	Atari welcomes your comments.  Please address all correspondence to:
+
+				Atari, Inc.
+			    Customer Relations
+			   1312 Crossman Avenue
+			Sunnyvale, California 94086
+
+NOTE: Always turn the console POWER switch OFF when inserting or removing an
+ATARI(R) Game Program(tm) cartridge.  This will protect the electronic
+components and prolong the life of your ATARI 2600(tm) Video Computer
+System(tm) game.
+
+(C) 1982 ATARI,INC. ALL RIGHTS RESERVED
+
+	TABLE OF CONTENTS
+
+	1. PHOENIX FIRE RISING ________	1
+	2. GAME PLAY __________________	2
+	3. USING THE CONTROLLER	_______ 3
+	4. CONSOLE CONTROLS ___________ 4
+	5. SCORING ____________________ 5
+	6. HELPFUL HINTS ______________ 6
+	7. SCORECARD __________________ 7
+
+1. PHOENIX FIRE RISING
+	In ancient times, legend says, there was a bird of great beauty.  About
+	the size of an eagle, it had brilliant scarlet and gold feathers, a
+	melodious song, and was the only one of its kind in the entire world.
+
+	This fabulous creature lived in Arabia and had a life span of over five
+	hundred years.  At the end of its life, the phoenix built a nest of
+	frankincense, myrrh, and other aromatic spices.  After setting fire to
+	the nest by rapidly beating its wings, the beautiful bird settled down
+	to die amidst the flames.
+
+	From the ashes of that fire miraculously arose a young, revitalized
+	Phoenix.  This new bird then took the remains of its parent to the
+	temple of the sun at Heliopolis in Egypt, and sacrificed them on the 
+	high altar.
+
+	The long life of the Phoenix and the dramatic rebirth from its own
+	ashes has made this legendary bird a symbol of immortality and spiritual
+	rebirth in many cultures.  The Egyptians saw the myth as a symbol of
+	the life cycle of the sun, which dies every day at sunset and is reborn
+	every morning at dawn.  Most others interpret the legend as a general
+	symbol for the regeneration of life after death.
+
+	However, something awful has happened to tarnish the long-standing
+	image of the Phoenix.  Due to the effects of radioactive fallout on its
+	nest, the Phoenix has unfortunately mutated into a bird of prey.
+
+	Now, several birds arise from the ashes, but these are not like the
+	beautiful, friendly bird of old.  These birds are mean.  Their cries are
+	shrill.  They have developed a tough, metallic-like skin that makes them
+	almost indestructible.  And they have turned their backs on the human
+	race to offer their services to alien beings determined to drain away 
+	earth's energy resources.
+
+	Your mission: Eliminate these seemingly immortal war hawks, destroy the
+	alien spaceship, and safeguard our planet from ravaging energy-thieves.
+
+2. GAME PLAY
+	You have five lives in which to survive the bombing attacks of four
+	separate flocks of Phoenix war birds who protect the alien spaceship. 
+	Your challenge is to eliminate the birds, get to the spaceship that
+	follows the fourth wave of birds, and shoot the alien pilot.
+
+	To eliminate the large, menacing Phoenixes of the third and fourth
+	waves, you have to hit them in the center.  If you only wing a Phoenix,
+	like its ancient ancestor, it will soon regenerate the missing part and
+	become a whole bird to attack you some more.
+
+	To destroy the alien pilot, you have to erode the multi-colored hull of
+	the spaceship directly beneath the cockpit to create a clear shot at 
+	him.  But one of the hull layers - the blue layer - rotates the length
+	of the spaceship.  So, you not only have to chip away at the blue 
+	layer, but you also have to time your shot at the alien to coincide 
+	with the hole passing directly under him.
+
+3. USING THE CONTROLLER
+	Use your Joystick Controller with this ATARI Game Program cartridge. 
+	Be sure the controller cable is firmly plugged into the left jack at 
+	the back of your 2600 Video Computer System console.  Hold the Joystick
+	with the red button to your upper left, toward the television screen.  
+	(See your Owner's Manual for further details.)
+
+TO START THE GAME
+	PHOENIX is a one-player game.  To start the game, press the GAME RESET
+	button on your Video Computer System console.  Then grab your Joystick
+	and avoid getting bombed by the small birds that weave back and forth 
+	across the screen. (Figure 1.)
+
+TO OPERATE YOUR LASER CANNON
+	Move your Joystick left or right to move your laser cannon left or
+	right.  Pull the Joystick toward you to activate a protective force
+	field around your laser cannon.
+
+	This force field is energized for only 1 1/2 seconds before it fades;
+	it cannot be reactivated until another 3 1/2 seconds elapse.  When the
+	force field is activated, you cannot move your cannon, but you can
+	still fire your laser.
+
+			      .-------.
+	                     /         \
+			    |   .---.   |
+	         Left  <========|   |========>  Right
+			    |   `-|-'   |
+			     \    |    /
+			      `---|---'
+				  |
+				  V
+
+			     Force Field
+
+	To fire your laser cannon, press the red fire button.  You can only
+	have one laser shot on the screen at any one time.
+
+	[Small Phoenix Birds (First Wave) Figure 1 - Opening Game Situation
+	 (Shows the Laser Cannon to be in the lower part of the screen and the
+	 Score and Lives in Reserve to be in the upper part.  The birds are
+	 violet with orange.)]
+
+4. CONSOLE CONTROLS
+
+GAME RESET SWITCH
+	Press the GAME RESET switch to start the game after you insert the
+	cartridge into the console.  Press it anytime during game play to 
+	return to the first display (Figure 1) and start a new game.  After you
+	have exhausted your game quota of five lives, you can also start a new 
+	game (and reincarnate yourself!) by pressing the red fire button.
+
+GAME SELECT SWITCH
+	Since PHOENIX consists of one continuous game, the GAME SELECT switch
+	has no function.
+
+DIFFICULTY SWITCHES
+	Since PHOENIX is difficult enough as it is, the DIFFICULTY switches
+	have no effect on game play either.  However, if you wish to eliminate
+	the background sounds of the bird cries, set the LEFT DIFFICULTY switch
+	to the "A" position.  The action sounds will remain, no matter which 
+	setting you choose.
+
+TV TYPE SWITCH
+	Set this switch to COLOR if you're playing on a color TV.  Set it to
+	B/W to play the game on a black and white TV.
+
+	[Figure 2 - Small Phoenix Birds (Second Wave) (The birds are violet 
+	 with green.]
+
+5. SCORING
+	Point values are identical for the first two waves of attack by the
+	small Phoenix birds. (Figures 1 and 2).  You get 20 points for each 
+	small bird you hit while it is moving in a horizontal pattern; you get 
+	80 points for each bird you shoot while it is actually swooping in at 
+	you.
+
+	[Figure 3 - Large Phoenix Birds (First Wave) (The birds are blue.)]
+
+	[Figure 4 - Large Phoenix Birds (Second Wave) (The Force Field is 
+	 shown to be a white hexagon around your laser cannon.  The birds 
+	 are red in this wave.)]
+
+	Point values are also identical for the last two waves of attack by the
+	large Phoenix birds (Figures 3 and 4).  You get between 100 and 500
+	points for each large Phoenix you eliminate, depending on its proximity
+	to you when you destroy it.  The closer the bird is, the more points
+	you get.  If you only wing one of the large birds, you get 20 points.
+
+	[Figure 5 - Alien Spaceship (Shows the Alien Pilot in the space ship
+	 and the Rotating Blue Layer)]
+
+	The alien spaceship (Figure 5) counts between 1,000 and 4,000 points
+	in the first round - depending on its proximity to you when you
+	vaporize the alien.  In this case, the quicker you destroy the ship, 
+	the more points you'll score.  If you survive long enough to confront
+	the spaceship again, the highest score you can achieve increases by a 
+	thousand points in each round to a maximum of 9,000 points.
+
+6. HELPFUL HINTS
+	* Overcome the temptation to fire away the first time the small birds
+	appear.  Instead, take a few moments to study their patterns.  Observe
+	what happens when you are positioned directly beneath the birds, and 
+	when you are not.  Study the attack patterns of the lower birds.  Learn
+	how to move your laser cannon between the bombs without getting blown 
+	apart.
+
+	* In all phases of the game except for the second wave of small birds,
+	you must press the red fire button each time you want to squeeze off a
+	shot.  However, in the second wave of small birds, you'll get 
+	continuous firing if you hold the button down.
+
+	* Don't waste lives trying to accumulate a lot of points in the early
+	waves.  Play it safe.  Save your stamina for the large birds and for 
+	the spaceship, where the real big points are scored.
+
+	* For the first two times you encounter the alien spaceship, you can
+	chip away the blue layer of the spaceship without getting bombed if 
+	you fire close to the edges furthest from the cockpit.  Starting with 
+	the third encounter with the spaceship,  however, bombs will fall from
+	those edges and the alien's shots will be faster-paced and more 
+	accurate - just to make things more challenging for advanced players!
+	At all times, you need two shots at the same point to create a hole in
+	the blue layer.
+
+	* Use your force field sparingly and as a strategic device in emergency
+	situations.  If a bird brushes up against your force field, it will be
+	disintegrated; but if a bird crashes into your unprotected laser 
+	cannon, you're both "dead ducks."  The moral: Keep a watchful eye for 
+	low flying birds!
+
+7. SCORECARD
+	(Ommited. Manual has places for DATE and SCORE in the back.)
+
+  
+CO19741-73 REV.1 2673  (c)1982 ATARI,INC. ALL RIGHTS RESERVED  Printed in U.S.A.
+--------------------------------------------------------------------------------
+

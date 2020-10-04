@@ -1,0 +1,180 @@
+A video game cartridge from
+PARKER BROTHERS
+
+G Y R U S S
+
+For Atari Video Computer System
+and Sears Video Arcade
+
+GYRUSS is a trademark of Konami Industry Co., Ltd
+and is used by Parker Brothers under authorization.
+Rules (C) 1984 Parker Brothers, Beverly, MA 01915.  Printed in U.S.A.
+
+--
+
+Three billion miles is a long way from home.  But there's no shorter route
+from outer Neptune to Earth.  As if that weren't enough... it's got to be a
+shoot-out all the way.  You alone in your rapid-firing spaceship, swirling
+in a circular flight pattern... orbiting to the right... arcing to the
+left... trying to mow down wave after wave of enemy plane formations,
+rocketing meteors and runaway satellites.  Stops at Uranus, Saturn, Jupiter
+and Mars will mark your progression towards Earth.  Each one's a short
+visit, though.  Then it's off again to the next planet - and the next wave
+of enemies.  Reach Earth in one piece and maybe you'll think twice about
+leaving home.  Then again... maybe not!
+
+
+SETTING THE CONSOLE CONTROLS
+----------------------------
+
+1. Place the cartridge firmly into the cartridge slot on your game unit.
+2. Since this is a one-player game, plug the joystick controller firmly
+   into the LEFT controller jack.
+3. Turn the ON/OFF switch to ON.  You'll see the inital screen showing the
+   planet Earth.  With the GAME SELECT switch, choose a difficulty level. 
+   The easiest level is 1; the most difficult is 4.  The number appears at
+   the top of the screen.  Each level gives you the option of playing with
+   3 spaceships or with 5 spaceships.  The number of spaceships you choose
+   is indicated by the symbols alongside the difficulty level number.
+4. To begin playing, press the FIRE button on the joystick controller.
+
+At any time during the game, you may press GAME RESET to begin again at the
+same level.  To change levels, press GAME RESET, then GAME SELECT.
+
+
+THE JOYSTICK CONTROLLER
+-----------------------
+
+The joystick controls your spaceship's circular flight pattern through
+space.  Simply move the joystick in a circular motion to do so.  Press the
+FIRE button quickly to rapid-fire your spaceship's ammuntion.
+
+
+OBJECT
+------
+
+To make the journey from beyond Neptune to the sanctuary of Earth,
+defeating enemy planes, avoiding meteors and satellites, and reaching
+interim planets along the way.
+
+
+PLAYING
+-------
+
+After you press the FIRE button to begin, the screen shows the number of
+remaining spaceships as well as the number of WARPS to go before you reach
+your first stop... Neptune.  ("Warps" are described under REACHING A
+PLANET.)  When the action starts, your spaceship appears at the bottom of
+the screen; your score at the top.
+
+Reaching a planet
+  In order to reach a planet, you must survive a given number of warps.  A
+  warp consists of four enemy plane formations and their regrouping as
+  described below.  Enemy formations guard each planet enroute to Earth to
+  keep out alien visitors like yourself.  It takes two warps to reach
+  Neptune and three warps to reach each of the subsequent planets.  there
+  will be a brief pause between each warp at which time your spaceship
+  travels towards its next encounter.  Also at this time, the screen will
+  flash the number of warps to go and the number of spaceships remaining.
+
+Enemy formations
+  Enemy formations are made up of wing-shaped planes.  Planes may emerge
+  from the center of the screen where they may band together - or from off
+  screen where they can create a surprise attack.  In either case, try to
+  shoot down as many planes within the formation as you can and don't let
+  them hit your own ship.  Planes fire square-shaped missiles... your only
+  option is to avoid them... or be shot down.
+
+  Each of the four enemy plane formations is a different color and flies in
+  a different pattern.  After the last formation appears, a certain number
+  of planes NOT shot down will regroup in the center and attack again. 
+  They will continue to do so until you've eliminated the last one -
+  unless, of course, one eliminates you first!
+
+But planes are not all you need to worry about.  There are swirling and
+deadly satellites and meteors, too.
+
+Satellites
+  Satellites look like giant blue molecules and appear in threes.  Try to 
+  shoot them down for points.  SHOOT THE MIDDLE SATELLITE, AND YOUR SHIP
+  WILL FIRE DOUBLE BULLETS.  THE SHIP WILL CONTINUE TO DO SO UNTIL IT GOES
+  DOWN.
+
+Meteors
+  Meteors are a third type of enemy to watch out for.  Meteors look like
+  large rocks and CANNOT be destroyed.  So stay clear of them!
+
+Come out alive after completing the two or three warps necessary to reach a
+planet, and that planet appears on screen.  After a brief breather, you'll
+enter the Chance Round.
+
+The Chance Round
+  The Chance Round occurs upon reaching a planet.  During this round, you
+  get a chance to rack up points.  One at a time, four different enemy
+  plane formations will appear on screen... BUT THEY HAVE NO POWER TO
+  DESTROY YOU.  So position yourself for maximum firing accuracy.  Bonus
+  points are awarded for shooting down all the planes (or satellites) in
+  the formation and Super Bonus points for wiping out all four formations.
+
+When the Chance Round is over, it's off to the next planet and the next
+barrage of formations.
+
+The Planets
+  In case you need to be reminded... the planets along your journey through
+  our solar system appear in this order: Neptune, Uranus, Saturn, Jupiter,
+  Mars, and Earth.
+
+The Music
+  You're listening to Johann Sebastian Bach's Toccata and Fugue in D Minor.
+
+
+END OF GAME
+-----------
+
+The game ends when you lose your last spaceship.  If you should reach Earth
+with at least one remaining spaceship, you'll continue the game with
+Neptune as the first stop once again.
+
+To play again, press the FIRE button.  Press GAME RESET and GAME SELECT to
+change the difficulty level.
+
+
+SCORING
+-------
+
+Points accumulate at the top of the screen throughout the game.  YOUR LAST
+GAME'S SCORE IS CARRIED OVER TO THE BEGINNING OF THE NEXT GAME.  BY HOW
+MANY POINTS CAN YOU BEAT IT?
+
+TARGETS                                    POINTS
+Enemy plane ................................. 100
+
+ENTIRE FORMATION:
+1st .........................................1000
+2nd .........................................1500
+3rd .........................................2000
+4th .........................................2500
+1st satellite destroyed ..................... 500
+2nd satellite destroyed .....................1000
+3rd satellite destroyed .....................1500
+
+WITH DOUBLE BULLET FIRE:
+1st satellite destroyed .....................1000
+2nd satellite destroyed .....................1500
+3rd satellite destroyed .....................2000
+
+DURING CHANCE ROUND:
+Enemy plane ................................. 100
+Entire formation:
+1st Chance Round ............................1000
+2nd Chance Round ............................1500
+3rd Chance Round ............................2000
+4th Chance Round ............................2500
+5th Chance Round ............................3000
+Subsequent Chance Rounds .................... 500
+                                additional points
+Super Bonus for all four formations........10,000
+
+                                                                         cd
+
+-------------------Atari 2600 Instructions Archive-------------------

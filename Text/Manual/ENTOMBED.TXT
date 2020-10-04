@@ -1,0 +1,143 @@
+Entombed:  by U.S. Games  (VC2007)
+--------------------------------------
+
+U.S. Games Corporation
+A Subsidiary of the Quaker Oats Corporation
+1515 Wyatt Drive
+Santa Clara, California 95054
+
+------
+
+Entombed is a one or two player, full color game designed to be played
+on the Atari Video Computer System or the Sears Video Arcade.
+
+You and your team of archeologists have fallen into the "catacombs of
+the zombies."  There's no time to look around; these guys are after you,
+and they mean business!  Your only salvation is that you have discovered
+the secret to the "make-break."  Grab them, and you can break through walls
+when you get stuck, or create a wall behind you -- if you are being chased.
+The longer you survive, the faster you have to move.
+
+Explore alone, or two archeologists can work together or compete in a
+frenzied trek through the catacombs.
+
+[screen shot:	looks sort of like a long-range view of an Adventure labyrinth.
+ 		Make-Break == moving vertical blip.
+ 	  	Archeologist == humanoid figure.
+		Zombie == blue humanoid.
+		Number of Make-Breaks == number at lower left.
+		Score == number at lower right.]
+
+Set-Up Instructions:
+
+1.  Connect the Atari Video Computer System or Sears Video Arcade following
+    manufacturer's instructions.
+
+2.  Install the left joystick for single player game, and both joysticks
+    for two player game.
+
+3.  Insert the cartridge -- making sure the power is OFF.
+
+4.  Move the POWER switch to ON.
+
+5.  Select the game of your choice.
+
+6.  Press the fire button on player one joystick to start the game.
+
+7.  Difficulty switches:
+ 	Position A = Two make-breaks for each blinking block touched.
+	Position B = Three make-breaks for each blinking block touched.
+
+Controls:
+
+* Move joystick in either of four directions you want your archeologist 
+  to move.
+
+* To make or break a wall section, push fire button while moving in the 
+  direction you want make-break to occur.
+
+Game Variations:
+
+GAME 1   Single player version.
+GAME 2   Two player version.
+
+Scoring:  
+
+You have three archeologists on your team; they are indicated by squares at
+upper right or left of screen.  You lose an archeologist by being scrolled
+off the top of the screen, or being touched by a zombie.
+
+In single player game, your score is based on how many sections of maze
+you have successfully traveled through.  This is the number showing at
+the lower right of screen.  There are five sections to each maze, after
+which you float into the next one.
+
+In the two player game, there is no scoring, just hot and furious competition.
+The survivor wins.  You may choose to play cooperatively and help each
+other through and see how far you can both get.  This would be established
+by the color of the last maze you are in.
+
+Playing hints:
+
+*  You only have one make-break to start out.  Use it wisely!  Since the
+   early mazes scroll slowly, you don't have to rush to the bottom of the
+   screen; it is better to hold back near the top of the screen so you can
+   determine the positions of both make-break and zombie.  When the make-break
+   appears, be sure you can get to it by using only one (or, hopefully, none)
+   make-break.
+
+*  If you are low on make-breaks, keep aware of how close you are to a
+   maze change (right-hand number indicates maze increment -- five in each
+   colored maze), you may be able to get to the next maze without using
+   a make-break.
+
+*  When the zombie warning sound starts, quickly check the screen for his
+   position and color.  The color indicates his method of moving through
+   the maze.  If he is blue and remains so, he can only move through the 
+   channels of the maze.  If he appears blue and then suddenly changes to
+   orange, he can move through the walls to get you!  The secret to avoiding
+   his clammy, deadly grip is to move below him as soon as possible.  Better
+   to be a surviving coward than a brave idiot!
+
+*  When you have advanced to the faster scrolling mazes, you must be ready
+   between maze changes, or after losing a player.  Hold the joystick down,
+   or back, to get a jump on the quickly moving maze; otherwise, before you
+   know it, you'll be entombed!
+
+2-Player:
+
+*  The two player strategy can be either competitive or cooperative.  The
+   cooperative method is for nice guys.  Here you help each other out of
+   tight spots by opening a passageway for your partner when he has no
+   make-breaks, or luring the zombie away from him.  (Foolish -- maybe, but
+   you're a nice guy -- remember?)
+
+*  The competitive method is, of course, for the deceiving, nasty, or 
+   otherwise typical game player who wants to win.  Playing nasty is the name
+   of the game and entails taking advantage of your opponent's breaks,
+   trapping him in the maze by blocking his path when he has no make-breaks
+   left, and just being downright mean by beating him to all the make-breaks.
+
+*  Whichever game variation you like to play, your cleverness, adeptness
+   at control, and foresight will MAKE OR BREAK you!
+
+Look for more U.S. Games video games wherever you buy game cartridges.
+Drop us a note and we'll be glad to add your name to our mailing list and
+keep you posted on new game cartridges when they become available.
+
+[standard disclaimer]
+
+
+----------
+end manual
+
+Typed up by Jeff Coleburn, vsp@netaxs.com.  And, yes, I've been suppressing
+a big laugh at the grammar and phrasing of the above manual.  Did they 
+translate it directly from Urdu, or what?
+
+----------
+
+
+	
+
+

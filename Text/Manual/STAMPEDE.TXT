@@ -1,0 +1,98 @@
+STAMPEDE BASICS
+- ---------------
+1. Plug in left Joystick Controller (it's the only one you'll need). When 
+   playing, hold the Controller with the red button at upper left.
+2. Set difficulty switch at (b).
+3. Select game with game select switch.
+	Game 1: Sidekick	Game 2: Pilgrim
+	Game 3: Cowpoke		Game 4: Wrangler
+	Game 5: Top Hand	Game 6: Trail Boss
+	Game 7: Rancher		Game 8: Cattle Baron
+   (see explanantion under 'Games')
+4. Use of Joystick Controller: Use left joystick controller to move horse
+   and rider up and down on screen. Press the redd button to throw the rope.
+5. Difficulty Switch: Left difficulty switch at (a) shortens rope; switch
+   at (b) lengthens rope. Right difficulty switch has no effect.
+6. To Begin Play: Press Game Reset.
+7. Scoring: You score points by roping cattle. Each dogie (?) is worth points,
+   depending on its colour, as follows:
+	Black Angus....................	100 pts
+	Light Brown Jerseys............	 25 pts
+ 	Medium Brown Guernseys.........	 15 pts
+	Dark Red Herefords.............	  3 pts
+   The numbers on the upper right side of the screen indicate the player's 
+   score. The number on the upper left side of the screen indicates the number
+   of dogies which you can allow to stray behind you before the game ends.
+   The number starts at 3 - and decreases by one each time a dogie strays off
+   the left side of your screen. When the last one strays behind your horse, the
+   game is over.
+8. Object of the Game: To score as many points as possible by roping as many
+   dogies as you can before too many stray behind you.
+
+HOW TO PLAY STAMPEDE
+- --------------------
+Climb into your saddle and start ridin'! You'll want to practice playing your
+horse and rider in the right position to rope and herd those dogies without
+letting any get by you - and to dodge any surprises on the trail.
+
+To rope: position your horse directly behind the dogie you wish to lasso. The 
+rope will always be thrown directly in front of your horse, and the loop 
+*must* touch a dogie in order to rope him. If you attempt to rope a steer
+which is too far away or too close, you'll come up empty. When you get more
+at home on the range, you'll know the right time to throw your rope. It's
+impossible to score well if you can't keep the game going long enough to rope
+a passel (?) of dogies. The only way to do that successfully is to keep the
+cattle in a herd in front of you. Herding is as important as roping in helping
+you run up your score. When you ride just behind one of the dogies, you'll
+notice he'll speed up and run further out in front of your horse. Since all
+dogies do not run at the same speed, you will have your work cut out for you
+to keep them all together and ahead of you.
+
+GAMES
+- -----
+Each game of Stampede offers a different pattern, speed and movement of the 
+dogies, providing new challenges every time you play.
+
+Game One / Sidekick Level: When  the game begins, dogies lop along, gradually
+running faster as the game progresses. They will run only straight ahead, and
+they travel in a specific pattern. Dark Red Herefords are first. After you
+rope these critters, the Light Brown Jerseys appear, followed by the Medium
+Brown Guernseys. Keep your eyes peeled for an occasional Black Angus.
+
+Game Two / Pilgrim Level: Same as Game 1, except all dogies try to avoid
+your lasso by moving up and down the screen.
+
+Game Three / Cowpoke Level: Same as Game 1, but there is no set pattern of
+appearance of dogies on the screen.
+
+Game Four / Wrangler Level: Same as Game 3, but all dogies try to avoid your 
+lasso by moving up and down the screen.
+
+Games Five through Eight: Same patterns as Games 1 through 4, except all
+dogies start out at a full gallop.
+
+SPECIAL FEATURES OF STAMPEDE
+- ----------------------------
+Dangers on the Trail: The cattle drives of the Old West had their share of
+hazards - and Stampede does too. Occasionally, you'll come upon an old
+bleached skull on the trail, and your horse will rear if you attempt to ride
+over it. If that happens, some of the dogies you are herding and roping could
+stray by, so look out and be prepared to ride around the skulls. There's also
+a Black Angus who pops up every now and then (worth 100 points if you rope him),
+and he can be a bum steer. Since he's sitting still and facing you - and
+can't be hered - he's tough to rope. Worse, if you bump into him, not only
+will he have strayed out of the herd, but your horse will rear, slowing you
+pursuit of other dogies.
+
+A Well-trained Horse: Your pony's no stranger to a roundup. When you throw
+your lasso, he won't move. This keeps you firmly in the saddle - but you
+can't change your mind and chase another dogie once you've decided to throw
+your rope.
+
+No Time Limit: You can keep on ridin' and ropin' as long as your "stray count" 
+(the number on the left side of the screen) is 1 or more. The better you get
+at roping and herding dogies, the longer your roundup will last.
+
+Inceasing your Stray Allowance: After you reach 1000 pts., you'll notice
+your stray count will increase by one, giving you more of a chance to rope
+and ride. The number, however, will never get larger than 9.

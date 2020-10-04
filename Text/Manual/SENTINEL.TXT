@@ -1,0 +1,159 @@
+                     ATARI(R) 2600(R) Game Manual
+
+                              SENTINEL
+
+Atari Corporation is unable to guarantee the accuracy of printed material
+after the date of publication and disclaims liability for changes, errors, or
+omissions. Reproductions of this document or of any portion of its contents
+is not allowed without the specific written consent of Atari Corportation.
+
+Atari, the Atari logo, 2600, 7800 and Sentinel are trademarks or registered
+trademarks of Atari Corporation.
+
+ATARI(R)
+Copyright (C) 1990, Atari Corporation
+Sunnyvale, CA 94089
+All rights reserved.
+
+LOCATE AND ABSORB ENERGY!
+
+You're a scientist, and your invention, a pulsating, glowing orb called the
+Sentinel, absorbs and stores energy from a variety of sources. Now Earth is
+threatened by deadly aliens, and you must use your creation to save your
+planet.
+
+You must defend the Sentinel against alien attacks as it glides over four enemy
+planets, absorbing all alien energy sources in its path.
+
+The Sentinel absorbs the energy from every power pod or energy capsule you
+shoot with your light gun. When an energy source is hit, the Sentinel absorbs
+the target's energy.
+
+Each of the four alien planets is more difficult to conquer than the last. You
+must find and destroy the alien lords who guard each planet's power station.
+Destroy the station to destroy the planet. Then move on to the next world.
+
+A single alien entity controls the other alien lords. When you have destroyed
+the four worlds, the Sentinel will come face to face with this evil entity.
+Defeat the final evil to complete your quest!
+
+GETTING STARTED
+
+1. With your TV switched on, insert the Sentinel cartridge into you Atari 2600
+(or 7800) as described in your owner's manual. Switch on your console.
+
+2. Connect a light gun to the left controller port.
+
+3. To begin the game, press the fire button or press RESET.
+
+OPTIONAL GAME CONTROLS
+
+To enhance play, the following optional game controls allow you to pause and
+restart the game:
+
+- If you are using an Atari 7800 press PAUSE to pause the game. Repeat to
+resume play. On a 2600, pause the game by moving the B/W button twice (up and
+down or down and up, depending on the original location); repeat to resume
+play.
+
+- To return to the title screen and restart the game, press RESET.
+
+PLAYING THE GAME
+
+Sentinel is a fast action arcade-style game requiring lightning fast reflexes
+and skillful shooting through four deadly alien landscapes. A direct hit on
+enemy power cells, ground and air attack vehicles, colonists, and other
+obstacles drain the energy from the alien source and feeds it into the
+Sentinel.
+
+You begin the game with four lives. Damage from enemy fire bleeds energy from
+the Sentinel, and too many hits from enemy fire destroys the Sentinel
+
+The Sentinel moves steadily across each alien landscape. You must destroy
+enemies on the ground before they have a chance to fire, and blast enemy ships
+out of the sky before they can touch the Sentinel.
+
+Some alies do more damage than others. Each alien world contains a greater
+number and variety of alien obstacles than the previous world. The aliens move
+with greater and greater speeds, darting in to steal precious energy from the
+Sentinel. Try to blast as many aliens as you can and absorb their energy. Try
+not to miss an alien. If you miss an alien twice, your energy decreases by one
+point. You will need to store a great deal of energy to survive the deadly
+battles with alien leaders.
+
+At the end out each alien world you will encounter the spinning space station
+of that world's alien leader. The sinister stations quickly repair damage
+inflicted upon them. You must shoot fast to destroy the Station befor the
+repairs are completed.
+
+You can also pick up power pods and energy capsules on each alien world. These
+pods and capsules will enhance your shooting abilities or provide extra
+capabilities to the Sentine. (See ITEMS.)
+
+SCREENS
+
+The Sentinel screen is divided into two sections. The top section shows game
+action. The lower section is the statistics screen.
+
+The Statistics screen shows, from left to right:
+
+TOP LINE - Current score
+
+= - The number of orbs (lives) remaining.
+
+P - Your current Power Points (50 max)
+
+D - The distance left to the end of the level.
+
+S - Super Shots: only works when this number is at 99. Super Shots slowly
+recharge after each use.
+
+ITEMS
+
+You can find the following items on enemy worlds to help you in your battle:
+
+Energy Pod circles the Sentinel.
+
+SUPER SHOTS destroy all enemies on the screen. Activate Super Shots by shooting
+one shot at the Sentinel orb itself. You begin the game with three Super Shots
+and earn more from Energy Pods. Super Shots are not effective against alien
+leaders.
+
+AUTOMATIC SHOTS cause the Sentinel to automatically absorb energy from enemy
+air or ground targets.
+
+MOVEMENT allows the Sentinel to increase vertical movement speed.
+
+ENERGY CAPSULES revitalize the Sentinel.
+
+STRATEGY
+
+There are unmarked secret places in each alien world. Locating these hidden
+areas and firing at them will provide you with bonus points and items.
+
+Use Super Shots only when you are hopelessly outnumbered or in a similarly bad
+situation.
+
+Always shoot the enemies closest to you first.
+
+SCORING
+
+Dish..........................10
+Tube..........................20
+Star..........................30
+Satellite.....................40
+Blob..........................50
+Spike.........................60
+Hover Craft...................70
+Probe.........................80
+Mine..........................90
+
+Bonus Pods....................10
+
+Large Pyramid..........10 to 500
+                 (mystery value)
+Medium Pyramid...............100
+Small Pyramid................250
+
+Big Aliens............50 per hit
+

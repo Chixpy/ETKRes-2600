@@ -1,0 +1,158 @@
+Konami
+
+KONAMI
+VIDEO GAME
+CARTRIDGE |
+
+POOYAN (C)Konami
+
+GAME CONCEPT
+
+One day, in the middle of a forest, a group of fierce Wolves attacked the
+House where a Mother Pig (Mama) and her little Piglets (Pooyans) were living
+together peacefully.  To protect her Pooyans, Mama fought back using arrows
+and bait, but despite all her efforts, some of the Pooyans were kidnapped.
+Full of hate for the Wolves, Mama bravely seeks out the Wolves' Lair to
+rescue her Pooyans.  Will she succeed in overcoming the Wolves and bringing
+her Pooyans back home?
+
+BEFORE STARTING
+
+Control Lever
+
+I. 	Using the control lever
+	1) For a solo game, use the left-hand control lever only.
+	   When playing with a partner, Player 1 uses the left-hand
+	   lever and Player 2 the right.
+	2) Start the game by pressing the red button on the control
+	   lever.
+	3) When playing with a partner, players take turns starting with
+	   the player on the left.
+	4) You cannot begin the game from the player on the right.
+	5) Move the Mother Pig by pushing the control lever up or down.
+	6) When playing with a partner, the player on the left has a white
+	   pig, and the player on the right a red one.
+	7) Press the red button to shoot arrows and bait from the Mother
+	   Pig.
+
+				Use Joystick Controllers
+
+Game Selection
+
+II. 	Using the game select switch to choose your game
+	1) The game number is displayed in the center of the upper part of
+	   the screen.
+	2) You can select a solo or partner game, and vary the degree of
+	   difficulty.
+	3) If you press the game select button during the course of a game,
+	   the play will return to the 'ready' state, and you can select a
+	   new game.
+
+---------------------------------------------------------------------------
+Game	 |	No. of	 |	Speed of	 |	Trajectory of
+ No.	 |	Players	 |    wolves' stones	 |      wolves' stones
+---------------------------------------------------------------------------
+ 1	 |	   1	 |			 |	   Horizontal
+---------|---------------|			 |	      or
+ 2	 |   	   2	 |			 |	   Parabolic
+---------|---------------|       Slow		 |-------------------------
+ 3	 |	   1	 |			 |
+---------|---------------|			 |	   Parabolic
+ 4	 |	   2	 |			 |
+---------------------------------------------------------------------------
+ 5	 |	   1	 |			 |	   Horizontal
+---------|---------------|			 |	      or
+ 6	 |	   2	 |	 		 |	   Parabolic
+---------|---------------|	 Fast		 |-------------------------
+ 7	 |	   1	 |			 |
+---------|---------------|			 |	   Parabolic
+ 8	 |	   2	 |			 |
+---------------------------------------------------------------------------
+
+The difficulty of the game depends on the speed of the wolves' stones and
+their trajectory.
+
+Resetting the Game
+
+III. 	Using the reset switch to reset a game during play.
+	1) If you press the reset button during the course of a game, the same
+	   game will start again from the beginning.
+	2) You can use the reset switch even when not playing.
+
+Game Sequence
+
+IV. 	There are two scenes (1 and 2) in this game, and they follow on from each
+	other alternatively as one scene has been completed.  The scene number
+	is displayed in the center of the upper part of the screen while the START
+	melody is being played.
+
+SCENE 1 (THE PIGS' HOUSE)
+
+Moving the Mother Pig (Mama) up and down using the control lever, try to burst the
+workers' balloons with arrows as they come floating down into the valley.  You can
+also make the wolves fall by throwing the bait that appears at the top right-hand
+side of the valley.  When the wolves try to grab the bait, they let go of their
+balloons and so fall down into the valley.  At the same time, the wolves defend
+themselves with shields and attack by throwing stones.  If you allow the wolves to
+float safely down to the bottom of the valley, they will climb up the steps and
+attack the Mother Pig from behind.
+
+SCENE 2 (WOLF VALLEY)
+
+In this scene, the wolves float up from the bottom of the valley (Wolf Valley) with
+their balloons, and the Mother Pig tries to stop them using arrows and bait as in the
+previous scene.  When six wolves have safely reached the top, they can start dropping
+large rocks down on the Mother Pig.  To prevent them from doing this, you must get
+rid of the flashing 'boss wolf'.  The 'boss wolf' will appear when there are only
+5 wolves left.  If you fail to get the boss wolf, five more wolves will float up.
+
+1) At the start 30 wolves will appear in scene 1, after which it will automatically
+   change to scene 2 regardless of the score.
+2) Following this, the number of wolves appearing in each scene will increase 1 each
+   time the scene changes.
+3) In both scene 1 and scene 2, the color of the valley floor will change from yellow
+   to green when there are only five workers left.
+4) To take the bait that appears at the top-right hand side of the valley, first move
+   the Mother Pig up to the level of the bait, release the lever and then push it
+   upwards once more.  When she has got the bait, the Mother Pig turns red.
+
+MISTAKES
+
+V. The following are mistakes, and you lose one Mother Pig.
+   * If the Mother Pig is hit by one of the wolves' stones.
+   * If the Mother Pig is eaten from behind by a wolf.
+   * If the Mother Pig has a rock dropped on her from above.
+
+SCORING
+
+VI. If you hit a balloon/wolf/stone with an arrow or the bait you score the following
+    points:
+
+---------------------------------------------------------------------
+				Hit with an arrow	Hit with bait
+---------------------------------------------------------------------
+Balloon only		      |		5 points     |
+---------------------------------------------------------------------
+Wolf holding balloon	      |	       20 points     |  80 points
+---------------------------------------------------------------------
+Stone thrown by wolf	      |	       10 points     |  10 points
+---------------------------------------------------------------------
+
+1) When throwing the bait, it is possible to hit more than one wolf/stone at the same
+   time.  However the bait will bounce off the balloons.
+2) The score will be displayed up to a maximum of 999,995 points.
+
+END OF THE GAME
+
+VII. Each player has 3 Mother Pigs at the start of the game.  When you score more than
+     5,000 points, you get an extra one, but the display can only show up to 4 pigs.
+
+REPLAY
+
+VIII. When you want to play the game again, first check the game number and then press
+      the red button on the control lever or use the reset button.
+
+POOYAN (C) Konami
+
+Document typed by gchance@ecst.csuchico.edu.
+

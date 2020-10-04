@@ -1,0 +1,366 @@
+[ "Space Shuttle" 2600 by Activision ]
+Space Shuttle - a Journey into Space
+Flight Manual
+
+I.	Important Note about your Flight Deck Console
+
+Game System	Flight Deck Console
+Power On/Off	Internal Power
+Color/B&W	Primary Engines
+Left Diff.	Backup Engines
+Right Diff.	Cargo Doors/Landing Gear
+Game Select	Status
+Game Reset	Activate Countdown
+
+If the Primary Engines on your game system is inaccessible, the Left
+Difficulty Switch (Backup Engines) should be used.  Otherwise, shutdown
+Backup Engines and DO NOT TOUCH!
+
+II.	Flight Preparations
+	A.  Mission Profile
+It is the 101st Shuttle mission of the Space Transportation System.  You are
+at the helm of the Space Shuttle Discovery.  Approximately 210 nautical
+miles above the Earth is your target: an orbiting satellite with 
+intentionally programmed gyroscope problems.
+
+Your mission is to launch, rendezvous, and dock with the satellite as many
+times as you can, using the minimum of fuel, then return safely to Earth.
+A word of caution: Each time you successfully dock, the satellite has been 
+programmed to become even more erratic.
+
+This is a total test of your piloting capabilities.  You will be evaluated
+at the end of your flight.
+	B.  Equipment Check
+Status Switch - Your Flight Indicator.  Hold it down to make your Flight
+Selection and to check the following important information: speed,
+altitude, fuel, MET(mission elapsed time), and stats (see "Stat Messages" for
+descriptions).  Also, hold down for two seconds during flight to re-start
+flight.
+
+Primary Engines - Your access switch to all SHuttle engines: Main Engines,
+Orbiatl Maneuvering System, and Reaction Control System.
+
+Backup Engines - Used only on game systems where Primary Engines (color/B&W)
+is inaccessible.  Otherwise alwasy keep in shutdown mode.
+
+Cargo Doors/Landing Gear - A dual function switch used to open and close your
+Cargo Bay Doors, and to lower your Landing Gear.  More on this in later
+sections.
+
+Joystick Controller - A realistic directional hand controller.  Forward and
+back moves Shuttle forward or back (X axis).  Left and right controls your
+"plane" (left/right) movement (Y axis.).  With red button depressed, forward
+or back stick movement moves shuttle up or down (Z axis).  See "Maneuvering
+in Space" for further explanation.  Also, the red button has other uses in
+launch, orbit, and entry phases as described in those sections.
+
+	C.  Flight Selection
+There are three separate flight modes.  Spend time with training flights:
+#1 and #2 before taking on all the challenge of a real, unassissted Shuttle
+mission (flt #3).  Flight mode can only be selected before countdown is
+activated.
+
+flight #1 Autosimulator - flight mode #1 is a combination demonstrationg
+flight and autosimulator.  The Shuttle flies an abbreviated mission.  You do
+not use any of the console controls.  In this flight mode, most aborts
+(see "Abort indicator") are ignored.  Whenever you touch your Joystick, you
+tkae control from that point on.  However, you will only need to use your
+Joystick Controller to correct your Y axis, and land.
+
+Flight #2 Simulator - All astronauts spend thousands of hours practicing in
+ground-based simulators before flying an actual Shuttle mission.  In this
+mode, experience the challenge and demands of a real mission with a couple of 
+iimportant exceptions: You will never use any fuel units, so take your
+time to complete a mission.  Also, your onboard computers will greatly 
+assist you during flight by compensating for less than perfect piloting
+skills.  Most aborts are overriden, but your flight indicator (stat message)
+will alert you when you've erred.
+
+Flight #3 STS 101 - A full-fledged Shuttle Flight.  All aborts are 
+operative and flight conditions are quite realistic.  Good luck!
+
+	D.  Flight Evaluation
+
+Abort Indicator - If critical problems occur anytime during a flight, you
+may receive a "Launch Scrub" or "Mission Abort" signal.  If this happens,
+your flight has ended, and you must check your Status to find out what went
+wrong.
+
+Ranking - If you safely land your Shuttle at Edwards Air Force Base, in
+flight #3, your performance will be computer-evaluated.  Your ranking will be
+determined by the number of successful dockings and the exact number of
+fuel units you have remaining at the end of your flight:
+
+Ranking	Description					Qualifications
+
+Commander	Responsible for overall cre safety
+		and flight execution			6+ docks 7500 fuel
+Pilot		Second in command, assists in all
+		flight functions			4,5	 4500
+Mission		Qualified to coordinate mission		2,3	 3500
+Specialist	scientific objectives			
+
+Payload		Qualified to operate specific		1	 1
+Specialist	payloads and coordinate Shuttle
+		Housekeeping.
+
+PART TWO
+
+II. Launch: Dawn, Cape Canaveral
+	A. Objective
+Launch your Space Shuttle and attain an altitude and orbit as close to the 
+satellite's orbit as possible.
+
+	B. Launch Checklist
+Launch Phase - As you fire your enormous main engines and liftoff from the
+pad, you'll be going through 3 separate phases.  The numbers 1,2,3 on you
+initial computer screen refer to: (1), firing of the SRB's (solid rocket
+boosters), which really shakes the shuttle, (2), maximum acceleration, and
+(3), approaching engine shut down.  The X indicates MECO, (Main Engine
+Cut-Out).
+
+Thrust - Notice the two, long horizontal bars on the control panel on your
+screen.  "T" stands for thrust, "C" stands for computer.  The "C" arrow
+represents a signal from the onboard computer indicating the proper thrust
+needed during each phase of liftoff.  You control "T" (thrust) using the
+red button on you Joystick.  Always keep both "T" and "C" arrows aligned.
+Whenever the "T" arrow flashes, you are wasting fuel and should immediately
+increase or decrease thrust.
+
+Hold Down Bolts - Though your engines are firing, you won't leave the 
+ground until MET +3.  The "Hold Down Bolts" will keep your Shuttle on the
+ground until MET +3 to compensate for the mechanical strain on the Shuttle
+from firing your engines.
+
+Trajectory/Plane - In additio nto regulating thrust, you'll need to also
+follow the proper trajectory (forward-back on Joystick), and constantly
+correct your "plane" (left-right on Joystick).
+
+Line Horn - If you stray from the correct launch trajectory, you will waste
+fuel.  To alert you when this is happening, a warning horn will sound.  You'll
+find this feature helpful in avoiding an abort situation.
+
+Separation - A yellow flash at about 65 nautical miles will indicate Solid
+Rocket Booster separatio n(SRP SEP).  Another flash shortly after MECO, (Main
+Engine Cut-Out), will alert you that the main External Tank has fallen away
+into the Indian Ocean (ET SEP).
+
+	B. Launch Sequence
+1. Internal Power on.
+2. Primary and Backup Engines Shutdown.
+3. Cargo Door closed/Landing Gear up.
+4. Activate Countdown.
+5. At MET-015 activate Primary Engines.
+6. At MET-004 ignite Engines by pressing red button on Joystick.  Match
+"T" arrow with "C" arrow during launch.
+7.  As Shuttle rises, watch both dots on the computer screen.  You must
+follow the indicated launch trajectory AND continually correct your "plane"
+by keeping your Shuttle centered in the small box at right:
+	Move Joystick forward to move dot left, backward to move dot right.
+	Move Joystick left or right to correct plane.
+8. At about 205 nautical miles, quickly shutdown engines.  The closer you come to the 210 altitude, the closesr you'll be to the satellite's orbit.
+
+Launch & Ascent Summar - Flying the Shuttle into orbit is an  extremely 
+challenging task.  Following a roller coaster path, you must match your
+thrust with the computer indicator, stay on the proper trajectory as plotted on
+the altitude display, and correct your plane as indicated in the small green
+box.  Each area is critical.  Incorrect trajectory will cost precious
+fuel and may abort your mission.  A great elevatio nin the plane setting at
+MECO will make satellite docking difficult.
+
+
+III. Stabilizing Orbit
+	A.  Objective - Establish a stable orbit by adjusting Shuttle pitch
+to enable visual contact, and by opening Cargo Bay Doors for heat release.
+	B. Stable Orbit Checklist
+
+Nose Down Maneuver - When the Shuttle first achieves orbit, the nose of the
+craft is pointed up out of the line of sight of the satellite.  In order
+to dock, you must see the satellite.  So it's necessary to bring the nose
+down, which is done by adjusting pitch (the up-down movement of the nose of
+the Shuttle).
+
+Cargo Bar Doors - One of your first taqsks in orbit will be to open the
+Cargo Bay Doors.  This is vital and must be accompolished within first
+orbit.  The radiaqtors that shed excess heat generated by the Shuttle are on
+the inner surfaces of these doors.  If the doors remain clossed, heat builds up
+within the vehicle, and a warning horn will sound.  You then have 30 seconds
+left to open Cargo Bay Doors.  If the doors aren't quickly opened, the
+mission will have to be aborted.
+
+	C. Sequence to Stabilize Orbit
+		1. Activate Primary Engines.
+		2. Push Joystick forward to set -28 pitch.
+		3. Shutdown Primary Engines.
+		4.  Open Cargo Bay Doors.
+
+	D. Stable Orbit Summary - Nose pitch down and Cargo Bay Door events
+must be performed on the first orbit revolution before any on-orbit
+operations can be attempted.
+
+IV. Docking: 210 Nautical Miles in Space
+
+	A. Objective - Properly correct the speed and position (Z,Y,X axes)
+of your Shuttle to successfully rendezvous with the satellite.
+	B. Docking Checklist
+
+Maneuvering in Space - There are two separate ways to maneuver your Shuttle
+in space.  For major maneuvers (30 nautical miles or more) the Orbital Maneuvering System (OMS) can be used.  This system (explained in a later section)
+takes a good deal of understanding and experience to use effectively. So,
+when first starting out, use the Reaction Control System (RCS).  These
+clusters of rocket engines in the Shuttle's nose and tail can move the
+Shuttle about its three major axes X,Y,Z (called transitional) or about
+its yaw or pitch (rotational).
+
+Shuttle Speed and Position - Speed is just as important as position.  Never
+allow your speed to drop below mach 17.0, or your altitude to fall below
+195 nautical miles, or you'll burn up in the atmosphere!  Your X motion to 
+satellite is dependent upon your speed, not the RCS engines.  To move toward
+satellite you must increase speed to greater than mach 23.9 (the satellite's
+speed).  When you make your final approach to satellite, keep your speed
+close to mach 23.9.
+
+Drifting - As you move closer to the satellite, constantly go back and forth
+to check all axes.  Settings continually shift, and the satellit movement is
+erratic.
+
+V.  Docking; 210 Nautical Miles in Space
+
+"S" Curve - On computer screen #2, the "S" line indicates both the Shuttle's
+and the satellite's ground track around the Earth.  The flashing dot is
+your Shuttle, the solid dot is the satellite.  Notice as you track the
+satellite, your X axis will suddenly change significantly as the satellite
+"wraps around" the tracking line.  This is because the orbital tracking line
+wraps around the display as a real orbit would wrap around the Earth.
+
+Docking Screen - You'll use the "S" curve screen until you get fairly close
+to the satellite.  Then, two smaller radar screens will appear.  The left
+screen shows your Z axis, (up-down), and a wide view of your Y axis,
+(left-right).  The right screen, which you'll use more, shows the X axis
+(left-right) and micro (close in) Y axis (up-down).
+
+Multiple Dockings - Every time you dock, you receive a "Rendezvous" sign
+and a certain number of fuel units.  However, each docking becomes more and
+more difficult.  So, for each successive docking, you receive more fuel.
+After each docking, the satellite has been programmed to sail a good
+distance away from your Shuttle.  Wait until it settles (x= +128 or -128)
+before beginning another docking procedure.
+
+DOCKING SEQUENCE: Match the position of your Shuttle with that of the
+satellite's by correcting your Z, Y and X axes preferably IN THAT ORDER.
+        1.  Correct Z axis to 0: Hold down red button and tap Joystick
+        forward.  A negative number means the satellite is below you, so
+        push the Joystick forward to dive.  A positive number means the
+        satellite is above you, so pull the Joystick back to climb.
+        2.  Correct Y axis to 0: Tap the Joystick to the right.  A positive
+        number means the satellite is right of you, so push your stick
+        right to line up with it.  A negative number means it is left of
+        you. Push Joystick left to line up with satellite.
+        3.  Correct X axis:  Tap the Joystick back.  A positive number means
+        the Satellite is ahead of you.  A negative number means it is behind
+        you.  To increase Shuttle speed, push Joystick forward.  To decrease
+        speed, pull Joystick back.  Use Status switch to check Shuttle
+        speed.
+        4.  Dock:  All axes must be adjusted to 0, and stabilized for 2
+        seconds, then you will receive a "Rendezvous" signal, indicating
+        you've docked.
+
+DOCKING SUMMARY:  You are attempting to dock with a satellite that is
+travelling at Mach 23.9 and 210 nautical miles above the Earth.  You will
+either need to slow down or speed up to rendezvous (X axis).  Also, you will
+need to be at the same altitude (Z axis), and position (Y axis).  All of
+these maneuvers are interrelated - changing one can affect the others.  And,
+in flight #3, the longer you take to dock, the more fuel you'll use!  It is
+also better to tap the Joystick than hold it down (saves fuel).
+
+VI.  Deorbit Burn
+
+A.  Objective: To turn the Shuttle around, fire the engines, and decelerate to
+the proper speed.
+
+B.  Deorbit Checklist
+        1.  Deorbit Burn Maneuver: You must first turn the Shuttle around so
+        that it is travelling tail-first.  Then, in order to maintain the
+        proper altitude, set your Z axis and pitch.  Once completed, fire
+        the engines to decelerate.  (If he Z axis and pitch are not set
+        properly, firing the engines will make your Shuttle climb or dive).
+        After the deorbit burn, the Shuttle must thenbe reoriented
+        nose-forward to the proper attitude for reentry.  Entering the
+        atmosphere backwards will cause the Shuttle to burn-up.
+        2.  Yaw: Left-right rotation of the nose of the craft.
+        3.  Satellite Interference:  Before attempting a deorbit burn, you
+        must allow the satellite to pull a safe 128 nautical miles away from
+        the shuttle.  If you don't, your deorbit burn will be unsucessful,
+        and you'll never leave orbit!
+
+C.  Sequence for Deorbit Burn
+        1.  Check X axis by tapping Joystick back.  Wait until x=128 miles
+        BEFORE proceeding (x=+128 or -128).
+        2.  Using Status switch, check your speed.  Pull Joystick back or
+        push Joystick forward to set speed at Mach 23.9.
+        3.  Correct Z axis to 0.
+        4.  Activate Primary Engines.
+        5.  Turn Shuttle around by pushing Joystick left to set yaw at -128.
+        6.  Pull back or push Joystick forward to set pitch at -004.
+        7.  Display speed (SP/m), speed in Mach, using Status switch.
+        8.  Ignite engines by pressing red fire button.  Hold down button
+        until speed = 19.0.
+        9.  Reset yaw to exactly 0.
+
+D.  Deorbit Summary - Deorbit is one of the most critical phases of your
+        flight.  Following completion of orbital operations, the Shuttle
+        is oriented to a tail-first attitude, then decelerated to a
+        necessary speed for reentry.  The orientation of the Shuttle is
+        established by the RCS engies, and deceleration is provided by the
+        larger OMS engines.  You begin to lose altitude once you've slowed
+        the Shuttle down below the actual velocity needed to sustain your
+        210 mile orbit.
+
+VII.  Reentry
+
+A.  Objective: to establish and maintain the correct pitch, yaw and speed;
+        follow the correct trajectory; and properly manage heat build-up
+        during reentry.
+
+B.  Reentry Checklist
+        1.  Entry Interface: This is the point in your flight where
+        atmospheric entry officialy begins.  As the Shuttle descends,
+        atmospheric drag dissipates tremendous energy, generating a great
+        deal of heat.  This heat quickly builds up (portions of the
+        vehicle's exterior reach 1540 degrees Celsius).  Pitch and speed
+        must be correct to properly utilize the Shuttle's Thermal
+        Protection System.
+        2.  Terminal Area Energy Management: After entry interface, you must
+        closely follow the proper descent trajectory in order to maintain
+        enough altitude and speed to reach the final touchdown point.  This
+        process of conserving your energy by maintaining the correct position,
+        altitude, velocity and heading is called Terminal Area Energy
+        Management (TAEM).
+        3.  Loss of Signal:  During reentry, the Shuttle superheats the gas
+        of the upper atmosphere, creating flashes of color outside your
+        window.  Heat strips electrons from the air around the Shuttle,
+        enveloping it in a sheath of ionized air that blocks all
+        communication with the ground.  So, at 160 miles, you will experience
+        a temporary partial loss of signal (LOS).  Keep a close eye on you
+        radar at this point.  You will receive intermittent signals which you
+        need to use to correct your course and plane.
+        4.  Descent Screens:  On your reentry screen, "X" indicates cut-off
+        of your OMS engines (deorbit burn).  "T" indicates the Terminal
+        Area Energy Management Phase.  "L" indicates your transition to final
+        landing approach.  The small box at left is your plane indicator.
+
+B. Reentry Sequence
+        1.  Pull back Joystick to set +24 pitch for proper reentry attitude.
+        2.  Close Cargo Bay Doors.
+        3.  Follow reentry course on computer screen.  Pull stick back to go
+        right; push forward to go left.  Left and right on stick centers
+        plane.
+
+C.  Reentry Summary - There are three important stages to Reentry: Entry
+        Interface, TAEM, and LOS.  Position, altitude, velocity and heading
+        must all be exact to both properly manage the tremendous heat
+        buildup and correctly position your shuttle for the Final Approach.
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

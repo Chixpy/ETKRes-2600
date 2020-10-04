@@ -1,0 +1,346 @@
+A VIDEO
+GAME CARTRIDGE FROM
+PARKER BROTHERS
+
+STAR
+WARS:
+THE EMPIRE STRIKES BACK
+
+FOR ATARI & SEARS VIDEO GAME SYSTEMS
+
+(C) Lucasfilm Ltd. (LFL) 1982/Trademark owned by Lucasfilm Ltd. (LFL) and
+used by Parker Brothers under authorization.
+
+-
+
+The Empire's revenge has begun!  Right now an army of Imperial Walkers is
+marching toward the Rebels' power generator on the Ice Planet Hoth.  If
+they reach it, the entire Rebel base will blow sky high!  To stop them, the
+Rebels must rely on their missile-firing Snowspeeders.  The Snowspeeders
+may be tiny (compared to the gigantic Imperial Walkers) but they're quick
+and agile.  And in the hands of a skillful commander, they can destroy the
+mighty Walkers!
+
+So climb into your Snowspeeder and be prepared to meet the first of your
+deadly enemies!
+
+
+OBJECT
+------
+
+The object of the game is to destroy as many of the Imperial Walkers as you
+can before they reach the power generator at the end of the battlefield -
+or before the Imperial Walkers destroy your fleet of Snowspeeders.
+
+
+SETTING THE CONSOLE CONTROLS
+----------------------------
+
+1. To select a game number (see Game Selection Box), press down on the GAME
+   SELECT switch.  To quickly change the number, hold down both the GAME
+   SELECT and GAME RESET switches at the same time.  The game number will
+   appear at the bottom of the screen.
+
+2. Press down on the GAME RESET switch - and you're ready to start the
+   action.
+
+3. Set the DIFFICULTY switch:
+   Position A - The landing pad where you repair your snowspeeder is made
+                smaller.
+   Position B - The landing pad is made larger.
+
+   In a one-player game, use the left DIFFICULTY switch.  In a two-player
+game, the 1st player uses the left DIFFICULTY switch and the 2nd player
+uses the right DIFFICULTY switch.
+
+
+THE JOYSTICK CONTROLLERS
+------------------------
+
+Make sure you plug the joystick controllers firmly into the jacks at the
+back of your video game system.  Use the LEFT controller jack for
+one-player games.
+
+Use the Joystick to fly your Snowspeeder.  Snowspeeders can fly left,
+right, up, and down.  Your Snowspeeder can accelerate in all four
+directions, too.  To slow it down, simply change directions.  Press the red
+button to fire your missiles.
+
+ ____________________
+|     /\    /\_     /|
+|/\__/  \/\/   \_/\/ | < Mountains,
+|____________________|
+|__      _____ __    | < Ice Zone,
+|  \____/     V  \__/| < Valleys,
+|  _________________ |
+| |_-_-_-_-_______[] | < Power Generator Location
+|____________________|
+
+THE BATTLEFIELD
+---------------
+
+This is the battlefield on the Ice Planet Hoth.  The entire battlefield is
+8 TV screens wide.  The radar band monitors the entire battlefield.
+
+
+PLAYING
+-------
+
+A Rebel commander recieves 5 Snowspeeders per game.  At the start of the
+game, the first Snowspeeder is displayed in the Ice Zone.  The remaining
+"on deck" Snowspeeders are displayed just under the radar band.
+
+To start the action:
+  Fly youy Snowspeeder down screen (move left) to meet the oncoming
+  Imperial walkers.  The Walkers approach in a single file from left to
+  right.  They can get bunched up one behind the other but they can never
+  pass one another.  Although up to 5 Walkers can be seen on the
+  battlefield at a time, ony 1 Walker will appear on the TV screen at a
+  time.
+
+Radar Band:
+  Use the radar band to keep an eye on the positions of all 5 Walkers and
+  to see which Walker you're presently battling on screen.
+  NOTE: When your snowspeeder flies off one end of the radar band, it will
+  reappear at the other end.
+ ____________________
+|     /\    /\_     /|
+|/\__/__\/\/ _ \_/\/ |
+|____#####-+_________|
+|__  || ||____ __    |
+|  \____/     V  \__/|
+|  ________________  |
+| |__-__-__-_[-]___| | < Radar Band
+|____^________^______|
+  5 walkers  Snowspeeder
+
+Remember:  As soon as the lead Walker reaches the right end of the radar
+band, it blows up the power generator and ends the game.  Just before this
+happens, however, you'll hear a "warning" sound, then the sky will begin
+flashing.
+
+
+DESTROYING THE IMPERIAL WALKERS
+-------------------------------
+
+It takes 48 "hits" to the body to destroy an Imperial Walker.  Each group
+of 8 hit weakens the Walker one stage and changes its color.  Each color
+change means that the Walker is walking slower, firing less often, and
+aiming less accurately.  An Imperial Walker may go through 5 color changes
+before it's finally destroyed:  From black to grey, blue, purple, red,
+yellow, then - POW! - it's gone!
+
+A snowspeeder can fly around to the back of a Walker and attack it from the
+rear.  A Snowspeeder cannot weaken or destroy a Walker by hitting its legs.
+
+There IS a quicker wat to destroy an Imperial Walker by firing a missile
+into a "bomb hatch."
+
+
+BOMB HATCHES
+------------
+
+Bomb hatches are flashing colored squares that appear from time to time on
+a weakened Imperial Walker.  Bomb hatches will appear one at a time in one
+of three places: just above the head, just below the head, or on its back. 
+Hit a bomb hatch, and it's instant destruction of the Imperial Walker!
+
+When you destroy an Imperial Walker, a new one will enter the battlefield. 
+Each new Walker will be even tougher than the last.  It will walk faster,
+fire its missiles more rapidly, and aim its fire more accurately.  So, the
+longer you stay in the game, the more difficult the battle becomes!
+
+
+ATTACK OF THE IMPERIAL WALKERS
+------------------------------
+
+Imperial Walkers fire deadly missiles at Snowspeeders.  The even have the
+ability to "track" your Snowspeeder and can aim their missiles by raising
+or lowering their heads.  They can fire at Snowspeeders approaching them
+from behind as well as head on.
+
+
+DAMAGED SNOWSPEEDERS
+--------------------
+
+When a Snowspeeder is hit by a Walker's missile, it becomes "damaged." 
+Damage is indicated by a color change.  In a damaged state, each succeeding
+hit increases the chances that the Snowspeeder will be destroyed.  A
+Snowspeeder can take up to 5 hits before it's destroyed.  However, it can
+be destroyed in fewer than 5.
+
+
+REPAIRS
+-------
+
+Land a damaged Snowspeeder in a "valley," and within a second, it's
+repaired!  The Snowspeeder will change back to its original color to show
+that it has its full power again.  Each snowspeeder is allowed two repairs.
+
+When your Snowspeeder is destroyed, it explodes.  The NEXT Snowspeeder will
+appear on screen (You can start again whenever you're ready by moving the
+Joystick.)  The new Snowspeeder will pick up the battle where the last one
+left off.  That is, Walkers will be in the same positions and will show any
+damage they've already recieved.
+
+So try to stay out of the Walker's line of fire.  Or, if you can, try to
+shoot down the Walker's missiles.  That's right!  If you can shoot down a
+missile (or get very close to it without it hitting you), then the Walker's
+missile will explode.  But watch out!  Sometimes the explosion can backfire
+and damage your Snowspeeder!
+
+
+THE FORCE
+---------
+
+If you can keep your Snowspeeder alive for two minutes, "The Force will be
+with you."  Your Snowspeeder will begin flashing and you'll hear the
+Rebels' theme song.  The Force will be with you for 20 seconds.  during
+this time, your Snowspeeder is all-powerful.  It cannot be damaged; it
+cannot be destroyed.  So when you gain The Force, move right in on an
+Imperial Walker and fire away!
+NOTE: If you've already had your Snowspeeder repaired, and you gain The
+Force, you can have your Snowspeeder repaired twice more.
+
+
+END OF GAME
+-----------
+
+The game ends when the lead Imperial Walker reaches the power generator -
+or - when the last of your Snowspeeders is destroyed.
+
+
+GAME VARIATIONS
+---------------
+
+ThE EMPIRE STRIKES BACK has 32 game variations.  Games 1-16 are one-player
+games.  Games 17-32 are two-player games.  See the Game Selection Box for
+game number variations.  Game variations are described as follows:
+
+Smart Bombs.
+  Sometimes a bomb hatch will release a "smart bomb."  Smart bombs fly in a
+  looping pattern and will actually follow your snowspeeder.  You can try
+  to shoot it down for points or you can try to outfly it until it
+  disappears from the screen.
+
+  If a smart bomb hits your Snowspeeder it will either damage or destroy
+  the Snowspeeder.  (Smart bombs do more damage than Walker missiles.  So,
+  if your Snowspeeder is already damaged when hit by a smart bomb, the
+  smart bomb will probably destroy it!)
+
+Solid Walkers.
+  When you play a game with Solid Walkers, you're in for some precision
+  flying.  With Solid Walkers, you CANNOT fly your Snowspeeder into the
+  Walker's body (although you can fly through its legs).  If you do, your
+  Snowspeeder will blow up - but not without weakening the Walker three
+  colors.  Fly into a Walker weakened to purple or beyond, and the Walker
+  is destroyed!
+
+
+TWO-PLAYER GAMES
+----------------
+
+Games 17-32 are two-player game, players alternate as Rebel Snowspeeder
+commanders, flying one Snowspeeder on a turn.  The left player goes first. 
+Each player's score is displayed throughout his or her turn.  At the end of
+the game, the final scores are displayed alternately.
+
+*  In a two-player game, when your lead Walker blows up the power
+   generator, you're out of the game.  Your opponent, however, may continue
+   to play as long as he or she can defend the power generator.
+
+*  In a two-player game, you'll start the game over again with each new
+   Snowspeeder.  (Five Walkers will begin approacting from the left.)  In
+   other words, unlike the one-player games, you second Snowspeeder can't
+   pick up where the first one left off.
+
+
+REBELS' STRATEGY HINTS
+----------------------
+
+a) Remember to watch the radar band for the positions of all Walkers
+   (especially the lead one) and to keep track of which Walker you're
+   battling on screen.
+
+b) Try to weaken the LEAD Walker WITHOUT DESTROYING IT.  If you do, the
+   lead walker will slow down the walking speed of all the others.  This
+   will give you more time to weaken and destroy the other Walkers before
+   the lead one reaches the power generator.
+
+   Also try to weaken and slow down the LAST Imperial Walker on the radar
+   band WITHOUT DESTROYING IT.  This will help delay the entrance of new
+   and "tougher" Walkers that replace the ones you destroy.
+
+c) Try to get the Walker to track your Snowspeeder in one position, then
+   quickly move out of its line of fire and attack it from a safe position.
+
+d) In a game with Solid Walkers, you may want to crash your Snowspeeder
+   into the Walker's body if you know you can't destroy the Walker before
+   it reaches the power generator.  By doing so, you score 25 points and
+   stay in the game - if you have Snowspeeders remaining in the battle.
+
+
+SCORING
+-------
+
+Your score is displayed at the bottom of the screen throughout each
+Snowspeeder's battle.  Points accumulate with each additional Snowspeeder. 
+You'll recieve your final score at the end of the game.
+
+Here's how points are scored:
+
+  Hitting Imperial Walker with missile .  .  .  .  .  1 point
+  Shooting down a Walker's missile in flight .  .  . 10 points
+  Crashing Snowspeeder into Walker
+  without destroying Walker   .  .  .  .  .  .  .  . 25 points
+  Destroying an Imperial Walker  .  .  .  .  .  .  . 50 points
+  Hitting a bomb hatch that destroys an
+  Imperial Walker .  .  .  .  .  .  .  .  .  .  .   100 points
+  Shooting down a smart bomb  .  .  .  .  .  .  .   100 points
+  BONUS: For every 2,000 points you score, you'll
+         recieve one extra Snowspeeder!
+
+
+GAME SELECTION BOX
+------------------
+
+The level of difficulty increases within each group of 4 games.  The higher
+the game number, the faster the Walkers approach, the more rapidly they
+fire their missiles, and the better they aim their fire.
+
+Once you've selected a game number, one of these symbols will appear on
+screen:
+..
+! indicates a one-player game
+..
+!! indicates a two-player game
+
+
+GAME NUMBERS                GAME VARIATIONS
+------------                ---------------
+
+one-player       two-player
+---------------------------
+   1      easiest   17      No Game Variations
+   2                18      No Game Variations
+   3                19      No Game Variations
+   4      hardest   20      No Game Variations
+----------------------------------------------
+   5      easiest   21      Smart Bombs
+   6                22      Smart Bombs
+   7                23      Smart Bombs
+   8      hardest   24      Smart Bombs
+----------------------------------------------
+   9      easiest   25      Solid Walkers
+  10                26      Solid Walkers
+  11                27      Solid Walkers
+  12      hardest   28      Solid Walkers
+----------------------------------------------
+  13      easiest   29      Smart Bombs & Solid Walkers
+  14                30      Smart Bombs & Solid Walkers
+  15                31      Smart Bombs & Solid Walkers
+  16      hardest   32      Smart Bombs & Solid Walkers
+
+
+
+-------------------Atari 2600 Instructions Archive-------------------

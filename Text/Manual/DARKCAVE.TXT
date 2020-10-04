@@ -1,0 +1,230 @@
+<Picture>
+
+<Picture>Dark_Cavern<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+DARK CAVERN
+
+INSTRUCTIONS
+(For 1 Player)
+
+The object of the game is to avoid the blobs, spiders and robots... and
+destroy as many of them as you can!!!  Your man is trapped in the cavern,
+there's nowhere to hide.  Escape the creatures' bites and keep away from
+robot fire.  Shoot to destroy... rack up points!  It's a bitter fight to
+the end!
+
+For Your Atari Video Game System
+
+(C) Mattel, Inc 1982.  Hawthorne, CA 90250.  PRINTED IN U.S.A.  All Rights
+Reserved.
+
+-
+
+THE GAME
+--------
+
+It's a battle for survival in an underground cavern!  You have five men. 
+They enter the cavern one at a time through the center trap door.  Once
+inside, blobs, spiders and robots begin to enter the left and right doors. 
+(Neither the creatures nor the man can exit through these doors.)
+
+Direct your man down the tunnels.  Pick up ammunition as you go.  Keep
+clear of the creatures... avoid robot fire.  Shoot to destroy!  Get hit by
+a robot's bullet... action stops.
+
+Now bring out your next man... get them before they get you!!!
+
+ ############# 0052200 ##############  <-SCORE
+ ############################# 10 ###  <-BLACK NUMBERS = BULLETS REMAINING
+ #-#-#-#-#-#-#-#-#--#-#-#-#-#-#-#-#-#    WHITE NUMBERS = MEN REMAINING
+ #           #          #           #
+ #           #          #           #
+ #   #-#-#   #   #--#   #   #-#-#   #
+ #       #                  #       #
+ #       #                  #       #
+ #-#-#   #-#-#   #--#   #-#-#   #-#-#
+ #               #--#               #
+ #               #### <-TRAPDOOR    #
+ #   #-#-#   #   ####   #   #-#-#   #
+ #   #       #          #       #   #
+ #   #       #          #       #   #
+ #   #   #   #-#-#  #-#-#   #   #   #
+         #                  #          <-CREATURE DOOR
+         #                  #       
+ #   #   #-#-#   #  #   #-#-#   #   #
+ #   #           #  #           #   #
+ #   #           #  #           #   #  
+ #   #   #   #-#-#  #-#-#   #   #   #
+ #       #                  #       #
+ #       #                  #       #
+ #-#-#-#-#-#-#-#-#--#-#-#-#-#-#-#-#-#
+
+MAN  ###   ROBOT ####  BLOB ####   SPIDER #       #  WEAPON ######### 
+   #####         ##       ####            # ##### #          ####
+  # ###  #       ####       ####           #######           ##
+  # #####         ##          ####          #####            ##
+    ###          ####       ####            #####            
+   #####           ##     ####            #########          
+ ###   #         ####       ####          #       #           
+       #                      ####        #       #         
+
+Your man starts with 20 bullets.  Every few seconds a gun flashes on the
+screen.  Land on it before it disappears and you get 10 more bullets. 
+Shoot at any of the nasty cavern creatures and you use up one bullet. 
+Watch out for the blob... run into him and he "steals" your bullets.
+
+The game ends when all five of your men are blown away by the robots!  The
+final score is displayed.  Press RESET and start again.
+
+
+THE CONTROLS
+------------
+
+Use your joystick controllers with this game.  Be sure the controller
+cables are securely plugged into the back of your game console.  Hold the
+controller so the RED BUTTON is to your upper left.
+
+
+HOW TO PLAY
+-----------
+
+CHOOSE LEVEL OF DIFFICULTY
+
+Before the game begins, set your LEFT difficulty switch to "A" or "B".  "A"
+is the more difficult level.  When you set the switch at "A", the game
+begins with four two-headed robots coming after you.  Also at level "A",
+when you destroy a robot, a new one takes its place faster.  At level "B"
+the game begins with one-headed robots.
+
+ENTER THE CAVERN:
+
+The game begins with your first man at the center trap door.  Push up on
+the joystick and he enters the cavern.  The door locks behind him... he is
+trapped in the cavern!!!
+
+After your man is blasted by the robot, your next man is peering through
+the trap door.  Push up on the joystick to get the man into the cavern...
+the fight begins again!
+
+MOVE YOUR MAN:
+
+Move your man by pushing on the JOYSTICK.  You can make him move in four
+different directions.  You can quickly change the direction the man is
+running.  After you push the joystick, the man continues to move in that
+direction until he runs into the side of a tunnel.
+
+SHOOT THE GUN:
+
+The man's bullets will destroy all the creatures and the robots.  To fire
+off a shot you need to do two things.  Push the JOYSTICK in the direction
+you want the bullet to go and press the RED BUTTON.  The man is also moving
+in the same direction, so shoot and retreat quickly.  Important:  You can
+only fire off one shot at a time.  Once your bullet disappears from the
+screen, you can fire again.
+
+
+RULES OF THE CAVERN
+-------------------
+
+MEN:  You start off with 5 men.  Each man can run and shoot.  When you lose
+a man, the next man appears at the trap door in the center of the cavern. 
+A white number briefly shows in the upper right corner of the screen.  This
+tells how many men you have left.
+
+Each time you destroy a yellow robot you get another man.  But you can only
+have a maximum of 9 men at a time.  When your last man is blown away by
+robot fire, the game is over.
+
+GUN:  The gun is the man's main defense in the creature infested cavern. 
+When the game begins, the man has 20 bullets.  Every few seconds a gun
+flashes on the screen.  If the man lands on it before it disappears, he
+gets another 10 bullets.  You can only have a maximum of 99 bullets at a
+time.  The black numbers in the upper right corner tell how many bullets
+are left.
+
+SPIDERS:  Spiders creep through the cavern ready to "bite" the man. 
+Whenever the two come in contact, the man is paralyzed for a few moments. 
+When this happens, he cannot run or fire his gun.  He is a sitting duck for
+the robot!
+
+BLOBS:  Blobs slink around the tunnels.  Their purpose is to catch the man
+and steal his bullets.  The longer the man touches the blob the more
+bullets he will lose.  Get away quick!
+
+ROBOTS:  There are two types of robots that roam the cavern tunnels: 
+One-headed and two-headed robots!
+
+One-headed robots can only shoot bullets in front of themselves.  The man
+can sneak up from behind and blast away!  At level "B", the game begins
+with the one-headed robots after the man!
+
+Two-headed robots look forward and backward and shoot in front of
+themselves and behind!  Two-headed robots appear when your score reaches
+20,000 (and at the beginning of level "A").
+
+The one- and two-headed robots each come in four colors.  All robots are
+one color at a time.  Different colors are worth different points.  Point
+values are listed below.
+
+Start the game with purple robots.  Shoot one and the rest turn red.  Shoot
+another before a new robot takes its place, and all robots turn green. 
+Shoot another before any new robots appear and the last robot is yellow. 
+Once a new robot enters the cavern, all robots turn purple again.  You have
+to be fast to get to the high point robots!
+
+IMPORTANT: Robots can shoot even after they have been shot!  So watch
+out... get out of their line of fire!!!
+
+
+SCORING
+-------
+
+Spider               Zero points
+Blob                 Zero points
+Purple Robot         1000 points
+Red Robot            2000 points
+Green Robot          3000 points
+Yellow Robot         5000 points plus another man!
+
+
+WINNING TIPS
+------------
+
+* Wait at a corner - when a robot is in target range, fire!  Quickly move
+  around the corner to dodge his bullet!
+
+* When a new man enters the trap door, wait until it's safe to enter the
+  cavern.
+
+* As soon as a gun appears in the cavern, go after it!  It disappears
+  quickly!
+
+IMPORTANT: Be sure to turn your game unit off when not in use.
+
+                                                                         cd
+
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

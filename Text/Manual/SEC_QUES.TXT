@@ -1,0 +1,326 @@
+                      ATARI (R) 2600 (R) Game Manual
+
+                            SECRET QUEST (TM)
+
+By Nolan Bushnell
+Video game designer
+and Atari Pioneer.
+
+Every effort has been made to ensure the accuracy of the product
+documentation in this manual. However, Atari Corporation is constantly
+improving and updating its computer hardware and software, it is
+unable to guarantee the accuracy of printed material after the date of
+publication and disclaims liability for changes, errors, or omissions.
+
+Reproduction of all or any portion of this manual is not allowed
+without the specific written consent of Atari Corporation.
+
+Atari (R), the Atari logo, 2600 (R), 7800 (TM) and Secret Quest (TM)
+are trademarks or registered trademarks of Atari Corporation.
+
+ATARI (R)
+Copyright (C) 1989, Atari Corporation.
+Sunnyvale, CA 94086. All rights reserved.
+
+
+TABLE OF CONTENTS
+
+SAVE THE HUMAN RACE! .................. 1
+  Getting Started ..................... 1
+
+PLAYING THE GAME ...................... 2
+  Your Quest .......................... 2
+  Moving Around the Stations .......... 2
+  Finding and Using Objects ........... 3
+    Weapons ........................... 3
+    Oxygen Bottles and Energy Pods .... 4
+    Sonic Keys ........................ 4
+  Status Screen ....................... 5
+  Destroying a Station ................ 6
+
+SAVING A GAME ......................... 7
+  Save ................................ 7
+  Restart ............................. 7
+
+STRATEGY .............................. 8
+
+SCORING ............................... 9
+
+
+SAVE THE HUMAN RACE!
+
+First there was one alien space station, then there were three. Now
+there are eight. If left unchecked, laser gates, dragons, and other
+evil creatures will wipe out the human race.
+
+To destroy each station, you'll have to confront the aliens in
+face-to-face combat and discover the secret destruct code. Once you
+have the code, use it to activate the station's self-destruction
+mechanism. Then the race begins. Can you get to the teleport room
+before the station explodes into the vacuum of space?
+
+Are you ready? Remember, you'll need precision battle skills, a keen
+sense of direction, speed, and pure guts to save the human race.
+
+
+Getting Started
+
+1. Insert the Secret Quest cartridge into your Atari 2600 or 7800
+   console as explained in your Owner's Manual.
+
+2. Plug a controller into the left controller port.
+
+3. Switch on your television. Then push the 2600's [Power] switch to
+   the ON position. The Secret Quest title screen will appear.
+
+4. Enter your initials by moving the directional control on your
+   controller up or down until the letter you want appears and left or
+   right to move between the two entry positions. You must enter both
+   initials in order to start the game.
+
+5. Press [Reset] or the fire button to start play. During play, you
+   can press [Reset] to return to the title screen.
+
+
+PLAYING THE GAME
+
+Your Quest
+
+Destroy all eight alien space stations. The secret orders you received
+list basics on how to destroy a station. The rest is up to you.
+
+1. Search through the rooms and find the secret destruct code on each
+   level.
+
+2. Find the self-destruction mechanism and activate it by entering the
+   secret destruct code(s).
+
+3. Race to the teleporter room and escape the alien station before it
+   explodes. The teleporter automatically sends you to the next station.
+
+Along the way you pick up weapons and other objects and fight alien
+creatures such as Spinner and Dragon. Fighting aliens takes precious
+oxygen and energy, which you can replenish each time you destroy all
+aliens in a room.
+
+The game ends when you destroy all eight stations, run out of oxygen,
+or don't make it to the teleporter room in time after activating the
+self-destruct mechanism. When the game ends, the title screen appears
+with your total score.
+
+
+Moving Around the Stations
+
+Use the directional control to move around the stations. Each time you
+pass through a door the screen changes to show the next room.
+
+
+Finding and Using Objects
+
+If you're good, you will find weapons, oxygen bottles, energy pods,
+and sonic keys. To pick up an object, walk over to it and touch it.
+You will be able to pick up all objects you find, but you can have
+only one active weapon or sonic key. You can change the active
+weapon/sonic key from the status screen as described in Status Screen.
+To use an active object, press the fire button.
+
+
+Weapons
+
+{pictures of Energy Sword, Sonic Blaster, Particle Beam}
+
+You will need weapons to fight the aliens. There are three weapons to
+find: the energy sword, sonic blaster, and the particle beam. When you
+touch your first weapon, it appears in your hand as the active weapon.
+
+Press the fire button to use the active weapon. You may have to zap an
+alien a number of times to destroy it.
+
+Each weapon has a strength and energy value. Stronger weapons do more
+damage to the aliens. When you use a weapon, you lose energy units.
+
+The following chart shows the strength and energy depletion value of
+each weapon type.
+
+                Strength   Energy
+Weapon           Value      Used
+---------------------------------
+Energy Sword       2         1
+Sonic Blaster      4         2
+Particle Beam      8         4
+
+
+Oxygen Bottles and Energy Pods
+
+{pictures; Oxygen Bottles look like seltzer bottles, Energy Pods are
+rounded rectangles with an intermittent spark}
+
+Each time you destroy a room full of aliens, an oxygen bottle or
+energy pod appears. Touch these objects to replenish lost oxygen and
+energy. Fighting aliens depletes energy and/or oxygen. Exploring
+depletes oxygen at the rate of one oxygen bottle every minute. The
+game ends if you run out of oxygen. If you run out of energy, the game
+continues, but you will not be able to use any weapons until you find
+more energy.
+
+Indicator bars at the bottom of the screen show how much energy and
+oxygen you have. Each mark on the indicator equals 16 units of energy
+or one bottle of oxygen.
+
+
+Sonic Keys
+
+{picture of Sonic Key, looks like a horn}
+
+Sonic doors appear throughout the space stations. In order to open a
+sonic door, you must have a sonic key. These keys are scattered around
+the stations. When you come to a sonic door, make sure the sonic key
+is active, then press the fire button to open the door and reveal a
+secret stairway. Activate a sonic key from the status screen as
+explained under Active Object in the next section. Each sonic key can
+only be used once.
+
+
+Status Screen
+
+You can look at the status screen any time during the game by pushing
+the [TV Type] switch on the 2600 console up and down. To return to the
+game screen, push the [TV Type] switch up and down again. On the Atari
+7800 switch between the game and status screens by pressing [Pause].
+
+The status screen shows the following:
+
+o  Current Station When you destroy a station, it disappears from the
+   status screen. The current station flashes.
+
+o  Current Level A stack of bars indicate how many levels the current
+   station contains. The current level flashes.
+
+o  Active Object The active object is either a weapon or a sonic key.
+   To change active objects, press the fire button until the object you
+   want appears.
+
+o  Re-entry Code If you want to exit the game so you can return later
+   at the same station, write down this code so you can restart at the
+   status screen. (See Saving a Game for more information.)
+
+{screen shot}
+
+
+Destroying a Station
+
+Your secret orders specify the following procedure for destroying a
+station. The procedure is dangerous and risky, but it's the only known
+way to destroy these evil space stations.
+
+1. On each level of a station, look for a code symbol. (Station 1 has
+   only 1 level; all others have multiple levels.) To move to different
+   levels within a station, use the stairs and sonic doors. You might
+   want to write down the code(s).
+
+2. When you have found the codes on all levels of a station, search
+   for a room with a flashing horizontal bar. This room contains the
+   self-destruction mechanism. When you arrive at this room, move the
+   directional control forward to display codes and left or right to move
+   between the entry positions. Be sure to enter the codes in the correct
+   sequence.
+
+3. When you have entered all codes, press the fire button, and race to
+   the teleporter room. A number countdown appears to show you how many
+   seconds you have to make it.
+
+4. When you arrive at the teleporter room, touch the teleporter to
+   escape the station before it explodes into smithereens. Once you touch
+   the teleporter you are transported to the next station.
+
+{picture of a Teleporter, looks like a glowing tube}
+
+
+SAVING A GAME
+
+You can leave a game in progress and start again later at the same
+station with the points you've already earned. Any number of games can
+be left and resumed, as long as each game is started with a different
+set of initials.
+
+
+Save
+
+To leave a game you wish to restart later, follow these steps:
+
+1. Note the initials you entered when you started the game.
+
+2. On the 2600 push the [TV Type] switch up and down to display the
+   status screen. On the 7800 push [Pause].
+
+3. Write down the re-entry code sequence that appears at the bottom of
+   the screen.
+
+4. Continue playing or switch off your system.
+
+
+Restart
+
+Follow these steps to restart a game:
+
+1. Start a new game.
+
+2. Enter your initials. You must enter the initials you used when you
+   started the game you want to resume.
+
+3. When the game screen appears (the first room of station 1), push
+   the [TV Type] switch (or [Pause] on a 7800) to display the status
+   screen. You can only restart the game from the first room of station 1.
+
+4. Push [Select] to begin changing codes. (The first code will flash.)
+
+5. Move the directional control forward or backwards to change codes
+   and left or right to move between the codes. Be sure to enter the
+   codes in the correct sequence.
+
+6. Push [Select] to return to the game screen at the previous level.
+
+
+STRATEGY
+
+Learn your way around the stations by drawing a map as you go.
+
+If you are in a multi-level station, write down the code you find on
+each level so you will be able to remember the entire code when you
+enter the room containing the self-destruction mechanism.
+
+Avoid losing all of your energy. If you lose all of your energy, you
+can't use a weapon. If you can't use a weapon to destroy aliens, you
+will not be able to get oxygen. If you can't get oxygen, you will not
+live long. Neither will the human race.
+
+
+SCORING
+
+The following list shows the number of points you earn each time you
+destroy an alien.
+
+Dragon ...................................... 750 points
+Snake ....................................... 700 points
+Firecracker {short, sparks from antenna} .... 650 points
+Ghost ....................................... 600 points
+Stomper {smiling stick-figure} .............. 550 points
+Squid ....................................... 500 points
+Medusa ...................................... 400 points
+Spinner {two rotating balls} ................ 350 points
+Floater {diamond, eye in center} ............ 250 points
+Machine {on treads} ......................... 200 points
+Chopper {prop on top} ....................... 150 points
+Potato Man {brown with legs} ................ 100 points
+Bear Trap {snapping jaws} ...................  50 points
+
+
+
+ATARI (R)
+Copyright (C) 1989, Atari Corporation.
+Sunnyvale, CA 94086. All rights reserved.
+
+Printed in Hong Kong.         N.C.4.89. C300016-170 Rev. A
+
+
+

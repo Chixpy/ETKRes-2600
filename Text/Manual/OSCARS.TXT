@@ -1,0 +1,455 @@
+CCW(TM)* Indicates trademark of MUPPETS, INC.
+CHILDREN'S COMPUTER WORKSHOP
+AN ACTIVITY OF CHILDREN'S TELEVISION WORKSHOP
+
+ATARI(R) 2600(TM)
+
+OSCAR'S TRASH RACE(TM+) +Indicates trademark of MUPPETS, INC.
+FOR CHILDREN AGES 3-7
+
+CTW SESAME STREET (TMo)
+
+ATARI AND CHILDREN'S COMPUTER WORKSHOP(TM*) PRESENT:
+
+Educational games featuring the lovable Sesame Street Muppets and other
+wonderful, whimsical characters.  The creators of Sesame Street, Electric
+Company, and 3*2*1 Contact have teamed up with the creators of the world's
+most popular video games.
+
+ATARI/CCW(TM*) games are designed by writers, artists, programmers, educators,
+psychologists, and lots of kids!
+
+OUR FORMULA: One Part Creative Magic + One Part Technical Wizardry +
+One Part Educational Know-How = Dynamic, Child-Appropriate Video Games!
+
+ATARI/CCW Video Games Provide:
+* Family Play
+* Continuous Challenge
+* Long-Term Fun
+* Nonviolent Play
+* Opportunity for Cooperative Play, Individual Play, and Competitive Play
+* Appeal to Both Girls and Boys
+
+This Video Game Product was developed by ATARI, INC. and the CHILDREN'S
+COMPUTER WORKSHOP
+(C) 1983 ATARI, INC.  All Rights Reserved
+(C) 1983 CHILDREN'S COMPUTER WORKSHOP, INC.  All Rights Reserved.
+Muppet Characters (C) 1983 MUPPETS, INC.  All Rights Reserved.
+Featuring the JIM HENSON(TM#) SESAME STREET(TMo) MUPPET(TM#) Characters.
+* Indicates trademark of CHILDREN'S COMPUTER WORKSHOP, INC.
+o Indicates trademark of CHILDREN'S TELEVISION WORKSHOP.
++ Indicates trademark of MUPPETS, INC.
+# Indicates trademark of HENSON ASSOCIATES, INC.
+
+Table of Contents
+[Drawing of used toothbrush] Note to Parents.............................1
+[Drawing of patched beachball] Setting Up................................2
+[Drawing of apple core] A Read-Aloud Story...............................4
+[Drawing of old sneaker] Game Play ......................................9
+[Drawing of banana peel] I Love Trash...................................14
+[Drawing of bent hangar] More Fun With Oscar............................15
+[Drawing of hat with hole in it] Game Matrix............................21
+[Drawing of Oscar in his trash can]
+
+[Used toothbrush] Note to Parents
+OSCAR'S TRASH RACE provides an exciting urban setting for practicing a variety
+of numerical skills and concepts as well as important prereading skills.
+These include:
+[Picture of 3 cups under a trash can with the number 3 on it]
+1) Counting objects and matching the number of objects counted with its
+corresponding numeral.
+2) Recognizing the number of objects in a pattern.
+[Picture of four arrows in circles pointing up, down, left and right]
+3) Following directional arrows
+4) Using the relational concepts up, down, left, and right.
+
+When you play OSCAR'S TRASH RACE with your child you can reinforce numerical
+concepts by talking about the game as you play.  Say the names of the numbers
+out loud and encourage your child to say them too.
+
+As you read this manual, from time to time you will see this symbol:
+[Abstract drawing of a parent with arm around child]
+The symbol will be followed by suggestions to help you and your child get the
+most fun out of playing OSCAR'S TRASH RACE.
+
+[Drawing of Oscar in his trash can pointing at the text, and 3 little walking
+trash cans with feet sticking out of the bottom.
+
+[Patched beach ball] Setting Up
+
+HOW TO USE YOUR ATARI(R) KID'S CONTROLLER
+
+Use your ATARI KID'S CONTROLLER to play OSCAR'S TRASH RACE.
+
+Plug the ATARI KID'S CONTROLLER into the LEFT controller jack at the back of
+your ATARI 2600(TM) console.  (See Figure 1.)  In two-player games, players
+take turns using the controller as each person's turn comes up.  The computer
+keeps score automatically.
+[Drawing of the back of the 2600]
+Figure 1 - Plugging in the Controller
+[Drawing of Oscar, inside his trash can, putting the overlay on the kid's
+controller]
+Figure 2 - Keypad Overlay
+
+You will find one keypad overlay included with this game.  This colorful
+overlay will help your child select and use appropriate buttons during game
+play.  Slip the overlay tabs into the slots at the top and bottom of your
+ATARI KID'S CONTROLLER, as shown in Figure 2.
+
+NOTE: Always turn the console POWER switch OFF before inserting or removing an
+ATARI Game Program(TM) cartridge.  This will protect the electronic components
+and prolong the life of your ATARI 2600 Video Computer System(TM) cartridge.
+
+HOW TO USE THE ATARI 2600 CONSOLE CONTROL SWITCHES
+
+POWER ON/OFF SWITCH
+
+After you have inserted the Game Program cartridge, move the POWER ON/OFF
+switch to ON.
+
+GAME SELECT SWITCH
+
+OSCAR'S TRASH RACE contains seven exciting game levels.  Find the game number
+you want to play in the GAME MATRIX on the back cover.  Press the GAME SELECT
+switch until the game number appears at the lower left of the television
+screen.  (See Figure 3.)  The number on the right indicates the number of
+players for that game.  For a detailed description of each game, see GAME
+PLAY.
+
+[Screen shot]
+Figure 3 - Selecting a Game
+
+GAME RESET SWITCH
+
+After you have chosen the game level you want to play, press GAME RESET to
+begin the game.  You can also press GAME RESET during game play or after a
+game ends if you want to start the same game over.
+
+DIFFICULTY SWITCHES
+
+RIGHT and LEFT DIFFICULTY switches are not used in this game.
+
+TV TYPE SWITCH
+
+Set the TV TYPE switch to COLOR to play the game on a color TV.  Set this
+switch to B/W to play on a black and white TV.
+
+[Apple core] A Read-Aloud Story
+[Drawing of a road, with 2 candy cane poles along the sign, with a banner in
+between them saying "THE GROUCH DAY PICNIC".  A wooden sign points to the CITY
+DUMP.  Trash lies along side the road.  A city skyline is in the distance.]
+
+It was the morning of the annual Grouch Day Picnic.  The weather was perfect:
+cloudy, cold, and dreary.  Little grouches from all over the country came to
+the picnic, which was held at their favorite spot: the scenic city dump.  The
+little grouches ate peanut butter and pickle sandwiches, showed off their junk
+collections, told grumpy stories, and played grouch games.  But the high point
+of the day was the Trash Race, a game invented by Oscar the Grouch and his pet
+worm Slimey.
+
+[Drawing of Oscar blowing his broken bugle, inside his trash can]
+When Oscar blew his broken bugle, the race began.  The three grouchiest
+grouches got to play first.  They lined up at the back of the dump and waited
+for the start signal.  "Blaat!" went Oscar's trumpet.  "Here comes the trash
+truck!" yelled the spectators in the grouch gallery.
+
+[Drawing of dump truck dumping trash]
+The three grouches waited nervously while a trash truck slowly backed into the
+dump.  Out poured the trash: one, two, three, four - four old tin cans.  Each
+grouch counted carefully and checked the number on his can to see if it
+matched.  "It's Herman!" yelled someone in the crownd.  "No, I think it's
+Grungetta!" yelled another.  But they were both wrong.  The Grouch with the
+number four on her can was Sloppy.
+
+"It's me!  It's me!" shouted Sloppy as she started racing to the trash.  She
+knew she had to grab the trash and make it back to the starting line before
+Slimey reached the other end of the dump.
+
+[Picture of Oscar yelling at the trash race contestants.]
+"Go Sloppy!" yelled the crowd.  "Go Slimey!" shouted Oscar the Grouch.  Sloppy
+raced through the muddy junk yard leaping over puddles and potholes as fast as
+her little green legs would go.  By the time she reached the trash pile,
+Sloppy really lived up to her name: She was covered with mud from head to toe.
+Sloppy quickly grabbed the trash and ran back toward the starting line.  It
+was a close race!  Slimey was only a slither away.  But the thought of the
+grand prize gave Sloppy an extra burst of energy and she slid across the
+starting line before Slimey got to the far edge of the dump.
+
+[Picture of Oscar giving Sloppy an icky sardine sundae.]
+"Hurrah!" yelled all the grouches.  "Boo!" yelled Oscar.  Sloppy stepped up to
+Oscar's can to receive her prize.  It was a delicious, icky sardine sundae.
+
+That day the little grouches ran several more races.  They simply loved racing
+for [cracked plate] cracked plates, [old shoe] old shoes, [apple core] apple
+cores, [letters] junk mail, used [2 toothbrushes] toothbrushes, crumpled tin
+[crumpled tin can] cans, and other wonderful junk. [Hat with bite out of it,
+banana peel, patched beach ball, bent hangar, cracked teapot.]
+
+Of course, some of the little grouches liked playing in the puddles that
+covered the dump as much as getting the trash!
+
+After the Trash Races, the grimy participants celebrated by eating more peanut
+butter and pickle sandwiches and talking about especially rotten aspects of
+the games.  At the end of the day, everyone agreed that a grouchy time was had
+by all!
+[Picture of the gang eating PB & P]
+
+[Picture of old shoe] Game Play
+[Picture of Oscar in his can]
+
+NOW PLAY OSCAR'S TRASH RACE...HERE'S HOW:
+
+All the little grouches want to show Oscar how fast they can count and collect
+trash.  You can help them.
+
+OBJECT OF THE GAME:
+
+Help the little grouches count the trash, run to it, load it up, and return to
+the starting line as quickly as possible.  Each time you finish a race you get
+one point.
+
+GET READY TO PLAY:
+
+Follow the directions in SETTING UP to plug in the KID'S CONTROLLER, to use
+the keypad overlay, and to select a game level.
+
+To select a little grouch, press one of the three grouch buttons on your kepad
+overlay.
+[3 pictures of the trash can overlay button]
+
+If you pick a grouch whose number doesn't match the number of trash pieces, a
+buzzer sounds.
+
+To move the grouch down toward the trash, press the arrow that points down:
+[Picture of down arrow overlay button]
+
+To move the grouch to the left, press the arrow that points left:
+[Picture of left arrow overlay button]
+
+To move right, press the arrow that points right:
+[Picture of right arrow overlay button]
+
+To make the grouch jump, press the jump button on your overlay
+[Picture of trash can with 2 red feet below, with lines indicating jumping]
+
+To move the grouch back up to the starting line, press the arrow that points
+up.
+[Picture of up arrow overlay button]
+
+GAME VARIATIONS
+
+OSCAR'S TRASH RACE contains seven action-packed game levels.  Below are
+detailed descriptions of each.  For quick reference see the GAME MATRIX on the
+back cover.
+
+GAME 1: ONE-PLAYER PRACTICE GAME
+[Picture of yellow trash can with purple feet, with the number 1 in the upper
+left hand corner]
+
+The trash truck dumps out one to five pieces of trash, one piece at a time.
+First count the trash as it drops.  Then look at the grouches.  The correct
+number appears on one of the grouch cans.  Select that little grouch by
+pressing the grouch button on your overlay which corresponds to the grouch's
+position.  To help the grouch get to the trash as quickly as possible, press
+the left, right, and down arrows.  Then move the grouch back up to the
+starting line by pressing the up arrow.  (See Figure 4.)  The little grouch
+runs as fast as his furry legs can go - what fun it is to load up on that
+nice, yucky trash!  There are three races to a game.  You receive one point at
+the lower left side of the screen each time you finish a race.  After three
+races, Oscar the Grouch makes his magnificent appearance!
+
+[Screen shot of game play, pointing out Starting Line at top of screen, and
+the Running Grouch (trash can with feet)]
+Figure 4 - Grouch On The Run
+
+[Parent/child picture]
+Young children may need help counting objects.  Encourage your child to point
+to the screen and count each piece of trash out loud as it falls.
+
+GAME 2: ONE-PLAYER BEGINNING GAME
+[Picture of yellow trash can with red feet, the number 2 in the upper left
+hand corner.]
+
+Again, the dump truck throws out one to five pieces of trash, one piece at a
+time.  But now all the cans of the little grouches are numbered, so you must
+count the pieces of trash and decide which grouch has the same number on his
+can.  Press the corresponding grouch can on your overlay to select that
+grouch.  Then press the right, left, and down arrows to help the grouch get to
+the precious trash as quickly as possible.  As soon as you've loaded up the
+trash, press the arrow that points up to run back to the starting line.  You
+receive one point each time you complete a race.  After three races, Oscar
+appears and congratulates you in his own grouchy manner.
+
+GAMES 3 AND 4: ONE- AND TWO-PLAYER JUMP GAMES
+[Picture of yellow trash can with green feet, and a brown puddle.  The number
+3 is in the upper left hand corner]
+[Picture of yellow trash can with red feet, and a brown puddle.  The number 4
+is in the upper left hand corner]
+
+Now the truck dumps one to nine pieces of trash on the ground.  Select the
+grouch whose number matches the number of pieces of trash, and press the
+arrows on your overlay to make him run!  In game 3 there are three puddles on
+the race course.  In game 4 the rececourse[!] is covered with many messy
+puddles.  When the running grouch gets to a puddle, you should either press
+the jump button on your keypad overlay to help him jump over or use the arrows
+to walk around the puddle.  You get one point for every puddle you jump.
+Also, the grouches get down to the trash and return to the starting line
+faster when you make them jump over puddles.  Once a grouch's toes touch a
+puddle, she or he can't resist playing in the muck, as shown in Figure 5.
+Just watch those little feet get covered with mud!
+
+[Picture shows yellow trash can with purple feet and the number 3 on it in 
+a puddle]
+Figure 5 - Grouch in a Puddle
+
+After three races in Game 3 and five races in Game 4, Oscar the Grouch shows
+his grouchy face.  In two-player games, the second player takes over the
+controller to run races after the first player finishes.  The number at the
+lower left side of the screen totals the first player's points and the number
+at the lower right side totals the second player's points.
+
+GAME 5: ONE- AND TWO-PLAYER TIMED RACES
+[Picture shows a yellow trash can with blue feet, a brown puddle, an
+inchworm, and the number 5 in the upper left hand corner]
+
+Take the little grouches on as many races as you can before Slimey the Worm
+reaches the other side of the dump.  See Slimey at the bottom of the screen?
+(Figure 6.)  He slowly crawls from one end of the dump to the other end where
+Oscar awaits news of the races.  When Slimey reaches Oscar, time is up, the
+game ends, and Oscar appears.
+
+[Screen shot shows game play.  Slimey the Worm is pointed out]
+Figure 6 - Timed Game
+
+The truck dumps all the trash out at once and there are lots of puddles.  Try
+to make the grouches jump over or run around these mudholes.  If their toes
+touch that gooshy mud, they will hop in and play.  You get one point for every
+puddle you leap and one point for each race you complete.  In two-player
+games, the second player runs as many races as possible after time is up for
+the first player.
+
+[Picture of parent/child symbol]
+You may want to draw your child's attention to Slimey the Worm on the screen,
+and explain that when Slimey reaches the far right edge of the screen, the
+game ends.
+
+GAMES 6 AND 7: ONE- and TWO-PLAYER RAINY DAY GAMES
+[Picture shows yellow trash can with brown feet, a blue puddle, and an
+inchworm.  The number 6 appears in the upper left hand corner.]
+[Picture shows yellow trash can with green feet, a blue puddle, and an
+inchworm.  The number 7 appears in the upper left hand corner.]
+
+Pay close attention and help the runners leap over all the mucky puddles on
+the racecourse.  Remember, whenever a grouch gets into a puddle, the race is
+delayed while the little grouch plays.
+
+During these races, the sky darkens and rain falls on the runners.  When it
+rains, the puddles fill up with blue rain water.  If you jump over a puddle
+when it is blue, you score two points.
+
+There are one to nine pieces of trash which are dumped all at once.  Slimey
+times the game.  In two-player games, each player runs as many races as
+possible before time is up.
+
+In Game 7 everything moves really fast because the little grouches have their
+speed up from all the practice they've gotten.
+
+[Picture of banana peel] I Love Trash
+As you play OSCAR'S TRASH RACE, watch for the following pieces of trash:
+
+BONE [White diagonal with perpendicular ends]
+HANGER [White, bottom is yellow]
+MUG [White rectangle with a handle near the top on the right side]
+TOOTHBRUSH [Thin blue line with white rectangle on top left side]
+TIN CAN [Grey rectangle, with diagonal line off top, and red rectangle in the
+middle]
+TELEVISION [Brown rectangle with white rectangle inside, and two white circles
+for knobs]
+HAT [Yellow ten-gallon hat, with black where hat meets brim]
+PHONE [Blue rotary phone]
+TENNIS SHOE [Blue blob with black on the bottom and part of the top]
+SHOE [Red blob with black on the bottom and part of the top]
+ENVELOPE [White square with a black V inside the top half]
+SCISSORS [Thin grey rectangle with 2 circles at the bottom.  This looks as if
+it belongs in the Bachelor Party manual]
+BOAT [White triangle sail, blue hull]
+HAMMER [Grey handle, black business end]
+BEACH BALL [Circle with two yellow quarters, a blue quarter and a red quarter]
+
+More Fun With Oscar [Picture of a bent blue hanger]
+The Grouch Picnic
+
+Oscar and the little grouches are getting ready to eat a yucky picnic lunch.
+What you you think they will eat?  Draw the lunch.  Color the picture.
+[Picture in black outline suitable for coloring, shows Oscar in his trash can,
+with a blanket for the picnic, a bunch of trash, trees, bushes, plants, a CITY
+DUMP sign and a skyline]
+
+What happened first?
+
+Here are some pictures from OSCAR'S TRASH RACE.  What happened in each
+picture?  Can you find what happened first?  What happened next?  What
+happened last?  Now tell a story about what happened in the race!
+
+[Picture shows a closed trash can with purple feet]
+[Picture shows Oscar in his trash can]
+[Picture shows garbage truck dumping garbage]
+[Picture shows garbage on the ground]
+
+Trash Match
+
+Each little grouch has a number on his can.  The number tells you how many
+pieces of trash he or she will get.  Draw a line from the grouch to the pieces
+of trash he or she will get.
+
+[Picture shows an orange little grouch in a silver can with a 3 on it, a red
+little grouch in a silver can with a 4 on it, and a yellow little grouch in a
+silver can with a 1 on it.  At the bottom are 3 tin cans, a teapot, and 4
+toothbrushes]
+
+Oscar's Scavenger Hunt
+
+Oscar wants to fix up his home.  Here he is at the city dump looking for
+fabulous junk.  Help him find; one Slimey the worm, two sardine ice cream
+cones, three yucky balloons, four little grouches, five banana peels, six old
+shoes, and seven tin cans.
+
+[Picture shows another picture of the CITY DUMP, with a bunch of junk.  The
+picture is signed by GUS ALLEN]
+
+[Picture of a red hat with brown brim and a bite taken out]  Game Matrix
+
+[Picture of yellow trash can with purple feet, with the number 1 in the upper
+left hand corner]
+[Picture of yellow trash can with red feet, the number 2 in the upper left
+hand corner.]
+[Picture of yellow trash can with green feet, and a brown puddle.  The number
+3 is in the upper left hand corner]
+[Picture of yellow trash can with red feet, and a brown puddle.  The number 4
+is in the upper left hand corner]
+[Picture shows a yellow trash can with blue feet, a brown puddle, an
+inchworm, and the number 5 in the upper left hand corner]
+[Picture shows yellow trash can with brown feet, a blue puddle, and an
+inchworm.  The number 6 appears in the upper left hand corner.]
+[Picture shows yellow trash can with green feet, a blue puddle, and an
+inchworm.  The number 7 appears in the upper left hand corner.]
+
+[Picture of inchworm] GAME LENGTH INDICATOR
+[Brown puddle] PUDDLE JUMP GAME
+[Blue puddle] RAINY DAY GAME
+
+Games 1 & 2: One-Player Game Only
+Games 3-7: One-Player & Two-Player Games
+
+[Fuji]
+ATARI(R)
+ATARI, INC. Consumer Division
+1312 Crossman, P.O. Box 61657
+Sunnyvale, CA  94086
+
+A Warner Communications Company [Warner symbol]
+
+CO19741-101  REV. A  26101
+(C) 1983 ATARI, INC.  All Rights Reserved  Printed in U.S.A.
+
+

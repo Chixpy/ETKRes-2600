@@ -1,0 +1,344 @@
+<Picture>
+
+<Picture>Astroblast.html<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+ASTROBLAST
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSTRUCTIONS
+
+
+
+
+(1 Player vs. Computer)
+
+
+
+Hit as many falling, fast-moving targets as you can.  Move your laser
+base to avoid being hit yourself.  Keep shooting as long as your bases
+last, and try for a great Peak Score!
+
+
+
+
+
+For You Atari* Video Game System
+
+
+
+
+
+C Mattel, Inc.  1982 Mattel Canada, Inc., Toronto, Ontario, Canada.  M8Z 5R5
+
+*ATARI is a trademark of ATARI INC.
+
+
+
+
+
+THE GAME
+
+
+
+
+
+You start with 10 laser defense bases.  Several things fall from the
+sky:  rocks, spinning white bombs, "smart" guided missiles and - when
+your score goes over 20,000 - UFO bombs.  If your active laser is hit
+OR a spinner lands, you lose that base.  You get another base whenever
+your peak score goes up 1,000 points.  As the score goes higher more
+targets appear - falling faster.
+
+
+
+
+
+CONTROLLERS
+
+
+
+
+
+Use joysticks or one paddle controller.  The paddle moves the base
+faster, and we recommend it for a better game.  Plug paddles or
+joystick into LEFT CONTROLLER jack.
+
+
+
+
+
+
+ Joystick                                                          Paddle
+---------                          []                              -------
+|o      |                      []  []  []                         [|  _  |
+|       |                        [][][]                         /____/ \____\
+|<- O ->|               <--    [][]  [][]    -->                \  |  O  |  /
+|       |                        [][][]                            |     |
+|       |                      [][][][][]                          |     |
+---------                    []  []  []  []                        \_____/
+Move Left                                                         Move Left
+Move Right                                                        Move Right
+
+Press red button to shoot ... hold in for repeat firing.
+
+
+
+
+
+
+
+DIFFICULTY SWITCHES
+
+
+
+
+
+RIGHT SWITCH:  Set at "B" to play game at regular skill level.  Set at
+"A" to play at accelerated speed (same pace and targets as if score
+were over 50,000).
+
+
+
+
+
+LEFT SWITCH:  Set at "B" for manual firing mode.  Set at "A" for
+automatic firing.  NOTE:  Switches can be changed during the game.
+
+
+
+
+
+ACTION!
+
+
+
+
+
+TO START THE GAME, DEPRESS RESET SWITCH, THEN PRESS CONTROLLER BUTTON.
+
+
+
+
+
+Move your active laser base to get directly under a target, then fire
+your laser.  Avoid being hit by any falling object.
+
+
+
+
+
+The number at lower right shows how many laser bases you have.  You get
+a new base whenever your peak score increases 1,000 points.
+
+
+
+
+
+NOTE:  If your score goes down, then rises, you don't get an extra base
+when you pass your old peak level.  You must advance another 1,000
+points to win a bonus base.
+
+
+
+
+
+WHEN ALL BASES ARE LOST, THE GAME ENDS AND YOUR PEAK SCORE APPEARS.
+
+
+
+
+
+TARGETS
+
+------------------------------------------------------------------------
+
+
+      OO  OO
+      OOOOOO  OO      Rocks ... A small rock gives you twice as many points
+      OOOOOOOO                  as a big one.  And small rocks that land
+    OOO  OOOOOO                 unhit cost you twice as many points.  When
+    OOOO  OOOOOO                big rocks are hit they usually split in two.
+      OOOOOOOOOOOO
+  OOOOOOOOOOOOOO
+    OOOOOOOOOO  OO
+  OOOOOO  OOOOOO         OOOOOOOO
+    OOOO  OOOO       OOOO    OOOO
+      OOOOOOOO       OOOOOOOOOOOOOOOO
+        OOOOOO               OOOO
+      OO    OO           OOOO
+        OOOO
+
+------------------------------------------------------------------------
+
+              OO
+              OO
+      OOOOOOOO     Spinners ... If a spinner lands, it costs you one laser
+      OO  OO                    base.  Spinners make audible alarm signals.
+    OOOOOOOO
+  OO
+  OO
+
+------------------------------------------------------------------------
+
+      OO
+      OO
+    OOOOOO      Pulsars ... These guided missiles try to home in on your
+  OOOOOOOOOO                base, and change course as they fall.  You don't
+  OOOOOOOOOO                lose points if pulsars land, but if you can hit
+    OOOOOO                  one, it has the value of 8 big rocks.  Pulsars
+      OO                    make a beeping sound as they attack.
+      OO
+
+------------------------------------------------------------------------
+
+      OOOOOO
+    OOOO  OOOO
+    OOOO  OOOO    UFO's ... When your score is over 20,000, UFOs occasionally
+      OOOOOO                fly past, dropping bombs on your active base
+      OOOOOO                location.  You get no points for hitting the
+    OOOOOOOOOO              bombs, but each UFO hit is worth 10 large rocks.
+  OOOOOOOOOOOOOO            UFOs make a distinctive sound as they fly across.
+  OO  OO  OO  OO
+  OOOOOOOOOOOOOO
+
+------------------------------------------------------------------------
+
+
+
+IF YOU ARE HIT, WAIT FOR EXPLOSION TO STOP THEN PRESS BUTTON TO CONTINUE.
+
+
+
+
+
+SCORING
+
+
+
+
+
+The number at the lower center of the screen is your current score.  It
+changes when you hit a target, when rocks land, and when you lose a
+base.  Score increases when you hit ...
+
+
+
+
+
+
+Score                Big         Small        Spinner        Pulsar        UFO
+Range                Rock        Rock
+
+------------------------------------------------------------------------
+
+     0- 1,000         10           20            40            80           *
+ 1,000- 5,000         20           40            80           160           *
+ 5,000-20,000         30           60           120           240           *
+20,000-50,000         40           80           160           320          400
+  over 50,000         50          100           200           400          500
+
+Screen background color changes when score goes from one range to another.
+
+Score decreases when ...
+
+                                                              Your Base Is Hit
+Score           Big Rock       Small Rock       Spinner       By Rock, Pulsar 
+Range            Lands           Lands           Lands          Or UFO Bomb
+
+------------------------------------------------------------------------
+
+     0- 1,000       5              10             100               100
+ 1,000- 5,000      10              20             200               200
+ 5,000-20,000      15              30             300               300
+20,000-50,000      20              40             400               400
+  over 50,000      25              50             500               500
+
+SCORE IS NEVER LESS THAN ZERO.
+
+
+
+
+
+
+
+WINNING TIPS
+
+
+
+
+
+
+
+
+•Whenever you have a choice between big and small rocks, shoot at the
+  small ones.
+
+•Don't shoot rocks very close to you - the explosion can blow up your
+  base.
+
+•Remember:  if any spinners land, you lose a base.  Shoot at them as
+  soon as they appear.
+
+•Don't try to run away from pulsars and UFOs.. Get directly underneath
+  them fast - then shoot!
+
+
+
+
+
+
+
+
+
+
+MATTEL ELECTRONICS
+
+
+------------------------------------------------------------------------
+
+This document converted to html by gchance@ecst.csuchico.edu.
+-------------------Atari 2600 Instructions Archive-------------------
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
+
+

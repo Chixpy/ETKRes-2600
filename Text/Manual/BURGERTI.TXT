@@ -1,0 +1,245 @@
+<Picture>
+
+<Picture>Burgertime<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+From dominion@sprintmail.com  Wed Jul 16 12:06:07 1997
+Return-Path: dominion@sprintmail.com
+Received: from mailgate31 (mailgate31-hme0.a001.sprintmail.com [205.137.196.56]) by silence.sponsor.net (8.6.12/8.6.9) with ESMTP id MAA06577 for ; Wed, 16 Jul 1997 12:06:06 -0500
+Received: by mailgate31 (SMI-8.6/SMI-SVR4)
+	id KAA12031; Wed, 16 Jul 1997 10:01:46 -0700
+Received: from sdn-ts-004txhousp07.dialsprint.net(206.133.129.74) by mailfep3-hme1 via smap (KC5.24)
+	id Q_10.1.1.8/Q_10827_1_33ccfbca; Wed Jul 16 09:50:18 1997
+Message-ID: 
+Date: Wed, 16 Jul 1997 11:51:10 -0500
+From: Lawrence Lamb 
+X-Mailer: Mozilla 3.01Gold (Win95; I)
+MIME-Version: 1.0
+To: gchance@sponsor.net
+Subject: Burgertime for Atari 2600 Instructions
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+(front cover)
+
+M-Network Burgertime Instructions  4518-0950
+========================================================================
+(For 1 or 2 Players)
+
+Build beautiful burgers by dropping buns and patties onto a plate. 
+Dodge horrible hot dog.  Defy brawling bread sticks.  Pepper enormous
+eggs and charging cheese.  Score points by squashing those nasties with
+a falling bun.  Build all the burgers and you move on to the next maze. 
+Get too close to a nasty, though, and it's back to Burger School for you
+in short order.
+
+For Your Atari* 2600 Game System
+
+BURGERTIME is a trademark of DATA EAST USA, INC.  Used under license. 
+Copyright 1982 DATA EAST USA, INC.
+
+
+(page 1)
+
+THE GAME
+========================================================================
+You move your chef around the maze in a frantic attempt to build
+hamburgers before the nasties converge on you.  Move across the top of
+the burger ingredients and they will drop a level.  Work all the
+ingredients to the bottom and you'll move on to the next maze.  Score
+points by dropping an ingredient, squashing nasties, or giving them a
+ride down on a falling ingredient.  Dust a nasty with some pepper and
+he'll stop in his tracks.  If a nasty toches him, your chef is cooked. 
+So watch out!  Play alone or challenge a friend.  Highest score wins.
+
+(page 2)
+
+CONTROLLERS
+========================================================================
+Use your LEFT joystick controller to control the direction of your
+chef.  Be sure your controller cable is securely plugged into the back
+of your game console.  Hold the controller so the red PEPPER BUTTON is
+to your UPPER LEFT.  NOTE: Right hand controller is not used in this
+game.
+
+DIFFICULTY SWITCHES
+========================================================================
+LEVEL OF DIFFICULTY DOES NOT CHANGE.  The switch on the RIGHT (neaer the
+right controller cable) determines the number of players.  Switch
+position A is for two players.  Switch position B is for one player.  IN
+SWITCH POSITION A, THE TWO PLAYERS TAKE TURNS USING THE LEFT
+CONTROLLER.  When on eplayer loses his chef, the other player takes over
+the controller.
+
+The switch on the LEFT may be used to FREEZE THE ACTION by sliding it in
+to position A.  Position B returns the game to the action from the point
+at which you stopped it.
+------------------------------------------------------------------------
+Roll up your sleeves...Put on your hat...Grab some pepper...and fire up
+your grill!
+
+(page 3)
+
+ACTION!
+========================================================================
+TO START THE GAME, PRESS THE RESET SWITCH.  BE READY BECAUSE THE GAME
+STARTS RIGHT AWAY.
+
+THE CHEF  You control the chef, PETER PEPPER. (tm)  Move him up ladders
+and across planks using the joystick.  Move your chef completely across
+a bun or other ingredient and it drops one level.  You rack up 50
+points.
+
+You start with 5 chefs, but only one can be used at a time.  For every
+10,000 points scored, you get an extra chef.
+
+NASTIES AND MAZES  Hot dogs, eggs, breadsticks, and cheese chase your
+chef wherever he goes in the maze.  If they catch him, the round is
+over.  All the nasties get quicker as you go along.
+
+There are five mazes constructed of ladders and planks.  When you
+successfully build all the hamburgerse in one maze, you move on to the
+next maze.  When all five mazes have been completed, you start over with
+the first maze.
+
+(page 4)
+
+FOR MORE POINTS DROP the ingredients ON TOP of the nasties.  You will
+get 200 points for each hot dog or bread stick that you squash.  A
+squashed egg or hunk of cheese is worth 100 points.
+
+FOR EVEN MORE POINTS, tempt the nasties out onto a bun and then drop in
+nby stepping off.  The bun will drop TWO levels.  You score 500 points
+for each nasty you srop.  After a  few seconds, dropped or squashed
+nasties return from the side of the screen.
+
+AND A PINCH OF PEPPER Pepper may be used to temporarily stun nasties if
+you are trapped.  This tactic allows you to move ou of corners
+unharmed.  You can only throw pepper IN FRONT OF YOU.  MAKE SURE THE
+CHEF IS FACING THE NASTY YOU WANT TO PEPPER BY USING THE JOYSTICK FIRST.
+
+You start with 5 pinches of pepper, which are displayed under and to the
+left of the score.  (See Diagram.)  You can earn extra pinches of pepper
+by gobbling French fries, ice cream, or coffee.  You get 500 points and
+a pinch of pepper for each item gobbled.
+
+THE CHEF WILL ALWAYS STOP WHILE HE THROWS THE PEPPER.  You can move him
+as soon as he is finished peppering the nasty.
+
+SCORE DISPLAY:  The running score is tallied in the top center portion
+of the screen.  But, anytime you SQUASH a nasty or give on a ride down,
+the point value will be displayed briefly instead of the score.
+
+                                SCORE
+                                002850
+                                06  04
+                            NUMBER  NUMBER
+                        OF PEPPERS  OF CHEFS
+
+
+(page 5)
+
+For two player games, only the score of the player currently controlling
+the chefis displayed.  At the end of the game, the display alternated
+showing each score and designates whether it belongs to player #1 (pink)
+or player #2 (blue).
+
+The MAXIMUM SCORE for M Network BURGERTIME is 999,950.  If you can get
+close, you are a certified burger-maniac.
+
+SCORING
+========================================================================
+------------------------------------------------------------------------
+   SCORE				ACTION
+------------------------------------------------------------------------
+50 POINTS	KNOCKING A HAMBURGER PART FROM A HORIZONTAL PLANK
+------------------------------------------------------------------------
+100 POINTS	SQUASHING AN EGG OR CHEESE WITH A FALLING HAMBURGER PART
+------------------------------------------------------------------------
+200 POINTS	SQUASHING A HOT DOG OR BREAD STICK WITH A FALLING
+		HAMBURGER PART
+------------------------------------------------------------------------
+500 POINTS	FOR EACH NASTY WHO TAKES A RIDE ON A FALLING
+		HAMBURGER PART
+------------------------------------------------------------------------
+500 POINTS	GOBBLING ONE OF THE "PINCH OF PEPPER" PRIZES
+		(ICE CREAM, FRENCH FRIES, OR COFFEE)
+------------------------------------------------------------------------
+
+(page 6)
+
+WINNING TIPS
+=========================================================================
+SAVE PEPPER for the times you need it most.  Don't waste it on nasties
+that are easily avoided.
+
+Try to get the HIGHEST point value for EACH hamburger part that you
+drop.  Try SQUASHING a nasty!  Better yet give him a fast ride down on a
+falling bun!
+
+REMEMBER, your chef STOPS while he peppers a nasty.  Don't get blind
+sided by a marauding bread stick while you're busy peppering a hot dog.
+
+Keep away from the corners after squashing a nasty or giving him a
+ride.  The same nasty could return in that corner and could run right
+smack into your chef.
+
+(back cover)
+
+90 DAY LIMITED WARRANTY
+=========================================================================
+Mattel Electronics warrants to the original consumer purchaser of any
+cartridge or cassette it manufactures that the product will be free of
+defects in material or workmanship for 90 days from the date of
+purchase.  If defective, return the product along with proof of the
+date-of-purchase to wither your local dealer or, postage paid, to:
+
+Mattel Electronics Service Center (West)
+5000 West 147th Street
+Hawthorne, California  90250
+
+Mattel Electronics Service Center (East)
+10 Abeel Road
+Cranbury, New Jersey  08512
+
+for repair or replacement.  This warranty gives you specific rights, and
+you may also have other rights which vary from state to state.  This
+warranty does not cover damage resulting from accident, misuse, or
+abuse.
+-------------------------------------------------------------------------
+
+MATTEL ELECTROINCS
+
+
+*ATARI is a trademark of Atari, Inc.
+Copyright Mattel, inc. 1983.  Hawthorne, CA  90250  PRINTED IN USA.  All
+Rights Reserved.
+
+ENTERED by Lawrence Lamb
+dominion@sprintmail.com
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+

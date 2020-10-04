@@ -1,0 +1,214 @@
+<Picture>
+
+<Picture>Dragonfire<Picture>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+DRAGONFIRE
+
+by Imagic
+c 1982
+
+Game Program designed by Bob Smith
+
+
+Dragons have driven the Royal Court from the Castle
+
+"O we are lost, lost" laments the King.  "Without our vast treasures we 
+cannot raise an army 'gainst these accursed dragons.  Our Kingdom must 
+now languish under lizards!"
+
+"Nay, not so, my liege!" replied the young Prince.  "None knows that Castle,
+those many bridges and storerooms, better than I.  Give me leave and I 
+shall loot those lizards of their plunder and restore my lord to his 
+birthright."
+
+"Brave boy," said the King, fully pleased.  "But," he added darkly, 
+"beware dread dragonfire!"
+
+
+
+GAME OBJECTIVE
+--------------
+
+To reach the King's treasure's, the Prince runs across the bridge.  He 
+must dodge fireballs tossed by Dragon Hatchlings.  He nimbly ducks under 
+the high ones and leaps over the low ones.  Fortunately, the fireballs 
+can't hurt the Prince if he runs back into the tower at the right end of 
+the bridge.
+
+When the Prince reaches the left side of the bridge, he arrives in the 
+storeroom.  He's inside a hiding place he can return to any time.  The 
+storeroom is filled with beautiful objects--and a fierce dragon whose 
+very breath can cost the Prince one of his seven precious chances!
+
+When the Dragon looks the other way, the Prince runs to each object and 
+retrieves it for the King.  And when he has bravely cleared out the room 
+of its treasures, a way of escape appears.  He runs to it and reappears 
+on the bridge, ready for another daring raid.
+
+Help the Prince get as many treasures as possible, before he's hit by 
+fireballs or Dragonfire seven times!
+
+[Image of the castle bridge.  The Prince is the guy you control.  The 
+fireballs are red and come from the left side of the screen.  The score 
+is the number at the bottom center of the screen.  The remaining chances 
+are the little men bellow the score.]
+
+
+
+GAME PLAY
+---------
+
+~ First, run to the treasure room at the left end of the bridge.
+  ~ To move the Prince right, toward safety, push joystick right.
+  ~ To move the Prince left, toward danger and the treasures, push 
+    joystick left.
+
+[Image of the Prince running]
+
+~ Watch out for dragons' fireballs!  They're thrown high and low.
+  ~ If the Prince is hit by a fireball, he loses one chance.
+  ~ To duck, pull joystick toward you.
+
+[Image of the Prince ducking to miss a fireball]
+
+  ~ To jump, press the red button.
+  ~ The Prince leaps farther when he's running toward the fireballs, not just
+    standing still.
+  ~ The Prince can jump while he's ducking, to avoid fireballs that come 
+    close together.
+  ~ To jump while squatting, pull joystick toward you and press button at the
+    same time.
+
+[Image of the Prince jumping over a fireball]
+
+~ Cross the bridge safely and you will reach the treasure room.
+~ Push joystick left to leave the hiding place.
+  ~ The Prince can return to his hiding place for safety whenever he's in the
+    room.
+~ Move the Prince to every object in the room--but watch out for the Dragon!
+~ When the last object has been taken, the exit appears at the upper left 
+  screen.  Move the Prince to the exit, and escape.
+~ After escaping, you reappear on the bridge.  Get ready for another raid and
+  another Dragon.  The treasures may be more valuable each time, but beware:
+
+[Image of the treasure room.  The dragon is the monster at the bottom of the
+screen.  The hiding place (entrance) is at the bottom right corner of the 
+screen.  The exit location (when room is cleared) is at the upper left 
+corner of the screen.]
+
+
+
+EVERY DRAGON YOU MEET IS HARDER TO BEAT!
+----------------------------------------
+
+~ The game is over when the Prince has been hit seven times by fireballs 
+  on the bridge or by Dragonfire in the treasure room.
+~ Your final score flashes on the screen.
+~ To play again at the same level, just press the red button.
+~ To change game variation or number of players, pull Game Reset switch, then
+  press the button.
+
+
+
+SCORING
+-------
+
+Jug          10 pts  [Image of a clay jug]     
+Lamp         10 pts  [Image of a genie lamp]
+Goblet       10 pts  [Image of a wine glass]
+Helmet       60 pts  [Image of a "viking" helmet]
+Candelabra   60 pts  [Image of a four candle, candle holder]
+Chest       200 pts  [Image of what looks like a house]
+Harp        200 pts  [Image of a harp]
+Diamond     400 pts  [Image of a diamond]
+Crown       400 pts  [Image of a crown]
+
+
+
+GAME VARIATIONS
+---------------
+
+Pull Game Select Switch to set variation:
+
+ _______________________________________________________________________
+|             |             |                                           |
+|  Selection  |  Number of  |  You Start With. . .                      |
+|  Displayed  |   Players   |                                           |
+|_____________|_____________|___________________________________________|
+|             |             |                                           |
+|   1     1   |      1      |  DRAGON #1 (green and mean, but slow)     |
+|   1     2   |      2      |                                           |
+|_____________|_____________|___________________________________________|
+|             |             |                                           |
+|   2     1   |      1      |  DRAGON #3 (blue, and getting smarter)    |
+|   2     2   |      2      |                                           |
+|_____________|_____________|___________________________________________|
+|             |             |                                           |
+|   3     1   |      1      |  DRAGON #5 (red, and very mad)            |
+|   3     2   |      2      |                                           |
+|_____________|_____________|___________________________________________|
+|             |             |                                           |
+|   4     1   |      1      |  DRAGON #7 (orange, smart, mad and fast)  |
+|   4     2   |      2      |                                           |
+|_____________|_____________|___________________________________________|
+
+~ 1 Player games:  Take as many objects as you can until your 7 lives are 
+  lost.
+~ 2 Player games:  Opponents use different joystick controllers and take
+  alternate turns.  Each player's turn continues until his prince clears 
+  out the treasure room and escapes.
+  ~ Players will find different treasures, but the same Dragon.
+  ~ Left player takes the first turn.
+  ~ Left player's score is black; the right player's is red.
+  ~ Scores flash alternately at the end of the game, when players have 
+    each used all 7 chances.
+
+
+
+TACTICAL TIPS
+-------------
+
+~ Don't spend any more time on the bridge than you have to.  Cross it as 
+  fast as you can and you'll encounter fewer fireballs.
+~ If you face an impossible combination of fireballs on the bridge, run 
+  back to the right tower if you can make it in time...you're safe 
+  there.  Or make the Prince squeeze through close-trailing fireballs by 
+  jumping from a crouch (pull joystick and press button at the same time).
+~ In the treasure room, run fast to the objects.  KEEP MOVING!  Return to the
+  hiding place if you need a rest, because the Dragon never stops hunting.
+
+
+
+And of course, this game was made by IMAGIC in 1982.  This game manual 
+was typed in by me!  Who am I?  I am Eddie Beiles.  I can be reached at
+beiles@lambada.oit.unc.edu if you have any questions about this game 
+manual.  Or you can email me ant thank me for typing it in.  Anyway, 
+enjoy the game and this wonderfully typed in manual.         3/25/95
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997 by Greg Chance
+
+
+
+
