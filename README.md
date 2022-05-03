@@ -3,8 +3,7 @@ Resources for Emuteca: Atari 2600
 
 Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chixpy/Emuteca).
 
-Download
---------
+## Download
 
 Use GIT to clone the repository or download it in zip:
 
@@ -16,7 +15,7 @@ https://github.com/Chixpy/ETKRes-2600/archive/master.zip
 
 Rule #1: No filters to screenshots.
 
-All images in .png format at original resolution... it's complex to explain as is analog output, the most common resolution without blank lines will be 160x192.
+All images in .png format at original resolution... it's complex to explain as it is an analog output racing the beam, the most common resolution without blank lines will be 160x192.
 
 ### Front, Back, Spine, Manual, Media, Maps, Reviews, Ads, Other
 
@@ -39,7 +38,7 @@ For Magazine texts:
 For Maps (or magazine game guides):
 
   * If it's a magazine game guide: Same as Magazine texts.
-  * If it's a digital map (made of screenshot or similar): Better .png and keep as is (do not remove author, or other info; and if it's bigger than 2048px too)
+  * If it's a digital map (made with screenshots or similar): Better in .png format and keep as is (do not remove author, or other info; and if it's bigger than 2048px keep the size too).
 
 ### Icons, Logos
 
