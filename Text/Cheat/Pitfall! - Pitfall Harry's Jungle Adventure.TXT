@@ -1,66 +1,55 @@
-                    * * * PITFALL MAP/SOLUTION * * *
-                            by Thomas Clancy
- 1          1
- 6          5 1 2   1     3       2   34                LEGEND:
- #%-A%S*---A<%>F>--A<-A%-A>-S*---A<-A%<>%-*F*-F*--*F    # Starting Point
- <             %                                        < Tunnel Left
-                                                        > Tunnel Right
-                                                        % Dead End Tunnel
-            45                       5  6 7      6      - No Snake/Tunnel
- *--A%F*--A%SSSF--F*-S*F---*S*---*-A%<-A>F>-F*--ASSF      Fire/Alligators
-            <>                           %       <%     A Alligators
-                                                        S Snake
-                                                        F Camp Fire
-               7                8      9          9     * Treasure
- ---AF---A%--A%<F*--*-A%-A%%-*-A>-*-*-AF--S*--F*-ASF
-     %                                 >          <     The numbers show
-                                                        which tunnels
-                          1     11                 1    connect.
-                          0    801                 1     ie: 1 to 1
- --S*SSF---*-A%--A%--*-*-AF%--A<<SF---*-*-*S*SF---AS        15 to 15
-                          >      >%                <          etc;
- 
-     1              1 1        1        11   11    1
-     2              2 3        3        45   64    6
- -*-A>%%-ASSSSSF---A<%>S*F---AF<--*-A%%%>>%-ASF---A#
-          %                   %              ><
- 
- There are 254 screens which "wrap" together. ie: Going in either
- direction will eventually return you to start. Simply read the map from
- left to right and descend when you reach the end of a line [remember to
- read the new line left to right]. If you chose to go left when starting
- out simply reverse this, start at the bottom of the map and read from
- right to left and ascend when you reach the end of a line, then simply
- continue reading from the right to the left for each line. One is not
- limited to traveling in only one direction, as a matter of fact one can
- solve the game quicker by traveling in both directions.
- 
- There are 4 different treasures types with eight of each to be found for
- a total of 32.
- 
- Bag of Money $2000     I have a more detailed map [ie: that tells me 
- Silver Bar   $3000     exactly how many scorpions there are per tunnel]
- Gold Bar     $4000     but it would be impossible to reduce to ASCII
- Diamond Ring $5000     form without cluttering everything up and
-                        creating mass confusion for all. 8-)
- 
- This map is based on the ATARI 2600 version and I suspect it is valid
- across all gaming systems.
- 
- Questions or comments to: thom@docboy.cs.mun.ca
-                           thom@garfield.cs.mun.ca
-                           thom@morgan.ucs.mun.ca
- 
- Hell, stick a stamp on    Thomas Clancy
- an old cartridge and      1 Hunt's Lane
- send it to someone that   St. John's NF, Canada
- will use it - me! 8-)     A1B 2L2
- 
- This file is copyright 1993 and is freely distributable. If you publish
- any portion please include the author's name. 
- 
- PITFALL is copyright of Activision, ATARI 2600 Copyright Atari Inc.
+PITFALL MAP/SOLUTION
+====================
 
+->by Thomas Clancy
 
+    1          1
+    6          5 1 2   1     3       2   34                LEGEND:
+    #%-A%S*---A<%>F>--A<-A%-A>-S*---A<-A%<>%-*F*-F*--*F    # Starting Point
+    <             %                                        < Tunnel Left
+                                                           > Tunnel Right
+                                                           % Dead End Tunnel
+               45                       5  6 7      6      - No Snake/Tunnel
+    *--A%F*--A%SSSF--F*-S*F---*S*---*-A%<-A>F>-F*--ASSF      Fire/Alligators
+               <>                           %       <%     A Alligators
+                                                           S Snake
+                                                           F Camp Fire
+                  7                8      9          9     * Treasure
+    ---AF---A%--A%<F*--*-A%-A%%-*-A>-*-*-AF--S*--F*-ASF
+        %                                 >          <     The numbers show
+                                                           which tunnels
+                             1     11                 1    connect.
+                             0    801                 1     ie: 1 to 1
+    --S*SSF---*-A%--A%--*-*-AF%--A<<SF---*-*-*S*SF---AS        15 to 15
+                             >      >%                <          etc;
+    
+        1              1 1        1        11   11    1
+        2              2 3        3        45   64    6
+    -*-A>%%-ASSSSSF---A<%>S*F---AF<--*-A%%%>>%-ASF---A#
+             %                   %              ><
+ 
+There are 254 screens which "wrap" together. ie: Going in either direction will eventually return you to start. Simply read the map from left to right and descend when you reach the end of a line [remember to read the new line left to right]. If you chose to go left when starting out simply reverse this, start at the bottom of the map and read from right to left and ascend when you reach the end of a line, then simply continue reading from the right to the left for each line. One is not limited to traveling in only one direction, as a matter of fact one can solve the game quicker by traveling in both directions.
+ 
+There are 4 different treasures types with eight of each to be found for a total of 32.
+ 
+  * Bag of Money $2000
+  * Silver Bar   $3000 
+  * Gold Bar     $4000
+  * Diamond Ring $5000     
+                        
+I have a more detailed map [ie: that tells me exactly how many scorpions there are per tunnel] but it would be impossible to reduce to ASCII form without cluttering everything up and creating mass confusion for all. 8-)
+ 
+This map is based on the ATARI 2600 version and I suspect it is valid across all gaming systems.
+ 
+Questions or comments to: thom@docboy.cs.mun.ca , thom@garfield.cs.mun.ca , thom@morgan.ucs.mun.ca
 
--------------------Atari 2600 Instructions Archive-------------------
+Hell, stick a stamp on an old cartridge and send it to someone that will use it - me! 8-) 
+
+Thomas Clancy<br/>
+1 Hunt's Lane<br/>
+St. John's NF, Canada<br/>
+A1B 2L2
+
+This file is copyright 1993 and is freely distributable. If you publish any portion please include the author's name. 
+
+PITFALL is copyright of Activision, ATARI 2600 Copyright Atari Inc.
